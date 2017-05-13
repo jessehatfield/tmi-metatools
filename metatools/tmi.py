@@ -10,6 +10,7 @@ from metatools.table import Table,Field
 from metatools.dbmeta import DBMeta
 from metatools.reports import *
 from metatools.skill import *
+from insert import *
 
 # Wrapper functions to access the reports in reports.py via the command line.
 # Each of these wrapper functions takes the following arguments:
@@ -194,6 +195,23 @@ def getHistoryWrapper(args, decktypes, groups, recentMeta, historicalMeta, tourn
             players,
             args.get('top_only', 0))
 
+def insertWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
+    return insertTournament(
+            args['deckfile'],
+            args['matchfile'],
+            args['name'],
+            args['format'],
+            args['year'],
+            args['month'],
+            args['day'],
+            args['city'],
+            args['state'],
+            args['country'],
+            args['source'],
+            args['game_counts'],
+            args['dry_run'])
+
+
 #------------------
 
 def buildMeta(
@@ -345,7 +363,7 @@ class MultiListAction(argparse.Action):
         return namespace
 
 # Command line interface.
-if __name__ == '__main__':
+def main():
     p = argparse.ArgumentParser(description=\
             """Summarizes results from recent SCG Opens and other
             tournaments.""")
@@ -402,7 +420,8 @@ if __name__ == '__main__':
             this round of each tournament. Archetype selection still uses \
             whole tournaments, but earlier rounds are ignored.")
 
-    subp = p.add_subparsers(title='commands', help='Type of data to report.')
+    subp = p.add_subparsers(title='commands', help='Type of data to report. Required.',
+            dest='option_name')
 
     breakdownp = subp.add_parser('breakdown', help='Show a breakdown for one or more tournaments.')
     breakdownp.add_argument('outputs', nargs='*', type=str, default=['field', 'n',
@@ -529,30 +548,60 @@ if __name__ == '__main__':
             Also report performance with other decks.')
     skillp.set_defaults(func=skillWrapper)
 
+    insertp = subp.add_parser('insert', help='Insert a tournament from CSV files.')
+    insertp.add_argument("deckfile", type=str)
+    insertp.add_argument("matchfile", type=str)
+    insertp.add_argument("name", type=str)
+    insertp.add_argument("month", type=int)
+    insertp.add_argument("day", type=int)
+    insertp.add_argument("year", type=int)
+    insertp.add_argument("city", type=str)
+    insertp.add_argument("-s", "--state", type=str, default=None)
+    insertp.add_argument("-c", "--country", type=str, default=None)
+    insertp.add_argument("-f", "--format", type=str, default="Legacy")
+    insertp.add_argument("-g", "--game_counts", action="store_true",
+            help="Results are broken down by game count; expects one column " +
+                    "each for win/loss/draw. Otherwise, expects a result " +
+                    "with strings such as 'Won 2-1'.")
+    insertp.add_argument("-o", "--source", type=str, default="?",
+            help="String representing the source of the data, often the " +
+            "organizer.")
+    insertp.add_argument("-d", "--dry_run", action="store_true",
+            help="Perform a dry run: parse the data, but don't commit " +
+                "anything to the database")
+    insertp.set_defaults(func=insertWrapper)
+
     # Still to implement:
     # test main options -s, -r
     # work on skill functions
     # commands grid, history
 
     args = p.parse_args()
+    if args.option_name is None:
+        p.print_help();
+        sys.exit(1)
 
     # Build the metagame descriptions.
     data = buildMeta(**vars(args))
 
-    # Call the appropriate function to generate the output.
+    # Call the appropriate function to generate the output (or process input).
     table = args.func(*data)
 
-    # Now, figure out how to output the data.
-    if args.output == 'tab':
-        table.printDelim('\t')
-    elif args.output == 'csv':
-        table.printDelim(',')
-    elif args.output == 'latex':
-        table.printLatex()
-    elif args.output == 'pickle':
-        print(pickle.dumps(table))
-    else:
-        if args.limit:
-            table.printTable(limit=args.limit)
+    # If data was generated, figure out how to output the data.
+    if (table):
+        if args.output == 'tab':
+            table.printDelim('\t')
+        elif args.output == 'csv':
+            table.printDelim(',')
+        elif args.output == 'latex':
+            table.printLatex()
+        elif args.output == 'pickle':
+            print(pickle.dumps(table))
         else:
-            table.printTable()
+            if args.limit:
+                table.printTable(limit=args.limit)
+            else:
+                table.printTable()
+
+if __name__ == '__main__':
+    main()
