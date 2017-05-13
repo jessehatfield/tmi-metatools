@@ -11,7 +11,7 @@ from operator import itemgetter
 # Helper functions
 
 def getStats(tournaments, context, outputs=[], top=[],
-        percentTop=[], penetration=[], players=[]):
+        percentTop=[], penetration=[], conversion=[], players=[]):
     """Return a list of statistics to report about a deck type (or group
     of decks).
     
@@ -22,6 +22,7 @@ def getStats(tournaments, context, outputs=[], top=[],
     top: List of numbers: include stats of the form "# of Top X"
     percentTop: List of numbers: include stats of the form "% of Top X"
     penetration: List of numbers: include stats of the form "% which made Top X"
+    conversion: List of numbers: include stats of the form "% with at least X wins"
     players: Player names -- restrict the field to these players
 
     Each element of the returned list is a tuple of (key, (function,
@@ -77,6 +78,9 @@ def getStats(tournaments, context, outputs=[], top=[],
     for n in penetration:
         key = 't{0}pen'.format(n)
         stats.append((key, getTopPenetration(n, tournaments=tournaments)))
+    for n in conversion:
+        key = 'wins>={0}'.format(n)
+        stats.append((key, getPercentWinning(n, tournaments=tournaments)))
     return stats
 
 def getTourneyStats(outputs=[], card_count=[], containing=[], p_card=[],
@@ -233,7 +237,8 @@ def getList(decktypes, groups={}):
     return table
 
 def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
-        penetration=[], decktypes=[], groups={}, players=[], sub=False):
+        penetration=[], conversion=[], decktypes=[], groups={}, players=[],
+        sub=False):
     """
     tournaments: The list of Tournaments for which to generate a breakdown
     context: historical metagame, used for matchup data
@@ -242,7 +247,7 @@ def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
     top: List of numbers: include stats of the form "# of Top X"
     percentTop: List of numbers: include stats of the form "% of Top X"
     penetration: List of numbers: include stats of the form "% which made Top X"
-
+    conversion: List of numbers: include stats of the form "% with at least X wins"
     decktypes: list of strings representing archetype names
     groups: dictionary where each key is a name and each value is a list
             of decks to group together
@@ -257,6 +262,7 @@ def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
     groupnames = list(groups.keys())
     stats = getStats(tournaments, context, outputs=outputs, top=top,
             percentTop=percentTop, penetration=penetration,
+            conversion=conversion,
             players=players)
 
     # Gather all relevant Deck objects:
@@ -355,7 +361,7 @@ def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
     return table
 
 def getTrend(decktypes, tournies, context, outputs=[], top=[],
-        percentTop=[], penetration=[], players=[], groupBy=None,
+        percentTop=[], penetration=[], conversion=[], players=[], groupBy=None,
         begin=None, end=None, tstats=[], groups={}, onlyTopX=0, window=1):
     """
     decktypes: list of strings representing archetype names
@@ -366,6 +372,7 @@ def getTrend(decktypes, tournies, context, outputs=[], top=[],
     top: List of numbers: include stats of the form "# of Top X"
     percentTop: List of numbers: include stats of the form "% of Top X"
     penetration: List of numbers: include stats of the form "% which made Top X"
+    conversion: List of numbers: include stats of the form "% with at least X wins"
     players: Player names -- restrict the field to these players
     groupBy: "week", "month", or None. Defaults to None -- treat
              tournaments individually.
@@ -379,7 +386,7 @@ def getTrend(decktypes, tournies, context, outputs=[], top=[],
             treat them individually.
     """
     stats = getStats(tournies, context, outputs, top, percentTop,
-            penetration, players)
+            penetration, conversion, players)
     def buildName(deckname, statname):
         if len(decktypes) > 1:
             if len(stats) > 1:
@@ -443,7 +450,7 @@ def getTrend(decktypes, tournies, context, outputs=[], top=[],
         # Feed the stat functions the current tournament.
 
         stats = getStats(tgroups[i], context, outputs, top,
-                percentTop, penetration, players)
+                percentTop, penetration, conversion, players)
         alldecks = set()
         for t in tgroups[i]:
             alldecks |= set(t.decks)
@@ -795,7 +802,7 @@ def explain(deckname, meta, historicalMeta, order):
     return table
 
 def getHistory(tournaments, context, outputs=[], top=[], percentTop=[],
-        penetration=[], decktypes=[], players=[], topX=0):
+        penetration=[], conversion=[], decktypes=[], players=[], topX=0):
     """Return a table of individual tournament appearances. Include player name,
     deck name, tournament information, and specified performance metrics.
     tournaments: List of tournaments to look at
@@ -807,11 +814,13 @@ def getHistory(tournaments, context, outputs=[], top=[], percentTop=[],
     top: List of numbers: include stats of the form "# of Top X"
     percentTop: List of numbers: include stats of the form "% of Top X"
     penetration: List of numbers: include stats of the form "% which made Top X"
+    conversion: List of numbers: include stats of the form "% with at least X wins"
     decktypes: list of strings representing archetype names
     players: Player names -- restrict the field to these players
     topX: single number; only report finishis within the top X"""
     astats = getStats(tournaments, context, outputs=outputs, top=top,
             percentTop=percentTop, penetration=penetration,
+            conversion=conversion,
             players=players)
     # Get the full list of appearances/finishes, and calculate any stats we need
     data = {}

@@ -95,7 +95,11 @@ rawMatches = schema.Table('Matches', metadata,
         schema.Column('TABLE_NUM', types.Integer))
 
 class DBDeck(Deck):
-    pass
+    def getMatches(self):
+        if len(self.matches) > 0:
+            return self.matches
+        else:
+            return self.rmatches + [ m.reverse() for m in self.rmatchesReverse ]
 class DBTournament(Tournament):
     pass
 class DBMatch(Match):

@@ -26,3 +26,7 @@ class Match(object):
     def __repr__(self):
         return '<Match({0} {1}-{2}-{3} vs. {4})>'.format(self.deck1.archetype,
             self.game_win, self.game_loss, self.game_draw, self.deck2.archetype)
+
+    def reverse(self):
+        return Match(self.deck2, self.deck1, self.game_loss, self.game_win,
+                self.game_draw, self.round)

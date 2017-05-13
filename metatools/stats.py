@@ -58,13 +58,13 @@ def getMWP(interval=None, exclude_mirrors=False, known=False):
     if known:
         name = '{0} vs. Known'.format(name)
     def matchwin(decks):
-        matches = [ m for d in decks for m in d.matches ]
+        matches = [ m for d in decks for m in d.getMatches() ]
         if exclude_mirrors:
-            matches = [ m for d in decks for m in d.matches if m.deck2 not in decks ]
+            matches = [ m for d in decks for m in d.getMatches() if m.deck2 not in decks ]
         if known:
             matches = [ m for m in matches if m.deck2.archetype != 'Unknown' ]
         if interval:
-            records = [ (mwp(d.matches), d) for d in decks if d.matches ]
+            records = [ (mwp(d.getMatches()), d) for d in decks if d.getMatches() ]
             records.sort()
             minMWP = int(interval[0] * len(records))
             maxMWP = int(interval[1] * len(records))
@@ -86,9 +86,9 @@ def getRecord(i=None, known=False):
     if i is not None:
         name = ('Wins', 'Losses', 'Draws')[i]
     def matchrecord(decks):
-        matches = [ m for d in decks for m in d.matches ]
+        matches = [ m for d in decks for m in d.getMatches() ]
         if known:
-            matches = [ m for d in decks for m in d.matches if m.deck2.archetype != 'Unknown' ]
+            matches = [ m for d in decks for m in d.getMatches() if m.deck2.archetype != 'Unknown' ]
         r = record(matches)
         if i is None:
             return r
@@ -104,7 +104,7 @@ def getMatchTotal(exclude_mirrors=False, known=False):
         total = 0
         if exclude_mirrors:
             for d in decks:
-                for m in d.matches:
+                for m in d.getMatches():
                     if m.deck2 not in decks:
                         total += 1
         else:
@@ -239,6 +239,23 @@ def getTopPenetration(n, tournaments=None):
         return float(countTop(decks)) / len(decks)
     name = 'Top {0} Pen.'.format(n)
     return (penetration_func, name, 'percent')
+
+def getPercentWinning(n, tournaments=None):
+    """Get the percentage of these decks which won at least a number of matches.
+    n: Match win count threshold -- for example, if n=6 in an eight-round
+        tournament, 2 of 20 decks had record 6-2, and one had 7-1, then return
+        0.15.
+    """
+    def threshold_func(decks):
+        if len(decks) == 0:
+            return float('NaN')
+        count = 0
+        for deck in decks:
+            if deck.getMatches() and record(deck.getMatches())[0] >= n:
+                count += 1
+        return float(count) / len(decks)
+    name = 'Match Wins >= {0}'.format(n)
+    return (threshold_func, name, 'percent')
 
 def getDate(decks):
     """Get the date of the earliest tournament involved.""" 

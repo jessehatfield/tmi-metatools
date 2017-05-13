@@ -122,6 +122,9 @@ class Deck(object):
         self.sideboard = {}
         self.library = []
 
+    def getMatches(self):
+        return matches
+
     def loadContents(self):
         """Go to the database and, if we have the decklist, load it."""
         for slot in self.slots:

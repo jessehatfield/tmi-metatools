@@ -53,7 +53,8 @@ def getBreakdownWrapper(args, decktypes, groups, recentMeta, historicalMeta, tou
             args.get('outputs', ['field', 'n', 'avgplace', 'win', 'loss',
                 'draw', 'mwp', 'ev']),
             args.get('top', []), args.get('percentTop', []),
-            args.get('penetration', []), decktypes, groups, players,
+            args.get('penetration', []), args.get('conversion', []),
+            decktypes, groups, players,
             args.get('sub', False))
 
 def getTrendWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
@@ -73,7 +74,7 @@ def getTrendWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournie
     elif 'group_by_week' in args and args['group_by_week']:
         groupBy = "week"
     for required in ['outputs', 'card_count', 'containing', 'p_card',
-            'p_containing', 'top', 'percentTop', 'penetration']:
+            'p_containing', 'top', 'percentTop', 'penetration', 'conversion']:
         if required not in args:
             args[required] = []
     tstats = getTourneyStats(args['outputs'], args['card_count'],
@@ -83,10 +84,10 @@ def getTrendWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournie
         tournies = [ t for t in tournies if getCardCounts(t.decks) ]
     return getTrend(decktypes, tournies, historicalMeta,
             args['outputs'], args['top'], args['percentTop'],
-            args['penetration'],
-            players, groupBy, args['begin'], args['end'],
-            tstats, groups=groups, onlyTopX=args['restrict_top'],
-            window=args['window'])
+            penetration=args['penetration'], conversion=args['conversion'],
+            players=players, groupBy=groupBy, begin=args['begin'],
+            end=args['end'], tstats=tstats, groups=groups,
+            onlyTopX=args['restrict_top'], window=args['window'])
 
 def getDiversityWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
     """
@@ -191,6 +192,7 @@ def getHistoryWrapper(args, decktypes, groups, recentMeta, historicalMeta, tourn
                 'ev']),
             args.get('top', []), args.get('percentTop', []),
             args.get('penetration', []),
+            args.get('conversion', []),
             decktypes,
             players,
             args.get('top_only', 0))
@@ -433,6 +435,8 @@ def main():
             of statistics of the form "%% of the Top X."')
     breakdownp.add_argument('-P', '--penetration', nargs='+', type=int, default=[], help='Add any number\
             of statistics of the form "%% of decks making Top X."')
+    breakdownp.add_argument('-v', '--conversion', nargs='+', type=float, default=[], help='Add any number\
+            of statistics of the form "%% of decks with at least X wins."')
     breakdownp.add_argument('-t', '--top', nargs='+', type=int, default=[], help='Add any number\
             of statistics of the form "# of Top X placings."')
     breakdownp.add_argument('-T', '--tournaments', nargs='+', type=int, default=[1], help='\
@@ -523,6 +527,8 @@ def main():
             of statistics of the form "%% of the Top X."')
     trendp.add_argument('-P', '--penetration', nargs='+', type=int, default=[], help='Add any number\
             of statistics of the form "%% of decks making Top X."')
+    trendp.add_argument('-v', '--conversion', nargs='+', type=float, default=[], help='Add any number\
+            of statistics of the form "%% of decks with at least X wins."')
     trendp.add_argument('-s', '--skip', action='store_true', default=False, help='Skip\
             tournaments for which we have zero card data.')
     trendp.add_argument('-t', '--top', nargs='+', type=int, default=[], help='Add any number\
