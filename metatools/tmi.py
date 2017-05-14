@@ -10,7 +10,7 @@ from metatools.table import Table,Field
 from metatools.dbmeta import DBMeta
 from metatools.reports import *
 from metatools.skill import *
-from insert import *
+from metatools.insert import *
 
 # Wrapper functions to access the reports in reports.py via the command line.
 # Each of these wrapper functions takes the following arguments:
@@ -223,7 +223,7 @@ def buildMeta(
         appearances=1,
         player_file=None,
         format='Legacy',
-        source='SCG',
+        source=None,
         exclude_unselected=False,
         exclude=[],
         include=[],

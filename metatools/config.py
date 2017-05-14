@@ -9,6 +9,7 @@ if not config.has_option("database", "connection"):
 
 def defaultEnd():
     if config.has_option("defaults", "end-date"):
-        return config["defaults"]["end-date"]
-    else:
-        return None
+        end_date = config["defaults"]["end-date"]
+        if end_date != 'None' and end_date != '':
+            return end_date
+    return None

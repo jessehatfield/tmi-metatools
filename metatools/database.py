@@ -301,9 +301,37 @@ def slotQuery(decks=None, dids=[], dquery=None):
     return query.filter(DBDeck.id.in_(dids))
 
 def matchQuery(tquery=None, d1query=None, d2query=None,
-        tournaments=None, decks1=None, decks2=None, aggregate=[]):
+        tournaments=None, decks1=None, decks2=None):
     """Build a query for matches.
     
+    tquery: Only get matches from tournaments this query finds.
+    d1query: Only get matches where this query finds deck 1.
+    d2query: Only get matches where this query finds deck 2.
+    tournaments: Only get matches from these tournaments.
+    decks1: Only get matches whose first deck is in this list.
+    decks2: Only get matches whose second deck is in this list.
+    """
+    query = session.query(RawMatch)
+    if tournaments:
+        tquery = tournamentQuery(tournaments=tournaments)
+    if tquery:
+        query = query.join(tquery.subquery())
+    if d1query:
+        query = query.join((d1query.subquery(), RawMatch.deck1))
+    if d2query:
+        query = query.join((d2query.subquery(), RawMatch.deck2))
+    if decks1:
+        d1ids = [ d.id for d in decks1 ]
+        query = query.filter(rawMatches.c.DECK_1.in_(d1ids))
+    if decks2:
+        d2ids = [ d.id for d in decks2 ]
+        query = query.filter(rawMatches.c.DECK_2.in_(d2ids))
+    return query
+
+def matchQueryGrouped(tquery=None, d1query=None, d2query=None,
+        tournaments=None, decks1=None, decks2=None, aggregate=[]):
+    """Build a query for matches, grouped by archetype.
+
     tquery: Only get matches from tournaments this query finds.
     d1query: Only get matches where this query finds deck 1.
     d2query: Only get matches where this query finds deck 2.
@@ -397,8 +425,13 @@ def getTournaments(*args, **kwargs):
     return tournamentQuery(*args, **kwargs).all()
 def getSlots(*args, **kwargs):
     return slotQuery(*args, **kwargs).all()
-def getMatches(*args, **kwargs):
-    return matchQuery(*args, **kwargs).all()
+def getMatches(tquery=None, d1query=None, d2query=None,
+        tournaments=None, decks1=None, decks2=None):
+    forward = matchQuery(tquery, d1query, d2query, tournaments, decks1, decks2)
+    backward = matchQuery(tquery, d2query, d1query, tournaments, decks2, decks1)
+    return set(forward.all() + [ m.reverse() for m in backward.all() ])
+def getMatchesGrouped(*args, **kwargs):
+    return matchQueryGrouped(*args, **kwargs).all()
 def getDecks(*args, **kwargs):
     return deckQuery(*args, **kwargs).all()
 def getMeta(*args, **kwargs):
@@ -494,4 +527,4 @@ dq = deckQuery(archetypes=['Reanimator', 'NO RUG'], tquery=tq)
 d = dq.all()
 td = [ x for x in t[1].decks if x.place <= 16 ]
 mq = matchQuery(decks1=d, tournaments=t)
-q = matchQuery(decks1=d, tournaments=t, aggregate=(True, False, True, False))
+q = matchQueryGrouped(decks1=d, tournaments=t, aggregate=(True, False, True, False))

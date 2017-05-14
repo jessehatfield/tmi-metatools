@@ -20,9 +20,9 @@ setup(
     entry_points={
         'console_scripts': [
             # tmi : Main entry point for computing arbitrary statistics
-            'tmi = metatools.tmi',
+            'tmi = metatools.tmi:main',
             # generate : Automatically generate standard reports for recent tournaments
-            'generate = metatools.generate'
+            'generate = metatools.generate:main'
         ],
         'gui_scripts': []  # None of these yet
     }

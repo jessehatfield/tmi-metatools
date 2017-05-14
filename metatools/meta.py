@@ -67,7 +67,7 @@ class Metagame(object):
         """Get a list of subarchetype names for a given deck name, in decreasing
         order of count."""
         counts = self.archetypes[deck]
-        subnames = counts.keys()
+        subnames = [ k for k in counts.keys() ]
         subnames.sort(key=lambda s: counts[s], reverse=True)
         return subnames
 

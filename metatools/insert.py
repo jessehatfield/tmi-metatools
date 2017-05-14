@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from database import *
+from metatools.database import *
 import argparse
 import datetime
 import csv
