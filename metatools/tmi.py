@@ -174,7 +174,12 @@ def getGridWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies
     tournies: a list of Tournaments for the relevant time period
     players: Player names -- restrict the field to these players
     """
-    pass
+    alternate = historicalMeta
+    if 'no_overall' in args and args['no_overall']:
+        alternate = None
+    return getAllMatchups(decktypes, recentMeta, alternate,
+            args.get('overall_title', 'Overall'), groups,
+            players, args.get('sub', False))
 
 def getHistoryWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
     """
@@ -481,6 +486,10 @@ def main():
     explainp.set_defaults(func=explainWrapper)
 
     gridp = subp.add_parser('grid', help='Print a table of matchups between various decks.')
+    gridp.add_argument('-O', '--overall_title', type=str, default='Overall',
+            help='Alternate term for "Overall."')
+    gridp.add_argument('--no_overall', action='store_true', help='Don\'t print \
+            an overall column.')
     gridp.set_defaults(func=getGridWrapper)
 
     historyp = subp.add_parser('history', help='Get recent showings by particular decks and/or players.')

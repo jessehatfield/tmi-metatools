@@ -733,6 +733,109 @@ def getMatchups(decktypes, label, meta, alternateMeta, altLabel, otherDecks,
 
     return table
 
+def getAllMatchups(decktypes, meta, alternateMeta, altLabel,
+        groups, players, sub=False):
+    """Get information about all pairwise matchups within a set of decks.
+    decktypes: a list of deck names to consider
+    meta: a Metagame to get matches from.
+    alternateMeta: a Metagame to get another sample of matches from,
+        or None to only report one result for each matchup (useful for current +
+        historical data).
+    altLabel: what to call the alternate metagame
+    groups: list of groups, where a group is a list of the form
+        [ groupname deckname1 deckname2 ... ] -- also get matchups involving
+        these groups.
+    players: if empty, include all players; otherwise, include only listed
+        players
+    sub: if true, also break down subarchetypes
+    """
+    decks = meta.getDecks(decktypes)
+    field = getFieldP(players=players)[0](decks)
+    winpercent = getMWP()[0](decks)
+
+    # Create a Table, figure out what columns we need
+    table = Table()
+    table.setTitle('Matchups')
+    table.addField(Field('deck1', fieldName='Deck 1', align='<'))
+    table.addField(Field('sub1', fieldName='Sub-archetype 1', align='<'))
+    table.addField(Field('deck2', fieldName='vs. Deck 2', align='<'))
+    table.addField(Field('sub2', fieldName='Sub-archetype 2', align='<'))
+    table.addField(Field('win', fieldName='Matches Won', align='^'))
+    table.addField(Field('loss', fieldName='Matches Lost', align='^'))
+    table.addField(Field('draw', fieldName='Matches Drawn', align='^'))
+    table.addField(Field('mwp', fieldName='Match Win %', type='percent'))
+    if alternateMeta:
+        table.addField(Field('alt_win',
+            fieldName='{0} Matches Won'.format(altLabel), align='^'))
+        table.addField(Field('alt_loss',
+            fieldName='{0} Matches Lost'.format(altLabel), align='^'))
+        table.addField(Field('alt_draw',
+            fieldName='{0} Matches Drawn'.format(altLabel), align='^'))
+        table.addField(Field('alt_mwp',
+            fieldName='{0} Match Win %'.format(altLabel), type='percent'))
+
+    # Combine decks and groups into one list, where each group is then a list of
+    # the form [ percent, name, deck1, deck2, ... ]
+    decks = [ [meta.getCount(deck), deck, deck]
+            for deck in decktypes ]
+    groups = [ [meta.getTotal(groups[name]), name] + groups[name]
+            for name in groups ]
+    decks.sort(key=itemgetter(2))
+    decks.sort(key=itemgetter(1))
+    decks.sort(key=itemgetter(0), reverse=True)
+    groups.sort(key=itemgetter(1))
+    allgroups = decks + sorted(groups, reverse=True)
+
+    def stats(matches):
+        win, loss, draw = record(matches)
+        winp = mwp(matches)
+        winp = float('NaN') if winp is None else winp
+        return [ win, loss, draw, winp ]
+    def combinedStats(s1, d1, s2, d2):
+        matches = meta.getAggregateMatches(s1, d1, s2, d2)
+        l = stats(matches)
+        if alternateMeta:
+            altMatches = alternateMeta.getAggregateMatches(s1, d1, s2, d2)
+            l = l + stats(altMatches)
+        return l
+    def relevantSubtypes(group):
+        if sub and len(group1) == 3 and len(meta.getSub(group[1])) > 1:
+            return meta.getSub(group[1])
+        else:
+            return []
+
+    # Get matchups between groups
+    for group1 in allgroups:
+        main1 = group1[1]
+        decks1 = group1[2:]
+        for group2 in allgroups:
+            main2 = group2[1]
+            decks2 = group2[2:]
+            # Any vs. Any
+            results = combinedStats(False, decks1, False, decks2)
+            row = [ main1, "", main2, "" ] + results
+            table.addRecord(*row)
+            # Optionally, check the pairwise subarchetypes.
+            subnames1 = relevantSubtypes(group1)
+            subnames2 = relevantSubtypes(group2)
+            for sub1 in subnames1:
+                # Sub vs. Any
+                results = combinedStats(True, [(main1, sub1)], False, decks2)
+                row = [ main1, sub1, main2, ""  ] + results
+                table.addRecordLevel(1, *row)
+                for sub2 in subnames2:
+                    # Sub vs. Sub
+                    results = combinedStats(True, [(main1, sub1)],
+                            True, [(main2, sub2)])
+                    row = [ main1, sub1, main2, sub2 ] + results
+                    table.addRecordLevel(2, *row)
+            for sub2 in subnames2:
+                # Any vs. Sub
+                results = combinedStats(False, decks1, True, [(main2, sub2)])
+                row = [ main1, "", main2, sub2 ] + results
+                table.addRecordLevel(1, *row)
+    return table
+
 def explain(deckname, meta, historicalMeta, order):
     """Try to explain a deck's EV and win percentage in the metagame. Identify
     those matchups which contribute to its wins/losses the most.

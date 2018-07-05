@@ -13,3 +13,6 @@ def defaultEnd():
         if end_date != 'None' and end_date != '':
             return end_date
     return None
+
+def defaultBegin():
+    return config['defaults']['begin-date']

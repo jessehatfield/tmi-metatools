@@ -166,7 +166,7 @@ class Metagame(object):
                 result += mu * p1 * p2
         return result
 
-    def getMultipleMatchups(self, decks1, decks2, fromSub=False):
+    def getMultipleMatchups(self, decks1, decks2, fromSub=False, toSub=False):
         """Get MWPs for all combinations of decks in one group and decks
         in another, broken down by archetype.
 
@@ -180,7 +180,11 @@ class Metagame(object):
                 if fromSub:
                     for s1 in self.archetypes[d1]:
                         matchups[(d1,s1)] = matchups.get((d1,s1), {})
-                        matchups[(d1,s1)][d2] = self.getSingleMatchup(d1, d2, s1, None)
+                        if toSub:
+                            for s2 in self.archetypes[d2]:
+                                matchups[(d1,s1)][(d2,s2)] = self.getSingleMatchup(d1, d2, s1, s2)
+                        else:
+                            matchups[(d1,s1)][d2] = self.getSingleMatchup(d1, d2, s1, None)
                 else:
                     matchups[d1] = matchups.get(d1, {})
                     matchups[d1][d2] = self.getSingleMatchup(d1, d2, None, None)
