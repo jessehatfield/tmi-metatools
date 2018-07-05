@@ -1,0 +1,702 @@
+source,date,w,l,deck
+eldrazi_postban,,0,0,4c loam
+eldrazi_postban,,0,1,grixis delver
+eldrazi_postban,,1,1,grixis delver
+eldrazi_postban,,2,1,dark bant
+eldrazi_postban,,3,1,grixis delver
+eldrazi_postban,,0,0,uwr standstill
+eldrazi_postban,,1,0,shardless bug
+eldrazi_postban,,1,1,ur stuff
+eldrazi_postban,,2,1,tes
+eldrazi_postban,,3,1,grixis delver
+eldrazi_postban,,0,0,elves
+eldrazi_postban,,0,1,rb reanimator
+eldrazi_postban,,1,1,burn
+eldrazi_postban,,2,1,ant
+eldrazi_postban,,3,1,bug delver
+eldrazi_postban,,0,0,uw b2b
+eldrazi_postban,,0,1,rb reanimator
+eldrazi_postban,,1,1,shardless bug
+eldrazi_postban,,1,2,gb gsz
+eldrazi_postban,,2,2,grixis delver
+eldrazi_postban,,0,0,grixis delver
+eldrazi_postban,,1,0,tes
+eldrazi_postban,,1,1,4c cascade
+eldrazi_postban,,2,1,ub control
+eldrazi_postban,,3,1,dark bant
+eldrazi_postban,,0,0,ant
+eldrazi_postban,,0,1,ur landstill
+eldrazi_postban,,0,2,d&t
+eldrazi_postban,,0,0,aluren
+eldrazi_postban,,1,0,nicfit
+eldrazi_postban,,2,0,stoneblade
+eldrazi_postban,,3,0,ant
+eldrazi_postban,,4,0,grixis control
+eldrazi_postban,,0,0,elves
+eldrazi_postban,,1,0,uw stoneblade
+eldrazi_postban,,2,0,ant
+eldrazi_postban,,3,0,goblins
+eldrazi_postban,,3,1,grixis delver
+eldrazi_postban,,0,0,show&tell
+eldrazi_postban,,1,0,4c delver
+eldrazi_postban,,1,1,burn
+eldrazi_postban,,2,1,eldrazi
+eldrazi_postban,,3,1,grixis delver
+eldrazi_postban,,0,0,aluren
+eldrazi_postban,,1,0,tes
+eldrazi_postban,,1,1,jund
+eldrazi_postban,,2,1,tezzeret
+eldrazi_postban,,2,2,grixis delver
+eldrazi_postban,,0,0,lands
+eldrazi_postban,,0,1,dredge
+eldrazi_postban,,0,2,ur stuff
+eldrazi_postban,,1,2,miracles
+eldrazi_postban,,2,2,elves
+eldrazi_postban,,0,0,burn
+eldrazi_postban,,1,0,aluren
+eldrazi_postban,,1,1,aluren
+eldrazi_postban,,2,1,redsneak
+eldrazi_postban,,3,1,rb reanimator
+eldrazi_postban,,0,0,ant
+eldrazi_postban,,1,0,elves
+eldrazi_postban,,2,0,ub reanimator
+eldrazi_postban,,2,1,grixis delver
+eldrazi_postban,,3,1,miracles
+eldrazi_postban,,0,0,rb reanimator
+eldrazi_postban,,1,0,bug control
+eldrazi_postban,,2,0,show&tell
+eldrazi_postban,,3,0,aluren
+eldrazi_postban,,3,1,doomsday
+eldrazi_postban,,0,0,rb reanimator
+eldrazi_postban,,1,0,maverick
+eldrazi_postban,,2,0,dark bant
+eldrazi_postban,,2,1,dark bant
+eldrazi_postban,,2,2,zoo
+eldrazi_postban,,0,0,tezzeret
+eldrazi_postban,,1,0,food chain
+eldrazi_postban,,2,0,ub standstill
+eldrazi_postban,,3,0,lands
+eldrazi_postban,,3,1,show&tell
+eldrazi_postban,,0,0,grixis delver
+eldrazi_postban,,1,0,ub reanimator
+eldrazi_postban,,2,0,rb reanimator
+eldrazi_postban,,3,0,maverick
+eldrazi_postban,,4,0,rb reanimator
+eldrazi_postban,,0,0,grixis delver
+eldrazi_postban,,1,0,burn
+eldrazi_postban,,2,0,grixis delver
+eldrazi_postban,,2,1,belcher
+eldrazi_postban,,2,2,bug delver
+eldrazi_postban,,0,0,stoneblade
+eldrazi_postban,,1,0,veteran bug
+eldrazi_postban,,1,1,burn
+eldrazi_postban,,2,1,ant
+eldrazi_postban,,3,1,lands
+eldrazi_postban,,0,0,grixis control
+eldrazi_postban,,0,1,shardless bug
+eldrazi_postban,,1,1,nicfit
+eldrazi_postban,,2,1,bug delver
+eldrazi_postban,,2,2,ur delver
+eldrazi_postban,,0,0,elves
+eldrazi_postban,,1,0,grixis delver
+eldrazi_postban,,1,1,lands
+eldrazi_postban,,2,1,4c loam
+eldrazi_postban,,3,1,depthsreanimator
+eldrazi_postban,,0,0,tezzeret
+eldrazi_postban,,1,0,lands
+eldrazi_postban,,1,1,ant
+eldrazi_postban,,2,1,burn
+eldrazi_postban,,3,1,gb depths
+eldrazi_postban,,0,0,merfolk
+eldrazi_postban,,1,0,miracles
+eldrazi_postban,,2,0,merfolk
+eldrazi_postban,,3,0,grixis delver
+eldrazi_postban,,3,1,4c loam
+eldrazi_postban,,0,0,rb reanimator
+eldrazi_postban,,1,0,enchantress
+eldrazi_postban,,2,0,grixis control
+eldrazi_postban,,3,0,rug delver
+eldrazi_postban,,4,0,maverick
+eldrazi_postban,,0,0,4c loam
+eldrazi_postban,,1,0,ant
+eldrazi_postban,,1,1,grixis delver
+eldrazi_postban,,2,1,grixis delver
+eldrazi_postban,,2,2,4c loam
+eldrazi_postban,,0,0,stoneblade
+eldrazi_postban,,1,0,ant
+eldrazi_postban,,2,0,miracles
+eldrazi_postban,,3,0,rb reanimator
+eldrazi_postban,,3,1,d&t
+eldrazi_postban,,0,0,uw landstill
+eldrazi_postban,,1,0,d&t
+eldrazi_postban,,1,1,grixis control
+eldrazi_postban,,2,1,bug control
+eldrazi_postban,,3,1,stiflenaught
+eldrazi_postban,,0,0,belcher
+eldrazi_postban,,0,1,depthsreanimator
+eldrazi_postban,,0,2,ur stuff
+eldrazi_postban,,1,2,grixis control
+eldrazi_postban,,0,0,rug delver
+eldrazi_postban,,0,1,4c cascade
+eldrazi_postban,,1,1,4c loam
+eldrazi_postban,,1,2,tron
+eldrazi_postban,,2,2,4c control
+eldrazi_postban,,0,0,lands
+eldrazi_postban,,0,1,omnitell
+eldrazi_postban,,1,1,dragonstompy
+eldrazi_postban,,1,2,ant
+eldrazi_postban,,2,2,bug control
+eldrazi_postban,,0,0,dragonstompy
+eldrazi_postban,,1,0,grixis control
+eldrazi_postban,,2,0,elves
+eldrazi_postban,,3,0,enchantress
+eldrazi_postban,,4,0,bug delver
+eldrazi_postban,,0,0,miracles
+eldrazi_postban,,1,0,tes
+eldrazi_postban,,2,0,4c control
+eldrazi_postban,,2,1,gb depths
+eldrazi_postban,,2,2,monog post
+eldrazi_postban,,0,0,4c control
+eldrazi_postban,,1,0,knightdelver
+eldrazi_postban,,1,1,grixis control
+eldrazi_postban,,2,1,d&t
+eldrazi_postban,,3,1,show&tell
+eldrazi_postban,,0,0,eldrazi
+eldrazi_postban,,1,0,elves
+eldrazi_postban,,2,0,ant
+eldrazi_postban,,3,0,tes
+eldrazi_postban,,4,0,ant
+eldrazi_postban,,0,0,d&t
+eldrazi_postban,,1,0,tes
+eldrazi_postban,,2,0,eldrazi
+eldrazi_postban,,3,0,4c control
+eldrazi_postban,,4,0,miracles
+eldrazi_postban,,0,0,sacland storm
+eldrazi_postban,,1,0,d&t
+eldrazi_postban,,2,0,ant
+eldrazi_postban,,2,1,show&tell
+eldrazi_postban,,3,1,ant
+eldrazi_postban,,0,0,show&tell
+eldrazi_postban,,0,1,grixis control
+eldrazi_postban,,0,2,elves
+eldrazi_postban,,1,2,esper junk
+eldrazi_postban,,0,0,tes
+eldrazi_postban,,1,0,merfolk
+eldrazi_postban,,2,0,d&t
+eldrazi_postban,,3,0,bug delver
+eldrazi_postban,,3,1,aluren
+eldrazi_postban,,0,0,miracles
+eldrazi_postban,,1,0,uw stoneblade
+eldrazi_postban,,1,1,lands
+eldrazi_postban,,1,2,4c control
+eldrazi_postban,,2,2,ur delver
+grixis,2017-07-05,0,0,4c loam
+grixis,2017-07-05,0,0,jeskai stoneblade
+grixis,2017-07-05,1,0,4c loam
+grixis,2017-07-05,2,0,br reanimator
+grixis,2017-07-06,3,0,turbo eldrazi
+grixis,2017-07-06,4,0,bug coco
+grixis,2017-07-07,0,0,bug delver
+grixis,2017-07-08,1,0,ur delver
+grixis,2017-07-08,1,1,grixis control
+grixis,2017-07-08,2,1,ur delver
+grixis,2017-07-08,2,2,reanimator depths
+grixis,2017-07-09,0,0,turbo depths
+grixis,2017-07-09,0,1,ant
+grixis,2017-07-09,1,1,sneak and show
+grixis,2017-07-09,2,1,punishing thieves
+grixis,2017-07-09,3,1,death and taxes
+grixis,2017-07-10,0,0,grixis delver
+grixis,2017-07-10,0,1,bomberman
+grixis,2017-07-10,1,1,ur as foretold
+grixis,2017-07-10,1,2,ant
+grixis,2017-07-10,0,0,ant
+grixis,2017-07-10,0,0,4c loam
+grixis,2017-07-10,0,0,grixis delver
+grixis,2017-07-10,0,0,merfolk
+grixis,2017-07-10,1,0,turbo depths
+grixis,2017-07-10,0,0,nic fit
+grixis,2017-07-10,1,0,enchantress
+grixis,2017-07-10,0,0,enchantress
+grixis,2017-07-10,1,0,ant
+grixis,2017-07-10,2,0,grixis delver
+grixis,2017-07-10,3,0,reanimator depths
+grixis,2017-07-10,4,0,grixis delver
+grixis,2017-07-11,0,0,ant
+grixis,2017-07-11,1,0,grixis delver
+grixis,2017-07-11,1,1,bug delver
+grixis,2017-07-11,2,1,jund
+grixis,2017-07-11,3,1,eldrazi stompy
+grixis,2017-07-12,0,0,discard pile
+grixis,2017-07-12,1,0,ant
+grixis,2017-07-12,2,0,czech pile
+grixis,2017-07-12,2,1,sneak and show
+grixis,2017-07-12,2,2,tes
+grixis,2017-07-12,0,0,elves
+grixis,2017-07-12,0,0,czech pile
+grixis,2017-07-12,1,0,bug delver
+grixis,2017-07-12,0,0,bug delver
+grixis,2017-07-12,1,0,czech pile
+grixis,2017-07-12,2,0,4c loam
+grixis,2017-07-12,3,0,red storm
+grixis,2017-07-13,4,0,czech pile
+grixis,2017-07-14,0,0,grixis delver
+grixis,2017-07-14,1,0,eldrazi stompy
+grixis,2017-07-14,2,0,death and taxes
+grixis,2017-07-14,2,1,grixis control
+grixis,2017-07-14,3,1,ur delver
+grixis,2017-07-14,0,0,red stompy
+grixis,2017-07-14,0,0,ur delver
+grixis,2017-07-14,1,0,enchantress
+grixis,2017-07-14,2,0,grixis delver
+grixis,2017-07-15,3,0,grixis delver
+grixis,2017-07-15,3,1,grixis delver
+grixis,2017-07-15,0,0,br reanimator
+grixis,2017-07-15,1,0,maverick junk
+grixis,2017-07-15,1,1,br reanimator
+grixis,2017-07-15,2,1,tes
+grixis,2017-07-15,3,1,tes
+grixis,2017-07-15,0,0,ant
+grixis,2017-07-15,1,0,maverick gw
+grixis,2017-07-15,0,0,sneak and show
+grixis,2017-07-15,1,0,grixis delver
+grixis,2017-07-15,2,0,food chain
+grixis,2017-07-15,2,1,tes
+grixis,2017-07-15,3,1,czech pile
+grixis,2017-07-15,0,0,jeskai stoneblade
+grixis,2017-07-16,1,0,lands
+grixis,2017-07-16,2,0,tes
+grixis,2017-07-17,3,0,pox
+grixis,2017-07-17,4,0,tes
+grixis,2017-07-18,0,0,jeskai stoneblade
+grixis,2017-07-18,1,0,pox
+grixis,2017-07-19,2,0,rug delver
+grixis,2017-07-19,3,0,grixis delver
+grixis,2017-07-19,4,0,czech pile
+grixis,2017-07-21,0,0,dredge
+grixis,2017-07-21,0,1,belcher
+grixis,2017-07-21,0,0,red storm
+grixis,2017-07-21,1,0,4c loam
+grixis,2017-07-21,2,0,turbo eldrazi
+grixis,2017-07-21,3,0,sneak and show
+grixis,2017-07-21,4,0,rug delver
+grixis,2017-07-21,0,0,aluren
+grixis,2017-07-21,1,0,jeskai stoneblade
+grixis,2017-07-21,1,1,grixis delver
+grixis,2017-07-21,2,1,czech pile
+grixis,2017-07-21,3,1,grixis delver
+grixis,2017-07-22,0,0,bug delver
+grixis,2017-07-22,0,0,reanimator depths
+grixis,2017-07-22,0,0,ant
+grixis,2017-07-22,1,0,death and taxes
+grixis,2017-07-22,2,0,rip helm field
+grixis,2017-07-22,2,1,br reanimator
+grixis,2017-07-22,2,2,ant
+grixis,2017-07-25,0,0,czech pile
+grixis,2017-07-25,0,1,esper mentor
+grixis,2017-07-25,1,1,grixis control
+grixis,2017-07-25,1,2,tes
+grixis,2017-07-25,2,2,ant
+grixis,2017-07-25,0,0,czech pile
+grixis,2017-07-25,1,0,ant
+grixis,2017-07-25,1,1,ant
+grixis,2017-07-25,2,1,grixis control
+grixis,2017-07-25,3,1,grixis delver
+grixis,2017-07-25,0,0,miracles
+grixis,2017-07-25,1,0,grixis delver
+grixis,2017-07-25,2,0,czech pile
+grixis,2017-07-25,3,0,grixis delver
+grixis,2017-07-25,3,1,grixis delver
+grixis,2017-07-27,0,0,bug delver
+grixis,2017-07-27,0,0,infect
+grixis,2017-07-27,1,0,ant
+grixis,2017-07-27,0,0,reanimator depths
+grixis,2017-07-27,0,0,jeskai stoneblade
+grixis,2017-07-27,1,0,4c loam
+grixis,2017-07-28,0,0,ur delver
+grixis,2017-07-28,1,0,lands
+grixis,2017-07-28,1,1,turbo eldrazi
+grixis,2017-07-28,2,1,esper stoneblade
+grixis,2017-07-28,3,1,sneak and show
+grixis,2017-07-28,0,0,br reanimator
+grixis,2017-07-28,1,0,eldrazi stompy
+grixis,2017-07-28,2,0,reanimator depths
+grixis,2017-07-29,3,0,death and taxes
+grixis,2017-07-29,4,0,czech pile
+grixis,2017-07-31,0,0,ant
+grixis,2017-07-31,0,1,czech pile
+grixis,2017-07-31,1,1,sneak and show
+grixis,2017-07-31,2,1,grixis delver
+grixis,2017-07-31,3,1,ant
+grixis,2017-07-31,0,0,br reanimator
+grixis,2017-07-31,0,1,elves
+grixis,2017-07-31,0,0,elves
+grixis,2017-07-31,0,1,grixis delver
+grixis,2017-07-31,0,0,czech pile
+grixis,2017-07-31,0,0,reanimator depths
+grixis,2017-07-31,1,0,soldier stompy
+grixis,2017-07-31,2,0,tes
+grixis,2017-07-31,3,0,mud
+grixis,2017-07-31,4,0,turbo depths
+grixis,2017-08-01,0,0,grixis delver
+grixis,2017-08-01,1,0,turbo eldrazi
+grixis,2017-08-01,2,0,death and taxes
+grixis,2017-08-01,2,1,lands
+grixis,2017-08-01,3,1,miracles
+grixis,2017-08-02,0,0,death and taxes
+grixis,2017-08-02,1,0,czech pile
+grixis,2017-08-02,1,1,ur delver
+grixis,2017-08-02,2,1,standstill
+grixis,2017-08-02,3,1,reanimator depths
+grixis,2017-08-02,0,0,bug delver
+grixis,2017-08-02,1,0,czech pile
+grixis,2017-08-02,2,0,maverick
+grixis,2017-08-02,2,1,grixis control
+grixis,2017-08-02,2,2,turbo depths
+grixis,2017-08-02,0,0,grixis delver
+grixis,2017-08-02,1,0,ant
+grixis,2017-08-03,2,0,esper delver
+grixis,2017-08-03,2,1,grixis delver
+grixis,2017-08-03,3,1,death and taxes
+grixis,2017-08-03,0,0,miracles
+grixis,2017-08-03,1,0,bug delver
+grixis,2017-08-03,2,0,ant
+grixis,2017-08-03,2,1,turbo depths
+grixis,2017-08-03,2,2,rug delver
+grixis,2017-08-03,0,0,rug delver
+grixis,2017-08-04,1,0,turbo eldrazi
+grixis,2017-08-04,2,0,tes
+grixis,2017-08-04,3,0,death and taxes
+grixis,2017-08-04,3,1,grixis delver
+grixis,2017-08-04,0,0,czech pile
+grixis,2017-08-04,0,0,czech pile
+grixis,2017-08-04,0,0,grixis delver
+grixis,2017-08-04,1,0,grixis delver
+grixis,2017-08-04,2,0,ant
+grixis,2017-08-04,3,0,death and taxes
+grixis,2017-08-04,3,1,ant
+grixis,2017-08-04,0,0,nic fit
+grixis,2017-08-04,1,0,grixis delver
+grixis,2017-08-04,2,0,czech pile
+grixis,2017-08-04,3,0,belcher
+grixis,2017-08-04,4,0,turbo depths
+grixis,2017-08-08,0,0,grixis delver
+grixis,2017-08-08,1,0,turbo eldrazi
+grixis,2017-08-08,2,0,czech pile
+grixis,2017-08-08,3,0,food chain
+grixis,2017-08-08,4,0,burn
+grixis,2017-08-09,0,0,tes
+grixis,2017-08-09,0,1,bug delver
+grixis,2017-08-09,1,1,bug delver
+grixis,2017-08-09,2,1,bug delver
+grixis,2017-08-09,2,2,elves
+grixis,2017-08-09,0,0,czech pile
+grixis,2017-08-09,1,0,czech pile
+grixis,2017-08-09,2,0,grixis delver
+grixis,2017-08-09,2,1,ant
+grixis,2017-08-09,3,1,grixis delver
+grixis,2017-08-10,0,0,belcher
+grixis,2017-08-10,1,0,grixis delver
+grixis,2017-08-10,2,0,aluren
+grixis,2017-08-10,2,1,ant
+grixis,2017-08-10,3,1,grixis fairies
+grixis,2017-08-10,0,0,grixis delver
+grixis,2017-08-10,1,0,turbo eldrazi
+grixis,2017-08-10,2,0,grixis delver
+grixis,2017-08-10,2,1,death and taxes
+grixis,2017-08-10,3,1,red storm
+grixis,2017-08-12,0,0,czech pile
+grixis,2017-08-12,1,0,elves
+grixis,2017-08-12,1,1,elves
+grixis,2017-08-12,1,2,tes
+grixis,2017-08-12,2,2,bug delver
+doomsday,2017-11-28,0,0,4c loam
+doomsday,2017-11-28,1,0,czech pile
+doomsday,2017-11-29,1,1,rg lands
+doomsday,2017-11-29,2,1,turbo depths
+doomsday,2017-11-29,2,2,miracles
+doomsday,2017-02-12,0,0,4c loam
+doomsday,2017-02-12,1,0,rg lands
+doomsday,2017-02-12,2,0,grixis control
+doomsday,2017-02-12,3,0,czech pile
+doomsday,2017-02-12,3,1,grixis delver
+doomsday,2017-03-12,0,0,czech pile
+doomsday,2017-03-12,1,0,4c loam
+doomsday,2017-03-12,2,0,hypergenesis
+doomsday,2017-03-12,3,0,sneak and show
+doomsday,2017-03-12,4,0,u/b reanimator
+doomsday,2017-03-12,0,0,jund
+doomsday,2017-03-12,0,1,pox
+doomsday,2017-03-12,1,1,tes
+doomsday,2017-03-12,1,2,miracles
+doomsday,2017-03-12,1,3,eldrazi post
+doomsday,2017-12-15,0,0,grixis delver
+doomsday,2017-12-15,0,1,dredge
+doomsday,2017-12-15,0,2,death & taxes
+doomsday,2017-12-15,0,3,grixis delver
+doomsday,2017-12-15,1,3,ur delver
+doomsday,2017-12-17,0,0,br reanimator
+doomsday,2017-12-17,0,1,doomsday
+doomsday,2017-12-17,0,2,czech pile
+doomsday,2017-12-17,1,2,eldrazi
+doomsday,2017-12-17,2,2,grixis delver
+doomsday,2017-12-10,0,0,nic fit
+doomsday,2017-12-10,0,1,grixis delver
+doomsday,2017-12-10,1,1,grixis delver
+doomsday,2017-12-10,1,2,grixis delver
+doomsday,2017-12-10,2,2,ur delver
+doomsday,2017-12-15,0,0,uw standstill
+doomsday,2017-12-15,1,0,ant
+doomsday,2017-12-15,2,0,show and tell
+doomsday,2017-12-15,3,0,miracles
+doomsday,2017-12-15,3,1,soldier stompy
+doomsday,2017-12-18,0,0,br reanimator
+doomsday,2017-12-18,0,1,br reanimator
+doomsday,2017-12-18,1,1,miracles
+doomsday,2017-12-18,2,1,nic shift
+doomsday,2017-12-18,3,1,doomsday
+doomsday,2017-10-06,0,0,turbo depths
+doomsday,2017-10-06,0,1,nic fit
+doomsday,2017-10-06,0,2,deathblade
+doomsday,2017-10-06,0,3,show and tell
+doomsday,2017-10-06,1,3,ant
+doomsday,2017-12-26,0,0,rug delver
+doomsday,2017-12-26,1,0,miracles
+doomsday,2017-12-26,2,0,death & taxes
+doomsday,2017-12-26,3,0,jund
+doomsday,2017-12-26,3,1,rg lands
+doomsday,2017-04-10,0,0,rg lands
+doomsday,2017-04-10,1,0,elves
+doomsday,2017-04-10,1,1,elves
+doomsday,2017-04-10,2,1,ub delver
+doomsday,2017-04-10,3,1,bug delver
+doomsday,2017-07-10,0,0,czech pile
+doomsday,2017-07-10,0,1,ant
+doomsday,2017-07-10,0,2,show and tell
+doomsday,2017-07-10,1,2,elves
+doomsday,2017-07-10,1,3,show and tell
+doomsday,2017-12-17,0,0,ub shadow
+doomsday,2017-12-17,1,0,infect
+doomsday,2017-12-17,2,0,miracles
+doomsday,2017-12-17,2,1,grixis delver
+doomsday,2017-12-17,3,1,ant
+doomsday,2017-12-17,0,0,eldrazi
+doomsday,2017-12-17,1,0,deathblade
+doomsday,2017-12-17,2,0,turbo depths
+doomsday,2017-12-17,3,0,turbo depths
+doomsday,2017-12-17,4,0,reanimator
+doomsday,2017-12-19,0,0,elves
+doomsday,2017-12-19,1,0,miracles
+doomsday,2017-12-19,2,0,death and taxes
+doomsday,2017-12-19,2,1,br reanimator
+doomsday,2017-12-19,2,2,death and taxes
+doomsday,2018-01-02,0,0,eldrazi post
+doomsday,2018-01-02,1,0,solider stompy
+doomsday,2018-01-02,2,0,ant
+doomsday,2018-01-02,2,1,bug nic-fit
+doomsday,2018-01-02,3,1,tes
+doomsday,2017-12-25,0,0,deathblade
+doomsday,2017-12-25,0,1,eldrazi
+doomsday,2017-12-25,1,1,bant miracles
+doomsday,2017-12-25,2,1,miracles
+doomsday,2017-12-25,2,2,infect
+doomsday,2018-02-01,0,0,czech pile
+doomsday,2018-02-01,1,0,death and taxes
+doomsday,2018-02-01,1,1,ant
+doomsday,2018-02-01,1,2,death and taxes
+doomsday,2018-02-01,2,2,sneak and show
+doomsday,2017-12-25,0,0,belcher
+doomsday,2017-12-25,0,1,bug delver
+doomsday,2017-12-25,1,1,rg lands
+doomsday,2017-12-25,1,2,bug delver
+doomsday,2017-12-25,1,3,death and taxes
+doomsday,2018-01-04,0,0,grixis delver
+doomsday,2018-01-04,0,1,sneak and show
+doomsday,2018-01-05,1,1,punishing thieves
+doomsday,2018-01-05,2,1,tin-fins
+doomsday,2018-01-05,2,2,turbo depths
+doomsday,2018-01-05,0,0,miracles
+doomsday,2018-01-06,0,1,esper humans
+doomsday,2018-01-06,0,2,ant
+doomsday,2018-01-06,0,3,grixis delver
+doomsday,2018-01-06,1,3,grixis delver
+doomsday,2018-01-08,0,0,grixis delver
+doomsday,2018-01-08,1,0,ant
+doomsday,2018-01-08,1,1,bug control
+doomsday,2018-01-08,1,2,rg lands
+doomsday,2018-01-08,1,3,aluren
+doomsday,2018-01-08,0,0,maverick
+doomsday,2018-01-08,1,0,death & taxes
+doomsday,2018-01-08,2,0,grixis delver
+doomsday,2018-01-08,3,0,death & taxes
+doomsday,2018-01-08,4,0,reanimator
+doomsday,2018-01-08,0,0,u/r delver
+doomsday,2018-01-08,1,0,tes
+doomsday,2018-01-09,1,1,death & taxes
+doomsday,2018-01-09,2,1,grixis delver
+doomsday,2018-01-09,2,2,dragon stompy
+doomsday,2018-01-09,0,0,death & taxes
+doomsday,2018-01-09,1,0,b/r reanimator
+doomsday,2018-01-09,1,1,death & taxes
+doomsday,2018-01-09,1,2,dredge
+doomsday,2018-01-09,1,3,rg lands
+doomsday,2018-01-10,0,0,grixis delver
+doomsday,2018-01-10,0,1,belcher
+doomsday,2018-01-10,0,2,ant
+doomsday,2018-01-10,0,3,czech pile
+doomsday,2018-01-10,1,3,bant miracles
+doomsday,2017-09-18,0,0,rg lands
+doomsday,2017-09-18,0,1,czech pile
+doomsday,2017-09-18,1,1,eldrazi
+doomsday,2017-09-16,2,1,mud
+doomsday,2017-09-16,2,2,elves
+doomsday,2017-09-16,0,0,ant
+doomsday,2017-09-16,1,0,br reanimator
+doomsday,2017-09-16,2,0,eldrazi post
+doomsday,2017-09-16,3,0,czech pile
+doomsday,2017-09-16,4,0,ant
+doomsday,2017-09-16,0,0,grixis delver
+doomsday,2017-09-16,0,1,death and taxes
+doomsday,2017-09-16,1,1,miracles
+doomsday,2017-09-16,2,1,czech pile
+doomsday,2017-09-16,3,1,shardless
+doomsday,2017-09-16,0,0,czech pile
+doomsday,2017-09-15,0,1,grixis control
+doomsday,2017-09-15,0,2,elves
+doomsday,2017-09-15,0,3,czech pile
+doomsday,2017-09-15,1,3,elves
+doomsday,2017-09-15,0,0,death and taxes
+doomsday,2017-09-15,1,0,death and taxes
+doomsday,2017-09-15,1,1,wbr walkers
+doomsday,2017-09-15,2,1,grixis delver
+doomsday,2017-09-15,3,1,manaless dredge
+doomsday,2017-07-09,0,0,tes
+doomsday,2017-07-09,1,0,grixis delver
+doomsday,2017-07-09,2,0,ant
+doomsday,2017-07-09,2,1,ant
+doomsday,2017-07-09,2,2,elves
+doomsday,2018-01-15,0,0,ant
+doomsday,2018-01-15,0,1,eldrazi post
+doomsday,2018-01-15,1,1,ruby storm
+doomsday,2018-01-15,2,1,b/r reanimator
+doomsday,2018-01-15,2,2,czech pile
+doomsday,2018-01-17,0,0,grixis delver
+doomsday,2018-01-17,1,0,sneak & show
+doomsday,2018-01-17,2,0,miracles
+doomsday,2018-01-17,3,0,esper humans
+doomsday,2018-01-17,3,1,dragon stompy
+doomsday,2017-12-09,0,0,daretti mud
+doomsday,2017-12-09,1,0,grixis control
+doomsday,2017-12-09,2,0,ant
+doomsday,2017-12-09,2,1,omni-show
+doomsday,2017-12-09,3,1,maverick
+doomsday,2018-01-16,0,0,lands
+doomsday,2018-01-16,1,0,czech pile
+doomsday,2018-01-16,1,1,show and tell
+doomsday,2018-01-16,1,2,tes
+doomsday,2018-01-16,1,3,maverick
+doomsday,2018-01-16,0,0,dredge
+doomsday,2018-01-16,1,0,4c loam
+doomsday,2018-01-16,1,1,dark bant
+doomsday,2018-01-16,2,1,red and taxes
+doomsday,2018-01-16,2,2,br reanimator
+doomsday,2018-01-21,0,0,burn
+doomsday,2018-01-21,0,1,bug landstill
+doomsday,2018-01-21,1,1,uwr control
+doomsday,2018-01-21,1,2,czech pile
+doomsday,2018-01-21,2,2,bug midrange
+doomsday,2018-01-22,0,0,dredge
+doomsday,2018-01-22,1,0,ub omnitell
+doomsday,2018-01-25,2,0,turbo depths
+doomsday,2018-01-25,2,1,eldrazi stompy
+doomsday,2018-01-25,3,1,nic fit
+doomsday,2018-01-26,0,0,czech pile
+doomsday,2018-01-26,1,0,elves
+doomsday,2018-01-26,1,1,miracles
+doomsday,2018-01-28,1,2,rg lands
+doomsday,2018-01-28,2,2,maverick
+doomsday,2018-01-29,0,0,b/r reanimator
+doomsday,2018-01-29,0,1,miracles
+doomsday,2018-01-29,0,2,czech pile
+doomsday,2018-01-29,1,2,elves
+doomsday,2018-01-29,1,3,czech pile
+doomsday,2018-01-29,0,0,manaless dredge
+doomsday,2018-01-29,1,0,maverick
+doomsday,2018-01-29,1,1,grixis delver
+doomsday,2018-01-30,2,1,czech pile
+doomsday,2018-01-30,2,2,bug delver
+doomsday,2018-02-04,0,0,sneak & show
+doomsday,2018-02-04,1,0,death & taxes
+doomsday,2018-02-04,2,0,grixis control
+doomsday,2018-02-04,3,0,turbo depths
+doomsday,2018-02-04,4,0,grixis delver
+doomsday,2018-02-05,0,0,ant
+doomsday,2018-02-05,0,1,death & taxes
+doomsday,2018-02-06,0,2,miracles
+doomsday,2018-02-06,0,3,ant
+doomsday,2018-02-06,0,4,deadguy ale
+doomsday,2018-02-06,0,0,rug delver
+doomsday,2018-02-06,1,0,eldrazi stompy
+doomsday,2018-02-07,1,1,nic fit
+doomsday,2018-02-07,2,1,bomberman
+doomsday,2018-02-07,2,2,nic fit
+doomsday,2018-02-07,0,0,ant
+doomsday,2018-02-07,0,1,ur delver
+doomsday,2018-02-08,0,2,bug control
+doomsday,2018-02-08,0,3,u/r delver
+doomsday,2018-02-08,0,4,bug delver
+doomsday,2018-02-12,0,0,shardless bug
+doomsday,2018-02-12,1,0,u/r control
+doomsday,2018-02-12,1,1,czech pile
+doomsday,2018-02-12,2,1,aluren
+doomsday,2018-02-12,2,2,dredge
+doomsday,2018-02-17,0,0,pox
+doomsday,2018-02-17,1,0,dredge
+doomsday,2018-02-17,1,1,sneak & show
+doomsday,2018-02-17,2,1,bomberman
+doomsday,2018-02-17,3,1,death & taxes
+doomsday,2018-02-24,0,0,bug delver
+doomsday,2018-02-24,0,1,u/r delver
+doomsday,2018-02-26,0,2,miracles
+doomsday,2018-02-26,1,2,turbo depths
+doomsday,2018-02-26,2,2,rg lands
+doomsday,2018-02-27,0,0,miracles
+doomsday,2018-02-27,1,0,tes
+doomsday,2018-02-27,1,1,b/r reanimator
+doomsday,2018-02-27,1,2,death & taxes
+doomsday,2018-02-27,1,3,grixis delver
+doomsday,2018-03-13,0,0,bug delver
+doomsday,2018-03-13,0,1,grixis delver
+doomsday,2018-03-13,1,1,dragon stompy
+doomsday,2018-03-13,1,2,miracles
+doomsday,2018-03-13,2,2,aluren
+doomsday,2018-03-13,0,0,grixis delver
+doomsday,2018-03-13,0,1,grixis delver
+doomsday,2018-03-13,1,1,b/r reanimator
+doomsday,2018-03-13,1,2,rg lands
+doomsday,2018-03-13,2,2,grixis delver
+doomsday,2018-03-13,0,0,bug control
+doomsday,2018-03-13,0,1,czech pile
+doomsday,2018-03-13,1,1,rg lands
+doomsday,2018-03-14,2,1,dragon stompy
+doomsday,2018-03-14,3,1,maverick
+doomsday,2018-03-16,0,0,stax
+doomsday,2018-03-16,1,0,sneak & show
+doomsday,2018-03-16,1,1,grixis delver
+doomsday,2018-03-16,2,1,elves
+doomsday,2018-03-16,2,2,elves
+doomsday,2018-03-23,0,0,ant
+doomsday,2018-03-23,0,1,miracles
+doomsday,2018-03-23,0,2,grixis delver
+doomsday,2018-03-23,1,2,grixis delver
+doomsday,2018-03-23,1,3,czech pile
+doomsday,2018-03-24,0,0,rg lands
+doomsday,2018-03-24,0,1,4c loam
+doomsday,2018-03-24,1,1,grixis delver
+doomsday,2018-03-24,1,2,death & taxes
+doomsday,2018-03-24,1,3,grixis delver
+doomsday,2018-05-10,0,0,miracles
+doomsday,2018-05-10,1,0,pox
+doomsday,2018-05-14,2,0,maverick
+doomsday,2018-05-14,3,0,soldier stompy
+doomsday,2018-05-14,3,1,grixis delver
