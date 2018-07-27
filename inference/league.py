@@ -6,6 +6,7 @@ from random import Random
 from sys import argv
 
 rand = Random()
+match_wins = {}
 
 class League(object):
     def __init__(self, field_distribution, matchups, score_distribution):
@@ -18,62 +19,110 @@ class League(object):
         self.score_counts = {}
         self.scores = []
         self.score_distribution = score_distribution
+        self.records = []
+        self.field_record = {}
+        self.record_counts = {}
         for i in range(2*self.max_rounds + 1):
             score = i - self.max_rounds
             self.scores.append(score)
             self.field[score] = {deck: 0 for deck in self.decks}
             self.score_counts[score] = 0
+        for n in range(self.max_rounds+1):
+            for l in range(n+1):
+                r = (n-l, l)
+                self.records.append(r)
+                self.field_record[r] = {deck: 0 for deck in self.decks}
+                self.record_counts[r] = 0
+        for d in self.decks:
+            match_wins[d] = {d2: 0 for d2 in self.decks}
+
+    def current_distribution(self):
+        return {d: float(sum([self.field_record[r][d] for r in
+            self.records]))/self.n for d in self.decks}
 
     def add(self, n):
+        """Add a single deck, sampled from the field distribution, with a 0-0
+        record."""
         new_decks = rand.choices(self.decks, self.field_distribution, k=n)
         for d in new_decks:
             self.field[0][d] = self.field[0][d] + 1
             self.score_counts[0] = self.score_counts[0] + 1
+            self.field_record[(0,0)][d] = self.field_record[(0,0)][d] + 1
+            self.record_counts[(0,0)] = self.record_counts[(0,0)] + 1
         self.n += n
 
     def choose_score(self):
+        """Sample a score uniformly."""
         p = [self.score_counts[score]/float(self.n) for score in self.scores]
         return rand.choices(self.scores, p, k=1)[0]
 
     def choose_paired_score(self, score1):
+        """Sample the opponent's score given the player's score, according to
+        the score pairing distribution."""
         p = [self.score_distribution[score1][score2] for score2 in self.scores]
         return rand.choices(self.scores, p, k=1)[0]
 
     def choose_deck(self, score):
+        """Choose a deck, identified by archetype and record, by sampling
+        uniformly from those with the exact score (wins minus losses)."""
         n = float(self.score_counts[score])
-        if n == 0:
-            return None
-        else:
-            p_deck = [self.field[score][deck]/n for deck in self.decks]
-            return rand.choices(self.decks, p_deck, k=1)[0]
+        if n > 0:
+            options = []
+            counts = []
+            for (w, l) in self.records:
+                if w-l == score:
+                    for deck in self.field_record[(w, l)]:
+                        k = self.field_record[(w, l)][deck]
+                        if k > 0:
+                            options.append((deck, (w, l)))
+                            counts.append(self.field_record[(w, l)][deck])
+            p_record_deck = [k/n for k in counts]
+            if len(options) > 0:
+                d = rand.choices(options, p_record_deck, k=1)[0]
+                if d is not None:
+                    return d
+        return (None, None)
 
-    def add_score(self, deck, new_score):
-        if new_score > self.max_rounds or new_score < -self.max_rounds:
-            self.add_score(deck, 0)
+    def add_record(self, deck, new_w, new_l):
+        """Add a deck with a specific record to the record/score counts."""
+        new_score = new_w - new_l
+        if new_w + new_l > self.max_rounds:
+            self.add_record(deck, 0, 0)
         else:
+            record = (new_w, new_l)
             self.field[new_score][deck] = self.field[new_score][deck] + 1
             self.score_counts[new_score] = self.score_counts[new_score] + 1
+            self.field_record[record][deck] = self.field_record[record][deck] + 1
+            self.record_counts[record] = self.record_counts[record] + 1
 
     def play_match(self):
         p1_score = self.choose_score()
-        p1_deck = self.choose_deck(p1_score)
+        (p1_deck, p1_record) = self.choose_deck(p1_score)
         if p1_deck is None:
             return
         p2_score = self.choose_paired_score(p1_score)
-        p2_deck = self.choose_deck(p2_score)
+        (p2_deck, p2_record) = self.choose_deck(p2_score)
         if p2_deck is None:
             return
         self.field[p1_score][p1_deck] = self.field[p1_score][p1_deck] - 1
         self.field[p2_score][p2_deck] = self.field[p2_score][p2_deck] - 1
         self.score_counts[p1_score] = self.score_counts[p1_score] - 1
         self.score_counts[p2_score] = self.score_counts[p2_score] - 1
+        self.field_record[p1_record][p1_deck] = self.field_record[p1_record][p1_deck] - 1
+        self.field_record[p2_record][p2_deck] = self.field_record[p2_record][p2_deck] - 1
+        self.record_counts[p1_record] = self.record_counts[p1_record] - 1
+        self.record_counts[p2_record] = self.record_counts[p2_record] - 1
         p_win_p1 = self.matchups[p1_deck][p2_deck]
+        p1_w, p1_l = p1_record
+        p2_w, p2_l = p2_record
         if rand.random() < p_win_p1:
-            self.add_score(p1_deck, p1_score+1)
-            self.add_score(p2_deck, p2_score-1)
+            self.add_record(p1_deck, p1_w+1, p1_l)
+            self.add_record(p2_deck, p2_w, p2_l+1)
+            match_wins[p1_deck][p2_deck] = match_wins[p1_deck][p2_deck] + 1
         else:
-            self.add_score(p1_deck, p1_score-1)
-            self.add_score(p2_deck, p2_score+1)
+            self.add_record(p1_deck, p1_w, p1_l+1)
+            self.add_record(p2_deck, p2_w+1, p2_l)
+            match_wins[p2_deck][p1_deck] = match_wins[p2_deck][p1_deck] + 1
 
     def ev(self, deck, score):
         p = 0.0
@@ -99,17 +148,19 @@ def generate():
             2: {0: 0.2, 1: 0.7, 2: 0.5}
     }
     scores = [i-n_rounds for i in range((n_rounds*2)+1)]
+    records = []
     score_map = {s1: {s2: 0.0 for s2 in scores} for s1 in scores}
     for i in scores:
         score_map[i][i] = 1.0
     l = League(field, matchups, score_map)
     l.add(n_decks)
+    print(l.field)
     actual_field = l.field[0]
+    print(actual_field)
     actual_distribution = {d: actual_field[d]/float(n_decks) for d in actual_field}
     ev = {d: l.ev(d, 0) for d in actual_field}
-    print("Sample distribution:", actual_distribution)
-    print("Sample EV:", ev)
     counts = {s: [0]*len(field) for s in scores}
+    record_counts = {r: [0]*len(field) for r in l.records}
     for i in range(n_samples):
         for j in range(n_matches):
             l.play_match()
@@ -117,18 +168,40 @@ def generate():
         for j in range(n_matches):
             l.play_match()
         for s in scores:
-            i = l.choose_deck(s)
+            (i, r) = l.choose_deck(s)
             if i is not None:
                 counts[s][i] += 1
+                record_counts[r][i] += 1
     data = {
             'n_decks': len(field),
             'n_rounds': n_rounds,
             'deck': [counts[s] for s in scores]
+#            'pdeck': [l.current_distribution()[d] for d in l.decks],
+#            'n_fixed_matchups': 1,
+#            'fixed_matchups': [0.3]
     }
     for s in scores:
         n_score = float(sum(counts[s]))
         p_score = [x/n_score for x in counts[s]]
         print("score distribution[{}]: {}".format(s, p_score))
+    for r in l.records:
+        n_record = float(sum(record_counts[r]))
+        p_record = [x/n_record for x in record_counts[r]]
+        print("record distribution[{}]: {}".format(r, p_record))
+    for d1 in l.decks:
+        record = []
+        for d2 in l.decks:
+            mw = match_wins[d1][d2]
+            ml = match_wins[d2][d1]
+            p = mw / float(mw+ml)
+            record.append(p)
+        print("Empirical match wins[{}]: {}".format(d1, record))
+    n_wins = {d: sum([match_wins[d][x] for x in actual_field]) for d in actual_field}
+    n_losses = {d: sum([match_wins[x][d] for x in actual_field]) for d in actual_field}
+    win_rate = {d: n_wins[d]/float(n_wins[d]+n_losses[d]) for d in actual_field}
+    print("Sample distribution:", actual_distribution)
+    print("Sample EV:", ev)
+    print("Sample empirical wins:", win_rate)
     return data
 
 def consolidate(data, n):
@@ -145,18 +218,27 @@ def consolidate(data, n):
         transformed['deck'].append(new_counts)
     return transformed
 
-def run_inference(data, iterations, warmup, chains):
+def run_inference(data, iterations, warmup, chains, init='random',
+        sample_file=None):
     sm = pystan.StanModel(file="models/league.stan")
-    fit = sm.sampling(data=data, iter=iterations, warmup=warmup,
-            chains=chains, n_jobs=-1)
+    fit = sm.sampling(data=data,
+            iter=iterations, warmup=warmup, chains=chains,
+            n_jobs=-1,
+            sample_file=sample_file, init=init)
     print(fit)
     #print(fit.extract(pars=varnames))
     return fit
 
-def test():
+def test(sample_file=None):
     test_data = generate()
     print(test_data)
-    fit = run_inference(test_data, 2000, 500, 2)
+    fit = run_inference(test_data, 10000, 1000, 8, sample_file=sample_file)
+    def test_pars(cpar):
+        upar = fit.unconstrain_pars(cpar)
+        print("log(p({})) == {}".format(cpar, fit.log_prob(upar, False)))
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.3, 0.8, 0.3]})
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.8, 0.3, 0.8]})
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.5, 0.5, 0.5]})
     fit.plot(pars=['pdeck', 'matchups', 'pwin_deck'])
     plt.show()
 
@@ -166,13 +248,15 @@ def main(data_file):
         'n_rounds': 5,
         'deck': []
     }
-    fit = run_inference(data, 5000, 1000, 2)
+    fit = run_inference(data, 5000, 1000, 4)
     fit.plot(pars=['pdeck', 'matchups', 'pwin_deck'])
     plt.show()
 
 if __name__ == "__main__":
-    if len(argv) > 1:
+    if len(argv) > 2:
         data_file = argv[1]
-        main(data_file)
+        sample_file = argv[2]
+        main(data_file, sample_file)
     else:
-        test()
+        sample_file = argv[1] if len(argv) == 2 else None
+        test(sample_file)
