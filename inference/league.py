@@ -154,9 +154,7 @@ def generate():
         score_map[i][i] = 1.0
     l = League(field, matchups, score_map)
     l.add(n_decks)
-    print(l.field)
     actual_field = l.field[0]
-    print(actual_field)
     actual_distribution = {d: actual_field[d]/float(n_decks) for d in actual_field}
     ev = {d: l.ev(d, 0) for d in actual_field}
     counts = {s: [0]*len(field) for s in scores}
@@ -176,9 +174,6 @@ def generate():
             'n_decks': len(field),
             'n_rounds': n_rounds,
             'deck': [counts[s] for s in scores]
-#            'pdeck': [l.current_distribution()[d] for d in l.decks],
-#            'n_fixed_matchups': 1,
-#            'fixed_matchups': [0.3]
     }
     for s in scores:
         n_score = float(sum(counts[s]))
@@ -232,7 +227,7 @@ def run_inference(data, iterations, warmup, chains, init='random',
 def test(sample_file=None):
     test_data = generate()
     print(test_data)
-    fit = run_inference(test_data, 10000, 1000, 8, sample_file=sample_file)
+    fit = run_inference(test_data, 1000, 500, 1, sample_file=sample_file)
     def test_pars(cpar):
         upar = fit.unconstrain_pars(cpar)
         print("log(p({})) == {}".format(cpar, fit.log_prob(upar, False)))

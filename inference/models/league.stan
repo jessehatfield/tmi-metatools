@@ -281,99 +281,46 @@ functions {
             matrix[n_decks, n_records] F_next;
             matrix[n_decks, n_records] F_norm;
             real diff = 0;
-            // P(deck | record)
-            // = P(record | deck) * P(deck) / P(record)
-            // = sum[prev.record]{P(record | prev.record, deck) * P(prev.record | deck)}
-            //  * P(deck) / P(record)
-            // = sum[prev.record]{P(record | prev.record, deck)
-            //      * P(deck | prev.record) * P(prev.record) / P(deck)}
-            //  * P(deck) / P(record)
-            // = sum[prev.record]{P(record | prev.record, deck)
-            //      * P(deck | prev.record) * P(prev.record)}
-            //  / P(record)
-            // = sum[prev.record]{
-            //      P(prev.record) * (
-            //          P(record | prev.record, deck, W) * P(deck, W | prev.record)
-            //          + P(record | prev.record, deck, L) * P(deck, L | prev.record)
-            //      )
-            //  } / P(record)
-            // = sum[prev.record]{
-            //      P(prev.record) * (
-            //          P(record | prev.record, W) * sum[opp.deck]{
-            //              P(deck, W | opp.deck) * P(opp.deck | prev.record)
-            //          } + P(record | prev.record, L) * sum[opp.deck]{
-            //              P(deck, L | opp.deck) * P(opp.deck | prev.record)
-            //          }
-            //      )
-            //  } / P(record)
-            // = sum[prev.record]{
-            //      sum[opp.deck]{
-            //          P(deck, W | opp.deck) * P(opp.deck | prev.record)
-            //      } * P(prev.record) * P(record | prev.record, W)
-            //  } + sum[prev.record]{
-            //      sum[opp.deck]{
-            //          P(deck, L | opp.deck) * P(opp.deck | prev.record)
-            //      } * P(prev.record) * P(record | prev.record, L)
-            //  } / P(record)
-            // = F = column_normalize[ ((M * P) * X) + (M' * P) * Y ]
-            // where X[i,j] = P(prev.record[i]) * P(record[j] | prev.record[i], W)
-            //              = diag(prior(prev.record)) * T_W
-            //   and Y[i,j] = P(prev.record[i]) * P(record[j] | prev.record[i], L)
-            //              = diag(prior(prev.record)) * T_L
-            //   given T_W s.t. T_W[i,j] = P(record[j] | prev.record[i], W),
-            //                  T_L[i,j] = P(record[j] | prev.record[i], L)
-            // F = column_normalize[ (M * P * d * T_W) + (M' * P * d * T_L) ]
-            //   = column_normalize[ (M * P * d * T_W) + ((1-M) * P * d * T_L) ]
-            //   = column_normalize[ (M * P * d * T_W) + (P * d * T_L) - (M * P * d * T_L) ]
-            //   = column_normalize[ (M * P * d * (T_W - T_L)) + (P * d * T_L) ]
-            // where P[i,j] = P(opp.deck[i] | pl.record[j])
-            //              = sum[opp.record]{P(opp.deck | opp.record) * P(opp.record | pl.record)}
-            //              = sum[opp.record]{
-            //                    P(opp.deck | opp.record) * sum[opp.score]{
-            //                        P(opp.record | opp.score) * P(opp.score | pl.record)
-            //                    }
-            //                }
-            //              = sum[opp.record]{
-            //                    P(opp.deck | opp.record) * sum[opp.score]{
-            //                        P(opp.record | opp.score) * sum[pl.score]{
-            //                            P(opp.score | pl.score) * P(pl.score | pl.record)
-            //                        }
-            //                    }
-            //                }
-            // P = F * U * S * B
-            // where U[i,j] = P(record[i] | score[j]),
-            //      S[i,j] = P(opp.score[i] | pl.score[j])
-            //      B[i,j] = P(score[i] | record[j])
-            // F = column_normalize[ (M * F * U * S * B * d * (T_W - T_L))
-            //          + (F * U * S * B * d * T_L) ]
-            //   = column_normalize[ (M * A * T_diff) + (A * T_L) ]
-            // where A = F * U * S * B * diag(prior(prev.record)),
-            //       T_diff = T_W - T_L
-            // Q == P(prev.opp.record && pl.prev.record) == P(r',r)
-            // F * Q == P(prev.opp.deck && pl.prev.record)
-            //       == sum[r']{ P(d'|r') * P(r',r) }
-            //       == sum[r']{ P(d'|r') * P(r') * P(r|r') }
-            //       == sum[r']{ P(d',r') * P(r|r') }
-            //       == sum[r']{ P(d',r') * P(r|r',d') }
-            //       == sum[r']{ P(d',r',r) }
-            //       == P(d',r)
-            // M * F * Q == sum[d']{ P(win|d,d')*P(d',r) }
-            //           == sum[d']{ P(win|d,d',r)*P(d',r) }
-            //           == sum[d']{ P(win,d,d',r)*P(d',r)/P(d,d',r) }
-            //           == sum[d']{ P(win,d,d',r)*P(d',r)/(P(d|d',r)*P(d',r)) }
-            //           == sum[d']{ P(win,d,d',r)/P(d|d',r) }
-            //           == sum[d']{ P(win,d,d',r)/P(d|r) }
-            //           == sum[d']{ P(win,d,d',r) } / P(d|r)
-            //           == P(win,d,r) / P(d|r)
-            // (M * F * Q) .* P(d|r) == P(win,d,r)
-            // Z_win == P(pl.deck, pl.prev.record, pl.win)
-            //       == P(w,d,r)
-            //       == (M * F * Q) .* F
-            //       == F .* (M * F * Q)
-            //       == F .* (M * A)
-            //       == (M * A) .* F
-            // Z_lose == (M' * A) .* F
-            // F = norm[ (Z_win * T_win) + (Z_lose * T_lose) ]
+            // Let:
+            //
+            //      U = P(record | score)
+            //      S = P(opp.score | pl.score)
+            //      B = P(score | record)
+            //      Q = P(prev.opp.record && pl.prev.record) == P(r',r)
+            //        = U * S * B * diag(P(record))
+            // Then:
+            //
+            //      F * Q == P(prev.opp.deck && pl.prev.record)
+            //            == sum[r']{ P(d'|r') * P(r',r) }
+            //            == sum[r']{ P(d'|r') * P(r') * P(r|r') }
+            //            == sum[r']{ P(d',r') * P(r|r') }
+            //            == sum[r']{ P(d',r') * P(r|r',d') }
+            //            == sum[r']{ P(d',r',r) }
+            //            == P(d',r)
+            //            == P(prev.opp.deck && pl.prev.record)
+            //      M * F * Q == sum[d']{ P(win|d,d')*P(d',r) }
+            //                == sum[d']{ P(win|d,d',r)*P(d',r) }
+            //                == sum[d']{ P(win,d,d',r)*P(d',r)/P(d,d',r) }
+            //                == sum[d']{ P(win,d,d',r)*P(d',r)/(P(d|d',r)*P(d',r)) }
+            //                == sum[d']{ P(win,d,d',r)/P(d|d',r) }
+            //                == sum[d']{ P(win,d,d',r)/P(d|r) }
+            //                == sum[d']{ P(win,d,d',r) } / P(d|r)
+            //                == P(win,d,r) / P(d|r)
+            //                == P(pl.deck && pl.prev.record && won(prev)) / P(p.deck | pl.prev.record)
+            //      F .* (M * F * Q) == P(win,d,r)
+            //                       == P(pl.deck && pl.prev.record && won(prev))
+            //      (F .* (M * F * Q)) * T_win == sum[r]{ P(win,d,r) * P(curr|r,win) }
+            //                                 == sum[r]{ P(win,d,r,curr) }
+            //                                 == P(win,d,curr)
+            //                                 == P(pl.deck, pl.curr.record, won last round)
+            //      (F .* (M' * F * Q)) * T_lose == P(pl.deck, pl.curr.record, lost last round)
+            //
+            // Therefore:
+            //
+            //      F == column_normalize[ ((F .* (M * F * Q)) * T_win) + ((F .* (M' * F * Q)) * T_lose) ]
+            //        == normalize_by_record[ P(pl.curr.deck && pl.curr.record) ]
+            //        == P(deck | record)
+            //
             matrix[n_decks, n_records] A = F * Q;
             F_next = ((F .* (M * A)) * T_win) + ((F .* (M' * A)) * T_lose);
             // Normalize by record
