@@ -110,18 +110,6 @@ functions {
         return matchup_matrix;
     }
     /**
-     * Construct a score pairing matrix S under the assumption that players are
-     * always paired against individuals with the same score.
-     */
-    matrix score_matrix_same(int max_rounds) {
-        int n_scores = 2*max_rounds + 1;
-        matrix[n_scores, n_scores] S = zero_matrix(n_scores, n_scores);
-        for (i in 1:n_scores) {
-            S[i,i] = 1.0;
-        }
-        return S;
-    }
-    /**
      * Construct U[n_records, n_scores]: the prior distribution of records given
      *      a score. u(i,j) is the probability of having record i, given that
      *      the player has some record whose corresponding score is score j.
@@ -172,6 +160,89 @@ functions {
         return B;
     }
     /**
+     * Construct a score pairing matrix S under the assumption that players are
+     * always paired against individuals with the same score.
+     */
+    matrix score_matrix_same(int max_rounds) {
+        int n_scores = 2*max_rounds + 1;
+        matrix[n_scores, n_scores] S = zero_matrix(n_scores, n_scores);
+        for (i in 1:n_scores) {
+            S[i,i] = 1.0;
+        }
+        return S;
+    }
+    /**
+     * Construct a score pairing matrix S under the assumption that players are
+     * always paired against individuals with score up to one away in either
+     * direction.
+     *
+     * An opponent with the exact same score is selected if they come along
+     * within an acceptable amount of time, which is modeled as a Poisson
+     * process, whose rate is the average number of players with the appropriate
+     * score to arrive within the allowed time period, which is in turn the base
+     * rate for players to arrive times the probability that a player has the
+     * appropriate record:
+     *
+     *      P(find opp. | pl.score=s, tolerance=0)
+     *          = 1-PoissonPMF(k=0, rate(s+-0))
+     *          = 1-PoissonPMF(k=0, base_rate * P(score=s))
+     *          = 1-exp(-base_rate * P(score=s))
+     *      P(opp.score=s' | pl.score=s, tolerance=0, find opp.) = (s'==s)
+     *
+     * If this doesn't happen, select the first opponent with score within +- 1:
+     *
+     *      P(opp.score=s' | pl.score=s, tolerance=1, find opp.)
+     *          = P(score=s') / (P(score=s-1) + P(score=s) + P(score=s+1))
+     *              when s' in {s-1, s, s+1}; 0 otherwise
+     *              (and P(score=s')=0 when s' < min_score or s' > max_score)
+     *
+     * Let S0: P(opp.score=s' | pl.score=s, tolerance=0, find opp.) = I
+     *     S1: P(opp.score=s' | pl.score=s, tolerance=0, find opp.)
+     *     p0: P(find opp. | pl.score=s, tolerance=0)
+     *
+     * Then:
+     *
+     *      S = (S0 * diag(p0)) + (S1 * diag(1-p0))
+     *        = (S0 * diag(p0)) + (S1 * (I-diag(p0)))
+     *        = (S0 * diag(p0)) + (S1 * I)  - (S1 * diag(p0))
+     *        = ((S0-S1) * diag(p0)) + S1
+     */
+    matrix score_matrix_one(int max_rounds, real base_rate) {
+        int n_scores = 2*max_rounds + 1;
+        matrix[n_scores, n_scores] S0 = zero_matrix(n_scores, n_scores);
+        matrix[n_scores, n_scores] S1 = zero_matrix(n_scores, n_scores);
+        vector[n_scores] score_prior = score_record_matrix(max_rounds) * record_prior_vector(max_rounds);
+        vector[n_scores] p0;
+        for (i in 1:n_scores) {
+            // S1[s'] = P(opp.score=s' | pl.score=i, tol=1, found)
+            //        = P(s')/(P(i-1) + P(i) + P(i+1)) for s' in (i-1, i, i+1)
+            if (n_scores == 1) {
+                S1[i, i] = 1.0;
+            }
+            else if (i == 1) {
+                real total = score_prior[i] + score_prior[i+1];
+                S1[i,i] = score_prior[i] / total;
+                S1[i+1,i] = score_prior[i+1] / total;
+            }
+            else if (i == n_scores) {
+                real total = score_prior[i-1] + score_prior[i];
+                S1[i-1,i] = score_prior[i-1] / total;
+                S1[i,i] = score_prior[i] / total;
+            }
+            else {
+                real total = score_prior[i-1] + score_prior[i] + score_prior[i+1];
+                S1[i-1,i] = score_prior[i-1] / total;
+                S1[i,i] = score_prior[i] / total;
+                S1[i+1,i] = score_prior[i+1] / total;
+            }
+            // S0 = I
+            S0[i,i] = 1.0;
+            // p0[i] = 1-PoissonPMF(k=0, base_rate*P(score[i]))
+            p0[i] = 1 - exp(-base_rate * score_prior[i]);
+        }
+        return diag_post_multiply(S0 - S1, p0) + S1;
+    }
+    /**
      * Construct F, representing the probability that a deck with a given record
      * is playing a given deck.
      *
@@ -213,7 +284,7 @@ functions {
      *      player's score. s(i,j) is the probability of getting paired against
      *      someone with score i, given that you have score j.
      * B[n_scores, n_records] is the prior distribution of scores given a
-     *      record. Since each record results in a unique score (w-l), 
+     *      record. Since each record results in a unique score (w-l),
      *      b(i,j) = 1 where record j corresponds to score i, and 0 elsewhere.
      * PR[n_records] is a vector representing the prior probability of having
      *      each record. diagonal_matrix(PR) is a matrix whose diagonal entries
@@ -350,13 +421,13 @@ functions {
      * maximum number of rounds. Follows from F according to the model:
      *
      *      P = F * U * S
-     * 
+     *
      * where:
      *
      *      F corresponds to P(deck | record)
      *      U corresponds to P(record | score)
      *      S corresponds to P(opponent's score | player's score)
-     * 
+     *
      * therefore P corresponds to P(opponent's deck | player's score) .
      *
      * The resulting probabilities define the distribution parameters, so this
@@ -375,36 +446,37 @@ functions {
     }
 }
 data {
-    int n_decks;
+    int n_archetypes;
     int n_rounds;
-    int deck[((2*n_rounds)+1), n_decks];
+    int pairings[((2*n_rounds)+1), n_archetypes];
 }
 parameters {
-    simplex[n_decks] pdeck;
-    real<lower=0, upper=1> matchups[n_decks*(n_decks-1)/2];
+    simplex[n_archetypes] pdeck;
+    real<lower=0, upper=1> matchups[n_archetypes*(n_archetypes-1)/2];
+    real<lower=0> rate;
 }
 transformed parameters {
-    matrix[(2*n_rounds)+1, (2*n_rounds)+1] S = score_matrix_same(n_rounds);
-    matrix[n_decks, ((n_rounds+1) * (n_rounds+2)) / 2] F;
-    vector[n_decks] pdeck_score[(2*n_rounds)+1];
-    F = deck_record_matrix(n_decks, n_rounds, pdeck, matchup_matrix(matchups, n_decks), S);
-    pdeck_score = p_pairdeck_scores(n_decks, n_rounds, F, S);
+    matrix[(2*n_rounds)+1, (2*n_rounds)+1] S = score_matrix_one(n_rounds, rate);
+    matrix[n_archetypes, ((n_rounds+1) * (n_rounds+2)) / 2] F;
+    vector[n_archetypes] pdeck_score[(2*n_rounds)+1];
+    F = deck_record_matrix(n_archetypes, n_rounds, pdeck, matchup_matrix(matchups, n_archetypes), S);
+    pdeck_score = p_pairdeck_scores(n_archetypes, n_rounds, F, S);
 }
 model {
     real alpha = 1; // Beta(11,11) prior on matchup percentage inferred from old TMI data
-    pdeck ~ dirichlet(rep_vector(1.0, n_decks));
-    for (i in 1:(n_decks*(n_decks-1)/2)) {
+    pdeck ~ dirichlet(rep_vector(1.0, n_archetypes));
+    for (i in 1:(n_archetypes*(n_archetypes-1)/2)) {
         matchups[i] ~ beta(alpha, alpha);
     }
     for (i in 1:((2*n_rounds)+1)) {
-        deck[i] ~ multinomial(pdeck_score[i]);
+        pairings[i] ~ multinomial(pdeck_score[i]);
     }
 }
 generated quantities {
-    real pwin_deck[n_decks];
-    for (i in 1:n_decks) {
+    real pwin_deck[n_archetypes];
+    for (i in 1:n_archetypes) {
         pwin_deck[i] = 0.0;
-        for (j in 1:n_decks) {
+        for (j in 1:n_archetypes) {
             pwin_deck[i] += pdeck[j] * p_win_match(i, j, matchups);
         }
     }

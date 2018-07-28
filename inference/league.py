@@ -62,9 +62,13 @@ class League(object):
         p = [self.score_distribution[score1][score2] for score2 in self.scores]
         return rand.choices(self.scores, p, k=1)[0]
 
-    def choose_deck(self, score):
+    def choose_deck(self, score=None):
         """Choose a deck, identified by archetype and record, by sampling
-        uniformly from those with the exact score (wins minus losses)."""
+        uniformly from those with the exact score (wins minus losses) or
+        completely at random if no score is given."""
+        self.score_counts[score];
+        if score is None:
+            return self.choose_deck(self.choose_score())
         n = float(self.score_counts[score])
         if n > 0:
             options = []
@@ -83,6 +87,22 @@ class League(object):
                     return d
         return (None, None)
 
+    def choose_within_one(self, score, tries):
+        for i in range(tries):
+            (deck, record) = self.choose_deck(score)
+            if record is not None and (record[0] - record[1]) == score:
+                return (deck, record, score)
+        if self.score_counts.get(score, 0) == 0:
+            if self.score_counts.get(score-1, 0) == 0:
+                if self.score_counts.get(score+1, 0) == 0:
+                    return (None, None, None)
+        while(True):
+            (deck, record) = self.choose_deck(score)
+            if record is not None:
+                other_score = record[0] - record[1]
+                if abs(score - other_score) <= 1:
+                    return (deck, record, other_score)
+
     def add_record(self, deck, new_w, new_l):
         """Add a deck with a specific record to the record/score counts."""
         new_score = new_w - new_l
@@ -95,13 +115,16 @@ class League(object):
             self.field_record[record][deck] = self.field_record[record][deck] + 1
             self.record_counts[record] = self.record_counts[record] + 1
 
-    def play_match(self):
+    def play_match(self, tries=None):
         p1_score = self.choose_score()
         (p1_deck, p1_record) = self.choose_deck(p1_score)
         if p1_deck is None:
             return
-        p2_score = self.choose_paired_score(p1_score)
-        (p2_deck, p2_record) = self.choose_deck(p2_score)
+        if tries is None:
+            p2_score = self.choose_paired_score(p1_score)
+            (p2_deck, p2_record) = self.choose_deck(p2_score)
+        else:
+            (p2_deck, p2_record, p2_score) = self.choose_within_one(p1_score, tries)
         if p2_deck is None:
             return
         self.field[p1_score][p1_deck] = self.field[p1_score][p1_deck] - 1
@@ -137,16 +160,19 @@ class League(object):
         return p
 
 def generate():
-    n_decks = 1000
-    n_samples = 5000
+    n_decks = 500
+    n_samples = 100
     n_matches = 10
     n_rounds = 4
+    tries = 50
     field = [0.3, 0.5, 0.2]
     matchups = {
             0: {0: 0.5, 1: 0.3, 2: 0.8},
             1: {0: 0.7, 1: 0.5, 2: 0.3},
             2: {0: 0.2, 1: 0.7, 2: 0.5}
     }
+    print("Generating test data: {} archetypes, {} decks in field, approx {}"
+            " pairings per score".format(len(field), n_decks, n_samples))
     scores = [i-n_rounds for i in range((n_rounds*2)+1)]
     records = []
     score_map = {s1: {s2: 0.0 for s2 in scores} for s1 in scores}
@@ -161,7 +187,7 @@ def generate():
     record_counts = {r: [0]*len(field) for r in l.records}
     for i in range(n_samples):
         for j in range(n_matches):
-            l.play_match()
+            l.play_match(tries)
     for i in range(n_samples):
         for j in range(n_matches):
             l.play_match()
@@ -171,32 +197,33 @@ def generate():
                 counts[s][i] += 1
                 record_counts[r][i] += 1
     data = {
-            'n_decks': len(field),
+            'n_archetypes': len(field),
             'n_rounds': n_rounds,
-            'deck': [counts[s] for s in scores]
+            'pairings': [counts[s] for s in scores]
     }
     for s in scores:
         n_score = float(sum(counts[s]))
-        p_score = [x/n_score for x in counts[s]]
-        print("score distribution[{}]: {}".format(s, p_score))
+        p_score = [x/n_score if x > 0 else 0 for x in counts[s]]
+        print("\tscore distribution[{}]: {}".format(s, p_score))
     for r in l.records:
         n_record = float(sum(record_counts[r]))
-        p_record = [x/n_record for x in record_counts[r]]
-        print("record distribution[{}]: {}".format(r, p_record))
+        p_record = [x/n_record if x > 0 else 0 for x in record_counts[r]]
+        print("\trecord distribution[{}]: {}".format(r, p_record))
     for d1 in l.decks:
         record = []
         for d2 in l.decks:
             mw = match_wins[d1][d2]
             ml = match_wins[d2][d1]
-            p = mw / float(mw+ml)
+            p = mw / float(mw+ml) if mw+ml > 0 else 0.0
             record.append(p)
-        print("Empirical match wins[{}]: {}".format(d1, record))
+        print("\tEmpirical match wins[{}]: {}".format(d1, record))
     n_wins = {d: sum([match_wins[d][x] for x in actual_field]) for d in actual_field}
     n_losses = {d: sum([match_wins[x][d] for x in actual_field]) for d in actual_field}
-    win_rate = {d: n_wins[d]/float(n_wins[d]+n_losses[d]) for d in actual_field}
-    print("Sample distribution:", actual_distribution)
-    print("Sample EV:", ev)
-    print("Sample empirical wins:", win_rate)
+    win_rate = {d: n_wins[d]/float(n_wins[d]+n_losses[d]) if n_wins[d] > 0
+            else 0.0 for d in actual_field}
+    print("\tSample distribution:", actual_distribution)
+    print("\tSample EV:", ev)
+    print("\tSample empirical wins:", win_rate)
     return data
 
 def consolidate(data, n):
@@ -226,15 +253,18 @@ def run_inference(data, iterations, warmup, chains, init='random',
 
 def test(sample_file=None):
     test_data = generate()
-    print(test_data)
-    fit = run_inference(test_data, 1000, 500, 1, sample_file=sample_file)
+    print("Test data:\n\t{}".format(test_data))
+    fit = run_inference(test_data, 20000, 10000, 16, sample_file=sample_file)
     def test_pars(cpar):
         upar = fit.unconstrain_pars(cpar)
         print("log(p({})) == {}".format(cpar, fit.log_prob(upar, False)))
-    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.3, 0.8, 0.3]})
-    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.8, 0.3, 0.8]})
-    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.5, 0.5, 0.5]})
-    fit.plot(pars=['pdeck', 'matchups', 'pwin_deck'])
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.3, 0.8, 0.3], 'rate': 1})
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.3, 0.8, 0.3], 'rate': 20})
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.3, 0.8, 0.3], 'rate': 100})
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.3, 0.8, 0.3], 'rate': 50})
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.8, 0.3, 0.8], 'rate': 50})
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.5, 0.5, 0.5], 'rate': 50})
+    fit.plot(pars=['pdeck', 'matchups', 'pwin_deck', 'rate'])
     plt.show()
 
 def main(data_file):
