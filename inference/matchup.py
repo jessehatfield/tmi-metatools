@@ -42,7 +42,7 @@ def generate():
             if n > 0:
                 print("{0},{1},{2},{3}".format(clean(a1), clean(a2), n, w))
 
-def analyze(data_file):
+def analyze(data_file, order, mirror):
     n_model = 0
     max_matchups = 0
     data = {
@@ -57,9 +57,19 @@ def analyze(data_file):
                 break
             w = int(row['w'])
             n = int(row['n'])
+            if order:
+                if n-w > w:
+                    w = n-w
+                    temp = row['deck1']
+                    row['deck1'] = row['deck2']
+                    row['deck2'] = temp
             data['w'].append(w)
             data['n'].append(n)
             matchups.append(row['deck1'] + "," + row['deck2'])
+            if mirror:
+                data['w'].append(n-w)
+                data['n'].append(n)
+                matchups.append(row['deck2'] + "," + row['deck1'])
     data['n_matchups'] = len(matchups)
     data['n_modeled'] = min(n_model, len(matchups))
     sm = pystan.StanModel(file="models/matchup.stan")
@@ -71,6 +81,6 @@ def analyze(data_file):
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
-        analyze(sys.argv[1])
+        analyze(sys.argv[1], False, False)
     else:
         generate()

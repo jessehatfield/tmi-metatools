@@ -181,12 +181,18 @@ functions {
      * process, whose rate is the average number of players with the appropriate
      * score to arrive within the allowed time period, which is in turn the base
      * rate for players to arrive times the probability that a player has the
-     * appropriate record:
+     * appropriate record. Or alternately, define the scale of the distribution
+     * as the expected wait time relative to the max wait time:
      *
      *      P(find opp. | pl.score=s, tolerance=0)
      *          = 1-PoissonPMF(k=0, rate(s+-0))
      *          = 1-PoissonPMF(k=0, base_rate * P(score=s))
+     *          = ExponentialCDF(x=1, rate = base_rate * P(score=s))
      *          = 1-exp(-base_rate * P(score=s))
+     *          = ExponentialCDF(x=1, scale = 1/(base_rate * P(score=s)))
+     *          = ExponentialCDF(x=1, scale = wait_time / P(score=s))
+     *          = ExponentialCDF(x=1, rate = P(score=s) / wait_time)
+     *          = 1-exp(-P(score=s) / wait_time)
      *      P(opp.score=s' | pl.score=s, tolerance=0, find opp.) = (s'==s)
      *
      * If this doesn't happen, select the first opponent with score within +- 1:
@@ -207,7 +213,7 @@ functions {
      *        = (S0 * diag(p0)) + (S1 * I)  - (S1 * diag(p0))
      *        = ((S0-S1) * diag(p0)) + S1
      */
-    matrix score_matrix_one(int max_rounds, real base_rate) {
+    matrix score_matrix_one(int max_rounds, real wait_time) {
         int n_scores = 2*max_rounds + 1;
         matrix[n_scores, n_scores] S0 = zero_matrix(n_scores, n_scores);
         matrix[n_scores, n_scores] S1 = zero_matrix(n_scores, n_scores);
@@ -237,8 +243,13 @@ functions {
             }
             // S0 = I
             S0[i,i] = 1.0;
-            // p0[i] = 1-PoissonPMF(k=0, base_rate*P(score[i]))
-            p0[i] = 1 - exp(-base_rate * score_prior[i]);
+            // p0[i] = 1-PoissonPMF(k=0, P(score[i])/wait_time)
+            if (wait_time > 0) {
+                p0[i] = 1 - exp(-score_prior[i] / wait_time);
+            }
+            else {
+                p0[i] = 1.0;
+            }
         }
         return diag_post_multiply(S0 - S1, p0) + S1;
     }
@@ -453,17 +464,17 @@ data {
 parameters {
     simplex[n_archetypes] pdeck;
     real<lower=0, upper=1> matchups[n_archetypes*(n_archetypes-1)/2];
-    real<lower=0> rate;
+    real<lower=0> wait_time;
 }
 transformed parameters {
-    matrix[(2*n_rounds)+1, (2*n_rounds)+1] S = score_matrix_one(n_rounds, rate);
+    matrix[(2*n_rounds)+1, (2*n_rounds)+1] S = score_matrix_one(n_rounds, wait_time);
     matrix[n_archetypes, ((n_rounds+1) * (n_rounds+2)) / 2] F;
     vector[n_archetypes] pdeck_score[(2*n_rounds)+1];
     F = deck_record_matrix(n_archetypes, n_rounds, pdeck, matchup_matrix(matchups, n_archetypes), S);
     pdeck_score = p_pairdeck_scores(n_archetypes, n_rounds, F, S);
 }
 model {
-    real alpha = 1; // Beta(11,11) prior on matchup percentage inferred from old TMI data
+    real alpha = 11; // Beta(11,11) prior on matchup percentage inferred from old TMI data
     pdeck ~ dirichlet(rep_vector(1.0, n_archetypes));
     for (i in 1:(n_archetypes*(n_archetypes-1)/2)) {
         matchups[i] ~ beta(alpha, alpha);
@@ -471,6 +482,7 @@ model {
     for (i in 1:((2*n_rounds)+1)) {
         pairings[i] ~ multinomial(pdeck_score[i]);
     }
+    wait_time ~ exponential(10);
 }
 generated quantities {
     real pwin_deck[n_archetypes];

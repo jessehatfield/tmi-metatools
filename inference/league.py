@@ -22,11 +22,14 @@ class League(object):
         self.records = []
         self.field_record = {}
         self.record_counts = {}
+        self.pairings = {}
         for i in range(2*self.max_rounds + 1):
             score = i - self.max_rounds
             self.scores.append(score)
             self.field[score] = {deck: 0 for deck in self.decks}
             self.score_counts[score] = 0
+        for s1 in self.scores:
+            self.pairings[s1] = {s2: 0 for s2 in self.scores}
         for n in range(self.max_rounds+1):
             for l in range(n+1):
                 r = (n-l, l)
@@ -66,7 +69,6 @@ class League(object):
         """Choose a deck, identified by archetype and record, by sampling
         uniformly from those with the exact score (wins minus losses) or
         completely at random if no score is given."""
-        self.score_counts[score];
         if score is None:
             return self.choose_deck(self.choose_score())
         n = float(self.score_counts[score])
@@ -89,7 +91,7 @@ class League(object):
 
     def choose_within_one(self, score, tries):
         for i in range(tries):
-            (deck, record) = self.choose_deck(score)
+            (deck, record) = self.choose_deck()
             if record is not None and (record[0] - record[1]) == score:
                 return (deck, record, score)
         if self.score_counts.get(score, 0) == 0:
@@ -97,7 +99,7 @@ class League(object):
                 if self.score_counts.get(score+1, 0) == 0:
                     return (None, None, None)
         while(True):
-            (deck, record) = self.choose_deck(score)
+            (deck, record) = self.choose_deck()
             if record is not None:
                 other_score = record[0] - record[1]
                 if abs(score - other_score) <= 1:
@@ -115,6 +117,9 @@ class League(object):
             self.field_record[record][deck] = self.field_record[record][deck] + 1
             self.record_counts[record] = self.record_counts[record] + 1
 
+    def record_pairing(self, s1, s2):
+        self.pairings[s1][s2] = self.pairings[s1][s2] + 1
+
     def play_match(self, tries=None):
         p1_score = self.choose_score()
         (p1_deck, p1_record) = self.choose_deck(p1_score)
@@ -127,6 +132,7 @@ class League(object):
             (p2_deck, p2_record, p2_score) = self.choose_within_one(p1_score, tries)
         if p2_deck is None:
             return
+        self.record_pairing(p1_score, p2_score)
         self.field[p1_score][p1_deck] = self.field[p1_score][p1_deck] - 1
         self.field[p2_score][p2_deck] = self.field[p2_score][p2_deck] - 1
         self.score_counts[p1_score] = self.score_counts[p1_score] - 1
@@ -159,17 +165,20 @@ class League(object):
                     p += p_pair_score * p_pair_deck * p_win
         return p
 
+#m = [0.3, 0.8, 0.3]
+m = [0.45, 0.55, 0.45]
+
 def generate():
-    n_decks = 500
+    n_decks = 1000
     n_samples = 100
     n_matches = 10
     n_rounds = 4
-    tries = 50
+    tries = 100
     field = [0.3, 0.5, 0.2]
     matchups = {
-            0: {0: 0.5, 1: 0.3, 2: 0.8},
-            1: {0: 0.7, 1: 0.5, 2: 0.3},
-            2: {0: 0.2, 1: 0.7, 2: 0.5}
+            0: {0:    0.5,  1:   m[0],  2: m[1]},
+            1: {0: 1-m[0],  1:    0.5,  2: m[2]},
+            2: {0: 1-m[1],  1: 1-m[2],  2:  0.5}
     }
     print("Generating test data: {} archetypes, {} decks in field, approx {}"
             " pairings per score".format(len(field), n_decks, n_samples))
@@ -185,15 +194,17 @@ def generate():
     ev = {d: l.ev(d, 0) for d in actual_field}
     counts = {s: [0]*len(field) for s in scores}
     record_counts = {r: [0]*len(field) for r in l.records}
+    data_points = 0
     for i in range(n_samples):
         for j in range(n_matches):
             l.play_match(tries)
     for i in range(n_samples):
         for j in range(n_matches):
-            l.play_match()
+            l.play_match(tries)
         for s in scores:
             (i, r) = l.choose_deck(s)
             if i is not None:
+                data_points += 1
                 counts[s][i] += 1
                 record_counts[r][i] += 1
     data = {
@@ -224,6 +235,16 @@ def generate():
     print("\tSample distribution:", actual_distribution)
     print("\tSample EV:", ev)
     print("\tSample empirical wins:", win_rate)
+    for s1 in l.scores:
+        total = float(sum([l.pairings[s1][s2] for s2 in l.scores]))
+        for s2 in l.scores:
+            p = l.pairings[s1][s2] / total
+            if p > 0:
+                print("\tGiven score {}, paired against {}: {}".format(s1, s2, p))
+    for s in l.scores:
+        p = float(l.score_counts[s]) / l.n
+        print("score[{}]: {}".format(s, p))
+    print("{} total data points.".format(data_points))
     return data
 
 def consolidate(data, n):
@@ -254,17 +275,19 @@ def run_inference(data, iterations, warmup, chains, init='random',
 def test(sample_file=None):
     test_data = generate()
     print("Test data:\n\t{}".format(test_data))
-    fit = run_inference(test_data, 20000, 10000, 16, sample_file=sample_file)
+    n = 2**11
+    w = 2**10
+    fit = run_inference(test_data, n+w, w, 4, sample_file=sample_file)
     def test_pars(cpar):
         upar = fit.unconstrain_pars(cpar)
         print("log(p({})) == {}".format(cpar, fit.log_prob(upar, False)))
-    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.3, 0.8, 0.3], 'rate': 1})
-    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.3, 0.8, 0.3], 'rate': 20})
-    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.3, 0.8, 0.3], 'rate': 100})
-    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.3, 0.8, 0.3], 'rate': 50})
-    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.8, 0.3, 0.8], 'rate': 50})
-    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.5, 0.5, 0.5], 'rate': 50})
-    fit.plot(pars=['pdeck', 'matchups', 'pwin_deck', 'rate'])
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': m, 'wait_time': 0})
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': m, 'wait_time': .01})
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': m, 'wait_time': .1})
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': m, 'wait_time': 1})
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.8, 0.3, 0.8], 'wait_time': .01})
+    test_pars({'pdeck': [.3, .5, .2], 'matchups': [0.5, 0.5, 0.5], 'wait_time': .01})
+    fit.plot(pars=['pdeck', 'matchups', 'pwin_deck', 'wait_time'])
     plt.show()
 
 def main(data_file):
