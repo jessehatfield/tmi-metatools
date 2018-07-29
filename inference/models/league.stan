@@ -467,11 +467,11 @@ parameters {
     real<lower=0> wait_time;
 }
 transformed parameters {
-    matrix[(2*n_rounds)+1, (2*n_rounds)+1] S = score_matrix_one(n_rounds, wait_time);
-    matrix[n_archetypes, ((n_rounds+1) * (n_rounds+2)) / 2] F;
     vector[n_archetypes] pdeck_score[(2*n_rounds)+1];
-    F = deck_record_matrix(n_archetypes, n_rounds, pdeck, matchup_matrix(matchups, n_archetypes), S);
-    pdeck_score = p_pairdeck_scores(n_archetypes, n_rounds, F, S);
+    pdeck_score = p_pairdeck_scores(n_archetypes, n_rounds,
+        deck_record_matrix(n_archetypes, n_rounds, pdeck, matchup_matrix(matchups, n_archetypes),
+            score_matrix_one(n_rounds, wait_time)),
+        score_matrix_one(n_rounds, wait_time));
 }
 model {
     real alpha = 11; // Beta(11,11) prior on matchup percentage inferred from old TMI data
