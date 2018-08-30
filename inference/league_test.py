@@ -184,7 +184,6 @@ def generate():
     print("Generating test data: {} archetypes, {} decks in field, approx {}"
             " pairings per score".format(len(field), n_decks, n_samples))
     scores = [i-n_rounds for i in range((n_rounds*2)+1)]
-    records = []
     score_map = {s1: {s2: 0.0 for s2 in scores} for s1 in scores}
     for i in scores:
         score_map[i][i] = 1.0
@@ -211,7 +210,9 @@ def generate():
     data = {
             'n_archetypes': len(field),
             'n_rounds': n_rounds,
-            'pairings': [counts[s] for s in scores]
+            'pairings': [counts[s] for s in scores],
+            'paired_scores': [[0]*len(scores) for s in scores],
+            'decks': [[0]*len(field) for s in l.records]
     }
     for s in scores:
         n_score = float(sum(counts[s]))

@@ -173,6 +173,80 @@ functions {
     }
     /**
      * Construct a score pairing matrix S under the assumption that players are
+     * paired against individuals within a certain delta of the same score,
+     * according to the prior distribution of scores within that range.
+     */
+    matrix score_matrix_k(int max_rounds, int delta) {
+        int n_scores = 2*max_rounds + 1;
+        matrix[n_scores, n_scores] S = zero_matrix(n_scores, n_scores);
+        vector[n_scores] score_prior = score_record_matrix(max_rounds) * record_prior_vector(max_rounds);
+        for (i in 1:n_scores) {
+            // S[s'] = P(opp.score=s' | pl.score=i, delta)
+            //       = P(s') / sum[d=-delta...delta]{P(i+d)} if s' in range
+            real total = 0.0;
+            for (j in (i-delta):(i+delta)) {
+                if (j > 0 && j <= n_scores) {
+                    total += score_prior[j];
+                }
+            }
+            for (j in (i-delta):(i+delta)) {
+                if (j > 0 && j <= n_scores) {
+                    S[j, i] = score_prior[j] / total;
+                }
+            }
+        }
+        return S;
+    }
+    /**
+     * Get the probability of finding an opponent in the relevant time window
+     * whose score is within a certain delta of yours.
+     */
+    matrix find_opponent_matrix(int max_rounds, real wait_time) {
+        int n_scores = 2*max_rounds + 1;
+        matrix[n_scores, n_scores] p_find = zero_matrix(n_scores, n_scores);
+        vector[n_scores] score_prior = score_record_matrix(max_rounds) * record_prior_vector(max_rounds);
+        for (delta in 0:(n_scores-1)) {
+            for (i in 1:n_scores) {
+                real p = 0.0;
+                for (j in (i-delta):(i+delta)) {
+                    if (j > 0 && j <= n_scores) {
+                        p += score_prior[j];
+                    }
+                }
+                p_find[i, delta+1] = 1 - exp(-p / wait_time);
+            }
+        }
+        return p_find;
+    }
+    /**
+     * Construct a score pairing matrix S under the assumption that players can
+     * be scored any distance away if necessary.
+     */
+    matrix score_matrix_full(int max_rounds, real wait_time) {
+        int n_scores = 2*max_rounds + 1;
+        matrix[n_scores, n_scores] p_success = find_opponent_matrix(max_rounds, wait_time);
+        matrix[n_scores, n_scores] S = zero_matrix(n_scores, n_scores);
+        for (delta in 0:(n_scores-1)) {
+            matrix[n_scores, n_scores] p_oppscore = score_matrix_k(max_rounds, delta);
+            vector[n_scores] p_find;
+            for (i in 1:n_scores) {
+                real p_unpaired = 1.0 - sum(col(S, i));
+                p_find[i] = p_unpaired * p_success[i, delta+1];
+            }
+            S += diag_post_multiply(p_oppscore, p_find);
+        }
+        for (j in 1:n_scores) {
+            real total = sum(col(S, j));
+            if (total != 1 && total != 0) {
+                for (i in 1:n_scores) {
+                    S[i,j] = S[i,j] / total;
+                }
+            }
+        }
+        return S;
+    }
+    /**
+     * Construct a score pairing matrix S under the assumption that players are
      * always paired against individuals with score up to one away in either
      * direction.
      *
@@ -460,6 +534,8 @@ data {
     int n_archetypes;
     int n_rounds;
     int pairings[((2*n_rounds)+1), n_archetypes];
+    int paired_scores[((2*n_rounds)+1), ((2*n_rounds)+1)];
+    int decks[(((n_rounds+1)*(n_rounds+2))/2), n_archetypes];
 }
 parameters {
     simplex[n_archetypes] pdeck;
@@ -468,10 +544,11 @@ parameters {
 }
 transformed parameters {
     vector[n_archetypes] pdeck_score[(2*n_rounds)+1];
-    pdeck_score = p_pairdeck_scores(n_archetypes, n_rounds,
-        deck_record_matrix(n_archetypes, n_rounds, pdeck, matchup_matrix(matchups, n_archetypes),
-            score_matrix_one(n_rounds, wait_time)),
-        score_matrix_one(n_rounds, wait_time));
+//    matrix[((2*n_rounds)+1), ((2*n_rounds)+1)] pscore_score_matrix = score_matrix_one(n_rounds, wait_time);
+    matrix[((2*n_rounds)+1), ((2*n_rounds)+1)] pscore_score_matrix = score_matrix_full(n_rounds, wait_time);
+    matrix[n_archetypes, (((n_rounds+1)*(n_rounds+2))/2)] pdeck_record_matrix = deck_record_matrix(
+        n_archetypes, n_rounds, pdeck, matchup_matrix(matchups, n_archetypes), pscore_score_matrix);
+    pdeck_score = p_pairdeck_scores(n_archetypes, n_rounds, pdeck_record_matrix, pscore_score_matrix);
 }
 model {
     real alpha = 11; // Beta(11,11) prior on matchup percentage inferred from old TMI data
@@ -481,8 +558,12 @@ model {
     }
     for (i in 1:((2*n_rounds)+1)) {
         pairings[i] ~ multinomial(pdeck_score[i]);
+        paired_scores[i] ~ multinomial(col(pscore_score_matrix, i));
     }
-    wait_time ~ exponential(10);
+    for (i in 1:(((n_rounds+1)*(n_rounds+2))/2)) {
+        decks[i] ~ multinomial(col(pdeck_record_matrix, i));
+    }
+    wait_time ~ exponential(2);
 }
 generated quantities {
     real pwin_deck[n_archetypes];
