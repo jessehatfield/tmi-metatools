@@ -457,6 +457,9 @@ def getTrend(decktypes, tournies, context, outputs=[], top=[],
         # Restrict to top X decks if specified.
         if onlyTopX > 0:
             alldecks = [ d for d in alldecks if d.place and d.place <= onlyTopX ]
+            if len(alldecks) < onlyTopX:
+                print(f"Skipping {xvalues[i]} with only {len(alldecks)} decks")
+                continue
         # First, add deck-specific stats (once for each deck).
         for decktype in decktypes:
             decks = [ d for d in alldecks if d.archetype == decktype ]

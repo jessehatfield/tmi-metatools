@@ -521,10 +521,12 @@ def getCountsByDeck(decks, side=False):
         counts[a] = getCardCounts(archetypes[a], side)
     return archetypes, counts
 
-tq = tournamentQuery(tids=[3896,4052])
-t = tq.all()
-dq = deckQuery(archetypes=['Reanimator', 'NO RUG'], tquery=tq)
-d = dq.all()
-td = [ x for x in t[1].decks if x.place <= 16 ]
-mq = matchQuery(decks1=d, tournaments=t)
-q = matchQueryGrouped(decks1=d, tournaments=t, aggregate=(True, False, True, False))
+
+if __name__ == "__main__":
+    tq = tournamentQuery(tids=[3896,4052])
+    t = tq.all()
+    dq = deckQuery(archetypes=['Reanimator', 'NO RUG'], tquery=tq)
+    d = dq.all()
+    td = [ x for x in t[1].decks if x.place <= 16 ]
+    mq = matchQuery(decks1=d, tournaments=t)
+    q = matchQueryGrouped(decks1=d, tournaments=t, aggregate=(True, False, True, False))

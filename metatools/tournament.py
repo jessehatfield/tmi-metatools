@@ -39,8 +39,8 @@ class Tournament(object):
         return iter(self.decks)
 
     def __repr__(self):
-        return "<Tournament({0}, {1}, {2}: {3} players>".format(self.city,
-                self.state, self.date, self.numPlayers)
+        return "<Tournament({0}, {1}: {2} players>".format(self.name,
+                self.date, self.numPlayers)
 
     def setName(self, name):
         self.name = name
