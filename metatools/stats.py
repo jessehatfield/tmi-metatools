@@ -1,6 +1,6 @@
 from metatools.database import *
 from metatools.util import *
-from metatools.meta import ObservedMeta
+from metatools.meta import ObservedMeta, PairedMeta
 
 from itertools import product
 
@@ -48,7 +48,7 @@ def getFieldP(tournaments=None, players=[], known=None):
         return (fieldp, '% of Known', 'percent')
     return (fieldp, '% of Field', 'percent')
 
-def getMWP(interval=None, exclude_mirrors=False, known=False):
+def getMWP(interval=None, exclude_mirrors=False, known=False, ub=None, lb=None):
     """Get match win percentage for a list of decks."""
     name = 'Win %'
     if interval:
@@ -57,6 +57,10 @@ def getMWP(interval=None, exclude_mirrors=False, known=False):
         name = '{0} vs. Other'.format(name)
     if known:
         name = '{0} vs. Known'.format(name)
+    if lb:
+        name += f' ({lb*100}% lower bound)'
+    elif ub:
+        name += f' ({ub*100}% upper bound)'
     def matchwin(decks):
         matches = [ m for d in decks for m in d.getMatches() ]
         if exclude_mirrors:
@@ -71,7 +75,12 @@ def getMWP(interval=None, exclude_mirrors=False, known=False):
             selected = records[minMWP:maxMWP]
             matches = [ m for r in selected for m in r[1].matches ]
         if matches:
-            return float(mwp(matches))
+            if lb:
+                return float(mwp_ci(matches, lb)[0])
+            elif ub:
+                return float(mwp_ci(matches, ub)[1])
+            else:
+                return float(mwp(matches))
         else:
             return float('NaN')
     return (matchwin, name, 'percent')
@@ -149,7 +158,7 @@ def getPercentile():
     return (avgpercentile, 'Percentile', 'percent')
 
 def getEV(context, tournaments=None, fromSub=False, smartSub=False,
-        players=[]):
+        players=[], usePairings=False):
     """Get expected value for a list of decks.
 
     context: Metagame to be used for matchup data.
@@ -159,6 +168,8 @@ def getEV(context, tournaments=None, fromSub=False, smartSub=False,
     smartSub: Use the group members' subarchetypes if all members have
             the same archetype and subarchetype.
     players: Restrict calculations to these players.
+    usePairings: Use the actual counts of each archetype the decks were paired against,
+            rather than the overall field of the tournaments. 
     """
     alldecks = list(context.archetypes.keys())
     matchupsMain = context.getMultipleMatchups(alldecks, alldecks)
@@ -175,7 +186,10 @@ def getEV(context, tournaments=None, fromSub=False, smartSub=False,
         tlist = tournaments
         if not tlist:
             tlist = { d.tournament for d in decks }
-        thisMeta = ObservedMeta(tlist, players=players)
+        if usePairings:
+            thisMeta = PairedMeta(decks, players=players)
+        else:
+            thisMeta = ObservedMeta(tlist, players=players)
         result = 0.0
         archetypes = archetypesMain
         matchups = matchupsMain
@@ -194,7 +208,8 @@ def getEV(context, tournaments=None, fromSub=False, smartSub=False,
                 ev += p * float(mwp)
             result += ev * n / len(decks)
         return result
-    return (ev_func, 'EV', 'percent')
+    oppType = 'Pairings' if usePairings else 'Field'
+    return (ev_func, f'EV vs. {oppType}', 'percent')
 
 def getTop(n):
     """Get the number of top n placings for a list of decks.
@@ -565,14 +580,11 @@ def getPContaining_card(decks, slots='both'):
     name = '% of Decks{0}'.format(temp)
     return (p_containing_func, name, 'percent')
 
-def getMWP_card(decks, withcard=True):
-    """Get the win percentage of decks containing or not containing a
-    particular card."""
-    mwpFunc = getMWP()[0]
-    name = 'Win % With' 
+def _getStat_card(decks, withcard, function, base_name, return_type):
+    name = f'{base_name} With'
     if not withcard:
-        name = 'Win % Without'
-    def mwp_card(cardname):
+        name = f'{base_name} Without'
+    def get_stat(cardname):
         decksWith = []
         decksWithout = []
         for d in decks:
@@ -586,7 +598,56 @@ def getMWP_card(decks, withcard=True):
             else:
                 decksWithout.append(d)
         if withcard:
-            return mwpFunc(decksWith)
+            return function(decksWith)
         else:
-            return mwpFunc(decksWithout)
-    return (mwp_card, name, 'percent')
+            return function(decksWithout)
+    return (get_stat, name, return_type)
+
+def getMWP_card(decks, withcard=True):
+    """Get the win percentage of decks containing or not containing a
+    particular card."""
+    return _getStat_card(decks, withcard, getMWP()[0], 'Win %', 'percent')
+
+def getRecord_card(decks, withcard=True):
+    """Get the total record of decks containing or not containing a
+    particular card."""
+    def get_record_str(decks):
+        w, l, d = getRecord()[0](decks)
+        return f'{w}-{l}-{d}'
+    return _getStat_card(decks, withcard, get_record_str, 'Record', 'string')
+
+def _includes_card(deck, cardname):
+    for s in deck.slots:
+        if s.cardname == cardname:
+            return True
+    return False
+
+def _getStat_versus(decks, name, function, return_type):
+    def get_stat(cardname):
+        matches = []
+        for d in decks:
+            if _includes_card(d, cardname):
+                matches.extend([m for m in d.getMatches() if not _includes_card(m.deck2, cardname)])
+        return function(matches)
+    return (get_stat, name, return_type)
+
+def getMWP_versus(decks):
+    """Get the win percentage of decks containing a card when matched against
+    decks not containing the same card."""
+    def mwp_versus(matches):
+        if matches:
+            return float(mwp(matches))
+        else:
+            return float('NaN')
+    return _getStat_versus(decks, 'Win % vs. Without', mwp_versus, 'percent')
+
+def getRecord_versus(decks):
+    """Get the record percentage of decks containing a card when matched against
+    decks not containing the same card."""
+    def record_versus(matches):
+        if matches:
+            w, l, d = record(matches)
+            return f'{w}-{l}-{d}'
+        else:
+            return '0-0-0'
+    return _getStat_versus(decks, 'Record vs. Without', record_versus, 'string')

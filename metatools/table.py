@@ -12,13 +12,15 @@ from operator import itemgetter
 
 class Field:
     def __init__(self, fieldID, fieldName=None, align=None, type=None,
-            precision=None):
+            precision=None, components=None):
         """Create a Field.
         @param fieldID  Used to access the Field (required).
-        @param  fieldName   Displayed name (defaults to fieldID).
-        @param  align  Determines alignment: <, >, or ^.
-        @param  type  Determines how to format values for printing.
+        @param fieldName   Displayed name (defaults to fieldID).
+        @param align  Determines alignment: <, >, or ^.
+        @param type  Determines how to format values for printing.
                       (int, float, percent, str)
+        @param components If this field is a combination of multiple variables, this should be a
+                          dict containing key: value pairs describing that combination.
         """
         self.id = fieldID
         self.name = self.id
@@ -32,6 +34,7 @@ class Field:
                 self.align = '>'
         if fieldName is not None:
             self.name = fieldName
+        self.components = {k: components[k] for k in components} if components else {}
 
     def formatData(self, value):
         """Formats a value of the field for printing as data."""

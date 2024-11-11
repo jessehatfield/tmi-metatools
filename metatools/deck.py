@@ -107,6 +107,7 @@ class Deck(object):
         self.archetype = archetype
         self.subarchetype = subarchetype
         self.matches = []
+        self.slots = []
 
     @staticmethod
     def fromFile(fn):

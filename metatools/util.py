@@ -1,10 +1,11 @@
 """Utility functions"""
 
-from math import log
+from math import log, sqrt
 from operator import attrgetter
 from datetime import timedelta, date, datetime
 from fractions import *
 from decimal import *
+import scipy.stats as st
 
 drawMult = Decimal(.5)  #How much a draw contributes to games/matches won
 drawCount = 1  #How much a draw contributes to total games/matches
@@ -39,6 +40,20 @@ def mwp_record(win, loss, draw, datatype=Decimal):
         return datatype(win + (draw*drawMult)) / total
     else:
         return None
+
+def wilson(successes, failures, z):
+    n = successes + failures
+    z_sq = z**2
+    center = (successes + (z_sq / 2.0)) / (n + z_sq)
+    delta =  z / (n + z_sq) * sqrt((successes * failures / n) + (z_sq / 4.0))
+    return center - delta, center + delta
+
+def mwp_ci(matches, confidence=0.95, datatype=Decimal):
+    """Get a confidence interval for match-win percentage over a list of matches."""
+    win, loss, _ = record(matches)
+    alpha = 1 - confidence
+    z = st.norm.ppf(1 - alpha / 2)
+    return wilson(win, loss, z)
 
 # Diversity measures
 
@@ -135,7 +150,7 @@ def groupByWeek(tournaments, begin=None, end=None):
         begin = datetime.strptime(begin, '%Y-%m-%d')
         year, week_n, day = begin.isocalendar()
     if end:
-        end = strptime('%Y-%m-%d')
+        end = datetime.strptime(end, '%Y-%m-%d')
     else:
         end = datetime.today()
     end_week = datetime.strptime('{0}-{1}-6'.format(year, week_n), '%Y-%W-%w').date()

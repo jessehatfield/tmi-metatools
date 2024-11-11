@@ -61,7 +61,9 @@ def getStats(tournaments, context, outputs=[], top=[],
         'mwpTop': getMWP(interval=[.5,1]),
         'mwpBottom': getMWP(interval=[0,.5]),
         'size': getSize(tournaments),
-        'place': getExactPlace()
+        'place': getExactPlace(),
+        'mwpLowerBound': getMWP(lb=.95),
+        'mwpUpperBound': getMWP(ub=.95)
     }
     stats = []
     for key in outputs:
@@ -69,6 +71,8 @@ def getStats(tournaments, context, outputs=[], top=[],
             stats.append((key, functions[key]))
         elif key == 'ev':
             stats.append((key, getEV(context, tournaments=tournaments, players=players)))
+        elif key == 'evPairings':
+            stats.append((key, getEV(context, players=players, usePairings=True)))
     for n in top:
         key = 't{0}'.format(n)
         stats.append((key, getTop(n)))
@@ -105,6 +109,7 @@ def getTourneyStats(outputs=[], card_count=[], containing=[], p_card=[],
     igr: Information Gain Ratio
     d: Simpson's Index of Diversity
     D: Simpson's Index of Diversity (w/replacement)
+    n: # of players
     nd: # of distinct decks
     sumd: Total # of decks
     cigr: Information Gain Ratio (Cards)
@@ -124,7 +129,7 @@ def getTourneyStats(outputs=[], card_count=[], containing=[], p_card=[],
     hgiven2: Conditional entropy of card given two other cards
     """
     functions = {
-        'date': (getDate, 'date', 'str'),
+        'date': (getDate, 'Date', 'str'),
         'igr': (getDeckDiversity(igr), 'Info Gain Ratio (Deck)', 'precise'),
         'd': (getDeckDiversity(simpson), "Simpson's D (Deck)", 'precise'),
         'D': (getDeckDiversity(simpsonR), "Simpson's D (w/rep) (Deck)", 'precise'),
@@ -133,7 +138,9 @@ def getTourneyStats(outputs=[], card_count=[], containing=[], p_card=[],
         'cigr': (getCardDiversity(igr), 'Info Gain Ratio (Card)', 'precise'),
         'cd': (getCardDiversity(simpson), "Simpson's D (Card)", 'precise'),
         'cD': (getCardDiversity(simpsonR), "Simpson's D (w/rep) (Card)", 'precise'),
+        'total_matches': getMatchTotal(),
         'nc': (getCardDiversity(len), "Distinct Cards", 'int'),
+        'total_players': (len, "Players", 'int'),
         'sumc': (getCardDiversity(sum), "Total # of Cards", 'int'),
         'mi' : (getMutualInformation(), "I(Card;Archetype)", 'float'),
         'h': (getDeckDiversity(entropy), 'Entropy (Archetype)', 'float'),
@@ -190,6 +197,10 @@ def getCardStats(tournaments, outputs, top=None):
     psidecopies: Percent of all sideboard cards which are this card
     mwp: Match win percentage of decks containing this card
     mwpWithout: Match win percentage of decks not containing this card
+    mwpVersus: Win percentage when decks containing this card are matched against decks without
+    record: Record of decks containing this card
+    recordWithout: Record of decks not containing this card
+    recordVersus: Record when decks containing this card are matched against decks without
     """
     decks = []
     for t in tournaments:
@@ -211,7 +222,11 @@ def getCardStats(tournaments, outputs, top=None):
         'pmaincopies': getPCopies_card(decks, 'main'),
         'psidecopies': getPCopies_card(decks, 'side'),
         'mwp': getMWP_card(decks, True),
-        'mwpWithout': getMWP_card(decks, False)
+        'mwpWithout': getMWP_card(decks, False),
+        'mwpVersus': getMWP_versus(decks),
+        'record': getRecord_card(decks, True),
+        'recordWithout': getRecord_card(decks, False),
+        'recordVersus': getRecord_versus(decks)
     }
     stats = []
     for key in outputs:
@@ -427,22 +442,24 @@ def getTrend(decktypes, tournies, context, outputs=[], top=[],
     table = Table()
     table.addField(Field(xlabel))
 
+    # Add Fields for general tournament stats.
+    for key, stat in tstats:
+        func, name, datatype = stat
+        table.addField(Field(name, type=datatype))
     # Add Fields for deck-specific stats.
     for decktype in decktypes:
         for key, stat in stats:
             func, name, datatype = stat
             table.addField(Field('{0}--{1}'.format(decktype, key),
-                type=datatype, fieldName=buildName(decktype, name)))
+                type=datatype, fieldName=buildName(decktype, name),
+                components={'deck': decktype, 'stat': key}))
     # Add Fields for group-specific stats.
     for groupname in sorted(groups.keys()):
         for key, stat in stats:
             func, name, datatype = stat
             table.addField(Field('{0}--{1}'.format(groupname, key),
-                type=datatype, fieldName=buildName(groupname, name)))
-    # Add Fields for general tournament stats.
-    for key, stat in tstats:
-        func, name, datatype = stat
-        table.addField(Field(name, type=datatype))
+                type=datatype, fieldName=buildName(groupname, name),
+                components={'group': groupname, 'stat': key}))
 
     # For each tournament or group of tournaments, construct a row.
     for i in range(len(tgroups)):
@@ -460,6 +477,10 @@ def getTrend(decktypes, tournies, context, outputs=[], top=[],
             if len(alldecks) < onlyTopX:
                 print(f"Skipping {xvalues[i]} with only {len(alldecks)} decks")
                 continue
+        # Add general tournament stats (once only).
+        for key, stat in tstats:
+            func, name, datatype = stat
+            row.append(func(alldecks))
         # First, add deck-specific stats (once for each deck).
         for decktype in decktypes:
             decks = [ d for d in alldecks if d.archetype == decktype ]
@@ -476,10 +497,6 @@ def getTrend(decktypes, tournies, context, outputs=[], top=[],
             for key, stat in stats:
                 func, name, datatype = stat
                 row.append(func(decks))
-        # Then, add general tournament stats (once only).
-        for key, stat in tstats:
-            func, name, datatype = stat
-            row.append(func(alldecks))
         # Add the row to the resulting table.
         table.addRecord(*row)
     return table
@@ -581,19 +598,30 @@ def getDiversity(tournies, funcnames, top, infogain, infogainmatch, summary=Fals
 
     return table
 
-def getCardInfo(tournies, outputs, top):
+def getCardInfo(tournies, outputs, top, multitop=[]):
     """Get information about the actual contents of the decks.
     tournies: a list of Tournaments for the relevant time period
     outputs: A list of statistics to output (see getCardStats).
     top: A number -- restrict stats to the top X decks.
+    multitop: A list of numbers -- if nonempty, compute stats for all decks plus each set of top X
     """
     # Get the statistics we'll be using.
-    cstats = getCardStats(tournies, outputs, top)
+    if multitop:
+        cstats = getCardStats(tournies, outputs, None)
+        for t in multitop:
+            cstats.extend([(f'{k}_t{t}', (f[0], f'{f[1]} (T{t})', f[2])) for (k, f) in getCardStats(tournies, outputs, t)])
+    else:
+        cstats = getCardStats(tournies, outputs, top)
     # Get the list of cards.
     allcards = set()
     for t in tournies:
+        maxplace = max([d.place for d in t.decks])
+        if multitop:
+            maxplace = max(multitop)
+        elif top:
+            maxplace = top
         for d in t.decks:
-            if (not top) or (d.place and d.place <= top):
+            if d.place <= maxplace:
                 for s in d.slots:
                     allcards.add(s.cardname)
     cardnames = [ c for c in allcards ]
@@ -845,66 +873,81 @@ def explain(deckname, meta, historicalMeta, order):
     deckname: Explain this deck.
     meta: Explain it's performance/EV in this metagame.
     historicalMeta: Use this metagame for matchups for EV calculation.
-    order: What stat to order by: w, l, ev, evneg, winp, or lossp."""
+    order: What stat to order by: w, l, ev, evneg, winp, lossp, evpairings, evpairingsneg."""
     decks = meta.getDecks([deckname])
     poffield = getFieldP()[0](decks)
     winpercent = getMWP()[0](decks)
-    ev = getEV(historicalMeta)[0](decks)
+    evField = getEV(historicalMeta)[0](decks)
+    evPairings = getEV(historicalMeta, usePairings=True)[0](decks)
     nmatches = meta.getNumMatches(deckname)
     # If win% starts at .5, each win adds this much and each loss subtracts:
     indmatch = .5/nmatches
     data = []
+    oppMeta = PairedMeta(decks)
     for decktype in meta.archetypes:
         field = float(meta.getPercent(decktype))
+        pOpponent = float(oppMeta.getPercent(decktype))
         matches = meta.getSingleMatches(deckname, None, decktype, None)
         win, loss, draw = record(matches)
         winp = mwp(matches)
         hmatches = historicalMeta.getSingleMatches(deckname, None, decktype, None)
         hwin, hloss, hdraw = record(hmatches)
         hwinp = mwp(hmatches)
-        evcont = None
+        evFieldCont = 0.0
+        evPairingsCont = 0.0
         if hwinp is not None:
             hwinp = float(hwinp)
-            evcont = (hwinp - .5) * field
-        else:
-            evcont = 0.0
+            evFieldCont = (hwinp - .5) * field
+            evPairingsCont = (hwinp - .5) * pOpponent
         mwpcont = None
         winpcont = 0.0
         if winp is not None:
             winpcont = (win - loss) * indmatch
-        data.append([decktype, field, win, loss, draw, winp, hwinp, evcont, winpcont])
+        delta = winpcont - evFieldCont
+        data.append([decktype, field, pOpponent, win, loss, draw, winp, hwinp, winpcont,
+            evFieldCont, evPairingsCont, delta])
 
     data.sort()
     if order=='w':
-        data.sort(key=itemgetter(2), reverse=True)
-    elif order=='l':
         data.sort(key=itemgetter(3), reverse=True)
-    elif order=='ev':
-        data.sort(key=itemgetter(7), reverse=True)
-    elif order=='evneg':
-        data.sort(key=itemgetter(7))
+    elif order=='l':
+        data.sort(key=itemgetter(4), reverse=True)
     elif order=='winp':
         data.sort(key=itemgetter(8), reverse=True)
     elif order=='lossp':
         data.sort(key=itemgetter(8))
+    elif order=='ev':
+        data.sort(key=itemgetter(9), reverse=True)
+    elif order=='evneg':
+        data.sort(key=itemgetter(9))
+    elif order=='evpairings':
+        data.sort(key=itemgetter(10), reverse=True)
+    elif order=='evpairingsneg':
+        data.sort(key=itemgetter(10))
+    elif order=='delta':
+        data.sort(key=itemgetter(11))
 
     # Create a Table, figure out what columns we need
     table = Table()
-    table.setTitle('{0} -- {1:.2f}% of field, won {2:.2f}% of matches, EV = {3:.2f}%'.\
-            format(deckname, poffield*100.0, winpercent*100.0, ev*100.0))
+    table.setTitle('{0} -- {1:.2f}% of field, won {2:.2f}% of matches, '.\
+            format(deckname, poffield*100.0, winpercent*100.0) \
+            + 'EV = {0:.2f}% vs. field, {1:.2f}% vs. pairings'.\
+            format(evField*100.0, evPairings*100.0))
     table.addField(Field('otherdeck', fieldName='Deck', align='<'))
     table.addField(Field('record', fieldName='Record', align='^'))
     table.addField(Field('mwp', fieldName='Win %', type='percent'))
     table.addField(Field('hmwp', fieldName='Historical Win %', type='percent'))
     table.addField(Field('field', fieldName='% of Field', type='percent'))
-    table.addField(Field('evcont', fieldName='EV Contribution', type='percent'))
+    table.addField(Field('pOpponent', fieldName='% of Opponents', type='percent'))
     table.addField(Field('winpcont', fieldName='Win % Contribution', type='percent'))
+    table.addField(Field('evFieldCont', fieldName='EV vs. Field Contribution', type='percent'))
+    table.addField(Field('evPairingsCont', fieldName='EV vs. Pairings Contribution', type='percent'))
+    table.addField(Field('delta', fieldName='(Win% - EV) Contribution', type='percent'))
 
     # Fill the Table.
-    for deck, field, win, loss, draw, winp, hwinp, evcont, winpcont in data:
+    for deck, field, pOpponent, win, loss, draw, winp, hwinp, winpcont, evFieldCont, evPairingsCont, delta in data:
         table.addRecord(deck, '{0}-{1}-{2}'.format(win, loss, draw), winp,
-                hwinp, field, evcont, winpcont)
-
+                hwinp, field, pOpponent, winpcont, evFieldCont, evPairingsCont, delta)
     return table
 
 def getHistory(tournaments, context, outputs=[], top=[], percentTop=[],

@@ -46,12 +46,12 @@ def getBreakdownWrapper(args, decktypes, groups, recentMeta, historicalMeta, tou
     tournies: a list of Tournaments for the relevant time period
     players: Player names -- restrict the field to these players
     """
-    tournaments = [ tournies[-i] for i in args['tournaments'] ]
+    tournaments = [ tournies[-i] for i in args.get('tournaments', []) ]
     if 'all' in args and args['all']:
         tournaments = tournies
     return getBreakdown(tournaments, historicalMeta,
             args.get('outputs', ['field', 'n', 'avgplace', 'win', 'loss',
-                'draw', 'mwp', 'ev']),
+                'draw', 'mwp', 'mwpLowerBound', 'mwpUpperBound', 'ev']),
             args.get('top', []), args.get('percentTop', []),
             args.get('penetration', []), args.get('conversion', []),
             decktypes, groups, players,
@@ -115,7 +115,7 @@ def getCardInfoWrapper(args, decktypes, groups, recentMeta, historicalMeta, tour
     tournies: a list of Tournaments for the relevant time period
     players: Player names -- restrict the field to these players
     """
-    return getCardInfo(tournies, args['outputs'], args['top'])
+    return getCardInfo(tournies, args['outputs'], args.get('top', None), args.get('plus_top', []))
 
 def getMatchupsWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
     """
@@ -370,7 +370,7 @@ class MultiListAction(argparse.Action):
         return namespace
 
 # Command line interface.
-def main():
+def main(arglist):
     p = argparse.ArgumentParser(description=\
             """Summarizes results from recent SCG Opens and other
             tournaments.""")
@@ -413,8 +413,8 @@ def main():
 #            tournaments where the top r decks are not all known.')
     p.add_argument('-s', '--sub', action="store_true", help='Break down decks \
             by sub-archetype.')
-    p.add_argument('-S', '--source', default="SCG", help='Data source \
-            (defaults to SCG).')
+    p.add_argument('-S', '--source', default=None, help='Data source \
+            (by default, don\'t filter on source).')
     p.add_argument('-i', '--include', nargs='+', type=str, default=[], help='\
             Additional decks to include in analysis.')
     p.add_argument('-I', '--include_all', action="store_true", help='Include all\
@@ -432,7 +432,8 @@ def main():
 
     breakdownp = subp.add_parser('breakdown', help='Show a breakdown for one or more tournaments.')
     breakdownp.add_argument('outputs', nargs='*', type=str, default=['field', 'n',
-            'avgplace', 'win', 'loss', 'draw', 'mwp', 'ev'],
+            'avgplace', 'win', 'loss', 'draw', 'mwp', 'mwpLowerBound', 'mwpUpperBound',
+            'ev', 'mwpo', 'evPairings'],
             help='Statistics to output.')
     breakdownp.add_argument('-a', '--all', action="store_true",
             help='Break down all tournaments from the given time period.')
@@ -454,6 +455,8 @@ def main():
             help='Statistics to output. Sort on these values, in order.')
     cardp.add_argument('-t', '--top', type=int, help='Only get stats for \
             the top X decks.')
+    cardp.add_argument('-T', '--plus_top', type=int, nargs='+',
+            help='Also get stats for top X decks, for each X provided.')
     cardp.set_defaults(func=getCardInfoWrapper)
 
     diversityp = subp.add_parser('diversity', help='Track tournament diversity over time.')
@@ -591,7 +594,7 @@ def main():
     # work on skill functions
     # commands grid, history
 
-    args = p.parse_args()
+    args = p.parse_args(arglist)
     if args.option_name is None:
         p.print_help();
         sys.exit(1)
@@ -617,6 +620,7 @@ def main():
                 table.printTable(limit=args.limit)
             else:
                 table.printTable()
+    return table
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv[1:])
