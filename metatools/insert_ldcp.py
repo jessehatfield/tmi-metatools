@@ -1,15 +1,18 @@
 #!/usr/bin/env python
 """Inserts data exported from spreadsheets in the form produced by the Legacy Data Collection Project."""
 
+from metatools.archetypes import ArchetypeParser
 from metatools.database import session, getDecks, RawMatch
 from metatools.insert import *
 
 import argparse
 import csv
 import datetime
+import json
 import os
 import re
 import sys
+
 
 roundExpr = re.compile(r'Round (\d+)')
 byeExpr = re.compile(".*BYE.*", re.IGNORECASE)
@@ -76,7 +79,8 @@ def parseChallengeMatches(filename):
                     yield (p1, p2, w, l, d, r)
 
 
-def insertLDCPTournament(session, filename, nameArg=None, formatArg=None, dateArg=None):
+def insertLDCPTournament(session, filename, nameArg=None, formatArg=None, dateArg=None,
+        archetypesFile=None, decklistsFile=None):
     baseName = os.path.basename(filename)
     filenameMatch = filenameExpr.match(baseName)
     if filenameMatch is None:
@@ -84,9 +88,9 @@ def insertLDCPTournament(session, filename, nameArg=None, formatArg=None, dateAr
             raise Exception(f"Couldn't parse filename {baseName}; expected format and date from "
                     "filename or command line arguments")
     mtg_format = formatArg if formatArg else filenameMatch.group(1)
-    tournament_type = filenameMatch.group(2)
-    tournament_size = filenameMatch.group(3) if filenameMatch.group(3) else ""
-    tournament_number = filenameMatch.group(7) if filenameMatch.group(7) else ""
+    tournament_type = filenameMatch.group(2) if filenameMatch else None
+    tournament_size = filenameMatch.group(3) if filenameMatch and filenameMatch.group(3) else ""
+    tournament_number = filenameMatch.group(7) if filenameMatch and filenameMatch.group(7) else ""
     eventdate = dateArg if dateArg else datetime.date(
             int(filenameMatch.group(6)), int(filenameMatch.group(4)), int(filenameMatch.group(5)))
     date_str = eventdate.strftime('%Y-%m-%d')
@@ -94,6 +98,23 @@ def insertLDCPTournament(session, filename, nameArg=None, formatArg=None, dateAr
     tourney = DBTournament(name=t_name, date=eventdate, format=mtg_format)
     tourney.source = "MTGO Data Collection Project"
     session.add(tourney)
+    archetype_parser = ArchetypeParser(archetypesFile) if archetypesFile else None
+    decklists = []
+    if decklistsFile is not None:
+        with open(decklistsFile) as f:
+            decklists = json.load(f)
+    name_to_index = {}
+    place_to_index = {}
+    name_to_indices = {}
+    for i in range(len(decklists)):
+        place_to_index[decklists[i]['place']] = i
+        player_name = decklists[i]['player']
+        if player_name in name_to_index:
+            if player_name not in name_to_indices:
+                name_to_indices[player_name] = {name_to_index[player_name]}
+            name_to_indices[player_name].add(i)
+        else:
+            name_to_index[player_name] = i
     nDecks = 0
     for playerName, deckName, place in parseChallengeDecks(filename):
         deck = DBDeck(
@@ -103,6 +124,33 @@ def insertLDCPTournament(session, filename, nameArg=None, formatArg=None, dateAr
                 archetype=deckName,
                 points=0)
         deck.original = deckName
+        if decklists:
+            i1 = place_to_index.get(place)
+            i2 = name_to_index.get(playerName)
+            i2s = name_to_indices.get(playerName, {i2})
+            if i1 not in i2s:
+                raise Exception(f'Error reading decklists: player name {playerName} associated '
+                    f'with deck(s) {i2s} but place {place} associated with deck {i1}')
+            elif i1 is None:
+                print(f"WARNING: couldn't find decklist for player {playerName} in place {place}", file=sys.stderr)
+            decklist_string = decklists[i1].get('decklist')
+            if decklist_string is None or decklist_string.strip() == "":
+                print(f"WARNING: no decklist for player {playerName} in place {place} -- "
+                        + f"originally labeled '{deck.original}', now '{ArchetypeParser.unknown}'", file=sys.stderr)
+                deck.archetype = ArchetypeParser.unknown
+                deck.subarchetype = ''
+            else:
+                decklist_lines = [x.strip() for x in decklist_string.splitlines() if x.strip() != '']
+                deck.readLines(decklist_lines)
+                deck.saveContents()
+                if archetype_parser is not None:
+                    try:
+                        new_name, new_sub = archetype_parser.classify(deck)
+                        deck.archetype = new_name
+                        deck.subarchetype = new_sub
+                    except Exception as e:
+                        print(f"WARNING: {e} (using {ArchetypeParser.unknown})")
+                        deck.archetype = ArchetypeParser.unknown
         session.add(deck)
         nDecks += 1
     tourney.numPlayers = nDecks
@@ -128,18 +176,23 @@ if __name__ == "__main__":
 
     p = argparse.ArgumentParser(description="Insert tournament(s) exported from spreadsheets in the form "
             "produced by the Legacy Data Collection Project.")
+    p.add_argument("-a", "--archetypes", help="Path to a directory containing archetype "
+            + "definitions, which will override the deck names in the input files if --decklists is given.")
     p.add_argument("-D", "--dry_run", action="store_true",
             help="Perform a dry run: parse the data, but don't commit anything to the database")
     p.add_argument("-n", "--name", help="Tournament name (if not given, assume it can be extracted from filename)")
     p.add_argument("-f", "--format", help="Tournament format (if not given, assume it can be extracted from filename)")
     p.add_argument("-d", "--date", help="Tournament date (if not given, assume it can be extracted from filename)",
             type=datetime.date.fromisoformat)
+    p.add_argument("-l", "--decklists", help="Path to a JSON file containing decklist strings for each player format")
     p.add_argument("files", type=str, nargs="+",
             help="TSV files containing matchup data, one per tournament.")
     args = p.parse_args()
 
     for filename in args.files:
-        insertLDCPTournament(session, filename, args.name, args.format, args.date)
+        insertLDCPTournament(session, filename, args.name, args.format, args.date,
+                archetypesFile=args.archetypes,
+                decklistsFile=args.decklists)
     if args.dry_run:
         print('(Not committing; dry run.)')
     else:

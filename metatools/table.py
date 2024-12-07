@@ -66,7 +66,7 @@ class Field:
 
     def formatText(self, value):
         """Formats a value of the field for printing as readable text."""
-        if value is None:
+        if value is None and self.type != 'percent':
             return '{0}'.format(value)
         if self.type == 'precise':
             self.precision = 4
@@ -84,9 +84,9 @@ class Field:
             else:
                 formatstr = '{{0:.{0}f}}'.format(self.precision)
         elif self.type == 'percent':
-            value = 100 * float(value)
-            if isnan(value):
+            if value is None or isnan(value):
                 return '---'
+            value = 100 * float(value)
             if self.precision is None:
                 formatstr = '{0:.2f}%'
             else:

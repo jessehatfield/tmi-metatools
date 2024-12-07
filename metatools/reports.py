@@ -3,7 +3,7 @@ from metatools.stats import *
 from metatools.meta import *
 from metatools.table import *
 
-from math import log
+from math import isnan, log
 import sys
 import re
 from operator import itemgetter
@@ -329,6 +329,8 @@ def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
         if sub:
             substats[decktype] = {}
             for subtype in subdecks[decktype]:
+                if subtype is None:
+                    subtype = ""
                 row = [ subtype ]
                 for key, func in stats:
                     f, name, datatype = func
@@ -647,12 +649,14 @@ def getCardInfo(tournies, outputs, top, multitop=[]):
         table.addRecord(*row)
 
     # Sort the table.
-    table.sortKey(*outputs, **{'reverse': True})
+    for i in range(len(outputs)-1, -1, -1):
+        table.sortKey(outputs[i], **{'reverse': True})
+        print(f"after sorting on {outputs[i]}, first item is {table.data[0]}")
 
     return table
 
 def getMatchups(decktypes, label, meta, alternateMeta, altLabel, otherDecks,
-        groups, players, nmatches=False, sub=False):
+        groups, players, nmatches=False, sub=False, conf=None):
     """Get information about a deck/group's matchups against other
     decks/groups.
     decktypes: a list of deck names -- combine them and return their matchups
@@ -670,6 +674,7 @@ def getMatchups(decktypes, label, meta, alternateMeta, altLabel, otherDecks,
         players
     nmatches: if true, add a column with the total number of matches
     sub: if true, also get matchups against subarchetypes of other decks
+    conf: if some probability is given, also print confidence intervals
     """
     decks = meta.getDecks(decktypes)
     field = getFieldP(players=players)[0](decks)
@@ -684,6 +689,8 @@ def getMatchups(decktypes, label, meta, alternateMeta, altLabel, otherDecks,
     table.addField(Field('mwp', fieldName='Win %', type='percent'))
     if nmatches:
         table.addField(Field('n', fieldName='# of Matches', type='int'))
+    if conf:
+        table.addField(Field('ci', fieldName='{0:2.1f}% Conf. Interval'.format(conf*100)))
     if alternateMeta:
         table.addField(Field('alt_record', fieldName='{0} Record'.format(
             altLabel), align='^'))
@@ -692,6 +699,16 @@ def getMatchups(decktypes, label, meta, alternateMeta, altLabel, otherDecks,
         if nmatches:
             table.addField(Field('alt_n', fieldName='# {0} Matches'.format(
                 altLabel), type='int'))
+        if conf:
+            table.addField(Field('alt_ci', fieldName='{0} {1:02.1f}% Conf. Interval'.format(
+                altLabel, conf*100)))
+
+    def conf_interval_string(matches):
+        interval = mwp_ci(matches, conf)
+        if interval[0] is None or isnan(interval[0]):
+            return '----'
+        else:
+            return '{0:02.1f}--{1:02.1f}%'.format(*[x*100 for x in interval])
 
     # Combine decks and groups into one list, where each group is then a list of
     # the form [ percent, name, deck1, deck2, ... ]
@@ -722,6 +739,8 @@ def getMatchups(decktypes, label, meta, alternateMeta, altLabel, otherDecks,
         row = [ group[1], '{0}-{1}-{2}'.format(win, loss, draw), winp ]
         if nmatches:
             row.append(count)
+        if conf:
+            row.append(conf_interval_string(matches))
         if alternateMeta:
             altMatches = alternateMeta.getAggregateMatches(False, decktypes,
                     False, group[2:])
@@ -732,6 +751,8 @@ def getMatchups(decktypes, label, meta, alternateMeta, altLabel, otherDecks,
             row.append(altWinp)
             if nmatches:
                 row.append(altCount)
+            if conf:
+                row.append(conf_interval_string(altMatches))
         table.addRecord(*row)
         # If we're also doing subarchetypes, and this is a single deck, figure
         # out and go through the subarchetypes.
@@ -750,6 +771,8 @@ def getMatchups(decktypes, label, meta, alternateMeta, altLabel, otherDecks,
                     row = [1, subname, '{0}-{1}-{2}'.format(win, loss, draw), winp]
                     if nmatches:
                         row.append(count)
+                    if conf:
+                        row.append(conf_interval_string(matches))
                     if alternateMeta:
                         matches = alternateMeta.getAggregateMatches(False,
                                 decktypes, True, [(main, subname)])
@@ -760,6 +783,8 @@ def getMatchups(decktypes, label, meta, alternateMeta, altLabel, otherDecks,
                         row.append(winp)
                         if nmatches:
                             row.append(count)
+                        if conf:
+                            row.append(conf_interval_string(matches))
                     table.addRecordLevel(*row)
 
     return table

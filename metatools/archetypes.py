@@ -7,6 +7,8 @@ import json
 import os
 import sys
 
+from metatools.deck import Deck
+
 
 def _load_json(filename):
     try:
@@ -18,6 +20,7 @@ def _load_json(filename):
 
 
 class ArchetypeParser:
+    unknown = "Unknown Deck"
 
     def __init__(self, dirname):
         """Initialize using the format specification located under the given directory, using the
@@ -68,6 +71,8 @@ class ArchetypeParser:
             return self._atleast(1, condition['Cards'], sideboard)
         elif condition['Type'].lower() == "twoormoreinmainboard":
             return self._atleast(2, condition['Cards'], maindeck)
+        elif condition['Type'].lower() == "inmainorsideboard":
+            return self._atleast(1, condition['Cards'], maindeck, sideboard)
         else:
             raise Exception(f"Doesn't know how to parse archetype condition type: {condition}'")
 
@@ -77,7 +82,6 @@ class ArchetypeParser:
             if not self.test_condition(condition, maindeck, sideboard):
                 match = False
                 break
-        # TODO: handle archetype['Variants']
         if match:
             name = archetype['Name']
             # TODO: handle archetype['IncludeColorInName']
@@ -85,7 +89,7 @@ class ArchetypeParser:
         else:
             return None
 
-    def test_fallback(self, fallback, maindeck, sideboard):
+    def test_fallback(self, fallback, maindeck, sideboard, verbose=False):
         n_matches = 0
         n_cards = 0
         targets = set(fallback['CommonCards'])
@@ -93,22 +97,35 @@ class ArchetypeParser:
             n_cards += 1
             if card_name in targets:
                 n_matches += maindeck[card_name]
+                if verbose:
+                    print(f"fallback {fallback['Name']}: + {maindeck[card_name]} {card_name}")
         for card_name in sideboard:
             n_cards += 1
             if card_name in targets:
                 n_matches += sideboard[card_name]
+                if verbose:
+                    print(f"fallback {fallback['Name']}: + {sideboard[card_name]} {card_name}")
         strength = 0.0 if n_cards == 0 else float(n_matches) / n_cards
         size = len(fallback['CommonCards'])
         return fallback['Name'], fallback['IncludeColorInName'], strength, size
 
-    def classify(self, deck, min_similarity=0.1):
+    def classify(self, deck, min_similarity=0.1, verbose=False):
         if not deck.maindeck:
             raise Exception(f"No maindeck loaded for {deck}")
+        if deck.count() < 50:
+            raise Exception(f"Maindeck only contains {deck.count()} cards")
         matching_names = set()
         for archetype in self.archetypes:
             test_result = self.test_archetype(archetype, deck.getMain(), deck.getSide())
             if test_result:
-                matching_names.add(test_result)
+                variant_match = ''
+                for variant in archetype.get('Variants', []):
+                    variant_match = self.test_archetype(variant, deck.getMain(), deck.getSide())
+                    if variant_match:
+                        break
+                matching_names.add((test_result, variant_match))
+        if verbose:
+            print(f'Matches archetypes: {matching_names}')
         if len(matching_names) > 1:
             # TODO: enable equivalent of ConflictSolvingMode
             print("--------")
@@ -119,17 +136,22 @@ class ArchetypeParser:
         elif len(matching_names) == 0:
             fallbacks = []
             for fallback in self.fallbacks:
-                fallbacks.append(self.test_fallback(fallback, deck.getMain(), deck.getSide()))
-            fallbacks.sort(key=lambda x: x[3])
+                fallbacks.append(self.test_fallback(fallback, deck.getMain(), deck.getSide(),
+                    verbose=verbose))
+            fallbacks.sort(key=lambda x: -x[3])
             fallbacks.sort(key=lambda x: x[2])
             # TODO: handle 'IncludeColorInName'
+            if verbose:
+                print('Tested against fallbacks:')
+                for fallback in fallbacks:
+                    print(f'\t{fallback}')
             if len(fallbacks) >= 0 and fallbacks[-1][2] > min_similarity:
-                matching_names.add(fallbacks[-1][0])
+                matching_names.add((fallbacks[-1][0], ''))
         if len(matching_names) == 0:
-            print("--------\nWarning: couldn't find an archetype or fallback for decklist:")
+            print("--------\nWARNING: couldn't find an archetype or fallback for decklist:")
             deck.printList()
-            print("--------\n")
-            matching_names.add('Unknown')
+            print(f"-------- (using '{ArchetypeParser.unknown}')\n")
+            matching_names.add(ArchetypeParser.unknown)
         return list(matching_names)[0]
 
     def get_meta(self, date):
@@ -144,8 +166,7 @@ class ArchetypeParser:
 
 if __name__ == "__main__":
     parser = ArchetypeParser(sys.argv[1])
-    print(parser.get_meta(datetime.strptime('2024-08-25', '%Y-%m-%d')))
-    print(parser.get_meta(datetime.strptime('2024-08-26', '%Y-%m-%d')))
-    print(parser.get_meta(datetime.strptime('2024-08-27', '%Y-%m-%d')))
-
-
+    for decklist in sys.argv[2:]:
+        d = Deck.fromFile(decklist)
+        result = parser.classify(d, verbose=True)
+        print(f'{decklist}: {result}')

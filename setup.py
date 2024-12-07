@@ -14,7 +14,7 @@ setup(
     },
 
     # Uses SQLAlchemy to interact with database
-    install_requires=['SQLAlchemy >=0.9.8'],
+    install_requires=['SQLAlchemy >=0.9.8', 'scipy'],
 
     # Executable scripts
     entry_points={

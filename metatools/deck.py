@@ -132,6 +132,21 @@ class Deck(object):
             self.addMain(slot.cardname, slot.main)
             self.addSide(slot.cardname, slot.side)
 
+    def saveContents(self):
+        slots = []
+        cardnames = set()
+        for cardname in self.maindeck:
+            cardnames.add(cardname)
+        for cardname in self.sideboard:
+            cardnames.add(cardname)
+        for cardname in cardnames:
+            slot = Slot()
+            slot.cardname = cardname
+            slot.main = self.maindeck.get(slot.cardname, 0)
+            slot.side = self.sideboard.get(slot.cardname, 0)
+            slots.append(slot)
+        self.slots = slots
+
     def __repr__(self):
         if self.subarchetype:
             return "<Deck({0}: {1}, {2})>".format(self.player, self.archetype, self.subarchetype)
@@ -336,3 +351,7 @@ class Deck(object):
                 print
             print("%25s " % (self.library[i].name)),
         print()
+
+
+class Slot(object):
+    """Association between Deck and Card."""

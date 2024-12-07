@@ -115,7 +115,7 @@ def getCardInfoWrapper(args, decktypes, groups, recentMeta, historicalMeta, tour
     tournies: a list of Tournaments for the relevant time period
     players: Player names -- restrict the field to these players
     """
-    return getCardInfo(tournies, args['outputs'], args.get('top', None), args.get('plus_top', []))
+    return getCardInfo(recentMeta.tournaments, args['outputs'], args.get('top', None), args.get('plus_top', []))
 
 def getMatchupsWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
     """
@@ -127,6 +127,7 @@ def getMatchupsWrapper(args, decktypes, groups, recentMeta, historicalMeta, tour
     historicalMeta: historical metagame, used for matchup data
     tournies: a list of Tournaments for the relevant time period
     players: Player names -- restrict the field to these players
+    conf: Confidence level -- if given, generate confidence intervals
     """
     label = args.get('label', None) or ','.join(args['deck'])
     alternate = historicalMeta
@@ -134,7 +135,8 @@ def getMatchupsWrapper(args, decktypes, groups, recentMeta, historicalMeta, tour
         alternate = None
     return getMatchups(args['deck'], label, recentMeta, alternate,
             args.get('overall_title', 'Overall'), decktypes, groups,
-            players, args.get('nmatches', False), args.get('sub', False))
+            players, args.get('nmatches', False), args.get('sub', False),
+            conf=args.get('conf', None))
 
 def explainWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
     """
@@ -509,6 +511,8 @@ def main(arglist):
             deck or combination of decks.')
     matchp.add_argument('deck', nargs='+', type=str, help='Decks to report \
             combined matchups for.')
+    matchp.add_argument('-c', '--conf', type=float, help='Generate confidence intervals \
+            using this probability.')
     matchp.add_argument('-n', '--nmatches', action='store_true', help='Print the \
             number of matches.')
     matchp.add_argument('-l', '--label', help='Label to use for this group of decks.')

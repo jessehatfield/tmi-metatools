@@ -4,7 +4,7 @@ from sqlalchemy.sql import select, func
 from sqlalchemy.sql.expression import and_, or_, asc, text
 
 from metatools.config import config
-from metatools.deck import Deck, Card
+from metatools.deck import Deck, Card, Slot
 from metatools.match import Match
 from metatools.tournament import Tournament
 
@@ -109,9 +109,6 @@ class RawMatch(Match):
     pass
 class DBCard(object):
     pass
-
-class Slot(object):
-    """Association between Deck and Card."""
 
 orm.mapper(DBCard, cards, properties = {
     'name': cards.c.CARD_NAME,

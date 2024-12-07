@@ -43,6 +43,8 @@ def mwp_record(win, loss, draw, datatype=Decimal):
 
 def wilson(successes, failures, z):
     n = successes + failures
+    if n == 0:
+        return float('nan'), float('nan')
     z_sq = z**2
     center = (successes + (z_sq / 2.0)) / (n + z_sq)
     delta =  z / (n + z_sq) * sqrt((successes * failures / n) + (z_sq / 4.0))
