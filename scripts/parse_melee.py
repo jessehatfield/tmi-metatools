@@ -119,12 +119,12 @@ def fetch_decklist(deck_id):
     decklist = copy_button['data-clipboard-text']
     return re.sub('^Deck\r?\n', '', decklist)
 
-def fetch_player_data(tournament_id, allow_incomplete=True):
-    rounds = get_round_info(tournament_id, allow_incomplete)
+def fetch_player_data(rounds, allow_incomplete=True, forward=False):
     player_data = []
     for i in range(len(rounds)):
-        player_data = fetch_standings(rounds[len(rounds)-1-i]['id'])
-        if player_data is not None:
+        index = i if forward else len(rounds)-1-i
+        player_data = fetch_standings(rounds[index]['id'])
+        if player_data is not None and len(player_data) > 0:
             break
     return player_data
 
@@ -132,7 +132,8 @@ def fetch_tournament(tournament_id, player_output=None, match_output=None, allow
         decklists=None):
     data = {}
     players = []
-    player_data = fetch_player_data(tournament_id, allow_incomplete=allow_incomplete)
+    rounds = get_round_info(tournament_id, allow_incomplete)
+    player_data = fetch_player_data(rounds, allow_incomplete=allow_incomplete)
     for entry in player_data:
         player_record = {
                 'place': entry['Rank'],
@@ -151,10 +152,10 @@ def fetch_tournament(tournament_id, player_output=None, match_output=None, allow
     distinct_names = set()
     for i in range(len(players)):
         if players[i]['player'] in distinct_names:
-            i = 2
-            while f'{players[i]["player"]}{i}' in distinct_names:
-                i += 1
-            players[i]["player"] = '{players[i]["player"]}{i}'
+            j = 2
+            while f'{players[i]["player"]}{j}' in distinct_names:
+                j += 1
+            players[i]["player"] = f'{players[i]["player"]}{j}'
         distinct_names.add(players[i]["player"])
     if decklists is not None:
         with open(decklists, 'a') as file:
@@ -170,17 +171,26 @@ def fetch_tournament(tournament_id, player_output=None, match_output=None, allow
             competitors = entry['Competitors']
             if len(competitors) == 1:
                 p1 = competitors[0]['Team']['Players'][0]['ID']
-                if p1 not in player_records:
+                if p1 in player_records:
+                    player_records[p1][round_index] = ['', f"Bye"]
+                else:
                     name = competitors[0]['Team']['Players'][0]['DisplayName']
-                    print(f'round {round_index}: player {p1} "{name}" not found in {len(player_records)}', file=sys.stderr)
-                player_records[p1][round_index] = ['', f"Bye"]
+                    print(f'WARNING: round {round_index}: player {p1} "{name}" not found in {len(player_records)} records', file=sys.stderr)
             elif len(competitors) == 2:
                 p1 = competitors[0]['Team']['Players'][0]['ID']
                 p2 = competitors[1]['Team']['Players'][0]['ID']
                 w1 = int(competitors[0]['GameWinsAndGameByes'])
                 l1 = int(competitors[1]['GameWinsAndGameByes'])
-                player_records[p1][round_index] = [player_names[p2], f"{w1}-{l1}"]
-                player_records[p2][round_index] = [player_names[p1], f"{l1}-{w1}"]
+                if p1 in player_names and p2 in player_names:
+                    player_records[p1][round_index] = [player_names.get(p2, ''), f"{w1}-{l1}"]
+                    player_records[p2][round_index] = [player_names.get(p1, ''), f"{l1}-{w1}"]
+                else:
+                    if p1 not in player_records:
+                        p1name = competitors[0]['Team']['Players'][0]['DisplayName']
+                        print(f'WARNING: round {round_index}: player {p1} "{p1name}" not found in {len(player_names)} standings', file=sys.stderr)
+                    if p2 not in player_names:
+                        p2name = competitors[1]['Team']['Players'][0]['DisplayName']
+                        print(f'WARNING: round {round_index}: player {p2} "{p2name}" not found in {len(player_names)} standings', file=sys.stderr)
             else:
                 raise Exception(f"Doesn't know how to handle other than two 'Competitors': {competitors}")
     rows = []

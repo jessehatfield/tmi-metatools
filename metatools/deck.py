@@ -352,6 +352,15 @@ class Deck(object):
             print("%25s " % (self.library[i].name)),
         print()
 
+    def contains(self, card_name, maindeck=True, sideboard=True):
+        if self.count() == 0:
+            self.loadContents()
+        if maindeck and self.maindeck.get(card_name, 0) > 0:
+            return True
+        if sideboard and self.sideboard.get(card_name, 0) > 0:
+            return True
+        return False
+
 
 class Slot(object):
     """Association between Deck and Card."""

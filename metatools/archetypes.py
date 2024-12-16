@@ -151,7 +151,7 @@ class ArchetypeParser:
             print("--------\nWARNING: couldn't find an archetype or fallback for decklist:")
             deck.printList()
             print(f"-------- (using '{ArchetypeParser.unknown}')\n")
-            matching_names.add(ArchetypeParser.unknown)
+            matching_names.add((ArchetypeParser.unknown, ''))
         return list(matching_names)[0]
 
     def get_meta(self, date):

@@ -14,7 +14,7 @@ def getStats(tournaments, context, outputs=[], top=[],
         percentTop=[], penetration=[], conversion=[], players=[]):
     """Return a list of statistics to report about a deck type (or group
     of decks).
-    
+
     tournaments: List of tournaments to generate the statistic for
     context: Metagame to draw matchups from
     outputs: List of strings which correspond to statistics to include
@@ -30,7 +30,7 @@ def getStats(tournaments, context, outputs=[], top=[],
     a list of Decks.
 
     Supported statistics:
-    n: number of decks 
+    n: number of decks
     win: number of match wins
     loss: number of match losses
     draw: number of match draws
@@ -127,6 +127,7 @@ def getTourneyStats(outputs=[], card_count=[], containing=[], p_card=[],
     joint1: "Joint" entropy of 1 card
     hgiven1: Conditional entropy of card given another card
     hgiven2: Conditional entropy of card given two other cards
+    tid: Database ID of the tournament
     """
     functions = {
         'date': (getDate, 'Date', 'str'),
@@ -151,7 +152,8 @@ def getTourneyStats(outputs=[], card_count=[], containing=[], p_card=[],
         'hgiven1' : (getCompoundEntropy(1), "Entropy (Card|1 Card)", 'float'),
         'hgiven2' : (getCompoundEntropy(2), "Entropy (Card|2 Cards)", 'float'),
         'hgiven3' : (getCompoundEntropy(3), "Entropy (Card|3 Cards)", 'float'),
-        'hCd' : (getEntropyGivenDeck(), "Entropy (Card|Deck)", 'float')
+        'hCd' : (getEntropyGivenDeck(), "Entropy (Card|Deck)", 'float'),
+        'tid' : (getTID, "T_ID", 'int')
     }
     stats = []
     for key in outputs:
@@ -171,7 +173,7 @@ def getTourneyStats(outputs=[], card_count=[], containing=[], p_card=[],
         stats.append((key, getPContaining(cn, 'both')))
     return stats
 
-def getCardStats(tournaments, outputs, top=None):
+def getCardStats(tournaments, outputs, top=None, versus=None):
     """Return a list of statistics to report about a card.
     Each element is a tuple of
     (key, (function, printable name, datatype)), where the function
@@ -181,6 +183,7 @@ def getCardStats(tournaments, outputs, top=None):
     outputs: List of strings which correspond to statistics to include
              (see list below).
     top: A number: restrict stats to the top X decks.
+    versus: If given, a list of cards -- adds stats against decks containing that card
 
     Supported statistics:
     decks: # of decks containing the card
@@ -226,19 +229,26 @@ def getCardStats(tournaments, outputs, top=None):
         'mwpVersus': getMWP_versus(decks),
         'record': getRecord_card(decks, True),
         'recordWithout': getRecord_card(decks, False),
-        'recordVersus': getRecord_versus(decks)
+        'recordVersus': getRecord_versus(decks),
+        'matches': getMatchTotal_card(decks),
+        'place': getAvgPlace_card(decks),
+        'percentile': getPercentile_card(decks)
     }
     stats = []
     for key in outputs:
         if key in functions:
             stats.append((key, functions[key]))
+    if versus:
+        for card_name in versus:
+            stats.append((f'record_vs_{card_name}', getRecord_cardvscard(decks, card_name)))
+            stats.append((f'mwp_vs_{card_name}', getMWP_cardvscard(decks, card_name)))
     return stats
 
 
 # Report functions
 
 def getList(decktypes, groups={}):
-    """Generate a table that just lists the selected decks. 
+    """Generate a table that just lists the selected decks.
     decktypes: list of strings representing archetype names
     groups: dictionary where each key is a name and each value is a list
             of decks to group together
@@ -253,7 +263,7 @@ def getList(decktypes, groups={}):
 
 def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
         penetration=[], conversion=[], decktypes=[], groups={}, players=[],
-        sub=False):
+        cards=[], sub=False):
     """
     tournaments: The list of Tournaments for which to generate a breakdown
     context: historical metagame, used for matchup data
@@ -267,12 +277,14 @@ def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
     groups: dictionary where each key is a name and each value is a list
             of decks to group together
     players: Player names -- restrict the field to these players
+    cards: Card names -- for each, add a group containing any decks with that card
     sub: If true, break things down by subarchetype.
     """
     names = [ '{0} ({1})'.format(t.name, t.date) for t in tournaments ]
     deckstats = {}
     substats = {}
     groupstats = {}
+    cardstats = {}
     subtypes = {}
     groupnames = list(groups.keys())
     stats = getStats(tournaments, context, outputs=outputs, top=top,
@@ -285,6 +297,7 @@ def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
     subdecks = {}  # Map deck types to maps from subtype to Deck object
     groupdecks = {}  # Map group names to Deck objects
     deckgroups = {}  # Map deck names to group names
+    carddecks = {cardname: [] for cardname in cards} # Map card names to Deck objects
     # Initialize dicts
     for decktype in decktypes:
         decks[decktype] = []
@@ -314,6 +327,10 @@ def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
             if d.archetype in deckgroups:
                 for groupname in deckgroups[d.archetype]:
                     groupdecks[groupname].append(d)
+            # Add to any appropriate card groups (if we have card data)
+            for card in cards:
+                if d.contains(card):
+                    carddecks[card].append(d)
 
     # Remove deck types with no corresponding decks:
     decktypes = [ dt for dt in decktypes if decks[dt] ]
@@ -329,13 +346,12 @@ def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
         if sub:
             substats[decktype] = {}
             for subtype in subdecks[decktype]:
-                if subtype is None:
-                    subtype = ""
-                row = [ subtype ]
+                subtype_str = "" if subtype is None else subtype
+                row = [ subtype_str ]
                 for key, func in stats:
                     f, name, datatype = func
                     row.append(f(subdecks[decktype][subtype]))
-                substats[decktype][subtype] = (subdecks[decktype][subtype], row)
+                substats[decktype][subtype_str] = (subdecks[decktype][subtype], row)
     # Apply statistics to groups
     for groupname in groupnames:
         row = [ groupname ]
@@ -343,11 +359,20 @@ def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
             f, name, datatype = func
             row.append(f(groupdecks[groupname]))
         groupstats[groupname] = (groupdecks[groupname], row)
+    # Apply statistics to card groups
+    for cardname in cards:
+        row = [ cardname ]
+        for key, func in stats:
+            f, name, datatype = func
+            row.append(f(carddecks[cardname]))
+        cardstats[cardname] = (carddecks[cardname], row)
     # Sort decks and groups
     decktypes.sort()
     decktypes.sort(key=lambda d: len(deckstats[d][0]), reverse=True)
     groupnames.sort()
     groupnames.sort(key=lambda g: len(groupstats[g][0]), reverse=True)
+    cardnames = [x for x in cards]
+    cardnames.sort(key=lambda c: len(cardstats[c][0]), reverse=True)
     if sub:
         for decktype in decktypes:
             subtypes[decktype] = [ key for key in substats[decktype] ]
@@ -375,6 +400,9 @@ def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
     for groupname in groupnames:
         row = groupstats[groupname][1]
         table.addRecord(*row)
+    for cardname in cardnames:
+        row = cardstats[cardname][1]
+        table.addRecord(*row)
     return table
 
 def getTrend(decktypes, tournies, context, outputs=[], top=[],
@@ -401,6 +429,7 @@ def getTrend(decktypes, tournies, context, outputs=[], top=[],
     onlyTopX: Only consider decks which placed <= X (if set to zero, don't use).
     window: Use a sliding window of n tournaments (overlapping), rather than
             treat them individually.
+    include_tids: Include the database tournament ID in the tournament name
     """
     stats = getStats(tournies, context, outputs, top, percentTop,
             penetration, conversion, players)
@@ -600,22 +629,27 @@ def getDiversity(tournies, funcnames, top, infogain, infogainmatch, summary=Fals
 
     return table
 
-def getCardInfo(tournies, outputs, top, multitop=[]):
+def getCardInfo(tournies, outputs, top, multitop=[], cards=[]):
     """Get information about the actual contents of the decks.
     tournies: a list of Tournaments for the relevant time period
     outputs: A list of statistics to output (see getCardStats).
     top: A number -- restrict stats to the top X decks.
     multitop: A list of numbers -- if nonempty, compute stats for all decks plus each set of top X
+    cards: A list of card names -- if nonempty, add columns for each with record and MWP against
+            decks containing that card
     """
+    tnames = [ '{0} ({1})'.format(t.name, t.date) for t in tournies ]
     # Get the statistics we'll be using.
     if multitop:
-        cstats = getCardStats(tournies, outputs, None)
+        cstats = getCardStats(tournies, outputs, None, versus=cards)
         for t in multitop:
-            cstats.extend([(f'{k}_t{t}', (f[0], f'{f[1]} (T{t})', f[2])) for (k, f) in getCardStats(tournies, outputs, t)])
+            cstats.extend([(f'{k}_t{t}', (f[0], f'{f[1]} (T{t})', f[2])) for (k, f) in
+                getCardStats(tournies, outputs, t, versus=cards)])
     else:
-        cstats = getCardStats(tournies, outputs, top)
+        cstats = getCardStats(tournies, outputs, top, versus=cards)
     # Get the list of cards.
     allcards = set()
+    n_decks = 0
     for t in tournies:
         maxplace = max([d.place for d in t.decks])
         if multitop:
@@ -624,6 +658,7 @@ def getCardInfo(tournies, outputs, top, multitop=[]):
             maxplace = top
         for d in t.decks:
             if d.place <= maxplace:
+                n_decks += 1
                 for s in d.slots:
                     allcards.add(s.cardname)
     cardnames = [ c for c in allcards ]
@@ -639,7 +674,7 @@ def getCardInfo(tournies, outputs, top, multitop=[]):
 
     # Build a table.
     table = Table()
-    table.setTitle('Card Statistics')
+    table.setTitle(f'Card Statistics over {n_decks} Decks ({", ".join(tnames)})')
     table.addField(Field('Card'))
     for key, func in cstats:
         f, name, datatype = func
@@ -651,7 +686,6 @@ def getCardInfo(tournies, outputs, top, multitop=[]):
     # Sort the table.
     for i in range(len(outputs)-1, -1, -1):
         table.sortKey(outputs[i], **{'reverse': True})
-        print(f"after sorting on {outputs[i]}, first item is {table.data[0]}")
 
     return table
 

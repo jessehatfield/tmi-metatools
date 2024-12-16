@@ -209,7 +209,7 @@ class Table:
             stream.write(self.formatList(values, between=delim) + "\n")
 
     def printTable(self, vertical='|', horizontal='-', corner='+',
-            padding=' ', align='<', limit=None, stream=sys.stdout):
+            padding=' ', align='<', limit=None, wrap_header=True, stream=sys.stdout):
         """Print as an ASCII table aligned for human viewing.
         @param  vertical  Makes up vertical lines (default '|').
         @param  horizontal  Makes up horizontal lines (default '-').
@@ -218,13 +218,17 @@ class Table:
         @param  align   Determines alignment of values: '<', '>', or '^'.
                         Overriden by fields' alignments.
         @param  limit   Only print the top X records.
+        @param  wrap_header   Use multiple lines for the header rather than
+                              pad column to fit, where possible.
         @param  stream  Output stream to write to (default is stdout).
         Corner and vertical should be the same width.
         Horizontal should be one character wide.
         """
         sizes = {}
         formatstr = {}
+        formatstr_header = {}
         hline = None
+        wrapped_field_names = {field.id: [field.name] for field in self.fields}
         for field in self.fields:
             values = []
             for data in self.data:
@@ -234,11 +238,22 @@ class Table:
                     val = '--' + val
                 values.append(val)
             lengths = [ len(val) for val in values ]
-            lengths.append(len(field.name))
+            if len(field.name) > max(lengths):
+                if wrap_header:
+                    partitions = partition_string(field.name)
+                    wrapped_field_names[field.id] = partitions
+                    lengths.extend([len(x) for x in partitions])
+                else:
+                    lengths.append(len(field.name))
             sizes[field.id] = max(lengths)
             if field.align:
                 align = field.align
             formatstr[field.id] = '{{0:{0}{1}}}'.format(align, sizes[field.id])
+            formatstr_header[field.id] = '{{0:{0}{1}}}'.format('^', sizes[field.id])
+        header_lines = max([len(wrapped_field_names[x]) for x in wrapped_field_names])
+        for x in wrapped_field_names:
+            while len(wrapped_field_names[x]) < header_lines:
+                wrapped_field_names[x].append('')
         if horizontal:
             items = [ horizontal * int(sizes[field.id] / len(horizontal)) for field in self.fields ]
             hpad = horizontal * int(len(padding)/len(horizontal))
@@ -250,10 +265,11 @@ class Table:
         if hline:
             stream.write(hline)
             stream.write('\n')
-        names = [ formatstr[field.id].format(field.name) for field in self.fields ]
-        stream.write(self.formatList(names, begin=vertical, end=vertical,
-                between=vertical, prefix=padding, suffix=padding))
-        stream.write('\n')
+        for i in range(header_lines):
+            names = [ formatstr_header[field.id].format(wrapped_field_names[field.id][i]) for field in self.fields ]
+            stream.write(self.formatList(names, begin=vertical, end=vertical,
+                    between=vertical, prefix=padding, suffix=padding))
+            stream.write('\n')
         if hline:
             stream.write(hline)
             stream.write('\n')
@@ -472,6 +488,21 @@ def weighted(other):
             total += row[other] * row[field]
         return total / float(totalWeights)
     return weightedAvg
+
+def partition_string(input_str, char=' '):
+    partition = -1
+    half = len(input_str) // 2
+    first_index = input_str[:half][::-1].find(char)
+    second_index = input_str[half:].find(char)
+    if first_index >= 0 and (second_index < 0 or first_index < second_index):
+        partition = half - 1 - first_index
+    elif second_index >= 0  and (first_index < 0 or second_index < first_index):
+        partition = half + second_index
+    if partition > 0 and partition < len(input_str)-1:
+        assert input_str[partition] == char
+        return [input_str[:partition], input_str[partition+1:]]
+    else:
+        return [input_str]
 
 def test():
     o = Table()

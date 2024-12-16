@@ -54,7 +54,7 @@ def getBreakdownWrapper(args, decktypes, groups, recentMeta, historicalMeta, tou
                 'draw', 'mwp', 'mwpLowerBound', 'mwpUpperBound', 'ev']),
             args.get('top', []), args.get('percentTop', []),
             args.get('penetration', []), args.get('conversion', []),
-            decktypes, groups, players,
+            decktypes, groups, players, args.get('cards', []),
             args.get('sub', False))
 
 def getTrendWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
@@ -115,7 +115,8 @@ def getCardInfoWrapper(args, decktypes, groups, recentMeta, historicalMeta, tour
     tournies: a list of Tournaments for the relevant time period
     players: Player names -- restrict the field to these players
     """
-    return getCardInfo(recentMeta.tournaments, args['outputs'], args.get('top', None), args.get('plus_top', []))
+    return getCardInfo(recentMeta.tournaments, args['outputs'], args.get('top', None),
+            args.get('plus_top', []), cards=args.get('cards', []))
 
 def getMatchupsWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
     """
@@ -428,6 +429,9 @@ def main(arglist):
     p.add_argument('-r', '--round', type=int, default=1, help="Begin with \
             this round of each tournament. Archetype selection still uses \
             whole tournaments, but earlier rounds are ignored.")
+    p.add_argument('-c', '--cards', nargs='+', type=str, default=[],
+            help='Individual card names -- decks containing a given card will be \
+            treated as an archetype/group (where decklists exist)')
 
     subp = p.add_subparsers(title='commands', help='Type of data to report. Required.',
             dest='option_name')
@@ -435,7 +439,7 @@ def main(arglist):
     breakdownp = subp.add_parser('breakdown', help='Show a breakdown for one or more tournaments.')
     breakdownp.add_argument('outputs', nargs='*', type=str, default=['field', 'n',
             'avgplace', 'win', 'loss', 'draw', 'mwp', 'mwpLowerBound', 'mwpUpperBound',
-            'ev', 'mwpo', 'evPairings'],
+            'mwpo', 'ev', 'evPairings'],
             help='Statistics to output.')
     breakdownp.add_argument('-a', '--all', action="store_true",
             help='Break down all tournaments from the given time period.')
@@ -453,7 +457,7 @@ def main(arglist):
 
     cardp = subp.add_parser('cards', help='Show statistics for individual cards.')
     cardp.add_argument('outputs', nargs='*', type=str, default=['decks',
-            'pdecks', 'copies', 'pcopies', 'maincopies', 'sidecopies'],
+            'pdecks', 'record', 'mwp', 'maincopies', 'sidecopies'],
             help='Statistics to output. Sort on these values, in order.')
     cardp.add_argument('-t', '--top', type=int, help='Only get stats for \
             the top X decks.')
