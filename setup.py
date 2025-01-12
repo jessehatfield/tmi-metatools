@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='metatools',
-    version=0.1,
+    version=0.2,
     description='Tools for exploring and analyzing tournament results',
     packages=find_packages(),
 
@@ -14,7 +14,7 @@ setup(
     },
 
     # Uses SQLAlchemy to interact with database
-    install_requires=['SQLAlchemy >=0.9.8'],
+    install_requires=['SQLAlchemy >=0.9.8', 'scipy'],
 
     # Executable scripts
     entry_points={

@@ -304,6 +304,41 @@ class ObservedMeta(Metagame):
                 decks.append(d)
         return decks
 
+class PairedMeta(Metagame):
+    """Describe the metagame made up of the actual opponents of a set of decks/players."""
+    def __init__(self, decks, players=[], matchups={}):
+        """Instantiate an observed metagame.
+        
+        decks: The Deck objects whose opponents to use
+        players: An optional list of players to restrict the opponents to.
+        matchups: An optional dict of matchups.
+        """
+        self.players = players
+        self.matchups = {k: matchups[k] for k in matchups} if matchups else {}
+        self.archetypes = {}
+        self.total = 0
+        self.d1s = []
+        self.d2s = {}
+        #Compute the metagame. 
+        for d1 in decks:
+            for match in d1.matches:
+                d2 = match.deck2
+                if self.players and d2.player not in self.players:
+                    continue
+                main = d2.archetype
+                sub = d2.subarchetype
+                if main not in self.archetypes:
+                    self.archetypes[main] = {}
+                if sub not in self.archetypes[main]:
+                    self.archetypes[main][sub] = 0
+                self.archetypes[main][sub] += 1
+                self.total += 1
+                if d2 not in self.d2s:
+                    self.d2s[d2] = 0
+                self.d2s[d2] = self.d2s[d2] + 1
+            self.d1s.append(d1)
+
+
 class MetaFactory(object):
     """An object that can instantiate Metagames, based on some
     configuration."""

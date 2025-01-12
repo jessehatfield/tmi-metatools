@@ -122,7 +122,5 @@ CREATE VIEW `MatchesSCG` AS
         `deck2Match`.`SPLIT_2` AS `SPLIT_2`
     from
         ((`deck1Match` join `deck2Match` on((`deck1Match`.`MATCH_ID` = `deck2Match`.`MATCH_ID`)))
-        join `Tournament` on((`deck1Match`.`T_ID` = `Tournament`.`T_ID`)))
-    where
-        ((`Tournament`.`SOURCE` = 'SCG') and (`Tournament`.`FORMAT` = 'Legacy'));
+        join `Tournament` on((`deck1Match`.`T_ID` = `Tournament`.`T_ID`)));
 COMMIT;

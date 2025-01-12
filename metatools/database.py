@@ -4,12 +4,13 @@ from sqlalchemy.sql import select, func
 from sqlalchemy.sql.expression import and_, or_, asc, text
 
 from metatools.config import config
-from metatools.deck import Deck, Card
+from metatools.deck import Deck, Card, Slot
 from metatools.match import Match
 from metatools.tournament import Tournament
 
 engine = create_engine(config['database']['connection'], echo=False)
 param = config['database']['param']
+print(f"Connecting to DB: {config['database']['connection']}")
 metadata = schema.MetaData()
 metadata.bind = engine
 sm = orm.sessionmaker(bind=engine, autoflush=False, autocommit=False,
@@ -108,9 +109,6 @@ class RawMatch(Match):
     pass
 class DBCard(object):
     pass
-
-class Slot(object):
-    """Association between Deck and Card."""
 
 orm.mapper(DBCard, cards, properties = {
     'name': cards.c.CARD_NAME,
@@ -426,10 +424,14 @@ def getTournaments(*args, **kwargs):
 def getSlots(*args, **kwargs):
     return slotQuery(*args, **kwargs).all()
 def getMatches(tquery=None, d1query=None, d2query=None,
-        tournaments=None, decks1=None, decks2=None):
-    forward = matchQuery(tquery, d1query, d2query, tournaments, decks1, decks2)
-    backward = matchQuery(tquery, d2query, d1query, tournaments, decks2, decks1)
-    return set(forward.all() + [ m.reverse() for m in backward.all() ])
+        tournaments=None, decks1=None, decks2=None,
+        oneway=True):
+    forward = matchQuery(tquery, d1query, d2query, tournaments, decks1, decks2).all()
+    if oneway:
+        backward = []
+    else:
+        backward = matchQuery(tquery, d2query, d1query, tournaments, decks2, decks1).all()
+    return set(forward + [ m.reverse() for m in backward ])
 def getMatchesGrouped(*args, **kwargs):
     return matchQueryGrouped(*args, **kwargs).all()
 def getDecks(*args, **kwargs):
