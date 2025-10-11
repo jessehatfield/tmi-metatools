@@ -18,7 +18,7 @@ roundExpr = re.compile(r'Round (\d+)')
 byeExpr = re.compile(".*BYE.*", re.IGNORECASE)
 drawExpr = re.compile("^Draw$", re.IGNORECASE)
 gameExpr = re.compile("^([0-9]+)-([0-9]+)(-([0-9]+))?$")
-filenameExpr = re.compile(r'^([^ ]*) (.*Challenge)( \d+)? (\d{1,2})_(\d{1,2})_(\d{4})( - [\d]+)?')
+filenameExpr = re.compile(r'^([^ ]*) (.*Challenge|Super Qualifier|Last Chance|Showcase Qualifier)( \d+)? (\d{1,2})_(\d{1,2})_(\d{4})( - [\d]+)?')
 
 
 def matchesIgnoreCase(key, options):
@@ -94,7 +94,7 @@ def insertLDCPTournament(session, filename, nameArg=None, formatArg=None, dateAr
     eventdate = dateArg if dateArg else datetime.date(
             int(filenameMatch.group(6)), int(filenameMatch.group(4)), int(filenameMatch.group(5)))
     date_str = eventdate.strftime('%Y-%m-%d')
-    t_name = nameArg if nameArg else f'{mtg_format} {tournament_type}{filenameMatch.group(3)} {date_str}{tournament_number}'
+    t_name = nameArg if nameArg else f'{mtg_format} {tournament_type}{tournament_size} {date_str}{tournament_number}'
     tourney = DBTournament(name=t_name, date=eventdate, format=mtg_format)
     tourney.source = "MTGO Data Collection Project"
     session.add(tourney)

@@ -10,7 +10,7 @@ from metatools.tournament import Tournament
 
 engine = create_engine(config['database']['connection'], echo=False)
 param = config['database']['param']
-print(f"Connecting to DB: {config['database']['connection']}")
+#print(f"Connecting to DB: {config['database']['connection']}")
 metadata = schema.MetaData()
 metadata.bind = engine
 sm = orm.sessionmaker(bind=engine, autoflush=False, autocommit=False,

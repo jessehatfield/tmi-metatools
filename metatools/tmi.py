@@ -87,7 +87,8 @@ def getTrendWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournie
             penetration=args['penetration'], conversion=args['conversion'],
             players=players, groupBy=groupBy, begin=args['begin'],
             end=args['end'], tstats=tstats, groups=groups,
-            onlyTopX=args['restrict_top'], window=args['window'])
+            onlyTopX=args['restrict_top'], window=args['window'],
+            cumulative=args['cumulative'])
 
 def getDiversityWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
     """
@@ -137,7 +138,7 @@ def getMatchupsWrapper(args, decktypes, groups, recentMeta, historicalMeta, tour
     return getMatchups(args['deck'], label, recentMeta, alternate,
             args.get('overall_title', 'Overall'), decktypes, groups,
             players, args.get('nmatches', False), args.get('sub', False),
-            conf=args.get('conf', None))
+            conf=args.get('conf', None), mainLabel=args.get('title', ''))
 
 def explainWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
     """
@@ -520,6 +521,8 @@ def main(arglist):
     matchp.add_argument('-n', '--nmatches', action='store_true', help='Print the \
             number of matches.')
     matchp.add_argument('-l', '--label', help='Label to use for this group of decks.')
+    matchp.add_argument('-t', '--title', type=str, default='',
+            help='Optional title for the recent metagame columns.')
     matchp.add_argument('-o', '--overall', type=str, nargs=2, help='Date range for \
             overall matchups.')
     matchp.add_argument('-O', '--overall_title', type=str, default='Overall',
@@ -557,6 +560,9 @@ def main(arglist):
             to decks placing <= T.')
     trendp.add_argument('-w', '--window', type=int, default=1, help='Compute statistics\
             over an overlapping sliding window of the latest w tournaments.')
+    trendp.add_argument('--cumulative', action='store_true', help='Compute cumulative\
+            statistics for each tournament, i.e. stats for all events from the beginning\
+            up to and including each one.')
     trendp.set_defaults(func=getTrendWrapper)
 
 

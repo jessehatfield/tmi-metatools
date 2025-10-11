@@ -159,7 +159,7 @@ def getPercentile():
         percentiles = [ 1 - (float(d.place)/d.tournament.numPlayers) for d in decks if d.place ]
         total = sum(percentiles)
         return float(total)/n
-    return (avgpercentile, 'Percentile', 'percent')
+    return (avgpercentile, 'Avg. Percentile', 'percent')
 
 def getEV(context, tournaments=None, fromSub=False, smartSub=False,
         players=[], usePairings=False):
