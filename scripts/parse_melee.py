@@ -112,12 +112,39 @@ def fetch_round_results(round_id, page_size=25):
     return records
 
 def fetch_decklist(deck_id):
-    soup = fetch_html(f"https://melee.gg/Decklist/View/{deck_id}")
+    """Fetches decklist and returns it in the form of a string:
+    '4 Card Name 3\r\nCard Name 2\r\n...4 Card Name N\r\n\r\nSideboard\r\n3 Sideboard Card 1\r\n...\r\n3 Sideboard Card M'
+    """
+    decklist_url = f"https://melee.gg/Decklist/View/{deck_id}"
+    soup = fetch_html(decklist_url)
     copy_button = soup.find('button', class_='decklist-builder-copy-button')
-    if copy_button is None:
-        return None
-    decklist = copy_button['data-clipboard-text']
-    return re.sub('^Deck\r?\n', '', decklist)
+    if copy_button is not None:
+        decklist = copy_button['data-clipboard-text']
+        return re.sub('^Deck\r?\n', '', decklist)
+    decklist_container = soup.find('div', class_='decklist-container')
+    if decklist_container is not None:
+        maindeck = []
+        sideboard = []
+        for category in decklist_container.find_all('div', class_='decklist-category'):
+            title = category.find('div', class_='decklist-category-title')
+            entries = category.find_all('div', class_='decklist-record')
+            is_sideboard = title is not None and title.text is not None and title.text.strip().startswith('Sideboard' )
+            for entry in entries:
+                quantity = entry.find('span', class_='decklist-record-quantity')
+                card_name = entry.find('a', class_='decklist-record-name')
+                if quantity is None or card_name is None or quantity.text is None or card_name.text is None:
+                    print(f"WARNING: can't parse decklist entry: {entry}")
+                    continue
+                entry_string = quantity.text.strip() + ' ' + card_name.text.strip()
+                if is_sideboard:
+                    sideboard.append(entry_string)
+                else:
+                    maindeck.append(entry_string)
+        if len(maindeck) > 0:
+            all_entries = maindeck + ['', 'Sideboard'] + sideboard + ['']
+            return '\r\n'.join(all_entries)
+    print(f"WARNING: Unable to find decklist in {decklist_url}", file=sys.stderr)
+    return None
 
 def fetch_player_data(rounds, allow_incomplete=True, forward=False):
     player_data = []
@@ -222,7 +249,8 @@ if __name__ == "__main__":
     p.add_argument("-p", "--players", action="store_true", help="Just fetch player data and exit")
     args = p.parse_args()
     if args.players:
-        player_data = fetch_player_data(args.tournament_id, True)
+        rounds = get_round_info(args.tournament_id, allow_incomplete=True)
+        player_data = fetch_player_data(rounds, forward=True)
         print(json.dumps(player_data))
         sys.exit(0)
     rows, header = fetch_tournament(args.tournament_id, allow_incomplete=args.incomplete,

@@ -383,7 +383,10 @@ def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
 
     # Prepare and return a Table for output
     table = Table()
-    table.setTitle(', '.join(names))
+    table_title = ', '.join(names)
+    if len(names) > 1:
+        table_title = str(len(names)) + ' events: ' + table_title
+    table.setTitle(table_title)
     table.addField(Field('Deck'))
     for key, func in stats:
         f, name, datatype = func
@@ -407,7 +410,7 @@ def getBreakdown(tournaments, context, outputs=[], top=[], percentTop=[],
 
 def getTrend(decktypes, tournies, context, outputs=[], top=[],
         percentTop=[], penetration=[], conversion=[], players=[], groupBy=None,
-        begin=None, end=None, tstats=[], groups={}, onlyTopX=0, window=1):
+        begin=None, end=None, tstats=[], groups={}, onlyTopX=0, window=1, cumulative=False):
     """
     decktypes: list of strings representing archetype names
     tournies: a list of Tournaments for the relevant time period
@@ -430,6 +433,7 @@ def getTrend(decktypes, tournies, context, outputs=[], top=[],
     window: Use a sliding window of n tournaments (overlapping), rather than
             treat them individually.
     include_tids: Include the database tournament ID in the tournament name
+    cumulative: Calculate stats from the start up to each tournament, instead of each event individually
     """
     stats = getStats(tournies, context, outputs, top, percentTop,
             penetration, conversion, players)
@@ -494,13 +498,23 @@ def getTrend(decktypes, tournies, context, outputs=[], top=[],
 
     # For each tournament or group of tournaments, construct a row.
     for i in range(len(tgroups)):
+        tournaments = tgroups[i]
+        if cumulative:
+            tournaments = []
+            tids = set()
+            for tgroup in tgroups[:i+1]:
+                for t in tgroup:
+                    if t.id not in tids:
+                        tournaments.append(t)
+                        tids.add(t.id)
+
         row = [ xvalues[i] ]
         # Feed the stat functions the current tournament.
 
-        stats = getStats(tgroups[i], context, outputs, top,
+        stats = getStats(tournaments, context, outputs, top,
                 percentTop, penetration, conversion, players)
         alldecks = set()
-        for t in tgroups[i]:
+        for t in tournaments:
             alldecks |= set(t.decks)
         # Restrict to top X decks if specified.
         if onlyTopX > 0:
@@ -690,7 +704,7 @@ def getCardInfo(tournies, outputs, top, multitop=[], cards=[]):
     return table
 
 def getMatchups(decktypes, label, meta, alternateMeta, altLabel, otherDecks,
-        groups, players, nmatches=False, sub=False, conf=None):
+        groups, players, nmatches=False, sub=False, conf=None, mainLabel=""):
     """Get information about a deck/group's matchups against other
     decks/groups.
     decktypes: a list of deck names -- combine them and return their matchups
@@ -709,6 +723,7 @@ def getMatchups(decktypes, label, meta, alternateMeta, altLabel, otherDecks,
     nmatches: if true, add a column with the total number of matches
     sub: if true, also get matchups against subarchetypes of other decks
     conf: if some probability is given, also print confidence intervals
+    mainLabel: what to call the main metagame
     """
     decks = meta.getDecks(decktypes)
     field = getFieldP(players=players)[0](decks)
@@ -716,15 +731,16 @@ def getMatchups(decktypes, label, meta, alternateMeta, altLabel, otherDecks,
 
     # Create a Table, figure out what columns we need
     table = Table()
+    prefix = mainLabel + ' ' if mainLabel and len(mainLabel) > 0 else ''
     table.setTitle('{0} -- {1:.2f}% of field, won {2:.2f}% of matches'.\
             format(label, field*100.0, winpercent*100.0))
     table.addField(Field('otherdeck', fieldName=label + ' vs. ', align='<'))
-    table.addField(Field('record', fieldName='Record', align='^'))
-    table.addField(Field('mwp', fieldName='Win %', type='percent'))
+    table.addField(Field('record', fieldName=prefix + 'Record', align='^'))
+    table.addField(Field('mwp', fieldName=prefix + 'Win %', type='percent'))
     if nmatches:
-        table.addField(Field('n', fieldName='# of Matches', type='int'))
+        table.addField(Field('n', fieldName=prefix + '# of Matches', type='int'))
     if conf:
-        table.addField(Field('ci', fieldName='{0:2.1f}% Conf. Interval'.format(conf*100)))
+        table.addField(Field('ci', fieldName=prefix + '{0:2.1f}% Conf. Interval'.format(conf*100)))
     if alternateMeta:
         table.addField(Field('alt_record', fieldName='{0} Record'.format(
             altLabel), align='^'))
