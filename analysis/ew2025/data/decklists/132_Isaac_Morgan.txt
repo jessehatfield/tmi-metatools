@@ -1,0 +1,32 @@
+// Player: Isaac Morgan
+// Place: 132
+
+4 Barrowgoyf
+4 Clarion Conqueror
+4 Guide of Souls
+4 Ocelot Pride
+4 Orcish Bowmasters
+4 Voice of Victory
+3 Haliya, Guided by Light
+2 Witch Enchanter // Witch-Blessed Meadow
+4 Thoughtseize
+3 Cabal Therapy
+4 Swords to Plowshares
+4 Ancient Tomb
+4 Marsh Flats
+2 Flooded Strand
+2 Plains
+2 Scrubland
+2 Shadowy Backstreet
+2 Wasteland
+1 Karakas
+1 Swamp
+
+Sideboard
+4 Nihil Spellbomb
+3 Wrath of the Skies
+2 Containment Priest
+2 Deafening Silence
+2 Static Prison
+2 Stony Silence
+

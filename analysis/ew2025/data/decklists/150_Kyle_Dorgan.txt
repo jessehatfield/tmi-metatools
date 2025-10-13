@@ -1,0 +1,42 @@
+// Player: Kyle Dorgan
+// Place: 150
+
+4 Duress
+4 Infernal Tutor
+4 Thoughtseize
+2 Beseech the Mirror
+1 Burning Wish
+1 Cabal Therapy
+1 Gaea's Will
+1 Tendrils of Agony
+4 Dark Ritual
+3 Cabal Ritual
+1 Ad Nauseam
+4 Chrome Mox
+4 Lion's Eye Diamond
+4 Lotus Petal
+4 Mox Opal
+3 Wishclaw Talisman
+1 Candy Trail
+4 Urza's Saga
+1 Necrodominance
+4 Vault of Whispers
+3 Swamp
+1 City of Traitors
+1 Spire of Industry
+
+Sideboard
+2 Surge Node
+2 Surgical Extraction
+1 Beseech the Mirror
+1 Cabal Therapy
+1 Debt to the Deathless
+1 Empty the Warrens
+1 Fatal Push
+1 Feed the Swarm
+1 Grafdigger's Cage
+1 Haywire Mite
+1 Peer into the Abyss
+1 Pithing Needle
+1 Tendrils of Agony
+

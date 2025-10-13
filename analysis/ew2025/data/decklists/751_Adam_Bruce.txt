@@ -1,0 +1,41 @@
+// Player: Adam Bruce
+// Place: 751
+
+4 Broadside Bombardiers
+4 Goblin Lackey
+4 Goblin Matron
+3 Munitions Expert
+2 Battle Cry Goblin
+2 Goblin Ringleader
+2 Howlsquad Heavy
+2 Rundvelt Hordemaster
+2 Skirk Prospector
+2 Sling-Gang Lieutenant
+1 Boggart Trawler // Boggart Bog
+1 Gempalm Incinerator
+1 Goblin Trashmaster
+1 Krenko, Mob Boss
+1 Muxus, Goblin Grandee
+1 Pashalik Mons
+1 Stingscourger
+4 Aether Vial
+4 Cavern of Souls
+4 Wasteland
+3 Ancient Tomb
+3 Mountain
+2 Badlands
+2 Bloodstained Mire
+2 Wooded Foothills
+1 Arid Mesa
+1 Raucous Theater
+1 Scalding Tarn
+
+Sideboard
+3 Faerie Macabre
+3 Pyroblast
+3 Pyrokinesis
+2 Disruptor Flute
+2 Void Mirror
+1 Null Rod
+1 Unlicensed Hearse
+

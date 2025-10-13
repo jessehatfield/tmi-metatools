@@ -1,0 +1,29 @@
+// Player: loitment
+// Place: 445
+
+4 Apex Devastator
+4 Emrakul, the Aeons Torn
+3 Maelstrom Wanderer
+3 Trumpeting Carnosaur
+2 Boarding Party
+4 Creative Technique
+4 Throes of Chaos
+2 Call Forth the Tempest
+1 Decree of Annihilation
+4 Tibalt's Trickery
+4 Ancient Tomb
+4 Crystal Vein
+4 Dwarven Ruins
+4 Otawara, Soaring City
+4 Sandstone Needle
+3 Sulfur Vent
+3 Tinder Farm
+2 Saprazzan Skerry
+1 Mountain
+
+Sideboard
+4 Chancellor of the Annex
+4 Leyline of the Void
+4 Pyrokinesis
+3 Ingot Chewer
+

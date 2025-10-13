@@ -1,0 +1,38 @@
+// Player: Brandon Ngo
+// Place: 927
+
+2 Kaito, Bane of Nightmares
+4 Thieves' Guild Enforcer
+3 Soaring Thought-Thief
+2 Brazen Borrower // Petty Theft
+2 Dauthi Voidwalker
+2 Orcish Bowmasters
+2 True-Name Nemesis
+1 Cunning Nightbonder
+4 Thoughtseize
+3 Ponder
+4 Brainstorm
+4 Force of Will
+3 Surgical Extraction
+2 Daze
+2 Drown in the Loch
+1 Sudden Edict
+4 Polluted Delta
+4 Underground Sea
+3 Wasteland
+2 Cavern of Souls
+2 Island
+2 Marsh Flats
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+2 Consign to Memory
+2 Dread of Night
+2 Dress Down
+2 Extirpate
+2 Flusterstorm
+2 Grafdigger's Cage
+2 Hullbreacher
+1 Sudden Edict
+

@@ -1,0 +1,32 @@
+// Player: Chris Doherty
+// Place: 902
+
+4 Delver of Secrets // Insectile Aberration
+4 Dragon's Rage Channeler
+3 Phyrexian Dreadnought
+2 Murktide Regent
+4 Ponder
+4 Brainstorm
+4 Fling
+4 Force of Will
+4 Lightning Bolt
+4 Stifle
+3 Daze
+2 Mishra's Bauble
+4 Misty Rainforest
+4 Scalding Tarn
+4 Volcanic Island
+4 Wasteland
+1 Island
+1 Thundering Falls
+
+Sideboard
+3 Consign to Memory
+2 Blood Moon
+2 Hydroblast
+2 Price of Progress
+2 Red Elemental Blast
+2 Surgical Extraction
+1 Grafdigger's Cage
+1 Meltdown
+

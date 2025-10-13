@@ -1,0 +1,31 @@
+// Player: HarlequinZERO
+// Place: 657
+
+4 Broadside Bombardiers
+4 Moggcatcher
+4 Pyrogoyf
+4 Simian Spirit Guide
+3 Goblin Settler
+2 Boggart Trawler // Boggart Bog
+1 Kiki-Jiki, Mirror Breaker
+1 Stingscourger
+4 Sundering Eruption // Volcanic Fissure
+3 Shatterskull Smashing // Shatterskull, the Hammer Pass
+4 Trinisphere
+3 Chalice of the Void
+3 Chrome Mox
+4 Blood Moon
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Ancient Tomb
+4 City of Traitors
+4 Mountain
+
+Sideboard
+4 Disruptor Flute
+4 Faerie Macabre
+2 Bonecrusher Giant // Stomp
+2 Cast into the Fire
+1 Chalice of the Void
+1 Goblin Sharpshooter
+1 Tuktuk Scrapper
+

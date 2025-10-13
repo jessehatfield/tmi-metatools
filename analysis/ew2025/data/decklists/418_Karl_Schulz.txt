@@ -1,0 +1,44 @@
+// Player: Karl Schulz
+// Place: 418
+
+3 Misthollow Griffin
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Brazen Borrower // Petty Theft
+2 Endurance
+2 Ice-Fang Coatl
+2 Questing Druid // Seek the Beast
+1 Squee, the Immortal
+1 Uro, Titan of Nature's Wrath
+3 Ponder
+1 Manipulate Fate
+4 Brainstorm
+4 Force of Will
+4 Galvanic Discharge
+1 Force of Negation
+3 Unstable Amulet
+4 Food Chain
+4 Misty Rainforest
+3 Scalding Tarn
+2 Snow-Covered Forest
+2 Snow-Covered Island
+2 Tropical Island
+2 Volcanic Island
+1 Boseiju, Who Endures
+1 Hedge Maze
+1 Shifting Woodland
+1 Snow-Covered Mountain
+1 Thundering Falls
+
+Sideboard
+2 Carpet of Flowers
+2 Consign to Memory
+2 Force of Vigor
+2 Veil of Summer
+1 Blue Elemental Blast
+1 Collector Ouphe
+1 Null Rod
+1 Pyroblast
+1 Red Elemental Blast
+1 Relic of Progenitus
+1 Surgical Extraction
+

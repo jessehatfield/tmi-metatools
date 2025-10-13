@@ -1,0 +1,32 @@
+// Player: Alan Donoho
+// Place: 533
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Barrowgoyf
+4 Guide of Souls
+4 Marionette Apprentice
+4 Ocelot Pride
+4 Orcish Bowmasters
+4 Voice of Victory
+1 Solitude
+4 Thoughtseize
+4 Swords to Plowshares
+4 Staff of the Storyteller
+4 Marsh Flats
+4 Wasteland
+3 Flooded Strand
+3 Scrubland
+2 Plains
+1 Karakas
+1 Shadowy Backstreet
+1 Swamp
+
+Sideboard
+3 Clarion Conqueror
+3 Sheltered by Ghosts
+3 Static Prison
+2 Disruptor Flute
+2 Wrath of the Skies
+1 Cabal Therapy
+1 Nihil Spellbomb
+

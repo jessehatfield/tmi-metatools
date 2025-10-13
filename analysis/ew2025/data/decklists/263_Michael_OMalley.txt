@@ -1,0 +1,38 @@
+// Player: Michael OMalley
+// Place: 263
+
+1 Grist, the Hunger Tide
+4 Elvish Reclaimer
+4 Ignoble Hierarch
+4 Keen-Eyed Curator
+4 Wight of the Reliquary
+3 Noble Hierarch
+2 Dryad Arbor
+2 Sylvan Safekeeper
+1 Atraxa, Grand Unifier
+1 Collector Ouphe
+1 Endurance
+4 Green Sun's Zenith
+3 Natural Order
+3 Once Upon a Time
+3 Snuff Out
+3 Gaea's Cradle
+3 Verdant Catacombs
+3 Windswept Heath
+2 Bayou
+2 Forest
+2 Misty Rainforest
+2 Wooded Foothills
+1 Bojuka Bog
+1 Lair of the Hydra
+1 Talon Gates of Madara
+
+Sideboard
+4 Thoughtseize
+3 Endurance
+3 Force of Vigor
+2 Pithing Needle
+1 Gaddock Teeg
+1 Snuff Out
+1 Urza's Saga
+

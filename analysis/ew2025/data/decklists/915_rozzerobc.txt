@@ -1,0 +1,41 @@
+// Player: rozzerobc
+// Place: 915
+
+2 Teferi, Time Raveler
+3 Phelia, Exuberant Shepherd
+3 Quantum Riddler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Containment Priest
+2 Nulldrifter
+1 Prismatic Ending
+4 Brainstorm
+4 Consign to Memory
+4 Force of Will
+4 Swords to Plowshares
+1 Archmage's Charm
+3 Dress Down
+2 Ground Seal
+4 Flooded Strand
+4 Misty Rainforest
+3 Windswept Heath
+2 Island
+2 Plains
+2 Tropical Island
+2 Tundra
+1 Hedge Maze
+1 Karakas
+1 Meticulous Archive
+
+Sideboard
+2 Blue Elemental Blast
+2 Celestial Purge
+2 Harbinger of the Seas
+2 Wrath of the Skies
+1 Clarion Conqueror
+1 Force of Negation
+1 Grafdigger's Cage
+1 Hullbreacher
+1 Lavinia, Azorius Renegade
+1 Null Rod
+1 Prismatic Ending
+

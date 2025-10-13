@@ -1,0 +1,29 @@
+// Player: jonathanK1
+// Place: 827
+
+4 Barrowgoyf
+4 Opposition Agent
+4 Orcish Bowmasters
+3 Boggart Trawler // Boggart Bog
+3 Exsanguinator Cavalry
+4 Thoughtseize
+4 Unmask
+4 Dark Ritual
+4 Sheoldred's Edict
+4 The One Ring
+1 Lavaspur Boots
+1 Shadowspear
+1 Soul-Guide Lantern
+4 Urza's Saga
+8 Swamp
+4 Ancient Tomb
+3 Urborg, Tomb of Yawgmoth
+
+Sideboard
+4 Dauthi Voidwalker
+4 Faerie Macabre
+4 Null Rod
+1 Damping Sphere
+1 Pithing Needle
+1 Shoot the Sheriff
+

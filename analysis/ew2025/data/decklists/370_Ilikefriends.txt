@@ -1,0 +1,34 @@
+// Player: Ilikefriends
+// Place: 370
+
+4 Broadside Bombardiers
+4 Fury
+4 Magus of the Moon
+4 Simian Spirit Guide
+2 Pyrogoyf
+4 Sundering Eruption // Volcanic Fissure
+2 Shatterskull Smashing // Shatterskull, the Hammer Pass
+4 Chalice of the Void
+4 Chrome Mox
+4 The One Ring
+2 Trinisphere
+1 Lavaspur Boots
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+2 Blood Moon
+4 Ancient Tomb
+4 City of Traitors
+2 Mountain
+
+Sideboard
+4 Leyline of the Void
+2 Disruptor Flute
+2 Faerie Macabre
+2 Red Elemental Blast
+1 Dead // Gone
+1 Grafdigger's Cage
+1 Pithing Needle
+1 Pyroblast
+1 Pyrogoyf
+

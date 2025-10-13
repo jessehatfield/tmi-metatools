@@ -1,0 +1,45 @@
+// Player: Taylor Herfindahl
+// Place: 114
+
+1 Runehorn Hellkite
+4 Thoughtseize
+3 Beseech the Mirror
+3 Echo of Eons
+2 Burning Wish
+1 Cabal Therapy
+1 Duress
+1 Gaea's Will
+1 Tendrils of Agony
+4 Dark Ritual
+4 Entomb
+4 Veil of Summer
+1 Sail into the West
+4 Chrome Mox
+4 Lion's Eye Diamond
+4 Lotus Petal
+4 Mox Opal
+3 Urza's Saga
+1 Song of Creation
+3 Verdant Catacombs
+2 Polluted Delta
+1 Badlands
+1 Bayou
+1 Swamp
+1 Underground Mortuary
+1 Underground Sea
+
+Sideboard
+2 Abrupt Decay
+2 Faerie Macabre
+1 Approach of the Second Sun
+1 Beseech the Mirror
+1 Boseiju, Who Endures
+1 Cabal Therapy
+1 Echo of Eons
+1 Empty the Warrens
+1 Reverent Silence
+1 Silent Gravestone
+1 Surgical Extraction
+1 Tendrils of Agony
+1 Void Snare
+

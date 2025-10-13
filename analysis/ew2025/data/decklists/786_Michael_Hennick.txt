@@ -1,0 +1,32 @@
+// Player: Michael Hennick
+// Place: 786
+
+4 Broadside Bombardiers
+4 Magus of the Moon
+4 Simian Spirit Guide
+3 Pyrogoyf
+2 Fury
+3 Shatterskull Smashing // Shatterskull, the Hammer Pass
+3 Sundering Eruption // Volcanic Fissure
+4 Chalice of the Void
+4 Chrome Mox
+4 The One Ring
+3 Trinisphere
+1 Lavaspur Boots
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+2 Blood Moon
+4 Ancient Tomb
+4 City of Traitors
+2 Mountain
+
+Sideboard
+3 Disruptor Flute
+3 Faerie Macabre
+3 Fiery Confluence
+2 Dead // Gone
+2 Fury
+1 Pithing Needle
+1 Shadowspear
+

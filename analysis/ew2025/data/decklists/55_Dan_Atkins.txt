@@ -1,0 +1,49 @@
+// Player: Dan Atkins
+// Place: 55
+
+1 Yorion, Sky Nomad
+4 Phelia, Exuberant Shepherd
+4 Quantum Riddler
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Overlord of the Balemurk
+3 Recruiter of the Guard
+3 Solitude
+2 Baleful Strix
+2 Orcish Bowmasters
+2 Witch Enchanter // Witch-Blessed Meadow
+1 Containment Priest
+1 Flickerwisp
+1 Glasspool Mimic // Glasspool Shore
+1 Hullbreacher
+1 Skyclave Apparition
+1 White Orchid Phantom
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+4 Aether Vial
+4 Flooded Strand
+4 Marsh Flats
+4 Polluted Delta
+2 Island
+2 Karakas
+2 Plains
+2 Scrubland
+2 Tundra
+2 Wasteland
+1 Meticulous Archive
+1 Swamp
+1 Undercity Sewers
+1 Underground Sea
+
+Sideboard
+4 Clarion Conqueror
+2 Consign to Memory
+2 Faerie Macabre
+2 Grafdigger's Cage
+1 Lavinia, Azorius Renegade
+1 Plague Engineer
+1 Prismatic Ending
+1 White Orchid Phantom
+

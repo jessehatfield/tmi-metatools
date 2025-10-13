@@ -1,0 +1,38 @@
+// Player: EdKell
+// Place: 891
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Orcish Bowmasters
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Reanimate
+3 Thoughtseize
+4 Brainstorm
+4 Daze
+4 Entomb
+4 Force of Will
+1 Animate Dead
+4 Polluted Delta
+4 Wasteland
+3 Underground Sea
+2 Bloodstained Mire
+2 Undercity Sewers
+1 Flooded Strand
+1 Island
+1 Swamp
+1 Verdant Catacombs
+
+Sideboard
+2 Barrowgoyf
+2 Consign to Memory
+2 Dauthi Voidwalker
+2 Fatal Push
+2 Force of Negation
+2 Massacre
+1 Engineered Explosives
+1 Nihil Spellbomb
+1 Null Rod
+

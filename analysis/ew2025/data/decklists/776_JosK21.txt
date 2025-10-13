@@ -1,0 +1,38 @@
+// Player: JosK21
+// Place: 776
+
+4 Phelia, Exuberant Shepherd
+4 Quantum Riddler
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Solitude
+4 Ponder
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+4 Up the Beanstalk
+3 Leyline Binding
+1 Dress Down
+4 Flooded Strand
+4 Misty Rainforest
+3 Island
+2 Tundra
+1 Karakas
+1 Meticulous Archive
+1 Mystic Sanctuary
+1 Plains
+1 Savannah
+1 Tropical Island
+1 Xander's Lounge
+
+Sideboard
+2 Carpet of Flowers
+2 Consign to Memory
+2 Containment Priest
+2 Deafening Silence
+2 Faerie Macabre
+2 Rest in Peace
+1 Dress Down
+1 Hydroblast
+1 Wrath of the Skies
+

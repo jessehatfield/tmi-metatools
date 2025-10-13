@@ -1,0 +1,39 @@
+// Player: Reuben Musselman
+// Place: 198
+
+2 Kaito, Bane of Nightmares
+4 Nethergoyf
+3 Orcish Bowmasters
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Murktide Regent
+1 Barrowgoyf
+4 Ponder
+3 Thoughtseize
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+2 Nihil Spellbomb
+4 Flooded Strand
+4 Polluted Delta
+3 Underground Sea
+3 Wasteland
+2 Tundra
+1 Island
+1 Scrubland
+1 Undercity Sewers
+
+Sideboard
+2 Consign to Memory
+2 Containment Priest
+2 Force of Negation
+2 Pest Control
+1 Barrowgoyf
+1 Blue Elemental Blast
+1 Disruptor Flute
+1 Faerie Macabre
+1 Hydroblast
+1 Null Rod
+1 Plague Engineer
+

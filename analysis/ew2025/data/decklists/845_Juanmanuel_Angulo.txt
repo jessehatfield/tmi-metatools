@@ -1,0 +1,33 @@
+// Player: Juanmanuel Angulo
+// Place: 845
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Amped Raptor
+4 Guide of Souls
+4 Ocelot Pride
+4 Orcish Bowmasters
+4 Voice of Victory
+4 Cabal Therapy
+4 Thoughtseize
+4 Swords to Plowshares
+2 Goblin Bombardment
+4 Arid Mesa
+4 Marsh Flats
+4 Wasteland
+2 Plateau
+2 Scrubland
+1 Badlands
+1 Elegant Parlor
+1 Karakas
+1 Plains
+1 Shadowy Backstreet
+1 Swamp
+
+Sideboard
+4 Faerie Macabre
+3 March of Otherworldly Light
+2 Disruptor Flute
+2 Forth Eorlingas!
+2 Red Elemental Blast
+2 Stony Silence
+

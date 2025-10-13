@@ -1,0 +1,32 @@
+// Player: Tim Currence
+// Place: 870
+
+4 Griselbrand
+2 Archon of Cruelty
+2 Atraxa, Grand Unifier
+1 Borborygmos Enraged
+4 Faithless Looting
+4 Reanimate
+4 Thoughtseize
+4 Unmask
+2 Exhume
+4 Dark Ritual
+4 Entomb
+4 Shallow Grave
+4 Lotus Petal
+4 Animate Dead
+2 Badlands
+2 Marsh Flats
+2 Polluted Delta
+2 Swamp
+2 Underground Sea
+2 Verdant Catacombs
+1 Raucous Theater
+
+Sideboard
+4 Collective Brutality
+4 Show and Tell
+3 Faerie Macabre
+3 The One Ring
+1 Surgical Extraction
+

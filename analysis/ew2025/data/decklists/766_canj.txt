@@ -1,0 +1,34 @@
+// Player: canj
+// Place: 766
+
+3 Karn, the Great Creator
+4 Dauthi Voidwalker
+4 Orcish Bowmasters
+3 Barrowgoyf
+1 Sheoldred, the Apocalypse
+4 Thoughtseize
+3 Hymn to Tourach
+4 Dark Ritual
+4 Fatal Push
+3 Helm of Obedience
+3 The One Ring
+4 Leyline of the Void
+7 Swamp
+4 Ancient Tomb
+4 Polluted Delta
+2 Bloodstained Mire
+2 City of Traitors
+1 Underground Mortuary
+
+Sideboard
+2 Disruptor Flute
+2 Opposition Agent
+2 Sheoldred's Edict
+2 Toxic Deluge
+2 Void Mirror
+1 Dread of Night
+1 Ensnaring Bridge
+1 Helm of Obedience
+1 Liquimetal Coating
+1 Mycosynth Lattice
+

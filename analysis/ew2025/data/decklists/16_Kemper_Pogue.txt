@@ -1,0 +1,37 @@
+// Player: Kemper Pogue
+// Place: 16
+
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+2 Simian Spirit Guide
+1 Chaos Defiler
+1 Phyrexian Devourer
+1 Phyrexian Dragon Engine
+4 Pyroblast
+2 Lightning Bolt
+1 Red Elemental Blast
+3 Agatha's Soul Cauldron
+2 Grindstone
+2 Lotus Petal
+1 Ensnaring Bridge
+1 Lavaspur Boots
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+9 Mountain
+4 Ancient Tomb
+2 Great Furnace
+1 Arena of Glory
+1 City of Traitors
+
+Sideboard
+3 Blood Moon
+3 Disruptor Flute
+3 Fury
+2 Abrade
+2 Damping Sphere
+1 Grafdigger's Cage
+1 Null Rod
+

@@ -1,0 +1,39 @@
+// Player: faultedform
+// Place: 79
+
+3 Jace, the Mind Sculptor
+2 Teferi, Time Raveler
+1 Narset, Parter of Veils
+4 Stoneforge Mystic
+3 Snapcaster Mage
+4 Ponder
+3 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+1 Spell Pierce
+1 Batterskull
+1 Cryptic Coat
+1 Kaldra Compleat
+2 Back to Basics
+1 Counterbalance
+1 Dress Down
+6 Island
+4 Flooded Strand
+4 Prismatic Vista
+2 Plains
+1 Mountain
+1 Scalding Tarn
+1 Tundra
+1 Volcanic Island
+
+Sideboard
+3 Faerie Macabre
+2 Consign to Memory
+2 Lavinia, Azorius Renegade
+2 Meltdown
+2 Pyroblast
+2 Stony Silence
+1 Red Elemental Blast
+1 Surgical Extraction
+

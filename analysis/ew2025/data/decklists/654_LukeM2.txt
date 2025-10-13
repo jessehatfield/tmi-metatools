@@ -1,0 +1,43 @@
+// Player: LukeM2
+// Place: 654
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Guide of Souls
+4 Ocelot Pride
+4 Orcish Bowmasters
+3 Voice of Victory
+2 Amped Raptor
+2 Spider-Punk
+3 Cabal Therapy
+3 Thoughtseize
+4 Swords to Plowshares
+1 Cling to Dust
+3 Goblin Bombardment
+4 Wasteland
+2 Bloodstained Mire
+2 Cavern of Souls
+2 Marsh Flats
+2 Plateau
+2 Scrubland
+1 Arid Mesa
+1 Badlands
+1 Elegant Parlor
+1 Karakas
+1 Mountain
+1 Plains
+1 Shadowy Backstreet
+1 Sunbaked Canyon
+1 Swamp
+
+Sideboard
+2 Deafening Silence
+2 Kolaghan's Command
+2 March of Otherworldly Light
+2 Pyroblast
+2 Static Prison
+1 Brotherhood's End
+1 Containment Priest
+1 Nihil Spellbomb
+1 Null Rod
+1 Sheoldred's Edict
+

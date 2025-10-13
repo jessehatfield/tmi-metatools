@@ -1,0 +1,35 @@
+// Player: Frankie Woofter
+// Place: 893
+
+4 Dauthi Voidwalker
+4 Orcish Bowmasters
+1 Sheoldred, the Apocalypse
+4 Thoughtseize
+2 Hymn to Tourach
+4 Dark Ritual
+4 Fatal Push
+3 Fell the Profane // Fell Mire
+4 Helm of Obedience
+4 The One Ring
+1 Chrome Mox
+1 Pithing Needle
+1 Springleaf Drum
+4 Leyline of the Void
+4 Urza's Saga
+6 Swamp
+4 Ancient Tomb
+3 Urborg, Tomb of Yawgmoth
+2 City of Traitors
+
+Sideboard
+3 Sheoldred's Edict
+2 Barrowgoyf
+2 Opposition Agent
+2 Tourach, Dread Cantor
+1 Cursed Totem
+1 Long Goodbye
+1 Pithing Needle
+1 Ratchet Bomb
+1 Sheoldred, the Apocalypse
+1 Surgical Extraction
+

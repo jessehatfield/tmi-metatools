@@ -1,0 +1,39 @@
+// Player: Daphex
+// Place: 398
+
+4 Birds of Paradise
+4 Nadu, Winged Wisdom
+4 Nomads en-Kor
+3 Allosaurus Shepherd
+3 Endurance
+3 Noble Hierarch
+2 Quirion Ranger
+2 Springheart Nantuko
+1 Bristly Bill, Spine Sower
+1 Craterhoof Behemoth
+1 Delighted Halfling
+1 Dryad Arbor
+1 Eladamri, Korvecdal
+1 Sylvan Safekeeper
+4 Green Sun's Zenith
+4 Chord of Calling
+3 Once Upon a Time
+4 Gaea's Cradle
+2 Forest
+2 Misty Rainforest
+2 Savannah
+2 Tropical Island
+2 Windswept Heath
+2 Wooded Foothills
+1 Boseiju, Who Endures
+1 Lush Portico
+
+Sideboard
+3 Deafening Silence
+3 Force of Vigor
+3 Swords to Plowshares
+2 Faerie Macabre
+2 Prismatic Ending
+1 Agatha's Soul Cauldron
+1 Collector Ouphe
+

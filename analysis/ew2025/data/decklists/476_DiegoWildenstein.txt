@@ -1,0 +1,26 @@
+// Player: DiegoWildenstein
+// Place: 476
+
+4 Goblin Guide
+4 Monastery Swiftspear
+2 Eidolon of the Great Revel
+4 Chain Lightning
+4 Lava Spike
+4 Rift Bolt
+4 Skewer the Critics
+2 Boltwave
+1 Exquisite Firecraft
+4 Fireblast
+4 Lightning Bolt
+4 Price of Progress
+1 Flare of Duplication
+18 Mountain
+
+Sideboard
+4 Leyline of the Void
+4 Smash to Smithereens
+2 Mindbreak Trap
+2 Pyroblast
+2 Searing Blood
+1 Red Elemental Blast
+

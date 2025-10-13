@@ -1,0 +1,37 @@
+// Player: Daeyel
+// Place: 615
+
+2 Destiny Spinner
+2 Sanctum Weaver
+2 Idyllic Tutor
+4 Enlightened Tutor
+4 Serum Powder
+1 Helm of Obedience
+4 Leyline of Anticipation
+4 Leyline of Combustion
+4 Leyline of Sanctity
+4 Leyline of the Guildpact
+4 Leyline of the Void
+4 Opalescence
+3 Leyline of Punishment
+2 Sterling Grove
+2 Suppression Field
+1 Leyline of Vitality
+1 Sacred Ground
+1 Stony Silence
+4 Mana Confluence
+4 Serra's Sanctum
+2 Forest
+1 City of Brass
+
+Sideboard
+4 Crop Rotation
+4 Scion of Draco
+1 Consecrate Land
+1 Curse of Exhaustion
+1 Gemstone Caverns
+1 Ghostly Prison
+1 Replenish
+1 Runed Halo
+1 Suppression Field
+

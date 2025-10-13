@@ -1,0 +1,44 @@
+// Player: Josh_8finity
+// Place: 595
+
+3 Orcish Bowmasters
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Murktide Regent
+2 Quantum Riddler
+4 Ponder
+2 Thoughtseize
+2 Witherbloom Command
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Fatal Push
+2 Sheoldred's Edict
+1 Abrupt Decay
+1 Murderous Cut
+2 Nihil Spellbomb
+4 Up the Beanstalk
+4 Misty Rainforest
+4 Polluted Delta
+2 Tropical Island
+2 Underground Sea
+2 Wasteland
+1 Bayou
+1 Hedge Maze
+1 Island
+1 Mystic Sanctuary
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+2 Carpet of Flowers
+2 Consign to Memory
+2 Faerie Macabre
+2 Force of Negation
+1 Barrowgoyf
+1 Force of Vigor
+1 Ground Seal
+1 Hydroblast
+1 Null Rod
+1 Pernicious Deed
+1 Thoughtseize
+

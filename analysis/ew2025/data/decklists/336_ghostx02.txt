@@ -1,0 +1,38 @@
+// Player: ghostx02
+// Place: 336
+
+2 Atraxa, Grand Unifier
+2 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+2 Lórien Revealed
+1 Eureka
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+3 Veil of Summer
+2 Intuition
+1 Sink into Stupor // Soporific Springs
+2 Lotus Petal
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+3 Island
+2 Flooded Strand
+2 Tropical Island
+1 Forest
+1 Hedge Maze
+1 Mistrise Village
+
+Sideboard
+3 Grafdigger's Cage
+2 Carpet of Flowers
+2 Collector Ouphe
+2 Consign to Memory
+2 Force of Negation
+1 Shared Summons
+1 Sublime Epiphany
+1 Surgical Extraction
+1 Wipe Away
+

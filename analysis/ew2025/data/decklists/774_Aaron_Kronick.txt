@@ -1,0 +1,38 @@
+// Player: Aaron Kronick
+// Place: 774
+
+3 Brazen Borrower // Petty Theft
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Archon of Cruelty
+2 Atraxa, Grand Unifier
+2 Murktide Regent
+4 Ponder
+4 Reanimate
+4 Thoughtseize
+4 Brainstorm
+4 Daze
+4 Entomb
+4 Force of Will
+1 Animate Dead
+4 Polluted Delta
+3 Wasteland
+2 Island
+2 Undercity Sewers
+2 Underground Sea
+2 Watery Grave
+1 Bloodstained Mire
+1 Flooded Strand
+1 Misty Rainforest
+1 Swamp
+
+Sideboard
+3 Dauthi Voidwalker
+3 Fatal Push
+2 Barrowgoyf
+2 Consign to Memory
+1 Bitter Triumph
+1 Dismember
+1 Engineered Explosives
+1 Faerie Macabre
+1 Sheoldred's Edict
+

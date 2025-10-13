@@ -1,0 +1,39 @@
+// Player: Robert Aquino
+// Place: 510
+
+3 Karn, the Great Creator
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+2 Simian Spirit Guide
+1 Chaos Defiler
+1 Fury
+1 Phyrexian Dragon Engine
+4 Red Elemental Blast
+3 Pyroblast
+1 Lightning Bolt
+2 Grindstone
+2 Lotus Petal
+1 Mox Opal
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+8 Snow-Covered Mountain
+4 Ancient Tomb
+4 Great Furnace
+1 City of Traitors
+
+Sideboard
+3 Faerie Macabre
+2 Blood Moon
+2 Magus of the Moon
+1 Abrade
+1 Ensnaring Bridge
+1 Fury
+1 Liquimetal Coating
+1 Mindbreak Trap
+1 Pithing Needle
+1 The One Ring
+1 Tormod's Crypt
+

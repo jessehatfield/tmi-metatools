@@ -1,0 +1,34 @@
+// Player: Jackson Beeler
+// Place: 625
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Reanimate
+4 Thoughtseize
+4 Brainstorm
+4 Daze
+4 Entomb
+4 Force of Will
+2 Fatal Push
+1 Animate Dead
+4 Misty Rainforest
+4 Polluted Delta
+4 Underground Sea
+3 Wasteland
+2 Undercity Sewers
+1 Island
+1 Swamp
+
+Sideboard
+3 Barrowgoyf
+3 Dauthi Voidwalker
+2 Consign to Memory
+2 Fatal Push
+2 Force of Negation
+2 Null Rod
+1 Long Goodbye
+

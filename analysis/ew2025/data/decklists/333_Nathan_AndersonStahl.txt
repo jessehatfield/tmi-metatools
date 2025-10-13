@@ -1,0 +1,43 @@
+// Player: Nathan AndersonStahl
+// Place: 333
+
+1 Jace, the Mind Sculptor
+4 Thundertrap Trainer
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Snapcaster Mage
+3 Ponder
+2 Prismatic Ending
+1 Forth Eorlingas!
+1 Lórien Revealed
+4 Brainstorm
+4 Flame of Anor
+4 Force of Will
+4 Swords to Plowshares
+2 Minor Misstep
+2 Spell Pierce
+1 Force of Negation
+2 Dress Down
+1 Back to Basics
+4 Island
+4 Prismatic Vista
+3 Flooded Strand
+2 Plains
+2 Scalding Tarn
+1 Mountain
+1 Plateau
+1 Tundra
+1 Volcanic Island
+
+Sideboard
+2 Consign to Memory
+2 Containment Priest
+2 Red Elemental Blast
+2 Surgical Extraction
+1 Back to Basics
+1 Blue Elemental Blast
+1 Force of Negation
+1 Hydroblast
+1 Null Rod
+1 Pyroblast
+1 Stony Silence
+

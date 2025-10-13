@@ -1,0 +1,40 @@
+// Player: Corey Mroz
+// Place: 793
+
+4 Goblin Lackey
+4 Goblin Matron
+3 Broadside Bombardiers
+3 Goblin Ringleader
+3 Mogg War Marshal
+2 Munitions Expert
+2 Muxus, Goblin Grandee
+2 Skirk Prospector
+2 Sling-Gang Lieutenant
+1 Gempalm Incinerator
+1 Goblin Piledriver
+1 Goblin Trashmaster
+1 Goblin Warchief
+1 Grenzo, Havoc Raiser
+1 Pashalik Mons
+1 Rundvelt Hordemaster
+1 Stingscourger
+4 Aether Vial
+4 Cavern of Souls
+4 Wasteland
+3 Bloodstained Mire
+3 Mountain
+3 Rishadan Port
+3 Scalding Tarn
+2 Badlands
+1 Ancient Tomb
+1 Karakas
+
+Sideboard
+4 Leyline of the Void
+2 Blood Moon
+2 Fury
+2 Null Rod
+2 Orcish Bowmasters
+2 Pyroblast
+1 Helm of Obedience
+

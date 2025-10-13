@@ -1,0 +1,44 @@
+// Player: Patrick OReilly
+// Place: 193
+
+3 Phelia, Exuberant Shepherd
+3 Quantum Riddler
+3 Solitude
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Brazen Borrower // Petty Theft
+1 Murktide Regent
+4 Ponder
+1 Forth Eorlingas!
+1 Lórien Revealed
+1 Wrath of the Skies
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+1 Force of Negation
+4 Up the Beanstalk
+3 Leyline Binding
+1 Ground Seal
+4 Flooded Strand
+4 Misty Rainforest
+2 Island
+2 Tropical Island
+2 Tundra
+1 Karakas
+1 Plains
+1 Savannah
+1 Volcanic Island
+1 Xander's Lounge
+
+Sideboard
+3 Consign to Memory
+2 Carpet of Flowers
+2 Rest in Peace
+1 Clarion Conqueror
+1 Containment Priest
+1 Deafening Silence
+1 Dress Down
+1 Force of Negation
+1 Null Rod
+1 Pyroblast
+1 Red Elemental Blast
+

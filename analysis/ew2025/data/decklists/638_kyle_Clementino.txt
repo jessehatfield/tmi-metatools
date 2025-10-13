@@ -1,0 +1,37 @@
+// Player: kyle Clementino
+// Place: 638
+
+4 Nulldrifter
+4 Phyrexian Dreadnought
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Abhorrent Oculus
+1 Brazen Borrower // Petty Theft
+4 Stock Up
+3 Ponder
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+1 Minor Misstep
+1 Sink into Stupor // Soporific Springs
+3 Torpor Orb
+4 Dress Down
+2 Urza's Saga
+4 Ancient Tomb
+4 Flooded Strand
+3 Polluted Delta
+2 Island
+2 Tundra
+1 Meticulous Archive
+1 Plains
+
+Sideboard
+4 Clarion Conqueror
+2 Consign to Memory
+2 Faerie Macabre
+2 Force of Negation
+2 Hydroblast
+1 Null Rod
+1 Path to Exile
+1 Rest in Peace
+

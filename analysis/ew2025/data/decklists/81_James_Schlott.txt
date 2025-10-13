@@ -1,0 +1,33 @@
+// Player: James Schlott
+// Place: 81
+
+4 Griselbrand
+2 Archon of Cruelty
+1 Arbiter of Woe
+1 Atraxa, Grand Unifier
+1 Worldgorger Dragon
+4 Cabal Therapy
+4 Reanimate
+4 Thoughtseize
+4 Unmask
+4 Dark Ritual
+4 Entomb
+4 Lotus Petal
+4 Animate Dead
+4 Dance of the Dead
+3 Polluted Delta
+3 Swamp
+2 Bayou
+2 Bloodstained Mire
+1 Marsh Flats
+1 Undercity Sewers
+1 Underground Mortuary
+1 Underground Sea
+1 Verdant Catacombs
+
+Sideboard
+4 Chain of Smog
+4 Show and Tell
+4 Witherbloom Apprentice
+3 Spoils of the Vault
+

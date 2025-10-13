@@ -1,0 +1,42 @@
+// Player: Casey Geist
+// Place: 351
+
+4 Nulldrifter
+4 Phyrexian Dreadnought
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Brazen Borrower // Petty Theft
+3 Ponder
+3 Stock Up
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+1 Force of Negation
+4 Torpor Orb
+1 Ghost Vacuum
+4 Dress Down
+4 Ancient Tomb
+4 Flooded Strand
+4 Wasteland
+2 Tundra
+1 Island
+1 Meticulous Archive
+1 Misty Rainforest
+1 Plains
+1 Polluted Delta
+1 Scalding Tarn
+
+Sideboard
+2 Consign to Memory
+2 Prismatic Ending
+2 Soul-Guide Lantern
+1 Blue Elemental Blast
+1 Clarion Conqueror
+1 Containment Priest
+1 Faerie Macabre
+1 Force of Negation
+1 Hydroblast
+1 Null Rod
+1 Rest in Peace
+1 Wrath of the Skies
+

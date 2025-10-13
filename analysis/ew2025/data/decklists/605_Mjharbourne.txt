@@ -1,0 +1,37 @@
+// Player: Mjharbourne
+// Place: 605
+
+4 Blighted Agent
+4 Glistener Elf
+4 Noble Hierarch
+4 Ponder
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Invigorate
+3 Legolas's Quick Reflexes
+3 Secret Identity
+2 Berserk
+1 Become Immense
+4 Inkmoth Nexus
+4 Misty Rainforest
+4 Tropical Island
+2 Windswept Heath
+1 Forest
+1 Island
+1 Pendelhaven
+1 Verdant Catacombs
+1 Wooded Foothills
+
+Sideboard
+3 Flusterstorm
+2 Consign to Memory
+2 Endurance
+2 Force of Vigor
+1 Faerie Macabre
+1 Legolas's Quick Reflexes
+1 Pithing Needle
+1 Spell Pierce
+1 Veil of Summer
+1 Venerated Rotpriest
+

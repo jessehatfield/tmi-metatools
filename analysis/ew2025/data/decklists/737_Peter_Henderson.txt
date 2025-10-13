@@ -1,0 +1,32 @@
+// Player: Peter Henderson
+// Place: 737
+
+4 Arcbound Ravager
+4 Lodestone Golem
+4 Stonecoil Serpent
+4 Walking Ballista
+3 Steel Overseer
+2 Iron Spider, Stark Upgrade
+4 Chalice of the Void
+4 Lotus Petal
+4 Thorn of Amethyst
+2 Clown Car
+2 Mox Opal
+2 The One Ring
+1 Shadowspear
+4 Urza's Saga
+4 Ancient Tomb
+4 City of Traitors
+4 Urza's Workshop
+4 Wasteland
+1 Karakas
+
+Sideboard
+4 Disruptor Flute
+3 Leyline of the Void
+2 Ensnaring Bridge
+2 Grafdigger's Cage
+2 Ratchet Bomb
+1 Basilisk Collar
+1 The Ozolith
+

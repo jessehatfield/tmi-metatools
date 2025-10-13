@@ -1,0 +1,42 @@
+// Player: bm215226
+// Place: 219
+
+4 Quantum Riddler
+3 Phelia, Exuberant Shepherd
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Solitude
+2 Starfield Shepherd
+1 Containment Priest
+1 Mistcaller
+1 Mockingbird
+3 Ponder
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+3 Ephemerate
+3 Swords to Plowshares
+2 Consign to Memory
+2 Force of Negation
+4 Flooded Strand
+4 Wasteland
+3 Tundra
+2 Island
+2 Plains
+2 Prismatic Vista
+1 Karakas
+1 Polluted Delta
+1 Underground Sea
+
+Sideboard
+2 Clarion Conqueror
+2 Consign to Memory
+2 Faerie Macabre
+2 Subtlety
+1 Containment Priest
+1 Deafening Silence
+1 Disruptor Flute
+1 Lavinia, Azorius Renegade
+1 Prismatic Ending
+1 Surgical Extraction
+1 Teferi, Time Raveler
+

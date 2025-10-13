@@ -1,0 +1,39 @@
+// Player: ahg113
+// Place: 231
+
+4 Questing Druid // Seek the Beast
+3 Birgi, God of Storytelling // Harnfel, Horn of Bounty
+2 Urabrask // The Great Work
+1 Stormscale Scion
+4 Reckless Impulse
+4 Wrenn's Resolve
+3 Burning Wish
+3 Rite of Flame
+2 Embrace the Unknown
+2 Shatterskull Smashing // Shatterskull, the Hammer Pass
+1 Bonus Round
+1 Elemental Eruption
+1 Will of the Jeskai
+1 Wish
+4 Manamorphose
+3 Desperate Ritual
+3 Seething Song
+4 Lotus Petal
+3 Ruby Medallion
+8 Mountain
+4 Ancient Tomb
+
+Sideboard
+3 Defense Grid
+2 Blast Zone
+1 Alchemist's Gambit
+1 Bonus Round
+1 Elemental Eruption
+1 Empty the Warrens
+1 Fiery Confluence
+1 Galvanic Relay
+1 Grapeshot
+1 Rite of Flame
+1 Shattering Spree
+1 Will of the Jeskai
+

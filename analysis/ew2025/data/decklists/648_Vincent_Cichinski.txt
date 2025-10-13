@@ -1,0 +1,39 @@
+// Player: Vincent Cichinski
+// Place: 648
+
+4 Dauthi Voidwalker
+4 Nethergoyf
+4 Stalactite Stalker
+3 Barrowgoyf
+3 Orcish Bowmasters
+1 Cecil, Dark Knight // Cecil, Redeemed Paladin
+1 Emperor of Bones
+4 Thoughtseize
+2 Inquisition of Kozilek
+1 Duress
+3 Fatal Push
+2 Bitter Triumph
+2 Fell the Profane // Fell Mire
+1 Dismember
+1 Sheoldred's Edict
+3 Mishra's Bauble
+1 Nihil Spellbomb
+5 Swamp
+4 Bloodstained Mire
+4 Verdant Catacombs
+4 Wasteland
+1 Badlands
+1 Castle Locthwain
+1 Raucous Theater
+
+Sideboard
+3 Faerie Macabre
+2 Meltdown
+2 Plague Engineer
+2 Sheoldred's Edict
+2 Void Mirror
+1 Bitter Triumph
+1 Damping Sphere
+1 Duress
+1 Pithing Needle
+

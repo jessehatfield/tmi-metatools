@@ -1,0 +1,35 @@
+// Player: Michael Barnes
+// Place: 941
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Amped Raptor
+4 Guide of Souls
+4 Ocelot Pride
+4 Orcish Bowmasters
+4 Voice of Victory
+4 Thoughtseize
+3 Cabal Therapy
+4 Swords to Plowshares
+2 Sheoldred's Edict
+3 Goblin Bombardment
+4 Marsh Flats
+3 Arid Mesa
+3 Wasteland
+2 Plateau
+2 Scrubland
+2 Silent Clearing
+1 Badlands
+1 Karakas
+1 Plains
+1 Shadowy Backstreet
+
+Sideboard
+3 Leyline of the Void
+2 Deafening Silence
+2 Disruptor Flute
+2 March of Otherworldly Light
+2 Static Prison
+2 Stony Silence
+1 Exorcise
+1 Meltdown
+

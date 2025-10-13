@@ -1,0 +1,42 @@
+// Player: Brenton Erman
+// Place: 935
+
+4 Burning Wish
+4 Infernal Tutor
+4 Night's Whisper
+4 Thoughtseize
+3 Beseech the Mirror
+1 Gaea's Will
+1 Tendrils of Agony
+4 Dark Ritual
+4 Veil of Summer
+1 Ad Nauseam
+4 Lion's Eye Diamond
+4 Lotus Petal
+4 Mox Opal
+3 Chrome Mox
+1 Song of Creation
+4 Vault of Whispers
+4 Verdant Catacombs
+1 Badlands
+1 Bayou
+1 Forest
+1 Raucous Theater
+1 Swamp
+1 Underground Mortuary
+
+Sideboard
+2 Abrupt Decay
+2 Nihil Spellbomb
+1 Beseech the Mirror
+1 Bloodchief's Thirst
+1 Boseiju, Who Endures
+1 Duress
+1 Empty the Warrens
+1 Grapeshot
+1 Massacre
+1 Peer into the Abyss
+1 Tendrils of Agony
+1 Wear Down
+1 Witherbloom Command
+

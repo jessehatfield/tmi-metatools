@@ -1,0 +1,40 @@
+// Player: jake pearlmutter
+// Place: 508
+
+4 Doorkeeper Thrull
+4 Nulldrifter
+4 Phyrexian Dreadnought
+2 Phlage, Titan of Fire's Fury
+4 Ponder
+1 Prismatic Ending
+1 Stock Up
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+1 Minor Misstep
+1 Spell Pierce
+4 Dress Down
+4 Flooded Strand
+3 Scalding Tarn
+2 Arena of Glory
+2 Tundra
+2 Wasteland
+1 Island
+1 Meticulous Archive
+1 Plains
+1 Plateau
+1 Thundering Falls
+1 Volcanic Island
+
+Sideboard
+2 Clarion Conqueror
+2 Consign to Memory
+2 Hydroblast
+2 Meddling Mage
+2 Prismatic Ending
+2 Pyroblast
+1 Force of Negation
+1 Grafdigger's Cage
+1 Soul-Guide Lantern
+

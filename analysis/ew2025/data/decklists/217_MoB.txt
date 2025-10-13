@@ -1,0 +1,29 @@
+// Player: MoB
+// Place: 217
+
+4 Minsc & Boo, Timeless Heroes
+4 Archon of Emeria
+4 Elvish Spirit Guide
+4 Simian Spirit Guide
+4 Undermountain Adventurer
+3 Caves of Chaos Adventurer
+3 Seasoned Dungeoneer
+4 Once Upon a Time
+4 Chrome Mox
+4 Lotus Petal
+4 Mox Diamond
+4 The One Ring
+1 Mox Opal
+4 Urza's Saga
+4 Ancient Tomb
+4 City of Traitors
+1 Plains
+
+Sideboard
+4 Boseiju, Who Endures
+4 Endurance
+4 Karn, the Great Creator
+1 Grafdigger's Cage
+1 Pithing Needle
+1 Portable Hole
+

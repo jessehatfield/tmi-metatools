@@ -1,0 +1,41 @@
+// Player: Scott Bowe
+// Place: 228
+
+2 Teferi, Time Raveler
+4 Quantum Riddler
+4 Solitude
+3 Phelia, Exuberant Shepherd
+2 Murktide Regent
+4 Ponder
+2 Prismatic Ending
+1 Lórien Revealed
+1 Wrath of the Skies
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+1 Consign to Memory
+4 Up the Beanstalk
+1 Ground Seal
+4 Flooded Strand
+4 Misty Rainforest
+2 Island
+2 Tundra
+1 Hedge Maze
+1 Karakas
+1 Meticulous Archive
+1 Plains
+1 Savannah
+1 Talon Gates of Madara
+1 Tropical Island
+
+Sideboard
+2 Carpet of Flowers
+2 Consign to Memory
+2 Containment Priest
+2 Grafdigger's Cage
+2 Null Rod
+2 Wrath of the Skies
+1 Blue Elemental Blast
+1 Force of Negation
+1 Ground Seal
+

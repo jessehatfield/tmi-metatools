@@ -1,0 +1,42 @@
+// Player: Max Dore
+// Place: 83
+
+4 Life from the Loam
+4 Malevolent Rumble
+4 Crop Rotation
+4 Mox Diamond
+1 Disruptor Flute
+1 Expedition Map
+1 Lavaspur Boots
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Exploration
+4 Urza's Saga
+2 Sylvan Library
+4 Dark Depths
+4 Thespian's Stage
+4 Wasteland
+3 Yavimaya, Cradle of Growth
+2 Boseiju, Who Endures
+2 Wooded Foothills
+1 Bojuka Bog
+1 Echoing Deeps
+1 Forest
+1 Ghost Quarter
+1 Hedge Maze
+1 Karakas
+1 Maze of Ith
+1 Otawara, Soaring City
+1 Sejiri Steppe
+1 The Tabernacle at Pendrell Vale
+1 Tropical Island
+
+Sideboard
+3 Disruptor Flute
+3 Force of Vigor
+2 Consign to Memory
+2 Dismember
+2 Elvish Reclaimer
+2 Faerie Macabre
+1 Grafdigger's Cage
+

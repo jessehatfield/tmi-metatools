@@ -1,0 +1,40 @@
+// Player: Suffers
+// Place: 807
+
+4 Uro, Titan of Nature's Wrath
+3 Murktide Regent
+2 Nulldrifter
+4 Ponder
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Consign to Memory
+3 Submerge
+3 This Town Ain't Big Enough
+2 Commandeer
+1 Force of Negation
+4 Up the Beanstalk
+2 Dress Down
+2 Drop of Honey
+4 Misty Rainforest
+3 Island
+3 Tropical Island
+2 Scalding Tarn
+2 Yavimaya, Cradle of Growth
+1 Boseiju, Who Endures
+1 Flooded Strand
+1 Mystic Sanctuary
+1 Polluted Delta
+
+Sideboard
+3 Surgical Extraction
+2 Damping Sphere
+2 Flusterstorm
+2 Force of Vigor
+1 Collector Ouphe
+1 Disruptor Flute
+1 Hydroblast
+1 Mindbreak Trap
+1 Misdirection
+1 Veil of Summer
+

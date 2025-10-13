@@ -1,0 +1,40 @@
+// Player: Jason Song
+// Place: 380
+
+1 Grist, the Hunger Tide
+4 Allosaurus Shepherd
+4 Heritage Druid
+4 Nettle Sentinel
+4 Wirewood Symbiote
+3 Eladamri, Korvecdal
+2 Birchlore Rangers
+2 Dryad Arbor
+2 Elvish Visionary
+2 Quirion Ranger
+1 Atraxa, Grand Unifier
+1 Collector Ouphe
+1 Craterhoof Behemoth
+1 Keen-Eyed Curator
+4 Glimpse of Nature
+4 Green Sun's Zenith
+3 Natural Order
+4 Gaea's Cradle
+3 Misty Rainforest
+3 Verdant Catacombs
+2 Bayou
+2 Boseiju, Who Endures
+2 Forest
+1 Yavimaya, Cradle of Growth
+
+Sideboard
+3 Endurance
+2 Abrupt Decay
+2 Force of Vigor
+2 Mindbreak Trap
+1 Assassin's Trophy
+1 Choke
+1 Disruptor Flute
+1 Natural Order
+1 Progenitus
+1 Reclamation Sage
+

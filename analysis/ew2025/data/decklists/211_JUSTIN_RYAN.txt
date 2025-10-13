@@ -1,0 +1,37 @@
+// Player: JUSTIN RYAN
+// Place: 211
+
+2 Kaito, Bane of Nightmares
+4 Nethergoyf
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Orcish Bowmasters
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+4 Ponder
+3 Thoughtseize
+4 Brainstorm
+4 Fatal Push
+4 Force of Will
+3 Daze
+2 Nihil Spellbomb
+4 Polluted Delta
+4 Underground Sea
+4 Wasteland
+2 Bloodstained Mire
+2 Flooded Strand
+1 Island
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+3 Consign to Memory
+2 Barrowgoyf
+2 Force of Negation
+2 Hydroblast
+1 Bitter Triumph
+1 Dismember
+1 Dread of Night
+1 Engineered Explosives
+1 Faerie Macabre
+1 Sheoldred's Edict
+

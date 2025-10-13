@@ -1,0 +1,38 @@
+// Player: Junkie216
+// Place: 673
+
+4 Phyrexian Dreadnought
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Curie, Emergent Intelligence
+1 Brazen Borrower // Petty Theft
+1 Murktide Regent
+4 Ponder
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Stifle
+4 Swords to Plowshares
+3 Daze
+2 Consign to Memory
+4 Dress Down
+4 Flooded Strand
+4 Wasteland
+3 Island
+2 Tundra
+1 Meticulous Archive
+1 Misty Rainforest
+1 Plains
+1 Polluted Delta
+1 Scalding Tarn
+
+Sideboard
+2 Blue Elemental Blast
+2 Consign to Memory
+2 Faerie Macabre
+2 Lavinia, Azorius Renegade
+2 Stony Silence
+2 Triumph of Saint Katherine
+1 Brazen Borrower // Petty Theft
+1 Containment Priest
+1 Engineered Explosives
+

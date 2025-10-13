@@ -1,0 +1,40 @@
+// Player: Edward Whiteside
+// Place: 804
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Thundertrap Trainer
+2 Snapcaster Mage
+1 Magus of the Moon
+4 Ponder
+2 Prismatic Ending
+1 Forth Eorlingas!
+1 Lórien Revealed
+4 Brainstorm
+4 Flame of Anor
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+2 Spell Pierce
+1 Dress Down
+4 Flooded Strand
+4 Island
+4 Prismatic Vista
+2 Plains
+2 Scalding Tarn
+1 Mountain
+1 Plateau
+1 Tundra
+1 Volcanic Island
+
+Sideboard
+3 Consign to Memory
+3 Pyroblast
+2 Surgical Extraction
+1 Clarion Conqueror
+1 Ghost Vacuum
+1 Hydroblast
+1 Magus of the Moon
+1 Null Rod
+1 Triumph of Saint Katherine
+1 Wrath of the Skies
+

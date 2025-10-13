@@ -1,0 +1,38 @@
+// Player: B Seftelus
+// Place: 585
+
+2 Archon of Cruelty
+2 Atraxa, Grand Unifier
+2 Dauthi Voidwalker
+2 Orcish Bowmasters
+1 Griselbrand
+4 Reanimate
+4 Thoughtseize
+4 Unmask
+2 Cabal Therapy
+2 Inquisition of Kozilek
+4 Dark Ritual
+4 Entomb
+4 Shallow Grave
+2 Abrupt Decay
+1 Snuff Out
+4 Lotus Petal
+2 Animate Dead
+3 Polluted Delta
+3 Verdant Catacombs
+2 Swamp
+1 Bayou
+1 Marsh Flats
+1 Snow-Covered Swamp
+1 Undercity Sewers
+1 Underground Sea
+1 Wasteland
+
+Sideboard
+4 Leyline of the Void
+4 Show and Tell
+3 Consign to Memory
+2 Fatal Push
+1 Archon of Cruelty
+1 Brazen Borrower // Petty Theft
+

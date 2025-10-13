@@ -1,0 +1,37 @@
+// Player: AHNY
+// Place: 663
+
+4 Phelia, Exuberant Shepherd
+3 Containment Priest
+3 Giver of Runes
+3 Quantum Riddler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 White Orchid Phantom
+1 Solitude
+1 Witch Enchanter // Witch-Blessed Meadow
+4 Ponder
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+2 Stifle
+4 Tundra
+4 Wasteland
+3 Flooded Strand
+2 Island
+2 Plains
+1 Arid Mesa
+1 Karakas
+1 Misty Rainforest
+1 Otawara, Soaring City
+
+Sideboard
+2 Clarion Conqueror
+2 Consign to Memory
+2 Dress Down
+2 Faerie Macabre
+2 Harbinger of the Seas
+2 Meddling Mage
+2 Wrath of the Skies
+1 Gilded Drake
+

@@ -1,0 +1,37 @@
+// Player: jscamihorn
+// Place: 707
+
+1 Karn, the Great Creator
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+3 Simian Spirit Guide
+1 Breya's Apprentice
+1 Chaos Defiler
+1 Phyrexian Dragon Engine
+4 Red Elemental Blast
+3 Grindstone
+2 Ensnaring Bridge
+1 Lavaspur Boots
+1 Lotus Petal
+1 Mox Opal
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+2 Blood Moon
+6 Mountain
+4 Ancient Tomb
+4 Great Furnace
+2 City of Traitors
+1 Arena of Glory
+
+Sideboard
+4 Disruptor Flute
+4 Faerie Macabre
+2 Spider-Punk
+2 Trinisphere
+1 Grindstone
+1 Mycosynth Lattice
+1 Soul-Guide Lantern
+

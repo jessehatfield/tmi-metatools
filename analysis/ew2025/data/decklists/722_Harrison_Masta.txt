@@ -1,0 +1,43 @@
+// Player: Harrison Masta
+// Place: 722
+
+4 Cephalid Illusionist
+4 Nadu, Winged Wisdom
+4 Nomads en-Kor
+2 Narcomoeba
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Voice of Victory
+1 Thassa's Oracle
+4 Ponder
+1 Dread Return
+4 Brainstorm
+4 Force of Will
+2 Daze
+2 Stifle
+1 Force of Negation
+1 Memory's Journey
+2 Shuko
+3 Urza's Saga
+4 Flooded Strand
+3 Misty Rainforest
+2 Tundra
+1 Cavern of Souls
+1 Hedge Maze
+1 Island
+1 Meticulous Archive
+1 Savannah
+1 Snow-Covered Plains
+1 Tropical Island
+1 Windswept Heath
+
+Sideboard
+4 Swords to Plowshares
+3 Prismatic Ending
+2 Carpet of Flowers
+1 Agatha's Soul Cauldron
+1 Consign to Memory
+1 Faerie Macabre
+1 Hydroblast
+1 Pithing Needle
+1 Serenity
+

@@ -1,0 +1,36 @@
+// Player: Mason Hoose
+// Place: 431
+
+4 Dragon's Rage Channeler
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+4 Ponder
+2 Preordain
+1 Chain Lightning
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+2 Unholy Heat
+1 Stifle
+4 Cori-Steel Cutter
+4 Mishra's Bauble
+4 Scalding Tarn
+4 Volcanic Island
+4 Wasteland
+3 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Thundering Falls
+
+Sideboard
+3 Pyroblast
+2 Consign to Memory
+2 Faerie Macabre
+2 Force of Negation
+2 Price of Progress
+1 Abrade
+1 Grafdigger's Cage
+1 Meltdown
+1 Null Rod
+

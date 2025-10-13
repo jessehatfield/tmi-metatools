@@ -1,0 +1,29 @@
+// Player: Ileclere87
+// Place: 905
+
+4 Broadside Bombardiers
+4 Fury
+4 Magus of the Moon
+4 Simian Spirit Guide
+3 Laelia, the Blade Reforged
+3 Pyrogoyf
+2 Bonecrusher Giant // Stomp
+4 Sundering Eruption // Volcanic Fissure
+3 Shatterskull Smashing // Shatterskull, the Hammer Pass
+2 Dead // Gone
+4 Chalice of the Void
+4 Chrome Mox
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+3 Blood Moon
+4 Ancient Tomb
+4 City of Traitors
+4 Mountain
+
+Sideboard
+3 Disruptor Flute
+3 Null Rod
+3 Unlicensed Hearse
+2 Dead // Gone
+2 Faerie Macabre
+2 Fiery Confluence
+

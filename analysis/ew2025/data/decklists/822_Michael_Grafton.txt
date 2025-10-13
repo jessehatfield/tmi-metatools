@@ -1,0 +1,41 @@
+// Player: Michael Grafton
+// Place: 822
+
+4 Nulldrifter
+4 Phyrexian Dreadnought
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Brazen Borrower // Petty Theft
+4 Stock Up
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Stifle
+1 Force of Negation
+4 Torpor Orb
+1 Lavaspur Boots
+1 Soul-Guide Lantern
+1 Springleaf Drum
+3 Dress Down
+3 Urza's Saga
+4 Ancient Tomb
+4 Flooded Strand
+3 Island
+2 Tundra
+1 Karakas
+1 Meticulous Archive
+1 Otawara, Soaring City
+1 Plains
+
+Sideboard
+2 Clarion Conqueror
+2 Consign to Memory
+2 Force of Negation
+2 Prismatic Ending
+1 Blue Elemental Blast
+1 Grafdigger's Cage
+1 Hydroblast
+1 Pithing Needle
+1 Rest in Peace
+1 Stony Silence
+1 Wrath of the Skies
+

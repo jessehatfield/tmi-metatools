@@ -1,0 +1,36 @@
+// Player: legacygamingkc
+// Place: 224
+
+4 Guide of Souls
+4 Ocelot Pride
+4 Orcish Bowmasters
+4 Solitude
+4 Starfield Shepherd
+3 Overlord of the Balemurk
+3 Phelia, Exuberant Shepherd
+2 Witch Enchanter // Witch-Blessed Meadow
+1 Mother of Runes
+4 Thoughtseize
+3 Inquisition of Kozilek
+1 Prismatic Ending
+4 Swords to Plowshares
+4 Marsh Flats
+4 Wasteland
+2 Karakas
+2 Plains
+2 Scrubland
+2 Swamp
+1 Arid Mesa
+1 Prismatic Vista
+1 Shadowy Backstreet
+
+Sideboard
+4 Deafening Silence
+2 Containment Priest
+2 Faerie Macabre
+2 Stony Silence
+2 White Orchid Phantom
+1 Clarion Conqueror // Clarion Conqueror
+1 Giant Killer // Chop Down
+1 Heap Doll
+

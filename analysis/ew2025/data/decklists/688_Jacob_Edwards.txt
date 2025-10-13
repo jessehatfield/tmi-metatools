@@ -1,0 +1,43 @@
+// Player: Jacob Edwards
+// Place: 688
+
+2 Atraxa, Grand Unifier
+2 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+1 Lórien Revealed
+1 Personal Tutor
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+3 Veil of Summer
+2 Daze
+2 Spell Pierce
+1 Sink into Stupor // Soporific Springs
+2 Lotus Petal
+1 The One Ring
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+2 Island
+2 Mistrise Village
+2 Polluted Delta
+2 Tropical Island
+1 Forest
+1 Hedge Maze
+
+Sideboard
+2 Faerie Macabre
+2 Nature's Claim
+2 Surgical Extraction
+1 Carpet of Flowers
+1 Consign to Memory
+1 Firemind's Foresight
+1 Flusterstorm
+1 Grafdigger's Cage
+1 Hydroblast
+1 Release the Ants
+1 Shared Summons
+1 Wipe Away
+

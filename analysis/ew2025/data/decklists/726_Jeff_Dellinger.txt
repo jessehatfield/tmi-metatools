@@ -1,0 +1,42 @@
+// Player: Jeff Dellinger
+// Place: 726
+
+3 Tezzeret, Cruel Captain
+1 Karn, the Great Creator
+1 Haywire Mite
+1 Runehorn Hellkite
+4 Beseech the Mirror
+4 Echo of Eons
+3 Thoughtseize
+1 Death Wish
+1 Gaea's Will
+1 Tendrils of Agony
+4 Dark Ritual
+4 Entomb
+4 Chrome Mox
+4 Lion's Eye Diamond
+4 Lotus Petal
+4 Mox Opal
+3 Defense Grid
+1 Grim Monolith
+4 Urza's Saga
+1 Bloodstained Mire
+1 Marsh Flats
+1 Polluted Delta
+1 Swamp
+1 Tropical Island
+1 Undercity Sewers
+1 Underground Sea
+1 Verdant Catacombs
+
+Sideboard
+4 Leyline of the Void
+3 Into the Flood Maw
+2 Duress
+1 Haywire Mite
+1 Helm of Obedience
+1 Mycosynth Lattice
+1 Tendrils of Agony
+1 The One Ring
+1 Tormod's Crypt
+

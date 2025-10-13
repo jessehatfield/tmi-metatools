@@ -1,0 +1,40 @@
+// Player: Alex Fiergang
+// Place: 517
+
+2 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+1 Dauthi Voidwalker
+4 Ponder
+4 Thoughtseize
+1 Inquisition of Kozilek
+1 Molten Collapse
+4 Brainstorm
+4 Fatal Push
+4 Force of Will
+3 Daze
+1 Minor Misstep
+4 Polluted Delta
+4 Wasteland
+3 Scalding Tarn
+3 Underground Sea
+1 Badlands
+1 Bloodstained Mire
+1 Island
+1 Swamp
+1 Volcanic Island
+
+Sideboard
+3 Consign to Memory
+2 Barrowgoyf
+2 Pyroblast
+2 Surgical Extraction
+1 Engineered Explosives
+1 Force of Negation
+1 Hydroblast
+1 Meltdown
+1 Sheoldred's Edict
+1 Unlicensed Hearse
+

@@ -1,0 +1,40 @@
+// Player: Ethan Dunn
+// Place: 50
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Reanimate
+4 Thoughtseize
+4 Brainstorm
+4 Daze
+4 Entomb
+4 Force of Will
+1 Force of Negation
+1 Animate Dead
+4 Polluted Delta
+4 Underground Sea
+4 Wasteland
+1 Bloodstained Mire
+1 Flooded Strand
+1 Island
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+3 Barrowgoyf
+3 Dauthi Voidwalker
+2 Consign to Memory
+2 Dismember
+1 Bitter Triumph
+1 Brazen Borrower // Petty Theft
+1 Engineered Explosives
+1 Fatal Push
+1 Force of Negation
+

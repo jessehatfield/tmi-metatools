@@ -1,0 +1,41 @@
+// Player: Emily Anders
+// Place: 170
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Thundertrap Trainer
+4 Ponder
+2 Forth Eorlingas!
+2 Prismatic Ending
+1 Lórien Revealed
+1 Wrath of the Skies
+4 Brainstorm
+4 Flame of Anor
+4 Force of Will
+4 Swords to Plowshares
+2 Spell Pierce
+1 Force of Negation
+1 Minor Misstep
+2 Back to Basics
+1 Dress Down
+4 Flooded Strand
+4 Island
+3 Prismatic Vista
+2 Plains
+2 Scalding Tarn
+1 Mountain
+1 Mystic Sanctuary
+1 Tundra
+1 Volcanic Island
+
+Sideboard
+2 Clarion Conqueror
+2 Consign to Memory
+2 Pyroblast
+2 Rest in Peace
+2 Surgical Extraction
+1 Blue Elemental Blast
+1 Celestial Purge
+1 Grafdigger's Cage
+1 Lavinia, Azorius Renegade
+1 Wrath of the Skies
+

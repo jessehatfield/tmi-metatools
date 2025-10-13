@@ -1,0 +1,36 @@
+// Player: Benrichard
+// Place: 911
+
+4 Phyrexian Dreadnought
+3 Doorkeeper Thrull
+3 Nulldrifter
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Murktide Regent
+4 Ponder
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+3 Stifle
+1 Spell Pierce
+3 Dress Down
+4 Flooded Strand
+4 Scalding Tarn
+4 Wasteland
+3 Tundra
+2 Island
+1 Meticulous Archive
+1 Plains
+
+Sideboard
+3 Clarion Conqueror
+2 Consign to Memory
+2 Prismatic Ending
+2 Triumph of Saint Katherine
+1 Brazen Borrower // Petty Theft
+1 Faerie Macabre
+1 Force of Negation
+1 Hydroblast
+1 Path to Exile
+1 Wrath of the Skies
+

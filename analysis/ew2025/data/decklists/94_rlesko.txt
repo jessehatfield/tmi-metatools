@@ -1,0 +1,43 @@
+// Player: rlesko
+// Place: 94
+
+4 Doorkeeper Thrull
+4 Phyrexian Dreadnought
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Abhorrent Oculus
+2 Curie, Emergent Intelligence
+3 Ponder
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Daze
+2 Minor Misstep
+1 Consign to Memory
+2 Lotus Petal
+3 Urza's Saga
+2 Dress Down
+4 Flooded Strand
+3 Polluted Delta
+3 Tundra
+2 Island
+2 Wasteland
+1 Meticulous Archive
+1 Plains
+1 Windswept Heath
+
+Sideboard
+2 Clarion Conqueror
+2 Force of Negation
+1 Consign to Memory
+1 Ghost Vacuum
+1 Grafdigger's Cage
+1 Hydroblast
+1 Narset, Parter of Veils
+1 Pithing Needle
+1 Prismatic Ending
+1 Rest in Peace
+1 Retrofitter Foundry
+1 Wasteland
+1 Wrath of the Skies
+

@@ -1,0 +1,31 @@
+// Player: seanhettich
+// Place: 675
+
+4 Doorkeeper Thrull
+4 Nulldrifter
+4 Phyrexian Dreadnought
+1 Brazen Borrower // Petty Theft
+4 Ponder
+4 Brainstorm
+4 Force of Will
+4 Stifle
+4 Swords to Plowshares
+3 Daze
+1 Chain of Vapor
+3 Dress Down
+4 Flooded Strand
+4 Island
+4 Tundra
+4 Wasteland
+1 Karakas
+1 Meticulous Archive
+1 Plains
+1 Prismatic Vista
+
+Sideboard
+3 Consign to Memory
+3 Containment Priest
+3 Energy Flux
+3 Hydroblast
+3 Tormod's Crypt
+

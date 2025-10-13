@@ -1,0 +1,41 @@
+// Player: chrisdew4
+// Place: 795
+
+2 Emrakul, the Aeons Torn
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Show and Tell
+4 Stock Up
+2 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+3 Veil of Summer
+2 Impulse
+2 Spell Pierce
+1 Intuition
+2 The One Ring
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+2 Island
+2 Mistrise Village
+2 Polluted Delta
+1 Flooded Strand
+1 Hedge Maze
+1 Mystic Sanctuary
+1 Tropical Island
+
+Sideboard
+2 Carpet of Flowers
+2 Consign to Memory
+2 Cursed Totem
+2 Grafdigger's Cage
+1 Firemind's Foresight
+1 Krosan Grip
+1 Shared Summons
+1 Surgical Extraction
+1 Trickbind
+1 Veil of Summer
+1 Wipe Away
+

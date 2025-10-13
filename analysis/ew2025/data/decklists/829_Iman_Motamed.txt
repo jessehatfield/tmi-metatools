@@ -1,0 +1,42 @@
+// Player: Iman Motamed
+// Place: 829
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Curie, Emergent Intelligence
+3 Doorkeeper Thrull
+3 Phyrexian Dreadnought
+2 Abhorrent Oculus
+1 Brazen Borrower // Petty Theft
+3 Ponder
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+2 Daze
+1 Spell Pierce
+2 Lotus Petal
+1 Ghost Vacuum
+3 Urza's Saga
+4 Flooded Strand
+3 Tundra
+3 Wasteland
+2 Polluted Delta
+1 Island
+1 Marsh Flats
+1 Meticulous Archive
+1 Misty Rainforest
+1 Plains
+
+Sideboard
+3 Clarion Conqueror
+2 Force of Negation
+2 Harbinger of the Seas
+2 Hydroblast
+1 Disruptor Flute
+1 Grafdigger's Cage
+1 Karakas
+1 Prismatic Ending
+1 Rest in Peace
+1 Wrath of the Skies
+

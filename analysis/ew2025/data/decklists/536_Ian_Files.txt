@@ -1,0 +1,44 @@
+// Player: Ian Files
+// Place: 536
+
+2 Teferi, Time Raveler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Thundertrap Trainer
+2 Snapcaster Mage
+1 Magus of the Moon
+4 Ponder
+2 Forth Eorlingas!
+2 Prismatic Ending
+4 Brainstorm
+4 Flame of Anor
+4 Force of Will
+4 Swords to Plowshares
+1 Sink into Stupor // Soporific Springs
+1 Spell Pierce
+1 Back to Basics
+1 Dress Down
+4 Flooded Strand
+4 Island
+3 Scalding Tarn
+2 Plains
+2 Tundra
+1 Arid Mesa
+1 Mountain
+1 Mystic Sanctuary
+1 Plateau
+1 Thundering Falls
+1 Volcanic Island
+
+Sideboard
+2 Containment Priest
+2 Force of Negation
+2 Pyroblast
+2 Wrath of the Skies
+1 Consign to Memory
+1 Hydroblast
+1 Null Rod
+1 Purify the Grave
+1 Surgical Extraction
+1 Unlicensed Hearse
+1 Wear // Tear
+

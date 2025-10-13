@@ -1,0 +1,35 @@
+// Player: Timothy Stephens
+// Place: 242
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Amped Raptor
+4 Guide of Souls
+4 Ocelot Pride
+4 Voice of Victory
+3 Orcish Bowmasters
+3 Cabal Therapy
+3 Thoughtseize
+4 Swords to Plowshares
+2 Goblin Bombardment
+4 Marsh Flats
+4 Wasteland
+3 Arid Mesa
+2 Flooded Strand
+2 Karakas
+2 Plains
+2 Plateau
+2 Shadowy Backstreet
+1 Badlands
+1 Elegant Parlor
+1 Scrubland
+1 Swamp
+
+Sideboard
+3 Deafening Silence
+3 Faerie Macabre
+2 Barrowgoyf
+2 Containment Priest
+2 Disruptor Flute
+2 Forth Eorlingas!
+1 Surgical Extraction
+

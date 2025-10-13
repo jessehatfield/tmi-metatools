@@ -1,0 +1,45 @@
+// Player: Travis DAgaro
+// Place: 934
+
+4 Life from the Loam
+4 Crop Rotation
+2 Swords to Plowshares
+4 Mox Diamond
+4 Sphere of Resistance
+1 Crucible of Worlds
+1 Expedition Map
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Exploration
+4 Urza's Saga
+1 Sylvan Library
+4 Wasteland
+2 Ancient Tomb
+2 Dark Depths
+2 Maze of Ith
+2 Savannah
+2 Thespian's Stage
+2 Yavimaya, Cradle of Growth
+1 Blast Zone
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Forest
+1 Ghost Quarter
+1 Horizon Canopy
+1 Karakas
+1 Lush Portico
+1 Riftstone Portal
+1 Rishadan Port
+1 The Tabernacle at Pendrell Vale
+1 Windswept Heath
+1 Wooded Foothills
+
+Sideboard
+3 Endurance
+3 Force of Vigor
+2 Choke
+2 Disruptor Flute
+2 Surgical Extraction
+2 Swords to Plowshares
+1 Shadowspear
+

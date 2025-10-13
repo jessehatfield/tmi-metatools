@@ -1,0 +1,36 @@
+// Player: Nam Dang
+// Place: 241
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Reanimate
+4 Thoughtseize
+4 Brainstorm
+4 Entomb
+4 Force of Will
+3 Daze
+2 Fatal Push
+2 Animate Dead
+4 Polluted Delta
+4 Wasteland
+3 Underground Sea
+2 Bloodstained Mire
+2 Misty Rainforest
+2 Undercity Sewers
+1 Island
+1 Swamp
+
+Sideboard
+3 Dauthi Voidwalker
+3 Force of Negation
+2 Barrowgoyf
+2 Consign to Memory
+2 Null Rod
+1 Bitter Triumph
+1 Brazen Borrower // Petty Theft
+1 Fatal Push
+

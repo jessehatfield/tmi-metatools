@@ -1,0 +1,38 @@
+// Player: Zachary Thompson
+// Place: 798
+
+4 Phyrexian Dreadnought
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Doorkeeper Thrull
+2 Abhorrent Oculus
+1 Brazen Borrower // Petty Theft
+4 Ponder
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Daze
+2 Stifle
+1 Ghost Vacuum
+1 Lavaspur Boots
+1 Lotus Petal
+4 Urza's Saga
+2 Dress Down
+4 Flooded Strand
+4 Wasteland
+3 Island
+2 Meticulous Archive
+2 Tundra
+1 Plains
+
+Sideboard
+3 Clarion Conqueror
+2 Consign to Memory
+2 Exorcise
+2 Harbinger of the Seas
+2 Hydroblast
+1 Brazen Borrower // Petty Theft
+1 Karakas
+1 Lavinia, Azorius Renegade
+1 Prismatic Ending
+

@@ -1,0 +1,39 @@
+// Player: Alvin Gillo
+// Place: 93
+
+4 Birds of Paradise
+4 Endurance
+4 Nadu, Winged Wisdom
+4 Nomads en-Kor
+3 Allosaurus Shepherd
+3 Noble Hierarch
+2 Dryad Arbor
+2 Quirion Ranger
+2 Springheart Nantuko
+1 Craterhoof Behemoth
+1 Delighted Halfling
+1 Eladamri, Korvecdal
+1 Sylvan Safekeeper
+4 Green Sun's Zenith
+2 Natural Order
+3 Once Upon a Time
+2 Chord of Calling
+4 Gaea's Cradle
+3 Misty Rainforest
+3 Verdant Catacombs
+2 Forest
+2 Savannah
+2 Tropical Island
+1 Boseiju, Who Endures
+
+Sideboard
+3 Swords to Plowshares
+2 Deafening Silence
+2 Faerie Macabre
+2 Force of Vigor
+2 Prismatic Ending
+1 Carpet of Flowers
+1 Collector Ouphe
+1 Hydroblast
+1 Veil of Summer
+

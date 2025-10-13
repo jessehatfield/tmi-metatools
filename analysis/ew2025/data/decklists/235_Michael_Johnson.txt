@@ -1,0 +1,29 @@
+// Player: Michael Johnson
+// Place: 235
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 It That Heralds the End
+4 Reality Smasher
+4 Thought-Knot Seer
+3 Wastescape Battlemage
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+3 Eye of Ugin
+2 City of Traitors
+2 Wasteland
+2 Wastes
+
+Sideboard
+3 Dismember
+3 Disruptor Flute
+3 Faerie Macabre
+2 Eldrazi Obligator
+2 Null Rod
+2 Unlicensed Hearse
+

@@ -1,0 +1,37 @@
+// Player: Ryan Ascott
+// Place: 723
+
+4 Delver of Secrets // Insectile Aberration
+3 Brazen Borrower // Petty Theft
+3 Murktide Regent
+2 Azure Beastbinder
+1 Hullbreacher
+4 Ponder
+3 Preordain
+4 Brainstorm
+4 Daze
+4 Force of Will
+3 Dismember
+3 Stifle
+2 Spell Pierce
+2 Spell Snare
+1 Sink into Stupor // Soporific Springs
+5 Island
+4 Polluted Delta
+4 Wasteland
+3 Scalding Tarn
+1 Misty Rainforest
+
+Sideboard
+2 Consign to Memory
+2 Disruptor Flute
+2 Harbinger of the Seas
+2 Hydroblast
+1 Dress Down
+1 Force of Negation
+1 Null Rod
+1 Stern Scolding
+1 Surgical Extraction
+1 Unlicensed Hearse
+1 Utter Insignificance
+

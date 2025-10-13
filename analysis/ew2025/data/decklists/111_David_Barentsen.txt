@@ -1,0 +1,39 @@
+// Player: David Barentsen
+// Place: 111
+
+3 Street Wraith
+2 Thassa's Oracle
+4 Doomsday
+4 Personal Tutor
+4 Ponder
+2 Edge of Autumn
+1 Duress
+1 Thoughtseize
+4 Brainstorm
+4 Dark Ritual
+4 Force of Will
+3 Daze
+2 Flusterstorm
+1 Consider
+4 Lotus Petal
+1 Lion's Eye Diamond
+4 Misty Rainforest
+4 Polluted Delta
+3 Underground Sea
+2 Undercity Sewers
+1 Cavern of Souls
+1 Island
+1 Swamp
+
+Sideboard
+2 Barrowgoyf
+2 Brazen Borrower // Petty Theft
+2 Force of Negation
+2 Long Goodbye
+2 Murktide Regent
+1 Emrakul, the Aeons Torn
+1 Faerie Macabre
+1 Grafdigger's Cage
+1 Nihil Spellbomb
+1 Shelldock Isle
+

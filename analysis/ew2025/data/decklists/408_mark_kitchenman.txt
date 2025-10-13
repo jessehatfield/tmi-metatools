@@ -1,0 +1,42 @@
+// Player: mark kitchenman
+// Place: 408
+
+4 Birds of Paradise
+4 Nadu, Winged Wisdom
+4 Noble Hierarch
+4 Nomads en-Kor
+2 Allosaurus Shepherd
+2 Dryad Arbor
+2 Endurance
+2 Quirion Ranger
+2 Springheart Nantuko
+1 Collector Ouphe
+1 Craterhoof Behemoth
+1 Frenzied Baloth
+1 Keen-Eyed Curator
+1 Sylvan Safekeeper
+4 Green Sun's Zenith
+2 Natural Order
+4 Chord of Calling
+1 Once Upon a Time
+4 Gaea's Cradle
+3 Tropical Island
+2 Forest
+2 Misty Rainforest
+2 Savannah
+2 Verdant Catacombs
+1 Boseiju, Who Endures
+1 Windswept Heath
+1 Wooded Foothills
+
+Sideboard
+3 Deafening Silence
+3 Swords to Plowshares
+2 Faerie Macabre
+2 Force of Vigor
+1 Blue Elemental Blast
+1 Elvish Herder
+1 Endurance
+1 Prismatic Ending
+1 Sheltered by Ghosts
+
