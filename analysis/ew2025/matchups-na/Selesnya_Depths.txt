@@ -1,0 +1,100 @@
+Selesnya Depths -- 0.21% of field, won 57.14% of matches
++---------------------------------+--------+---------+----------+----------+
+|      Selesnya Depths vs.        | EW NA  |  EW NA  | Post-EoE | Post-EoE |
+|                                 | Record |  Win %  |  Record  |  Win %   |
++---------------------------------+--------+---------+----------+----------+
+| Dimir Reanimator                | 0-3-0  |   0.00% | 10-13-0  |   43.48% |
+| Mystic Forge Combo              | 0-1-0  |   0.00% |  5-7-0   |   41.67% |
+| Dimir Tempo                     | 1-0-0  | 100.00% |  7-5-0   |   58.33% |
+| Cephalid Breakfast              | 1-1-0  |  50.00% |  4-5-0   |   44.44% |
+| Izzet Tempo                     | 1-0-0  | 100.00% |  7-2-0   |   77.78% |
+| Red Stompy                      | 0-0-0  |     --- |  2-6-0   |   25.00% |
+| Nadu Midrange Combo             | 1-0-0  | 100.00% |  5-3-0   |   62.50% |
+| Lands                           | 1-0-0  | 100.00% |  6-2-0   |   75.00% |
+| Red Painter                     | 0-1-0  |   0.00% |  1-2-0   |   33.33% |
+| Eldrazi                         | 1-1-0  |  50.00% |  2-3-0   |   40.00% |
+| Sneak and Show                  | 0-0-0  |     --- |  0-2-0   |    0.00% |
+| Stiflenought                    | 1-0-0  | 100.00% |  3-1-0   |   75.00% |
+| Beanstalk Control (Non-Yorion)  | 0-0-0  |     --- |  3-0-0   |  100.00% |
+| Blue Cloudpost                  | 0-0-0  |     --- |  0-0-0   |      --- |
+| Jeskai Control                  | 0-0-0  |     --- |  0-3-0   |    0.00% |
+| Doomsday                        | 0-0-0  |     --- |  0-0-0   |      --- |
+| Omni-Tell                       | 0-0-0  |     --- |  1-0-0   |  100.00% |
+| Cradle Control                  | 0-0-0  |     --- |  1-2-0   |   33.33% |
+| Oops All Spells                 | 0-0-0  |     --- |  4-5-0   |   44.44% |
+| Grixis Control                  | 0-0-0  |     --- |  0-0-0   |      --- |
+| Other Control                   | 1-0-0  | 100.00% |  1-0-0   |  100.00% |
+| The EPIC Storm                  | 0-0-0  |     --- |  1-0-0   |  100.00% |
+| Other Aggro                     | 1-0-0  | 100.00% |  3-2-0   |   60.00% |
+| ANT                             | 0-0-0  |     --- |  0-1-0   |    0.00% |
+| Unknown Deck                    | 0-0-0  |     --- |  0-0-0   |      --- |
+| Mardu Energy                    | 0-0-0  |     --- |  1-0-0   |  100.00% |
+| Nadu Cradle Combo               | 0-1-0  |   0.00% |  1-1-0   |   50.00% |
+| Death and Taxes - BW (Yorion)   | 0-0-0  |     --- |  1-2-0   |   33.33% |
+| Saga Storm                      | 0-0-0  |     --- |  1-0-0   |  100.00% |
+| Black Stompy                    | 0-0-0  |     --- |  1-0-0   |  100.00% |
+| Burn/Red Prowess                | 0-0-0  |     --- |  0-0-0   |      --- |
+| Blue Painter                    | 0-0-0  |     --- |  0-1-0   |    0.00% |
+| Grixis Tempo                    | 0-0-0  |     --- |  0-0-0   |      --- |
+| Loam Pox                        | 0-0-0  |     --- |  0-0-0   |      --- |
+| Mono Green Cloudpost            | 0-0-0  |     --- |  1-2-0   |   33.33% |
+| Other Stompy                    | 1-0-0  | 100.00% |  2-0-0   |  100.00% |
+| Other Permanent Combo           | 0-0-0  |     --- |  0-0-0   |      --- |
+| Rakdos Reanimator               | 0-0-0  |     --- |  0-0-0   |      --- |
+| 8Cast                           | 0-0-0  |     --- |  1-1-0   |   50.00% |
+| Black Midrange                  | 0-0-0  |     --- |  1-0-0   |  100.00% |
+| Elves                           | 0-0-0  |     --- |  0-0-0   |      --- |
+| Esper Control                   | 1-0-0  | 100.00% |  1-1-0   |   50.00% |
+| Esper Tempo                     | 0-0-0  |     --- |  0-0-0   |      --- |
+| Infect                          | 0-0-0  |     --- |  0-0-0   |      --- |
+| Other Tempo                     | 0-0-0  |     --- |  0-0-0   |      --- |
+| Stoneblade                      | 0-1-0  |   0.00% |  0-1-0   |    0.00% |
+| Goblins (Vial)                  | 0-0-0  |     --- |  0-0-0   |      --- |
+| Mono Black Reanimator           | 0-0-0  |     --- |  0-1-0   |    0.00% |
+| Worldgorger                     | 0-0-0  |     --- |  0-1-0   |    0.00% |
+| Beanstalk Control (Yorion)      | 0-0-0  |     --- |  0-0-0   |      --- |
+| Boros Stompy                    | 0-0-0  |     --- |  1-2-0   |   33.33% |
+| Food Chain                      | 0-0-0  |     --- |  0-0-0   |      --- |
+| Golgari Depths                  | 0-0-0  |     --- |  0-0-0   |      --- |
+| Loam                            | 0-0-0  |     --- |  0-0-0   |      --- |
+| Maverick                        | 1-0-0  | 100.00% |  2-0-0   |  100.00% |
+| Naya Stompy                     | 0-0-0  |     --- |  0-0-0   |      --- |
+| Standstill                      | 0-0-0  |     --- |  0-0-0   |      --- |
+| 4C Uro Control (Non-Yorion)     | 0-0-0  |     --- |  0-0-0   |      --- |
+| 8Mulch                          | 0-0-0  |     --- |  0-0-0   |      --- |
+| Bomberman                       | 0-0-0  |     --- |  0-0-0   |      --- |
+| Creative Technique              | 0-0-0  |     --- |  0-0-0   |      --- |
+| Death and Taxes (60 Card)       | 0-0-0  |     --- |  1-0-0   |  100.00% |
+| Esper Vial                      | 0-0-0  |     --- |  0-0-0   |      --- |
+| High Tide                       | 0-0-0  |     --- |  0-0-0   |      --- |
+| Merfolk                         | 0-0-0  |     --- |  0-0-0   |      --- |
+| Naya Depths                     | 0-0-0  |     --- |  0-0-0   |      --- |
+| Ninjas                          | 0-0-0  |     --- |  1-0-0   |  100.00% |
+| Other Graveyard                 | 0-0-0  |     --- |  0-0-0   |      --- |
+| Ruby Storm                      | 0-0-0  |     --- |  0-0-0   |      --- |
+| Sultai Control                  | 0-0-0  |     --- |  0-0-0   |      --- |
+| Temur Cascade                   | 0-0-0  |     --- |  0-0-0   |      --- |
+| Tin Fins                        | 0-0-0  |     --- |  0-0-0   |      --- |
+| White Stompy                    | 0-0-0  |     --- |  0-0-0   |      --- |
+| 4C Non Uro Control (Non-Yorion) | 0-0-0  |     --- |  0-0-0   |      --- |
+| 4C Uro Control (Yorion)         | 0-0-0  |     --- |  0-0-0   |      --- |
+| Abzan Depths                    | 0-0-0  |     --- |  0-0-0   |      --- |
+| Bant Control (Non-Yorion)       | 0-0-0  |     --- |  0-0-0   |      --- |
+| Bant Control (Yorion)           | 0-0-0  |     --- |  0-0-0   |      --- |
+| Boros Energy                    | 0-0-0  |     --- |  0-0-0   |      --- |
+| Colorless Cloudpost             | 0-0-0  |     --- |  0-1-0   |    0.00% |
+| Coveted Jewel Combo             | 0-0-0  |     --- |  0-0-0   |      --- |
+| Death's Shadow                  | 0-0-0  |     --- |  0-0-0   |      --- |
+| Dredge                          | 0-0-0  |     --- |  0-0-0   |      --- |
+| Gruul Stompy                    | 0-0-0  |     --- |  0-1-0   |    0.00% |
+| Hogaak                          | 0-0-0  |     --- |  0-0-0   |      --- |
+| Jeskai Tempo                    | 0-0-0  |     --- |  0-0-0   |      --- |
+| Natural Order                   | 0-0-0  |     --- |  0-0-0   |      --- |
+| Necrodominance Combo            | 0-0-0  |     --- |  0-0-0   |      --- |
+| Nic Fit                         | 0-0-0  |     --- |  0-0-0   |      --- |
+| Other                           | 0-0-0  |     --- |  0-0-0   |      --- |
+| Other Land Based/Fair GSZ       | 0-0-0  |     --- |  0-1-0   |    0.00% |
+| Paradoxical Outcome             | 0-0-0  |     --- |  0-1-0   |    0.00% |
+| Sultai Tempo                    | 0-0-0  |     --- |  0-0-0   |      --- |
+| The EPIC Gamble                 | 0-0-0  |     --- |  0-0-0   |      --- |
++---------------------------------+--------+---------+----------+----------+
