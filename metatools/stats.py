@@ -162,7 +162,7 @@ def getPercentile():
     return (avgpercentile, 'Avg. Percentile', 'percent')
 
 def getEV(context, tournaments=None, fromSub=False, smartSub=False,
-        players=[], usePairings=False):
+        players=[], usePairings=False, useMetagame=None):
     """Get expected value for a list of decks.
 
     context: Metagame to be used for matchup data.
@@ -174,6 +174,8 @@ def getEV(context, tournaments=None, fromSub=False, smartSub=False,
     players: Restrict calculations to these players.
     usePairings: Use the actual counts of each archetype the decks were paired against,
             rather than the overall field of the tournaments.
+    useMetagame: If given, use this metagame for the field breakdown, overriding
+            other options about how to calculate the field.
     """
     alldecks = list(context.archetypes.keys())
     matchupsMain = context.getMultipleMatchups(alldecks, alldecks)
@@ -190,7 +192,9 @@ def getEV(context, tournaments=None, fromSub=False, smartSub=False,
         tlist = tournaments
         if not tlist:
             tlist = { d.tournament for d in decks }
-        if usePairings:
+        if useMetagame is not None:
+            thisMeta = useMetagame
+        elif usePairings:
             thisMeta = PairedMeta(decks, players=players)
         else:
             thisMeta = ObservedMeta(tlist, players=players)

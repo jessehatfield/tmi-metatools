@@ -140,6 +140,19 @@ def getMatchupsWrapper(args, decktypes, groups, recentMeta, historicalMeta, tour
             players, args.get('nmatches', False), args.get('sub', False),
             conf=args.get('conf', None), mainLabel=args.get('title', ''))
 
+def evWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
+    """
+    args: dictionary of command-line arguments
+    decktypes: list of strings representing archetype names
+    groups: dictionary where each key is a name and each value is a list
+            of decks to group together
+    recentMeta: recent metagame, used for matchup data
+    historicalMeta: historical metagame, used for matchup data
+    tournies: a list of Tournaments for the relevant time period
+    players: Player names -- restrict the field to these players
+    """
+    return ev(args['filename'], recentMeta, historicalMeta)
+
 def explainWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
     """
     args: dictionary of command-line arguments
@@ -151,7 +164,8 @@ def explainWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies
     tournies: a list of Tournaments for the relevant time period
     players: Player names -- restrict the field to these players
     """
-    return explain(args['deck'], recentMeta, historicalMeta, args['order'])
+    return explain(args['deck'], recentMeta, historicalMeta, args['order'],
+            metagameFile=args.get('file', None))
 
 def skillWrapper(args, decktypes, groups, recentMeta, historicalMeta, tournies, players):
     """
@@ -353,6 +367,7 @@ def tmi(func, **kwargs):
                 'matchups': getMatchupsWrapper,
                 'history': getHistoryWrapper,
                 'grid': getGridWrapper,
+                'ev': evWrapper,
                 'explain': explainWrapper,
                 'skill': skillWrapper }
     data = buildMeta(**kwargs)
@@ -487,12 +502,18 @@ def main(arglist):
             "replacement.")
     diversityp.set_defaults(func=getDiversityWrapper)
 
+    evp = subp.add_parser('ev', help='Estimate EVs for a hypothetical metagame.')
+    evp.add_argument('filename', type=str, help='CSV file containing deck counts or percentages.')
+    evp.set_defaults(func=evWrapper)
+
     explainp = subp.add_parser('explain', help='Try to explain a deck\'s win\
             percentage and EV; highlight to archetypes that contribute the most to\
             both numbers.')
     explainp.add_argument('deck', type=str, help='Deck type to explain.')
     explainp.add_argument('order', type=str, default='w', nargs='?', help='Stat to \
             order by: w, l, ev, evneg, winp, or lossp.')
+    explainp.add_argument('-f', '--file', type=str, nargs='?',
+            help='If given, also compute EV against a metagame loaded from a CSV file.')
     explainp.set_defaults(func=explainWrapper)
 
     gridp = subp.add_parser('grid', help='Print a table of matchups between various decks.')

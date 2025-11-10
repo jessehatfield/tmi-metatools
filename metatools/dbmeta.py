@@ -19,10 +19,18 @@ class DBMeta(ObservedMeta):
         self.archetypes = { }
         self.matchups = { }
         self.players = players
-#        for t in self.tournaments:
-#            self.decks.extend(t.decks)
-#        for t in self.tournaments:
-#            self.matches.extend(t.matches)
+        self.scg = True
+        self.beginning = None
+        self.end = None
+        for t in self.tournaments:
+            self.decks.extend(t.decks)
+            self.scg = self.scg and t.source == 'SCG'
+            if self.beginning is None or t.date < self.beginning:
+                self.beginning = t.date
+            if self.end is None or t.date > self.end:
+                self.end = t.date
+        for t in self.tournaments:
+            self.matches.extend(t.matches)
         self.total = 0
         #Compute the metagame. 
         deckq = deckQuery(tournaments=self.tournaments, players=self.players)\

@@ -942,26 +942,69 @@ def getAllMatchups(decktypes, meta, alternateMeta, altLabel,
                 table.addRecordLevel(1, *row)
     return table
 
-def explain(deckname, meta, historicalMeta, order):
+def ev(filename, meta, historicalMeta):
+    """Estimate EV for a metagame given in a CSV file."""
+    projected_meta = Metagame.fromFile(filename)
+    getEV1 = getEV(meta, useMetagame=projected_meta)[0]
+    getEV2 = getEV(historicalMeta, useMetagame=projected_meta)[0]
+    getMatchCount = getMatchTotal(exclude_mirrors=True, known=True)[0]
+    recent_cutoff = meta.beginning
+    historical_cutoff = historicalMeta.beginning
+    metas_differ = meta.tournaments != historicalMeta.tournaments
+    table = Table()
+    table.setTitle('Estimated EV for Provided Metagame')
+    table.addField(Field('deck', fieldName='Deck', align='<'))
+    table.addField(Field('n', fieldName='# in Field', type='int'))
+    table.addField(Field('percent', fieldName='% of Field', type='percent'))
+    table.addField(Field('evRecent', fieldName=f'EV (matches since {recent_cutoff})', type='percent'))
+    if metas_differ:
+        table.addField(Field('evHistorical', fieldName=f'EV (matches since {historical_cutoff})', type='percent'))
+    table.addField(Field('matches', fieldName=f'Matches on Record (since {historical_cutoff})', type='int'))
+    archetypes = list(meta.archetypes.keys() | historicalMeta.archetypes.keys() | projected_meta.archetypes.keys())
+    counts = {a: projected_meta.getCount(a) for a in archetypes}
+    archetypes.sort(key=lambda d: -historicalMeta.getCount(d))
+    archetypes.sort(key=lambda d: -counts[d])
+    historical_decks = {k: [] for k in archetypes}
+    for t in historicalMeta.tournaments:
+        for d in t.decks:
+            historical_decks[d.archetype].append(d)
+    for archetype in archetypes:
+        deck = Deck(archetype=archetype)
+        row = [archetype, counts[archetype], counts[archetype]/projected_meta.total, getEV1([deck])]
+        if metas_differ:
+            row.append(getEV2([deck]))
+        matches = 0
+        row.append(getMatchCount(historical_decks[archetype]))
+        table.addRecord(*row)
+    return table
+
+def explain(deckname, meta, historicalMeta, order, metagameFile=None):
     """Try to explain a deck's EV and win percentage in the metagame. Identify
     those matchups which contribute to its wins/losses the most.
     deckname: Explain this deck.
     meta: Explain it's performance/EV in this metagame.
     historicalMeta: Use this metagame for matchups for EV calculation.
-    order: What stat to order by: w, l, ev, evneg, winp, lossp, evpairings, evpairingsneg."""
+    order: What stat to order by: w, l, ev, evneg, winp, lossp, evpairings, evpairingsneg.
+    metagameFile: If given, also compute the EV for a metagame specified in a CSV file."""
     decks = meta.getDecks([deckname])
     poffield = getFieldP()[0](decks)
     winpercent = getMWP()[0](decks)
     evField = getEV(historicalMeta)[0](decks)
     evPairings = getEV(historicalMeta, usePairings=True)[0](decks)
+    file_meta = None if metagameFile is None else Metagame.fromFile(metagameFile)
+    evFile = None if file_meta is None else getEV(historicalMeta, useMetagame=file_meta)[0](decks)
     nmatches = meta.getNumMatches(deckname)
     # If win% starts at .5, each win adds this much and each loss subtracts:
     indmatch = .5/nmatches
     data = []
     oppMeta = PairedMeta(decks)
-    for decktype in meta.archetypes:
+    all_archetypes = meta.archetypes.keys()
+    if file_meta is not None:
+        all_archetypes = list(meta.archetypes.keys() | file_meta.archetypes.keys())
+    for decktype in all_archetypes:
         field = float(meta.getPercent(decktype))
         pOpponent = float(oppMeta.getPercent(decktype))
+        pFile = 0.0 if file_meta is None else float(file_meta.getPercent(decktype))
         matches = meta.getSingleMatches(deckname, None, decktype, None)
         win, loss, draw = record(matches)
         winp = mwp(matches)
@@ -970,23 +1013,31 @@ def explain(deckname, meta, historicalMeta, order):
         hwinp = mwp(hmatches)
         evFieldCont = 0.0
         evPairingsCont = 0.0
+        evFileCont = 0.0
         if hwinp is not None:
             hwinp = float(hwinp)
             evFieldCont = (hwinp - .5) * field
             evPairingsCont = (hwinp - .5) * pOpponent
+            evFileCont = (hwinp - .5) * pFile
         mwpcont = None
         winpcont = 0.0
         if winp is not None:
             winpcont = (win - loss) * indmatch
         delta = winpcont - evFieldCont
-        data.append([decktype, field, pOpponent, win, loss, draw, winp, hwinp, winpcont,
-            evFieldCont, evPairingsCont, delta])
+        row = [decktype, win, loss, draw, winp, hwinp, field, pOpponent, winpcont,
+            evFieldCont, evPairingsCont, delta]
+        if evFile is not None:
+            fileDelta = evFileCont - evFieldCont
+            row.append(pFile)
+            row.append(evFileCont)
+            row.append(fileDelta)
+        data.append(row)
 
     data.sort()
     if order=='w':
-        data.sort(key=itemgetter(3), reverse=True)
+        data.sort(key=itemgetter(1), reverse=True)
     elif order=='l':
-        data.sort(key=itemgetter(4), reverse=True)
+        data.sort(key=itemgetter(2), reverse=True)
     elif order=='winp':
         data.sort(key=itemgetter(8), reverse=True)
     elif order=='lossp':
@@ -1001,13 +1052,22 @@ def explain(deckname, meta, historicalMeta, order):
         data.sort(key=itemgetter(10))
     elif order=='delta':
         data.sort(key=itemgetter(11))
+    elif order=='filefield':
+        data.sort(key=itemgetter(12), reverse=True)
+    elif order=='file':
+        data.sort(key=itemgetter(13))
+    elif order=='filedelta':
+        data.sort(key=itemgetter(14))
 
     # Create a Table, figure out what columns we need
     table = Table()
-    table.setTitle('{0} -- {1:.2f}% of field, won {2:.2f}% of matches, '.\
+    title = '{0} -- {1:.2f}% of field, won {2:.2f}% of matches, '.\
             format(deckname, poffield*100.0, winpercent*100.0) \
             + 'EV = {0:.2f}% vs. field, {1:.2f}% vs. pairings'.\
-            format(evField*100.0, evPairings*100.0))
+            format(evField*100.0, evPairings*100.0)
+    if evFile is not None:
+        title += ', {0:.2f}% vs. provided'.format(evFile*100.0)
+    table.setTitle(title)
     table.addField(Field('otherdeck', fieldName='Deck', align='<'))
     table.addField(Field('record', fieldName='Record', align='^'))
     table.addField(Field('mwp', fieldName='Win %', type='percent'))
@@ -1018,11 +1078,14 @@ def explain(deckname, meta, historicalMeta, order):
     table.addField(Field('evFieldCont', fieldName='EV vs. Field Contribution', type='percent'))
     table.addField(Field('evPairingsCont', fieldName='EV vs. Pairings Contribution', type='percent'))
     table.addField(Field('delta', fieldName='(Win% - EV) Contribution', type='percent'))
+    if file_meta is not None:
+        table.addField(Field('fileField', fieldName='% of Provided', type='percent'))
+        table.addField(Field('evFileCont', fieldName='EV vs. File Contribution', type='percent'))
+        table.addField(Field('fileDelta', fieldName='(File EV - Historical EV) Contribution', type='percent'))
 
     # Fill the Table.
-    for deck, field, pOpponent, win, loss, draw, winp, hwinp, winpcont, evFieldCont, evPairingsCont, delta in data:
-        table.addRecord(deck, '{0}-{1}-{2}'.format(win, loss, draw), winp,
-                hwinp, field, pOpponent, winpcont, evFieldCont, evPairingsCont, delta)
+    for row in data:
+        table.addRecord(row[0], '{0}-{1}-{2}'.format(*row[1:4]), *row[4:])
     return table
 
 def getHistory(tournaments, context, outputs=[], top=[], percentTop=[],

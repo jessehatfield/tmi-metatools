@@ -18,7 +18,7 @@ roundExpr = re.compile(r'Round (\d+)')
 byeExpr = re.compile(".*BYE.*", re.IGNORECASE)
 drawExpr = re.compile("^Draw$", re.IGNORECASE)
 gameExpr = re.compile("^([0-9]+)-([0-9]+)(-([0-9]+))?$")
-filenameExpr = re.compile(r'^([^ ]*) (.*Challenge|Super Qualifier|Last Chance|Showcase Qualifier)( \d+)? (\d{1,2})_(\d{1,2})_(\d{4})( - [\d]+)?')
+filenameExpr = re.compile(r'^([^ ]*) (.*Challenge|Super Qualifier|Rc Super Qualifier|Last Chance|Showcase Qualifier)( \d+)? (\d{1,2})_(\d{1,2})_(\d{4})( - [\d]+)?')
 
 
 def matchesIgnoreCase(key, options):
