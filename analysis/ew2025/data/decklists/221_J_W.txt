@@ -1,0 +1,43 @@
+// Player: J W
+// Place: 221
+
+2 Teferi, Time Raveler
+1 Narset, Parter of Veils
+3 Phelia, Exuberant Shepherd
+3 Quantum Riddler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Containment Priest
+3 Ponder
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+1 Force of Negation
+1 Minor Misstep
+1 Stern Scolding
+3 Dress Down
+1 Back to Basics
+5 Snow-Covered Island
+4 Flooded Strand
+4 Prismatic Vista
+2 Snow-Covered Plains
+2 Tundra
+2 Windswept Heath
+1 Karakas
+1 Meticulous Archive
+
+Sideboard
+2 Celestial Purge
+2 Hydroblast
+2 Wrath of the Skies
+1 Clarion Conqueror
+1 Consign to Memory
+1 Faerie Macabre
+1 Narset, Parter of Veils
+1 Null Rod
+1 Prismatic Ending
+1 Rest in Peace
+1 Sanctifier en-Vec
+1 Surgical Extraction
+

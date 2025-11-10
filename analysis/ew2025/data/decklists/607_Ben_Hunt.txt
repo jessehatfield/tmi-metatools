@@ -1,0 +1,43 @@
+// Player: Ben Hunt
+// Place: 607
+
+1 Jace, the Mind Sculptor
+2 Emrakul, the Aeons Torn
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Show and Tell
+4 Stock Up
+2 Lórien Revealed
+1 Eureka
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+3 Veil of Summer
+1 Auroral Procession
+1 Intuition
+1 Sink into Stupor // Soporific Springs
+1 Spell Pierce
+2 Lotus Petal
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+3 Island
+2 Polluted Delta
+2 Tropical Island
+1 Forest
+1 Hedge Maze
+1 Mistrise Village
+
+Sideboard
+3 Surgical Extraction
+2 Carpet of Flowers
+2 Consign to Memory
+1 Firemind's Foresight
+1 Grafdigger's Cage
+1 Into the Flood Maw
+1 Intuition
+1 Release the Ants
+1 Shared Summons
+1 Veil of Summer
+1 Wipe Away
+

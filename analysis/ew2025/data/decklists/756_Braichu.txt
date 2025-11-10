@@ -1,0 +1,28 @@
+// Player: Braichu
+// Place: 756
+
+4 Goblin Guide
+4 Monastery Swiftspear
+2 Eidolon of the Great Revel
+4 Boltwave
+4 Chain Lightning
+4 Lava Spike
+4 Rift Bolt
+4 Skewer the Critics
+4 Fireblast
+4 Lightning Bolt
+4 Price of Progress
+1 Thunderous Wrath
+17 Mountain
+
+Sideboard
+3 Smash to Smithereens
+2 Roiling Vortex
+2 Satyr Firedancer
+2 Surgical Extraction
+2 Void Mirror
+1 Dismember
+1 Pyroblast
+1 Red Elemental Blast
+1 Tormod's Crypt
+

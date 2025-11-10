@@ -1,0 +1,38 @@
+// Player: Noah landaira
+// Place: 697
+
+1 Grist, the Hunger Tide
+4 Allosaurus Shepherd
+4 Heritage Druid
+4 Nettle Sentinel
+4 Wirewood Symbiote
+3 Quirion Ranger
+2 Dryad Arbor
+2 Elvish Visionary
+2 Noble Hierarch
+1 Atraxa, Grand Unifier
+1 Birchlore Rangers
+1 Craterhoof Behemoth
+1 Eladamri, Korvecdal
+4 Glimpse of Nature
+4 Green Sun's Zenith
+3 Natural Order
+2 Once Upon a Time
+4 Gaea's Cradle
+4 Misty Rainforest
+2 Bayou
+2 Forest
+2 Verdant Catacombs
+2 Windswept Heath
+1 Boseiju, Who Endures
+
+Sideboard
+4 Thoughtseize
+3 Endurance
+2 Collector Ouphe
+2 Surgical Extraction
+1 Abrupt Decay
+1 Archon of Valor's Reach
+1 Dismember
+1 Snuff Out
+

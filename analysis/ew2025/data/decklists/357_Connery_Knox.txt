@@ -1,0 +1,35 @@
+// Player: Connery Knox
+// Place: 357
+
+4 Oliphaunt
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Reanimate
+4 Thoughtseize
+4 Brainstorm
+4 Daze
+4 Entomb
+4 Force of Will
+4 Stifle
+4 Animate Dead
+4 Polluted Delta
+4 Wasteland
+3 Underground Sea
+1 Badlands
+1 Island
+1 Scalding Tarn
+1 Swamp
+1 Undercity Sewers
+1 Volcanic Island
+1 Xander's Lounge
+
+Sideboard
+3 Barrowgoyf
+3 Orcish Bowmasters
+2 Brazen Borrower // Petty Theft
+2 Fatal Push
+2 Null Rod
+2 Pyroblast
+1 Meltdown
+

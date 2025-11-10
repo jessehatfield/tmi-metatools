@@ -1,0 +1,42 @@
+// Player: jamesheischman
+// Place: 695
+
+2 Grist, the Hunger Tide
+4 Delighted Halfling
+4 Yawgmoth, Thran Physician
+4 Young Wolf
+2 Endurance
+2 Orcish Bowmasters
+2 Walking Ballista
+1 Dryad Arbor
+1 Hapatra, Vizier of Poisons
+1 Haywire Mite
+1 Ignoble Hierarch
+1 Prosperous Innkeeper
+4 Malevolent Rumble
+3 Green Sun's Zenith
+3 Once Upon a Time
+2 Chord of Calling
+4 Agatha's Soul Cauldron
+4 Verdant Catacombs
+3 Gaea's Cradle
+2 Bayou
+2 Boseiju, Who Endures
+2 Forest
+2 Wooded Foothills
+1 Shifting Woodland
+1 Spymaster's Vault
+1 Swamp
+1 Underground Mortuary
+
+Sideboard
+2 Barrowgoyf
+2 Culling Ritual
+2 Endurance
+2 Force of Vigor
+2 Sheoldred's Edict
+2 Thoughtseize
+1 Abrupt Decay
+1 Orcish Bowmasters
+1 Scavenging Ooze
+

@@ -1,0 +1,35 @@
+// Player: giZmo00100
+// Place: 787
+
+4 Dragon's Rage Channeler
+4 Fury
+2 Oliphaunt
+1 Anger
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+1 Griselbrand
+1 Magus of the Moon
+4 Faithless Looting
+4 Reanimate
+4 Thoughtseize
+4 Dark Ritual
+4 Entomb
+4 Lotus Petal
+4 Animate Dead
+2 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Bloodstained Mire
+2 Badlands
+2 Verdant Catacombs
+2 Wooded Foothills
+1 Bayou
+1 Mountain
+1 Raucous Theater
+1 Swamp
+1 Underground Mortuary
+
+Sideboard
+4 Chain of Smog
+4 Leyline of the Void
+4 Witherbloom Apprentice
+3 Pyroblast
+

@@ -1,0 +1,39 @@
+// Player: Jakob Heckert
+// Place: 162
+
+3 Karn, the Great Creator
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+2 Simian Spirit Guide
+1 Chaos Defiler
+1 Phyrexian Dragon Engine
+3 Pyroblast
+2 Red Elemental Blast
+3 Ensnaring Bridge
+2 Grindstone
+2 Lotus Petal
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+2 Blood Moon
+9 Mountain
+4 Ancient Tomb
+2 Great Furnace
+1 Arena of Glory
+1 City of Traitors
+
+Sideboard
+3 Disruptor Flute
+2 Faerie Macabre
+2 Fury
+1 Cast into the Fire
+1 Chainsaw
+1 Damping Sphere
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Steel Wrecking Ball
+1 Tormod's Crypt
+

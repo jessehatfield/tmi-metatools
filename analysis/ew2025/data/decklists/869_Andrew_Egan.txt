@@ -1,0 +1,39 @@
+// Player: Andrew Egan
+// Place: 869
+
+4 Worldgorger Dragon
+1 Oona, Queen of the Fae
+1 Shivan Hellkite
+4 Faithless Looting
+3 Duress
+3 Ponder
+2 Deep Analysis
+2 Gamble
+4 Entomb
+4 Force of Will
+3 Brainstorm
+2 Daze
+2 Pyromatics
+4 Animate Dead
+2 Dance of the Dead
+2 Necromancy
+3 Bloodstained Mire
+3 Polluted Delta
+2 Badlands
+2 Island
+2 Mountain
+2 Sunken Hollow
+2 Swamp
+1 Piranha Marsh
+
+Sideboard
+4 Show and Tell
+2 Echoing Truth
+2 Emrakul, the Aeons Torn
+2 Surgical Extraction
+1 Flusterstorm
+1 Griselbrand
+1 Iona, Shield of Emeria
+1 Stifle
+1 Valgavoth, Terror Eater
+

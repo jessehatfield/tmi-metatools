@@ -1,0 +1,32 @@
+// Player: hoke31
+// Place: 943
+
+4 Griselbrand
+2 Archon of Cruelty
+2 Atraxa, Grand Unifier
+4 Cabal Therapy
+4 Reanimate
+4 Thoughtseize
+4 Unmask
+2 Faithless Looting
+4 Dark Ritual
+4 Entomb
+4 Shallow Grave
+4 Lotus Petal
+4 Animate Dead
+4 Polluted Delta
+2 Badlands
+2 Bloodstained Mire
+2 Swamp
+1 Raucous Theater
+1 Undercity Sewers
+1 Underground Sea
+1 Verdant Catacombs
+
+Sideboard
+4 Leyline of the Void
+4 Show and Tell
+4 Stronghold Gambit
+2 Faerie Macabre
+1 Meltdown
+

@@ -1,0 +1,45 @@
+// Player: jbconley
+// Place: 646
+
+1 Yorion, Sky Nomad
+4 Overlord of the Balemurk
+4 Phelia, Exuberant Shepherd
+4 Recruiter of the Guard
+4 Solitude
+4 Stoneforge Mystic
+3 Skyclave Apparition
+2 Flickerwisp
+2 Orcish Bowmasters
+2 White Orchid Phantom
+2 Witch Enchanter // Witch-Blessed Meadow
+1 Containment Priest
+1 Lion Sash
+1 Loran of the Third Path
+4 Thoughtseize
+4 Swords to Plowshares
+4 Aether Vial
+1 Kaldra Compleat
+1 Phantom Blade
+1 Pre-War Formalwear
+5 Plains
+4 Karakas
+4 Marsh Flats
+4 Prismatic Vista
+4 Wasteland
+3 Scrubland
+2 Flooded Strand
+2 Shadowy Backstreet
+1 Arid Mesa
+1 Swamp
+1 Windswept Heath
+
+Sideboard
+3 Faerie Macabre
+2 Disruptor Flute
+2 Mindbreak Trap
+2 Stony Silence
+2 Wrath of the Skies
+1 Containment Priest
+1 Grafdigger's Cage
+1 Surgical Extraction
+

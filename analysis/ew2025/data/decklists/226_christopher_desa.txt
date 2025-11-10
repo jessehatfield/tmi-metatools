@@ -1,0 +1,37 @@
+// Player: christopher desa
+// Place: 226
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Murktide Regent
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+1 Brazen Borrower // Petty Theft
+4 Ponder
+4 Reanimate
+4 Thoughtseize
+4 Brainstorm
+4 Daze
+4 Entomb
+4 Force of Will
+3 Force of Negation
+2 Animate Dead
+4 Polluted Delta
+4 Underground Sea
+2 Bloodstained Mire
+2 Flooded Strand
+2 Undercity Sewers
+2 Wasteland
+1 Island
+1 Swamp
+
+Sideboard
+3 Faerie Macabre
+2 Brazen Borrower // Petty Theft
+2 Engineered Explosives
+2 Fatal Push
+2 Inquisition of Kozilek
+1 Bitter Triumph
+1 Consign to Memory
+1 Force of Negation
+1 Murktide Regent
+

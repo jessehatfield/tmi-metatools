@@ -1,0 +1,36 @@
+// Player: James Robertson
+// Place: 837
+
+4 Cloud of Faeries
+4 Thundertrap Trainer
+1 Fae of Wishes // Granted
+4 Lórien Revealed
+4 Ponder
+4 Time Spiral
+3 Mind's Desire
+4 Brainstorm
+4 Force of Will
+4 High Tide
+4 Snap
+1 Echoing Truth
+1 Noxious Revival
+4 Sapphire Medallion
+6 Island
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+1 Mystic Sanctuary
+
+Sideboard
+3 Surgical Extraction
+2 Flusterstorm
+2 Null Rod
+2 Swan Song
+1 Brain Freeze
+1 Echoing Truth
+1 Hurkyl's Recall
+1 Jace, Wielder of Mysteries
+1 Mind's Desire
+1 Teferi's Realm
+

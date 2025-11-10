@@ -1,0 +1,39 @@
+// Player: Melee_123
+// Place: 763
+
+2 Teferi, Time Raveler
+1 Jace, the Mind Sculptor
+3 Timeless Dragon
+2 Snapcaster Mage
+4 Lórien Revealed
+2 Prismatic Ending
+2 Supreme Verdict
+1 Council's Judgment
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Spell Pierce
+1 Counterspell
+1 Dovin's Veto
+4 Standstill
+4 Flooded Strand
+4 Wasteland
+3 Tundra
+2 Island
+2 Plains
+2 Scalding Tarn
+1 Mystic Sanctuary
+1 Otawara, Soaring City
+1 Plateau
+1 Underground Sea
+1 Volcanic Island
+
+Sideboard
+4 Consign to Memory
+4 Surgical Extraction
+3 Harbinger of the Seas
+1 Flusterstorm
+1 Pyroclasm
+1 The Wandering Emperor
+1 Wrath of the Skies
+

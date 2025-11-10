@@ -1,0 +1,43 @@
+// Player: William Greenwood
+// Place: 373
+
+4 Oliphaunt
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+1 Baleful Strix
+1 Barrowgoyf
+1 Brazen Borrower // Petty Theft
+1 Sire of Insanity
+4 Reanimate
+3 Thoughtseize
+2 Faithless Looting
+2 Ponder
+4 Brainstorm
+4 Entomb
+4 Force of Will
+3 Daze
+2 Animate Dead
+4 Underground Sea
+3 Polluted Delta
+2 Scalding Tarn
+2 Wasteland
+1 Badlands
+1 Bloodstained Mire
+1 Island
+1 Swamp
+1 Thundering Falls
+1 Undercity Sewers
+1 Volcanic Island
+
+Sideboard
+4 Dauthi Voidwalker
+2 Consign to Memory
+2 Fury
+2 Pyroblast
+1 Barrowgoyf
+1 Brazen Borrower // Petty Theft
+1 Dack Fayden
+1 Feed the Swarm
+1 Kolaghan's Command
+

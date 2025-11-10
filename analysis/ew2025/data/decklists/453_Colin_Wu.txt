@@ -1,0 +1,33 @@
+// Player: Colin Wu
+// Place: 453
+
+3 Nulldrifter
+3 Phyrexian Dreadnought
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Stock Up
+4 Force of Will
+4 Sink into Stupor // Soporific Springs
+3 Flusterstorm
+2 Echoing Truth
+1 Force of Negation
+1 Misdirection
+4 The One Ring
+4 Torpor Orb
+2 Chrome Mox
+1 Lavaspur Boots
+1 Shadowspear
+4 Dress Down
+2 Urza's Saga
+10 Island
+2 Ancient Tomb
+2 City of Traitors
+
+Sideboard
+4 Disruptor Flute
+3 Consign to Memory
+3 Harbinger of the Seas
+2 Surgical Extraction
+1 Blue Elemental Blast
+1 Grafdigger's Cage
+1 Pithing Needle
+

@@ -1,0 +1,31 @@
+// Player: eddierichter
+// Place: 800
+
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+1 Chaos Defiler
+1 Phyrexian Devourer
+1 Phyrexian Dragon Engine
+4 Lightning Bolt
+4 Pyroblast
+2 Red Elemental Blast
+3 Agatha's Soul Cauldron
+3 Lotus Petal
+2 Grindstone
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+10 Mountain
+4 Ancient Tomb
+2 Arena of Glory
+1 City of Traitors
+1 Great Furnace
+
+Sideboard
+4 Blood Moon
+4 Leyline of the Void
+3 Disruptor Flute
+3 Fury
+1 Pithing Needle
+

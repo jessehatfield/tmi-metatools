@@ -1,0 +1,33 @@
+// Player: ManaCrip
+// Place: 391
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+3 Devourer of Destiny
+3 It That Heralds the End
+3 Reality Smasher
+1 Inversion Behemoth
+1 Sire of Seven Deaths
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+1 Grim Monolith
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Wasteland
+3 Secluded Courtyard
+2 Eye of Ugin
+2 Wastes
+1 City of Traitors
+
+Sideboard
+3 Dismember
+3 Wastescape Battlemage
+2 Disruptor Flute
+2 Faerie Macabre
+2 Null Rod
+2 Tormod's Crypt
+1 Warping Wail
+

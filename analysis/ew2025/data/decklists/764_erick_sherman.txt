@@ -1,0 +1,35 @@
+// Player: erick sherman
+// Place: 764
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Guide of Souls
+4 Mockingbird
+4 Ocelot Pride
+4 Voice of Victory
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Brazen Borrower // Petty Theft
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Daze
+4 Flooded Strand
+4 Tundra
+4 Wasteland
+3 Plains
+2 Island
+1 Arid Mesa
+1 Marsh Flats
+1 Meticulous Archive
+1 Polluted Delta
+
+Sideboard
+4 Consign to Memory
+2 Clarion Conqueror
+2 Containment Priest
+2 Null Rod
+2 Rest in Peace
+1 Disruptor Flute
+1 Soul-Guide Lantern
+1 Wrath of the Skies
+

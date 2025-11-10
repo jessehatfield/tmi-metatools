@@ -1,0 +1,39 @@
+// Player: rob scannevin
+// Place: 937
+
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Barrowgoyf
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+1 Sheoldred, the Apocalypse
+4 Reanimate
+4 Thoughtseize
+2 Ponder
+4 Brainstorm
+4 Dark Ritual
+4 Entomb
+4 Force of Will
+2 Daze
+3 Lotus Petal
+3 The One Ring
+2 Animate Dead
+4 Polluted Delta
+3 Underground Sea
+2 Undercity Sewers
+2 Wasteland
+1 Bloodstained Mire
+1 Island
+1 Misty Rainforest
+1 Swamp
+1 Verdant Catacombs
+
+Sideboard
+3 Faerie Macabre
+2 Bitter Triumph
+2 Brazen Borrower // Petty Theft
+2 Consign to Memory
+2 Fatal Push
+2 Force of Negation
+1 Barrowgoyf
+1 Commandeer
+

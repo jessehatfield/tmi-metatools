@@ -1,0 +1,35 @@
+// Player: OliverSovol
+// Place: 942
+
+2 Grist, the Hunger Tide
+4 Orcish Bowmasters
+2 Hogaak, Arisen Necropolis
+2 Opposition Agent
+4 Malevolent Rumble
+4 Smallpox
+4 Thoughtseize
+3 Life from the Loam
+2 Fatal Push
+4 Mox Diamond
+1 Lavaspur Boots
+1 Pithing Needle
+3 Urza's Saga
+4 Bloodstained Mire
+4 Eumidian Hatchery
+4 Wasteland
+3 Bayou
+3 Swamp
+2 Boseiju, Who Shelters All
+2 Underground Mortuary
+1 Ghost Quarter
+1 Verdant Catacombs
+
+Sideboard
+4 Leyline of the Void
+4 Null Rod
+2 Dread of Night
+2 Toxic Deluge
+1 Nihil Spellbomb
+1 Pithing Needle
+1 Zuran Orb
+

@@ -1,0 +1,41 @@
+// Player: David Majewski
+// Place: 885
+
+2 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+3 Nethergoyf
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Brazen Borrower // Petty Theft
+1 Barrowgoyf
+1 Murktide Regent
+4 Ponder
+3 Thoughtseize
+4 Brainstorm
+4 Fatal Push
+4 Force of Will
+3 Daze
+1 Force of Negation
+1 Mishra's Bauble
+1 Nihil Spellbomb
+4 Wasteland
+3 Polluted Delta
+3 Scalding Tarn
+2 Undercity Sewers
+2 Watery Grave
+1 Bloodstained Mire
+1 Bojuka Bog
+1 Island
+1 Otawara, Soaring City
+1 Swamp
+
+Sideboard
+4 Leyline of the Void
+2 Energy Flux
+2 Harbinger of the Seas
+2 Opposition Agent
+1 Disruptor Flute
+1 Engineered Explosives
+1 Force of Negation
+1 Grafdigger's Cage
+1 Stifle
+

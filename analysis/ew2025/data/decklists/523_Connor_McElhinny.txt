@@ -1,0 +1,44 @@
+// Player: Connor McElhinny
+// Place: 523
+
+1 Teferi, Time Raveler
+4 Cephalid Illusionist
+4 Nadu, Winged Wisdom
+4 Nomads en-Kor
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Narcomoeba
+1 Thassa's Oracle
+4 Ponder
+1 Dread Return
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+2 Orim's Chant
+2 Swords to Plowshares
+2 Shuko
+1 Soul-Guide Lantern
+4 Flooded Strand
+3 Misty Rainforest
+3 Tundra
+2 Cavern of Souls
+2 Tropical Island
+1 Hedge Maze
+1 Island
+1 Karakas
+1 Meticulous Archive
+1 Plains
+1 Savannah
+
+Sideboard
+2 Consign to Memory
+2 Faerie Macabre
+2 Force of Negation
+2 Swords to Plowshares
+1 Brazen Borrower // Petty Theft
+1 Dress Down
+1 Hydroblast
+1 Memory's Journey
+1 Null Rod
+1 Pithing Needle
+1 Prismatic Ending
+

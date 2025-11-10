@@ -1,0 +1,26 @@
+// Player: hunterdeno1
+// Place: 838
+
+4 Floodpits Drowner
+4 Lord of Atlantis
+4 Master of the Pearl Trident
+4 Mistcaller
+4 Silvergill Adept
+4 Tide Shaper
+4 Vodalian Hexcatcher
+2 Mindspring Merfolk
+4 Force of Will
+4 Sink into Stupor // Soporific Springs
+3 Daze
+4 Aether Vial
+11 Island
+4 Wasteland
+
+Sideboard
+3 Consign to Memory
+3 Force of Negation
+3 Harbinger of the Seas
+3 True-Name Nemesis
+2 Blue Elemental Blast
+1 Hydroblast
+

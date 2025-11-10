@@ -1,0 +1,49 @@
+// Player: Niklas Holtmann
+// Place: 102
+
+1 Yorion, Sky Nomad
+2 Teferi, Time Raveler
+4 Endurance
+4 Uro, Titan of Nature's Wrath
+3 Quantum Riddler
+1 Solitude
+4 Ponder
+3 Witherbloom Command
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Negation
+4 Force of Will
+4 Swords to Plowshares
+3 Rakshasa's Bargain
+2 Spell Pierce
+1 Cling to Dust
+4 Leyline Binding
+4 Up the Beanstalk
+4 Flooded Strand
+3 Misty Rainforest
+3 Polluted Delta
+3 Wasteland
+2 Ketria Triome
+2 Tropical Island
+2 Tundra
+2 Windswept Heath
+1 Bayou
+1 Hedge Maze
+1 Island
+1 Meticulous Archive
+1 Plains
+1 Savannah
+1 Scrubland
+1 Underground Sea
+
+Sideboard
+4 Carpet of Flowers
+2 Thoughtseize
+2 Wrath of the Skies
+1 Blue Elemental Blast
+1 Clarion Conqueror
+1 Flusterstorm
+1 Hydroblast
+1 Lavinia, Azorius Renegade
+1 Null Rod
+

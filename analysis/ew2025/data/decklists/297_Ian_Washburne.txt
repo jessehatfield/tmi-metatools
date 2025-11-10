@@ -1,0 +1,41 @@
+// Player: Ian Washburne
+// Place: 297
+
+1 Tezzeret, Cruel Captain
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+2 Simian Spirit Guide
+1 Chaos Defiler
+1 Phyrexian Dragon Engine
+4 Pyroblast
+2 Lightning Bolt
+2 Red Elemental Blast
+3 Grindstone
+2 Agatha's Soul Cauldron
+1 Ensnaring Bridge
+1 Lion's Eye Diamond
+1 Lotus Petal
+1 Mishra's Research Desk
+1 Mox Opal
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Urza's Saga
+3 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+8 Mountain
+4 Ancient Tomb
+2 City of Traitors
+2 Great Furnace
+1 Arena of Glory
+
+Sideboard
+3 Disruptor Flute
+3 Fury
+2 Faerie Macabre
+2 Magus of the Moon
+1 Blood Moon
+1 Null Rod
+1 Unlicensed Hearse
+1 Untimely Malfunction
+1 Void Mirror
+

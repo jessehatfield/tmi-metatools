@@ -1,0 +1,37 @@
+// Player: Michael Colonel
+// Place: 734
+
+4 Doorkeeper Thrull
+4 Phyrexian Dreadnought
+3 Nulldrifter
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Abhorrent Oculus
+4 Ponder
+4 Brainstorm
+4 Force of Will
+4 Stifle
+4 Swords to Plowshares
+3 Daze
+1 Sink into Stupor // Soporific Springs
+3 Dress Down
+4 Flooded Strand
+4 Wasteland
+2 Island
+2 Misty Rainforest
+2 Tundra
+1 Meticulous Archive
+1 Plains
+1 Prismatic Vista
+1 Scalding Tarn
+
+Sideboard
+2 Consign to Memory
+2 Faerie Macabre
+2 Harbinger of the Seas
+2 Prismatic Ending
+2 Rest in Peace
+2 Stony Silence
+1 Hydroblast
+1 Sheltered by Ghosts
+1 Wrath of the Skies
+

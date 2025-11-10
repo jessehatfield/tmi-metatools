@@ -1,0 +1,38 @@
+// Player: Beautox
+// Place: 679
+
+1 Karn, the Great Creator
+4 Dauthi Voidwalker
+4 Orcish Bowmasters
+3 Opposition Agent
+4 Beseech the Mirror
+4 Thoughtseize
+2 Hymn to Tourach
+1 Ill-Gotten Gains
+4 Dark Ritual
+3 Fell the Profane // Fell Mire
+4 Chrome Mox
+1 Helm of Obedience
+1 Pithing Needle
+1 Shadowspear
+4 Leyline of the Void
+4 Urza's Saga
+6 Swamp
+4 Vault of Whispers
+3 Ancient Tomb
+2 Urborg, Tomb of Yawgmoth
+
+Sideboard
+2 Force of Despair
+2 Long Goodbye
+2 Sheoldred's Edict
+1 Disruptor Flute
+1 Ensnaring Bridge
+1 Helm of Obedience
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Opposition Agent
+1 The One Ring
+1 Toxic Deluge
+1 Void Mirror
+

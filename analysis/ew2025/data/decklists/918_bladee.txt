@@ -1,0 +1,36 @@
+// Player: bladee
+// Place: 918
+
+4 Emry, Lurker of the Loch
+4 Painter's Servant
+3 Kappa Cannoneer
+3 Pinnacle Emissary
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Thoughtcast
+4 Force of Will
+3 Metallic Rebuke
+1 Sink into Stupor // Soporific Springs
+4 Mishra's Bauble
+3 Lotus Petal
+3 Mox Opal
+2 Grindstone
+1 Pithing Needle
+1 Shadowspear
+1 Tormod's Crypt
+1 Urza's Bauble
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+2 Island
+2 Otawara, Soaring City
+
+Sideboard
+3 Chalice of the Void
+3 Faerie Macabre
+2 Consign to Memory
+2 Disruptor Flute
+2 Force of Negation
+1 Dismember
+1 Flusterstorm
+1 Surgical Extraction
+

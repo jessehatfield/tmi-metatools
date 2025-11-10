@@ -1,0 +1,37 @@
+// Player: Alec Hale
+// Place: 125
+
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+3 Simian Spirit Guide
+1 Chaos Defiler
+1 Phyrexian Devourer
+1 Phyrexian Dragon Engine
+4 Pyroblast
+2 Lightning Bolt
+2 Red Elemental Blast
+3 Agatha's Soul Cauldron
+2 Grindstone
+1 Ensnaring Bridge
+1 Lotus Petal
+1 Mox Opal
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+8 Mountain
+4 Ancient Tomb
+2 City of Traitors
+2 Great Furnace
+1 Arena of Glory
+
+Sideboard
+3 Blood Moon
+3 Fury
+2 Disruptor Flute
+2 Faerie Macabre
+2 Untimely Malfunction
+1 Grafdigger's Cage
+1 Null Rod
+1 Pithing Needle
+

@@ -1,0 +1,39 @@
+// Player: Nandan Chebrolu
+// Place: 731
+
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+1 Chaos Defiler
+1 Phyrexian Dragon Engine
+3 Pyroblast
+3 Red Elemental Blast
+3 Swords to Plowshares
+2 Grindstone
+1 Agatha's Soul Cauldron
+1 Ensnaring Bridge
+1 Ghost Vacuum
+1 Lotus Petal
+1 Mishra's Research Desk
+1 Mox Opal
+1 Pithing Needle
+1 Portable Hole
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+5 Mountain
+4 Ancient Tomb
+4 Arid Mesa
+2 Plains
+2 Plateau
+1 Elegant Parlor
+
+Sideboard
+3 Disruptor Flute
+3 Faerie Macabre
+2 Blood Moon
+2 Damping Sphere
+2 Void Mirror
+2 Wear // Tear
+1 Ethersworn Canonist
+

@@ -1,0 +1,45 @@
+// Player: Kendal Frame
+// Place: 569
+
+1 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+3 Brazen Borrower // Petty Theft
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Sheoldred, the Apocalypse
+1 Phyrexian Metamorph
+3 Ponder
+2 Thoughtseize
+1 Echo of Eons
+4 Brainstorm
+4 Dark Ritual
+4 Force of Will
+2 Fatal Push
+1 Bitter Triumph
+1 Cling to Dust
+1 Spider-Sense
+4 The One Ring
+4 Polluted Delta
+3 Island
+2 Prismatic Vista
+2 Swamp
+2 Undercity Sewers
+2 Underground Sea
+2 Wasteland
+1 Minamo, School at Water's Edge
+1 Otawara, Soaring City
+
+Sideboard
+2 Consign to Memory
+2 Opposition Agent
+1 Barrowgoyf
+1 Cursed Totem
+1 Damnation
+1 Disruptor Flute
+1 Emrakul, the Aeons Torn
+1 Engineered Explosives
+1 Null Rod
+1 Plague Engineer
+1 Surgical Extraction
+1 Thoughtseize
+1 Wasteland
+

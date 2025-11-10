@@ -1,0 +1,39 @@
+// Player: Mcaster
+// Place: 676
+
+4 Dragon's Rage Channeler
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Ponder
+1 Chain Lightning
+1 Preordain
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+1 Surgical Extraction
+1 Unholy Heat
+4 Cori-Steel Cutter
+4 Mishra's Bauble
+4 Volcanic Island
+4 Wasteland
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+1 Island
+1 Thundering Falls
+
+Sideboard
+3 Pyroblast
+2 Consign to Memory
+2 Faerie Macabre
+2 Hydroblast
+1 Blood Moon
+1 Disruptor Flute
+1 Force of Negation
+1 Meltdown
+1 Null Rod
+1 Unlicensed Hearse
+

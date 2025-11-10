@@ -1,0 +1,35 @@
+// Player: Tim Willinger
+// Place: 576
+
+4 Guide of Souls
+4 Ocelot Pride
+4 Phelia, Exuberant Shepherd
+4 Starfield Shepherd
+4 Witch Enchanter // Witch-Blessed Meadow
+3 Exalted Sunborn
+2 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+2 Haliya, Guided by Light
+2 Mother of Runes
+2 Solitude
+4 Swords to Plowshares
+2 Ephemerate
+2 Chrome Mox
+2 Staff of the Storyteller
+2 Unlicensed Hearse
+1 Pre-War Formalwear
+7 Plains
+4 Wasteland
+3 Ancient Tomb
+2 Karakas
+1 Eiganjo, Seat of the Empire
+
+Sideboard
+3 Deafening Silence
+2 Absolute Grace
+2 Disruptor Flute
+2 Sanctifier en-Vec
+2 Solitude
+2 Wrath of the Skies
+1 Null Rod
+1 Stony Silence
+

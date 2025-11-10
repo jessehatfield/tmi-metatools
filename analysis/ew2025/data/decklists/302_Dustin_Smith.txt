@@ -1,0 +1,38 @@
+// Player: Dustin Smith
+// Place: 302
+
+4 Emry, Lurker of the Loch
+4 Painter's Servant
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Thought Monitor
+4 Thoughtcast
+3 Stock Up
+4 Force of Will
+3 Metallic Rebuke
+2 Sink into Stupor // Soporific Springs
+4 Lotus Petal
+3 Mishra's Bauble
+3 Mox Opal
+2 Grindstone
+1 Aether Spellbomb
+1 Lavaspur Boots
+1 Pithing Needle
+1 Soul-Guide Lantern
+1 Urza's Bauble
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+2 Otawara, Soaring City
+1 Snow-Covered Island
+
+Sideboard
+2 Amphibian Downpour
+2 Disruptor Flute
+2 Flusterstorm
+2 Harbinger of the Seas
+2 Hydroblast
+2 Surgical Extraction
+1 Force of Negation
+1 Hullbreacher
+1 Shadowspear
+

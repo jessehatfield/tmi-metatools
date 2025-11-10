@@ -1,0 +1,37 @@
+// Player: Louis deVirgilio
+// Place: 858
+
+4 Blighted Agent
+4 Glistener Elf
+4 Noble Hierarch
+1 Skrelv, Defector Mite
+2 Ponder
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Invigorate
+4 Legolas's Quick Reflexes
+3 Embiggen
+2 Berserk
+1 Become Immense
+1 Spell Pierce
+4 Inkmoth Nexus
+4 Tropical Island
+4 Windswept Heath
+2 Misty Rainforest
+1 Flooded Strand
+1 Hedge Maze
+1 Savannah
+1 Verdant Catacombs
+
+Sideboard
+3 Veil of Summer
+2 Force of Vigor
+2 Grafdigger's Cage
+2 Surgical Extraction
+2 Swords to Plowshares
+1 Crop Rotation
+1 Flusterstorm
+1 Pick Your Poison
+1 Talon Gates of Madara
+

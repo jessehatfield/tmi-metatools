@@ -1,0 +1,37 @@
+// Player: MrFringe89
+// Place: 499
+
+3 Karn, the Great Creator
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+2 Simian Spirit Guide
+1 Chaos Defiler
+1 Phyrexian Dragon Engine
+4 Pyroblast
+2 Red Elemental Blast
+3 Ensnaring Bridge
+2 Grindstone
+2 Lotus Petal
+1 Soul-Guide Lantern
+4 Urza's Saga
+3 Blood Moon
+3 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+7 Mountain
+4 Ancient Tomb
+3 City of Traitors
+2 Great Furnace
+1 Arena of Glory
+
+Sideboard
+2 Abrade
+2 Disruptor Flute
+2 Faerie Macabre
+2 Fury
+2 Magus of the Moon
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Pithing Needle
+1 Tormod's Crypt
+

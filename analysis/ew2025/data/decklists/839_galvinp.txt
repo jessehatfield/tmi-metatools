@@ -1,0 +1,41 @@
+// Player: galvinp
+// Place: 839
+
+1 Teferi, Time Raveler
+4 Cephalid Illusionist
+4 Nomads en-Kor
+3 Nadu, Winged Wisdom
+2 Narcomoeba
+2 Voice of Victory
+1 Thassa's Oracle
+4 Ponder
+1 Dread Return
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+1 Memory's Journey
+2 Shuko
+2 Urza's Saga
+4 Flooded Strand
+3 Misty Rainforest
+3 Tundra
+2 Tropical Island
+1 Cavern of Souls
+1 Island
+1 Lush Portico
+1 Meticulous Archive
+1 Plains
+
+Sideboard
+3 Consign to Memory
+2 Brazen Borrower // Petty Theft
+2 Collector Ouphe
+2 Faerie Macabre
+2 Prismatic Ending
+1 Disruptor Flute
+1 Force of Negation
+1 Pithing Needle
+1 Teferi, Time Raveler
+

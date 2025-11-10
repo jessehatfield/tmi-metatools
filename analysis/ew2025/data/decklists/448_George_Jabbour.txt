@@ -1,0 +1,34 @@
+// Player: George Jabbour
+// Place: 448
+
+4 Atraxa, Grand Unifier
+4 Emrakul, the Aeons Torn
+2 Simian Spirit Guide
+4 Show and Tell
+4 Stock Up
+4 Force of Will
+4 Chalice of the Void
+4 Lotus Petal
+4 The One Ring
+4 Sneak Attack
+2 Omniscience
+4 Ancient Tomb
+4 Scalding Tarn
+3 City of Traitors
+2 Island
+2 Thundering Falls
+2 Volcanic Island
+1 Flooded Strand
+1 Misty Rainforest
+1 Mountain
+
+Sideboard
+2 Blood Moon
+2 Blue Elemental Blast
+2 Defense Grid
+2 Faerie Macabre
+2 Magus of the Moon
+2 Null Rod
+2 Red Elemental Blast
+1 Disruptor Flute
+

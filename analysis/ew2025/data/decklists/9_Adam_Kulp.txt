@@ -1,0 +1,30 @@
+// Player: Adam Kulp
+// Place: 9
+
+4 Archon of Cruelty
+4 Griselbrand
+4 Cabal Therapy
+4 Faithless Looting
+4 Reanimate
+4 Unmask
+4 Dark Ritual
+4 Entomb
+4 Shallow Grave
+4 Lotus Petal
+4 Animate Dead
+4 Bloodstained Mire
+4 Verdant Catacombs
+2 Badlands
+2 Swamp
+1 Marsh Flats
+1 Raucous Theater
+1 Undercity Sewers
+1 Underground Sea
+
+Sideboard
+4 Dauthi Voidwalker
+4 Show and Tell
+3 Thoughtseize
+2 Meltdown
+2 Null Rod
+

@@ -1,0 +1,40 @@
+// Player: peterkirk1
+// Place: 327
+
+2 Uro, Titan of Nature's Wrath
+1 Atraxa, Grand Unifier
+1 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+2 Lórien Revealed
+2 Preordain
+4 Brainstorm
+4 Force of Will
+3 Veil of Summer
+2 Cunning Wish
+2 Spell Pierce
+2 Lotus Petal
+4 Omniscience
+4 Ancient Tomb
+4 Island
+4 Misty Rainforest
+2 Flooded Strand
+2 Prismatic Vista
+1 Forest
+1 Hedge Maze
+1 Tropical Island
+
+Sideboard
+2 Carpet of Flowers
+2 Consign to Memory
+2 Soul-Guide Lantern
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Commandeer
+1 Force of Negation
+1 Into the Story
+1 Mistrise Village
+1 Shared Summons
+1 Sublime Epiphany
+1 Veil of Summer
+

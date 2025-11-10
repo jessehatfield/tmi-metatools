@@ -1,0 +1,38 @@
+// Player: Kieran MacDuff
+// Place: 28
+
+4 Atraxa, Grand Unifier
+3 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+4 Brainstorm
+4 Force of Will
+3 Veil of Summer
+2 Spell Pierce
+4 Lotus Petal
+4 Sneak Attack
+1 Omniscience
+4 Scalding Tarn
+3 Ancient Tomb
+2 City of Traitors
+2 Polluted Delta
+2 Tropical Island
+2 Volcanic Island
+1 Island
+1 Mistrise Village
+1 Mountain
+1 Otawara, Soaring City
+
+Sideboard
+2 Carpet of Flowers
+2 Consign to Memory
+2 Faerie Macabre
+2 Grafdigger's Cage
+2 Magus of the Moon
+1 Brotherhood's End
+1 Fiery Confluence
+1 Force of Negation
+1 Mistrise Village
+1 Pyroblast
+

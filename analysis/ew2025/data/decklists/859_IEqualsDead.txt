@@ -1,0 +1,45 @@
+// Player: IEqualsDead
+// Place: 859
+
+1 Endurance
+4 Life from the Loam
+4 Malevolent Rumble
+4 Crop Rotation
+4 Mox Diamond
+2 Disruptor Flute
+1 Expedition Map
+1 Lavaspur Boots
+1 Pithing Needle
+1 Shadowspear
+1 Soul-Guide Lantern
+4 Exploration
+4 Urza's Saga
+4 Wasteland
+3 Boseiju, Who Endures
+3 Maze of Ith
+3 Thespian's Stage
+2 Dark Depths
+1 Blast Zone
+1 Bojuka Bog
+1 Field of the Dead
+1 Forest
+1 Ghost Quarter
+1 Karakas
+1 Lush Portico
+1 Savannah
+1 Talon Gates of Madara
+1 The Tabernacle at Pendrell Vale
+1 Tranquil Thicket
+1 Windswept Heath
+1 Yavimaya, Cradle of Growth
+
+Sideboard
+4 Swords to Plowshares
+3 Endurance
+3 Force of Vigor
+1 Ghost Vacuum
+1 Glacial Chasm
+1 Grafdigger's Cage
+1 Pithing Needle
+1 Plains
+

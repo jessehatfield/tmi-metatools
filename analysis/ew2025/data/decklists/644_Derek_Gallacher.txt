@@ -1,0 +1,40 @@
+// Player: Derek Gallacher
+// Place: 644
+
+3 Liliana of the Veil
+4 Opposition Agent
+3 Maralen of the Mornsong
+2 Witherbloom Apprentice
+1 Ramunap Excavator
+4 Thoughtseize
+3 Scheming Symmetry
+2 Cabal Therapy
+2 Chain of Smog
+2 Life from the Loam
+2 Unmask
+4 Assassin's Trophy
+4 Dark Ritual
+2 Abrupt Decay
+1 Wishclaw Talisman
+4 Bayou
+4 Verdant Catacombs
+4 Wasteland
+3 Ghost Quarter
+2 Swamp
+1 Bloodstained Mire
+1 Boseiju, Who Endures
+1 Forest
+1 Phyrexian Tower
+
+Sideboard
+4 Leyline of the Void
+2 Null Rod
+2 Veil of Summer
+1 Boseiju, Who Endures
+1 Choke
+1 Deadly Brew
+1 Force of Vigor
+1 Helm of Obedience
+1 Pernicious Deed
+1 Witherbloom Command
+

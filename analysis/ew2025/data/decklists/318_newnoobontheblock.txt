@@ -1,0 +1,42 @@
+// Player: newnoobontheblock
+// Place: 318
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Orcish Bowmasters
+3 Street Wraith
+1 Thassa's Oracle
+4 Doomsday
+4 Ponder
+1 Cabal Therapy
+1 Edge of Autumn
+1 Reanimate
+1 Thoughtseize
+4 Brainstorm
+4 Dark Ritual
+4 Force of Will
+3 Daze
+1 Consider
+1 Flusterstorm
+1 Predict
+3 Lotus Petal
+1 Lion's Eye Diamond
+4 Misty Rainforest
+4 Underground Sea
+2 Polluted Delta
+2 Scalding Tarn
+1 Cavern of Souls
+1 Island
+1 Undercity Sewers
+
+Sideboard
+2 Consign to Memory
+2 Dauthi Voidwalker
+2 Fatal Push
+2 Flusterstorm
+2 Sedgemoor Witch
+1 Brazen Borrower // Petty Theft
+1 Dread of Night
+1 Duress
+1 Force of Negation
+1 Jace, Wielder of Mysteries
+

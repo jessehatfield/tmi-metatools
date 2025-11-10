@@ -1,0 +1,38 @@
+// Player: Will Hargett
+// Place: 359
+
+2 Minsc & Boo, Timeless Heroes
+4 Brazen Borrower // Petty Theft
+4 Elvish Spirit Guide
+4 Shardless Agent
+3 Simian Spirit Guide
+2 Endurance
+3 Crashing Footfalls
+3 Lórien Revealed
+4 Fire // Ice
+4 Force of Will
+4 Violent Outburst
+2 Force of Negation
+1 Dismember
+1 Mystical Dispute
+4 Misty Rainforest
+4 Wasteland
+2 Tropical Island
+2 Wooded Foothills
+1 Forest
+1 Hedge Maze
+1 Island
+1 Scalding Tarn
+1 Taiga
+1 Thundering Falls
+1 Volcanic Island
+
+Sideboard
+3 Force of Vigor
+3 Mystical Dispute
+2 Blood Moon
+2 Brotherhood's End
+2 Force of Negation
+2 Inevitable Betrayal
+1 Fury
+

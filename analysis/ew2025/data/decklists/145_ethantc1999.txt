@@ -1,0 +1,40 @@
+// Player: ethantc1999
+// Place: 145
+
+4 Nulldrifter
+3 Phyrexian Dreadnought
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Curie, Emergent Intelligence
+1 Brazen Borrower // Petty Theft
+3 Stock Up
+1 Ponder
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+1 Consign to Memory
+3 Torpor Orb
+1 Ghost Vacuum
+1 Lotus Petal
+1 Pithing Needle
+4 Dress Down
+2 Urza's Saga
+4 Flooded Strand
+4 Tundra
+3 Ancient Tomb
+2 Island
+2 Polluted Delta
+1 Meticulous Archive
+1 Misty Rainforest
+1 Otawara, Soaring City
+
+Sideboard
+3 Clarion Conqueror
+3 Consign to Memory
+2 Hydroblast
+2 Prismatic Ending
+1 Disruptor Flute
+1 Force of Negation
+1 Grafdigger's Cage
+1 Rest in Peace
+1 Wrath of the Skies
+

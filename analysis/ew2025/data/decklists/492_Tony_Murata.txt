@@ -1,0 +1,37 @@
+// Player: Tony Murata
+// Place: 492
+
+4 Elvish Reclaimer
+4 Endurance
+3 Primeval Titan
+1 Emrakul, the Aeons Torn
+1 Ulamog, the Ceaseless Hunger
+4 Green Sun's Zenith
+4 Crop Rotation
+4 Once Upon a Time
+4 Pithing Needle
+4 The One Ring
+4 Cloudpost
+4 Forest
+4 Glimmerpost
+2 Boseiju, Who Endures
+2 Vesuva
+2 Yavimaya, Cradle of Growth
+1 Bojuka Bog
+1 Cavern of Souls
+1 Dark Depths
+1 Echoing Deeps
+1 Eye of Ugin
+1 Glacial Chasm
+1 Karakas
+1 The Tabernacle at Pendrell Vale
+1 Thespian's Stage
+
+Sideboard
+4 Dismember
+4 Force of Vigor
+2 Carpet of Flowers
+2 Faerie Macabre
+2 Veil of Summer
+1 Collector Ouphe
+

@@ -1,0 +1,45 @@
+// Player: Colron Chambers
+// Place: 619
+
+4 Karn, the Great Creator
+4 Dauthi Voidwalker
+4 Metamorphosis Fanatic
+4 Overlord of the Balemurk
+4 Street Wraith
+4 Valgavoth, Terror Eater
+2 Sheoldred, the Apocalypse
+1 Mutated Cultist
+1 Symbiote Spider-Man
+1 Reanimate
+4 Dark Ritual
+3 Helm of Obedience
+2 The One Ring
+1 Chrome Mox
+1 Crucible of Worlds
+1 Palantír of Orthanc
+1 Animate Dead
+5 Swamp
+4 City of Traitors
+3 Ancient Tomb
+1 Cabal Pit
+1 Dark Depths
+1 Eumidian Hatchery
+1 Ifnir Deadlands
+1 Karakas
+1 Silent Clearing
+1 Urborg, Tomb of Yawgmoth
+
+Sideboard
+3 Plague Engineer
+2 Opposition Agent
+1 Cursed Totem
+1 Helm of Obedience
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Pithing Needle
+1 Sarevok's Tome
+1 Sphere of Annihilation
+1 The Meathook Massacre
+1 To the Slaughter
+1 Yggdrasil, Rebirth Engine
+

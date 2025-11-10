@@ -1,0 +1,45 @@
+// Player: morsaa
+// Place: 346
+
+2 Teferi, Time Raveler
+1 Narset, Parter of Veils
+3 Phelia, Exuberant Shepherd
+3 Quantum Riddler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Containment Priest
+1 Gilded Drake
+3 Ponder
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+1 Force of Negation
+1 Minor Misstep
+3 Dress Down
+1 Back to Basics
+4 Flooded Strand
+4 Island
+4 Prismatic Vista
+3 Tundra
+2 Plains
+1 Karakas
+1 Meticulous Archive
+1 Polluted Delta
+1 Scalding Tarn
+
+Sideboard
+2 Celestial Purge
+2 Hydroblast
+1 Clarion Conqueror
+1 Consign to Memory
+1 Disruptor Flute
+1 Faerie Macabre
+1 Hullbreacher
+1 Null Rod
+1 Prismatic Ending
+1 Rest in Peace
+1 Sanctifier en-Vec
+1 Surgical Extraction
+1 Wrath of the Skies
+

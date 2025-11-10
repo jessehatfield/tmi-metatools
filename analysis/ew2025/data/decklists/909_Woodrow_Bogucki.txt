@@ -1,0 +1,38 @@
+// Player: Woodrow Bogucki
+// Place: 909
+
+2 Kaito, Bane of Nightmares
+4 Delver of Secrets // Insectile Aberration
+4 Dragon's Rage Channeler
+4 Orcish Bowmasters
+2 Murktide Regent
+1 Brazen Borrower // Petty Theft
+4 Ponder
+2 Molten Collapse
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+2 Nihil Spellbomb
+4 Misty Rainforest
+4 Wasteland
+3 Scalding Tarn
+3 Underground Sea
+3 Volcanic Island
+1 Island
+1 Thundering Falls
+
+Sideboard
+2 Consign to Memory
+2 Price of Progress
+2 Pyroblast
+1 Blue Elemental Blast
+1 Force of Negation
+1 Meltdown
+1 Null Rod
+1 Red Elemental Blast
+1 Stock Up
+1 Surgical Extraction
+1 Toxic Deluge
+1 Twisted Image
+

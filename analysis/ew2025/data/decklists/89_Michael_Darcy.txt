@@ -1,0 +1,37 @@
+// Player: Michael Darcy
+// Place: 89
+
+4 Dragon's Rage Channeler
+3 Murktide Regent
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Brazen Borrower // Petty Theft
+4 Ponder
+1 Chain Lightning
+1 Preordain
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+1 Force of Negation
+1 Unholy Heat
+4 Cori-Steel Cutter
+4 Mishra's Bauble
+4 Volcanic Island
+4 Wasteland
+3 Flooded Strand
+3 Scalding Tarn
+1 Island
+1 Misty Rainforest
+1 Polluted Delta
+1 Thundering Falls
+
+Sideboard
+3 Consign to Memory
+3 Pyroblast
+2 Force of Negation
+2 Meltdown
+2 Price of Progress
+1 Grafdigger's Cage
+1 Null Rod
+1 Surgical Extraction
+

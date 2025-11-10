@@ -1,0 +1,41 @@
+// Player: Christopher Watson
+// Place: 300
+
+4 Broadside Bombardiers
+4 Goblin Lackey
+4 Goblin Matron
+3 Battle Cry Goblin
+3 Munitions Expert
+2 Howlsquad Heavy
+2 Rundvelt Hordemaster
+2 Skirk Prospector
+2 Sling-Gang Lieutenant
+1 Boggart Trawler // Boggart Bog
+1 Goblin Cratermaker
+1 Goblin Ringleader
+1 Impulsive Pilferer
+1 Muxus, Goblin Grandee
+1 Pashalik Mons
+1 Stingscourger
+2 Lightning Bolt
+2 Unlicensed Hearse
+4 Ancient Tomb
+4 Cavern of Souls
+4 Wasteland
+3 Bloodstained Mire
+3 Mountain
+2 Badlands
+2 Scalding Tarn
+1 Raucous Theater
+
+Sideboard
+4 Leyline of the Void
+2 Chalice of the Void
+2 Disruptor Flute
+2 Red Elemental Blast
+1 Fury
+1 Goblin Trashmaster
+1 Null Rod
+1 Pyrokinesis
+1 Void Mirror
+

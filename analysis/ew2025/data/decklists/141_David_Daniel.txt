@@ -1,0 +1,35 @@
+// Player: David Daniel
+// Place: 141
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Amped Raptor
+4 Guide of Souls
+4 Ocelot Pride
+4 Orcish Bowmasters
+4 Voice of Victory
+4 Thoughtseize
+3 Cabal Therapy
+4 Swords to Plowshares
+2 Goblin Bombardment
+4 Marsh Flats
+4 Wasteland
+3 Arid Mesa
+3 Bloodstained Mire
+2 Karakas
+2 Scrubland
+1 Badlands
+1 Elegant Parlor
+1 Plains
+1 Plateau
+1 Swamp
+
+Sideboard
+2 Clarion Conqueror
+2 Faerie Macabre
+2 Null Rod
+2 Prismatic Ending
+2 Red Elemental Blast
+2 Surgical Extraction
+2 Wear // Tear
+1 Grafdigger's Cage
+

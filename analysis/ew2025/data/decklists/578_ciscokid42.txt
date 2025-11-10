@@ -1,0 +1,38 @@
+// Player: ciscokid42
+// Place: 578
+
+4 Ignoble Hierarch
+4 Keen-Eyed Curator
+4 Noble Hierarch
+4 Wight of the Reliquary
+3 Elvish Reclaimer
+2 Sylvan Safekeeper
+1 Atraxa, Grand Unifier
+1 Dryad Arbor
+4 Green Sun's Zenith
+4 Thoughtseize
+3 Natural Order
+3 Once Upon a Time
+2 Snuff Out
+3 Gaea's Cradle
+3 Misty Rainforest
+3 Verdant Catacombs
+2 Bayou
+2 Forest
+2 Windswept Heath
+2 Wooded Foothills
+1 Bojuka Bog
+1 Lair of the Hydra
+1 Talon Gates of Madara
+1 Wasteland
+
+Sideboard
+4 Endurance
+3 Pithing Needle
+2 Duress
+2 Snuff Out
+1 Collector Ouphe
+1 Faerie Macabre
+1 Gaddock Teeg
+1 Wasteland
+

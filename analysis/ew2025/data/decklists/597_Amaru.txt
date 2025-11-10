@@ -1,0 +1,38 @@
+// Player: Amaru
+// Place: 597
+
+2 Teferi, Time Raveler
+4 Quantum Riddler
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Murktide Regent
+4 Ponder
+2 Lórien Revealed
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Spell Pierce
+1 Force of Negation
+4 Up the Beanstalk
+1 Dress Down
+4 Flooded Strand
+4 Misty Rainforest
+2 Island
+2 Plains
+2 Tropical Island
+2 Tundra
+1 Hedge Maze
+1 Meticulous Archive
+1 Mystic Sanctuary
+1 Savannah
+
+Sideboard
+2 Consign to Memory
+2 Containment Priest
+2 Faerie Macabre
+2 Harbinger of the Seas
+2 Lavinia, Azorius Renegade
+2 Meddling Mage
+2 Wrath of the Skies
+1 Null Rod
+

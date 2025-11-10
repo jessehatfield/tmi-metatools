@@ -1,0 +1,33 @@
+// Player: James Lugo
+// Place: 557
+
+4 Karn, the Great Creator
+4 Dauthi Voidwalker
+4 Orcish Bowmasters
+3 Barrowgoyf
+1 Sheoldred, the Apocalypse
+4 Hymn to Tourach
+4 Thoughtseize
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+4 Chrome Mox
+3 Helm of Obedience
+3 The One Ring
+4 Leyline of the Void
+6 Swamp
+4 Ancient Tomb
+2 City of Traitors
+1 Takenuma, Abandoned Mire
+1 Urborg, Tomb of Yawgmoth
+
+Sideboard
+3 Opposition Agent
+2 Disruptor Flute
+2 Sheoldred's Edict
+2 Toxic Deluge
+2 Void Mirror
+1 Ensnaring Bridge
+1 Helm of Obedience
+1 Liquimetal Coating
+1 Mycosynth Lattice
+

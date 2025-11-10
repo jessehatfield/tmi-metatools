@@ -1,0 +1,41 @@
+// Player: Michael Wood
+// Place: 507
+
+4 Cephalid Illusionist
+4 Nadu, Winged Wisdom
+4 Nomads en-Kor
+2 Narcomoeba
+1 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Thassa's Oracle
+4 Ponder
+1 Dread Return
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Daze
+1 Memory's Journey
+2 Shuko
+1 Ghost Vacuum
+3 Urza's Saga
+4 Flooded Strand
+3 Misty Rainforest
+2 Island
+2 Tropical Island
+2 Tundra
+1 Cavern of Souls
+1 Hedge Maze
+1 Meticulous Archive
+1 Plains
+
+Sideboard
+3 Faerie Macabre
+2 Blue Elemental Blast
+2 Orim's Chant
+2 Prismatic Ending
+2 Surgical Extraction
+1 Cavern of Souls
+1 Flusterstorm
+1 Hydroblast
+1 Pithing Needle
+

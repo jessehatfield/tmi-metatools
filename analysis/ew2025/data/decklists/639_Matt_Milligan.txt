@@ -1,0 +1,42 @@
+// Player: Matt Milligan
+// Place: 639
+
+2 Comet, Stellar Pup
+1 Teferi, Time Raveler
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Snapcaster Mage
+2 Murktide Regent
+2 Thundertrap Trainer
+4 Ponder
+1 Forth Eorlingas!
+4 Brainstorm
+4 Flame of Anor
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+2 Cori-Steel Cutter
+2 Back to Basics
+4 Island
+3 Flooded Strand
+2 Mountain
+2 Plains
+2 Prismatic Vista
+2 Scalding Tarn
+2 Volcanic Island
+1 Karakas
+1 Mistrise Village
+1 Tundra
+
+Sideboard
+2 Consign to Memory
+2 Pyroblast
+2 Rest in Peace
+2 Surgical Extraction
+1 Containment Priest
+1 Council's Judgment
+1 Jace, the Mind Sculptor
+1 Lightning Helix
+1 Supreme Verdict
+1 Teferi, Time Raveler
+1 Triumph of Saint Katherine
+

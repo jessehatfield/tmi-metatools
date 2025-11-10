@@ -237,8 +237,10 @@ def getCardStats(tournaments, outputs, top=None, versus=None):
     stats = []
     for key in outputs:
         if key in functions:
+            if top and key in {'mwp', 'record', 'mwpWithout', 'recordWithout', 'mwpVersus', 'recordVersus', 'matches', 'place', 'percentile'}:
+                continue
             stats.append((key, functions[key]))
-    if versus:
+    if versus and not top:
         for card_name in versus:
             stats.append((f'record_vs_{card_name}', getRecord_cardvscard(decks, card_name)))
             stats.append((f'mwp_vs_{card_name}', getMWP_cardvscard(decks, card_name)))
@@ -666,9 +668,7 @@ def getCardInfo(tournies, outputs, top, multitop=[], cards=[]):
     n_decks = 0
     for t in tournies:
         maxplace = max([d.place for d in t.decks])
-        if multitop:
-            maxplace = max(multitop)
-        elif top:
+        if top:
             maxplace = top
         for d in t.decks:
             if d.place <= maxplace:

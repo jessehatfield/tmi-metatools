@@ -1,0 +1,38 @@
+// Player: AParkerK
+// Place: 620
+
+4 Guide of Souls
+4 Ocelot Pride
+4 Phelia, Exuberant Shepherd
+3 Mockingbird
+3 Quantum Riddler
+3 Starfield Shepherd
+1 Brazen Borrower // Petty Theft
+1 Harbinger of the Seas
+1 Mistcaller
+1 Spider-Woman, Stunning Savior
+1 Prismatic Ending
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+2 Stifle
+1 Sink into Stupor // Soporific Springs
+4 Flooded Strand
+4 Prismatic Vista
+4 Wasteland
+3 Plains
+2 Hallowed Fountain
+2 Meticulous Archive
+1 Island
+1 Karakas
+
+Sideboard
+3 Consign to Memory
+2 Disruptor Flute
+2 Faerie Macabre
+2 Force of Negation
+2 Surgical Extraction
+2 Wrath of the Skies
+1 Rest in Peace
+1 Spell Pierce
+

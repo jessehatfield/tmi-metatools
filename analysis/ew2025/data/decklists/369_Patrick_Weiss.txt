@@ -1,0 +1,35 @@
+// Player: Patrick Weiss
+// Place: 369
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Orcish Bowmasters
+2 Murktide Regent
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Reanimate
+4 Thoughtseize
+4 Brainstorm
+4 Daze
+4 Entomb
+4 Force of Will
+1 Animate Dead
+4 Polluted Delta
+4 Underground Sea
+3 Wasteland
+2 Island
+2 Undercity Sewers
+2 Verdant Catacombs
+1 Bloodstained Mire
+1 Misty Rainforest
+1 Swamp
+
+Sideboard
+3 Brazen Borrower // Petty Theft
+3 Consign to Memory
+2 Barrowgoyf
+2 Dauthi Voidwalker
+2 Fatal Push
+2 Sheoldred's Edict
+1 Long Goodbye
+

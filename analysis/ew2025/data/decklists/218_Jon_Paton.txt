@@ -1,0 +1,28 @@
+// Player: Jon Paton
+// Place: 218
+
+4 Broadside Bombardiers
+4 Carnage Interpreter
+4 Fury
+4 Magus of the Moon
+4 Simian Spirit Guide
+4 Stingerback Terror
+4 Sundering Eruption // Volcanic Fissure
+2 Shatterskull Smashing // Shatterskull, the Hammer Pass
+4 Chalice of the Void
+4 Chrome Mox
+1 Lavaspur Boots
+1 Pithing Needle
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+2 Blood Moon
+4 Ancient Tomb
+4 City of Traitors
+2 Mountain
+
+Sideboard
+4 Cut Propulsion
+4 Disruptor Flute
+4 Leyline of the Void
+3 Fiery Confluence
+

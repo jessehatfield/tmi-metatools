@@ -1,0 +1,37 @@
+// Player: MTGXiphos
+// Place: 718
+
+4 Emry, Lurker of the Loch
+4 Patchwork Automaton
+2 Kappa Cannoneer
+2 Memory Guardian
+1 Thought Monitor
+4 Thoughtcast
+4 Force of Will
+2 Metallic Rebuke
+1 Sink into Stupor // Soporific Springs
+4 Lotus Petal
+4 Mishra's Bauble
+4 Mox Opal
+3 Chalice of the Void
+2 Urza's Bauble
+1 Aether Spellbomb
+1 Lavaspur Boots
+1 Shadowspear
+1 Soul-Guide Lantern
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+2 Otawara, Soaring City
+1 Island
+
+Sideboard
+3 Consign to Memory
+2 Dismember
+2 Disruptor Flute
+2 Faerie Macabre
+2 Force of Negation
+2 Hydroblast
+1 Grafdigger's Cage
+1 Pithing Needle
+

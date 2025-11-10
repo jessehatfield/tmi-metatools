@@ -1,0 +1,36 @@
+// Player: Zachary Maddox
+// Place: 789
+
+1 Dovin, Hand of Control
+4 Chancellor of the Annex
+4 Ingenious Smith
+4 Lodestone Golem
+4 Solitude
+4 Witch Enchanter // Witch-Blessed Meadow
+2 Phyrexian Metamorph
+4 Chrome Mox
+4 Lotus Petal
+4 Sphere of Resistance
+1 Mox Opal
+1 Shadowspear
+1 Soul-Guide Lantern
+4 Urza's Saga
+3 Touch the Spirit Realm
+2 The Restoration of Eiganjo // Architect of Restoration
+4 Ancient Tomb
+4 Wasteland
+3 Plains
+1 City of Traitors
+1 Karakas
+
+Sideboard
+3 Faerie Macabre
+2 Crucible of Worlds
+2 Loran of the Third Path
+2 Mana Tithe
+2 Thorn of Amethyst
+1 Disruptor Flute
+1 Expedition Map
+1 Pithing Needle
+1 Tormod's Crypt
+

@@ -1,0 +1,31 @@
+// Player: MatthewB3
+// Place: 37
+
+4 Broadside Bombardiers
+4 Fury
+4 Magus of the Moon
+4 Pyrogoyf
+4 Simian Spirit Guide
+4 Sundering Eruption // Volcanic Fissure
+2 Shatterskull Smashing // Shatterskull, the Hammer Pass
+4 Chrome Mox
+4 The One Ring
+3 Chalice of the Void
+1 Lavaspur Boots
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+3 Blood Moon
+4 Ancient Tomb
+4 City of Traitors
+2 Mountain
+
+Sideboard
+3 Disruptor Flute
+3 Fiery Confluence
+3 Leyline of the Void
+2 Faerie Macabre
+2 Pyroblast
+1 Pithing Needle
+1 Shadowspear
+

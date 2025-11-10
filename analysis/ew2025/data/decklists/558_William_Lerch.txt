@@ -1,0 +1,44 @@
+// Player: William Lerch
+// Place: 558
+
+3 Emrakul, the Aeons Torn
+2 Atraxa, Grand Unifier
+1 Brazen Borrower // Petty Theft
+4 Ponder
+4 Show and Tell
+4 Stock Up
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Veil of Summer
+2 Cunning Wish
+1 Sink into Stupor // Soporific Springs
+1 Spell Pierce
+4 Lotus Petal
+4 Omniscience
+3 Ancient Tomb
+3 Misty Rainforest
+2 Flooded Strand
+2 Island
+2 Scalding Tarn
+2 Tropical Island
+1 Forest
+1 Hedge Maze
+1 Mistrise Village
+1 Mystic Sanctuary
+
+Sideboard
+2 Consign to Memory
+2 Faerie Macabre
+1 Auroral Procession
+1 Carpet of Flowers
+1 Dress Down
+1 Flusterstorm
+1 Force of Negation
+1 Hydroblast
+1 Null Rod
+1 Shared Summons
+1 Sublime Epiphany
+1 Surgical Extraction
+1 Uro, Titan of Nature's Wrath
+

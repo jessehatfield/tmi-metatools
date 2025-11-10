@@ -1,0 +1,47 @@
+// Player: Thomas Genzman
+// Place: 62
+
+2 Kaito, Bane of Nightmares
+1 Narset, Parter of Veils
+4 Orcish Bowmasters
+2 Baleful Strix
+1 Barrowgoyf
+1 Brazen Borrower // Petty Theft
+1 Murktide Regent
+1 Snapcaster Mage
+1 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Ponder
+2 Thoughtseize
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+4 Lightning Bolt
+2 Kolaghan's Command
+2 Sheoldred's Edict
+1 Cling to Dust
+1 Drown in the Loch
+1 Fatal Push
+1 Nihil Spellbomb
+4 Polluted Delta
+3 Scalding Tarn
+2 Bloodstained Mire
+2 Island
+2 Swamp
+1 Badlands
+1 Mountain
+1 Raucous Theater
+1 Undercity Sewers
+1 Underground Sea
+1 Volcanic Island
+
+Sideboard
+3 Pyroblast
+2 Consign to Memory
+2 Meltdown
+2 Price of Progress
+2 Surgical Extraction
+1 Flusterstorm
+1 Opposition Agent
+1 Thoughtseize
+1 Toxic Deluge
+

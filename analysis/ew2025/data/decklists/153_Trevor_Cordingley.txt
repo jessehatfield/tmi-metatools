@@ -1,0 +1,28 @@
+// Player: Trevor Cordingley
+// Place: 153
+
+4 Broadside Bombardiers
+4 Fury
+4 Pyrogoyf
+4 Simian Spirit Guide
+3 Magus of the Moon
+4 Shatterskull Smashing // Shatterskull, the Hammer Pass
+4 Sundering Eruption // Volcanic Fissure
+4 Chalice of the Void
+4 Chrome Mox
+4 The One Ring
+2 Unlicensed Hearse
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+3 Blood Moon
+4 Ancient Tomb
+4 City of Traitors
+4 Mountain
+
+Sideboard
+4 Leyline of the Void
+3 Disruptor Flute
+3 Fiery Confluence
+3 Null Rod
+1 Damping Sphere
+1 Unlicensed Hearse
+

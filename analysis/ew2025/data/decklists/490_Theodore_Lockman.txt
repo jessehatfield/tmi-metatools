@@ -1,0 +1,37 @@
+// Player: Theodore Lockman
+// Place: 490
+
+4 Dragon's Rage Channeler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+4 Ponder
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+2 Surgical Extraction
+1 Unholy Heat
+4 Cori-Steel Cutter
+4 Mishra's Bauble
+4 Volcanic Island
+4 Wasteland
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+1 Island
+1 Thundering Falls
+
+Sideboard
+3 Pyroblast
+2 Consign to Memory
+2 Grafdigger's Cage
+2 Hydroblast
+1 Abrade
+1 Blood Moon
+1 Force of Negation
+1 Meltdown
+1 Null Rod
+1 Unholy Heat
+

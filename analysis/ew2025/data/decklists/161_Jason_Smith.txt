@@ -1,0 +1,43 @@
+// Player: Jason Smith
+// Place: 161
+
+1 Grist, the Hunger Tide
+4 Ignoble Hierarch
+4 Noble Hierarch
+4 Wight of the Reliquary
+3 Elvish Reclaimer
+3 Keen-Eyed Curator
+2 Sylvan Safekeeper
+1 Atraxa, Grand Unifier
+1 Collector Ouphe
+1 Dryad Arbor
+1 Elvish Spirit Guide
+1 Endurance
+4 Green Sun's Zenith
+3 Natural Order
+3 Thoughtseize
+3 Once Upon a Time
+3 Gaea's Cradle
+3 Windswept Heath
+2 Bayou
+2 Forest
+2 Misty Rainforest
+2 Wooded Foothills
+1 Bojuka Bog
+1 Lair of the Hydra
+1 Talon Gates of Madara
+1 Underground Mortuary
+1 Wasteland
+2 Verdant Catacomb
+
+Sideboard
+4 Snuff Out
+3 Endurance
+2 Pithing Needle
+1 Dread of Night
+1 Duress
+1 Force of Vigor
+1 Gaddock Teeg
+1 Thoughtseize
+1 Wasteland
+

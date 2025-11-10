@@ -1,0 +1,38 @@
+// Player: Jacob Kolessar
+// Place: 13
+
+4 Ignoble Hierarch
+4 Noble Hierarch
+4 Wight of the Reliquary
+3 Elvish Reclaimer
+3 Keen-Eyed Curator
+2 Sylvan Safekeeper
+1 Atraxa, Grand Unifier
+1 Collector Ouphe
+1 Dryad Arbor
+4 Green Sun's Zenith
+4 Thoughtseize
+3 Natural Order
+3 Once Upon a Time
+2 Snuff Out
+3 Verdant Catacombs
+3 Windswept Heath
+2 Bayou
+2 Forest
+2 Gaea's Cradle
+2 Misty Rainforest
+2 Wasteland
+2 Wooded Foothills
+1 Bojuka Bog
+1 Lair of the Hydra
+1 Talon Gates of Madara
+
+Sideboard
+4 Duress
+4 Pithing Needle
+2 Endurance
+2 Wasteland
+1 Crop Rotation
+1 Gaddock Teeg
+1 Snuff Out
+

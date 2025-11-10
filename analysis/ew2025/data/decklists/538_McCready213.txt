@@ -1,0 +1,42 @@
+// Player: McCready213
+// Place: 538
+
+1 Teferi, Time Raveler
+4 Nadu, Winged Wisdom
+4 Nomads en-Kor
+3 Delighted Halfling
+2 Genemorph Imago
+1 Dryad Arbor
+1 Endurance
+1 Keen-Eyed Curator
+1 Noble Hierarch
+1 Sylvan Safekeeper
+4 Green Sun's Zenith
+4 Ponder
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+1 Agatha's Soul Cauldron
+4 Misty Rainforest
+4 Windswept Heath
+2 Flooded Strand
+2 Tropical Island
+2 Tundra
+1 Forest
+1 Hedge Maze
+1 Island
+1 Karakas
+1 Plains
+1 Savannah
+
+Sideboard
+2 Carpet of Flowers
+2 Consign to Memory
+2 Faerie Macabre
+2 Force of Vigor
+2 Prismatic Ending
+2 Veil of Summer
+1 Collector Ouphe
+1 Gaddock Teeg
+1 Teferi, Time Raveler
+

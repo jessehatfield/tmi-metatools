@@ -1,0 +1,35 @@
+// Player: Chris Neuteboom
+// Place: 299
+
+4 Allosaurus Shepherd
+4 Elvish Visionary
+4 Nettle Sentinel
+4 Wirewood Symbiote
+3 Heritage Druid
+3 Quirion Ranger
+2 Birchlore Rangers
+2 Dryad Arbor
+2 Eladamri, Korvecdal
+1 Atraxa, Grand Unifier
+1 Craterhoof Behemoth
+4 Glimpse of Nature
+4 Green Sun's Zenith
+3 Natural Order
+2 Once Upon a Time
+4 Gaea's Cradle
+2 Bayou
+2 Forest
+2 Misty Rainforest
+2 Verdant Catacombs
+2 Windswept Heath
+2 Wooded Foothills
+1 Boseiju, Who Endures
+
+Sideboard
+4 Leyline of the Void
+4 Thoughtseize
+2 Dismember
+2 Gut Shot
+2 Mindbreak Trap
+1 Collector Ouphe
+

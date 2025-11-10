@@ -1,0 +1,41 @@
+// Player: Hart Horton
+// Place: 131
+
+1 Grist, the Hunger Tide
+4 Orcish Bowmasters
+3 Barrowgoyf
+3 Dauthi Voidwalker
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+1 Endurance
+1 Hogaak, Arisen Necropolis
+1 Sheoldred, the Apocalypse
+4 Reanimate
+2 Thoughtseize
+1 Life from the Loam
+4 Dark Ritual
+4 Entomb
+4 Once Upon a Time
+3 Bitter Triumph
+4 Animate Dead
+4 Wasteland
+3 Bayou
+3 Bloodstained Mire
+3 Swamp
+2 Polluted Delta
+2 Verdant Catacombs
+1 Boseiju, Who Endures
+1 Underground Mortuary
+
+Sideboard
+3 Fatal Push
+2 Force of Vigor
+2 Mindbreak Trap
+2 Veil of Summer
+1 Choke
+1 Collector Ouphe
+1 Faerie Macabre
+1 Haywire Mite
+1 Null Rod
+1 Pithing Needle
+

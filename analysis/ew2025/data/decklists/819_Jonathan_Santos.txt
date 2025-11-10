@@ -1,0 +1,35 @@
+// Player: Jonathan Santos
+// Place: 819
+
+4 Griselbrand
+2 Atraxa, Grand Unifier
+1 Archon of Cruelty
+1 Borborygmos Enraged
+1 Mister Negative
+1 Valgavoth, Terror Eater
+4 Reanimate
+4 Thoughtseize
+4 Unmask
+2 Collective Brutality
+1 Show and Tell
+4 Dark Ritual
+4 Entomb
+4 Goryo's Vengeance
+2 Shallow Grave
+4 Lotus Petal
+2 Animate Dead
+4 Swamp
+4 Verdant Catacombs
+2 Bloodstained Mire
+1 Bayou
+1 Polluted Delta
+1 Undercity Sewers
+1 Underground Mortuary
+1 Underground Sea
+
+Sideboard
+4 Chain of Smog
+4 Spoils of the Vault
+4 Witherbloom Apprentice
+3 Show and Tell
+

@@ -1,0 +1,43 @@
+// Player: Joseph Watson
+// Place: 396
+
+2 Kaito, Bane of Nightmares
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Thundertrap Trainer
+1 Orcish Bowmasters
+1 Snapcaster Mage
+4 Ponder
+4 Thoughtseize
+1 Lórien Revealed
+1 Molten Collapse
+4 Brainstorm
+4 Force of Will
+3 Fatal Push
+3 Flame of Anor
+1 Sheoldred's Edict
+2 Nihil Spellbomb
+4 Polluted Delta
+3 Scalding Tarn
+3 Underground Sea
+3 Wasteland
+2 Bloodstained Mire
+2 Volcanic Island
+1 Badlands
+1 Mystic Sanctuary
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+2 Barrowgoyf
+2 Null Rod
+2 Pyroblast
+1 Blood Moon
+1 Consign to Memory
+1 Force of Negation
+1 Hydroblast
+1 Magus of the Moon
+1 Orcish Bowmasters
+1 Red Elemental Blast
+1 Surgical Extraction
+1 Unlicensed Hearse
+

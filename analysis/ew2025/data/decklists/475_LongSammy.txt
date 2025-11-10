@@ -1,0 +1,37 @@
+// Player: LongSammy
+// Place: 475
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Orcish Bowmasters
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+1 Atraxa, Grand Unifier
+1 Valgavoth, Terror Eater
+4 Ponder
+4 Reanimate
+4 Thoughtseize
+4 Brainstorm
+4 Entomb
+4 Force of Will
+3 Daze
+1 Animate Dead
+4 Polluted Delta
+3 Underground Sea
+3 Wasteland
+2 Bloodstained Mire
+2 Flooded Strand
+2 Undercity Sewers
+1 Island
+1 Scalding Tarn
+1 Swamp
+
+Sideboard
+3 Barrowgoyf
+3 Dauthi Voidwalker
+3 Fatal Push
+2 Consign to Memory
+1 Bitter Triumph
+1 Engineered Explosives
+1 Force of Negation
+1 Null Rod
+

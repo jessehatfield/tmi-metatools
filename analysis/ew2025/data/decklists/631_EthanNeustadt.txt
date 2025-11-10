@@ -1,0 +1,42 @@
+// Player: EthanNeustadt
+// Place: 631
+
+2 Kaito, Bane of Nightmares
+4 Nethergoyf
+4 Orcish Bowmasters
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Murktide Regent
+1 Brazen Borrower // Petty Theft
+4 Ponder
+3 Thoughtseize
+1 Molten Collapse
+4 Brainstorm
+4 Fatal Push
+4 Force of Will
+3 Daze
+2 Nihil Spellbomb
+4 Polluted Delta
+4 Wasteland
+3 Underground Sea
+2 Bloodstained Mire
+1 Island
+1 Misty Rainforest
+1 Scalding Tarn
+1 Swamp
+1 Thundering Falls
+1 Volcanic Island
+
+Sideboard
+2 Barrowgoyf
+2 Consign to Memory
+2 Hydroblast
+1 Engineered Explosives
+1 Force of Negation
+1 Ghost Vacuum
+1 Grafdigger's Cage
+1 Meltdown
+1 Molten Collapse
+1 Null Rod
+1 Price of Progress
+1 Red Elemental Blast
+

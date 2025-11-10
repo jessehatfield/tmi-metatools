@@ -1,0 +1,30 @@
+// Player: BaldyKong
+// Place: 339
+
+4 Goblin Guide
+4 Monastery Swiftspear
+2 Eidolon of the Great Revel
+4 Boltwave
+4 Chain Lightning
+4 Lava Spike
+4 Rift Bolt
+4 Skewer the Critics
+4 Fireblast
+4 Lightning Bolt
+4 Price of Progress
+13 Mountain
+1 Arid Mesa
+1 Bloodstained Mire
+1 Prismatic Vista
+1 Scalding Tarn
+1 Wooded Foothills
+
+Sideboard
+3 Faerie Macabre
+3 Mindbreak Trap
+3 Smash to Smithereens
+2 Searing Blaze
+2 Surgical Extraction
+1 Pyroblast
+1 Red Elemental Blast
+

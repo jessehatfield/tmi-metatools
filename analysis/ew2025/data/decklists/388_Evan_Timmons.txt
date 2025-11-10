@@ -1,0 +1,40 @@
+// Player: Evan Timmons
+// Place: 388
+
+3 Emrakul, the Aeons Torn
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Show and Tell
+4 Stock Up
+2 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Veil of Summer
+1 Flusterstorm
+4 Lotus Petal
+1 The One Ring
+4 Omniscience
+4 Ancient Tomb
+2 Island
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+2 Tropical Island
+1 Flooded Strand
+1 Hedge Maze
+1 Mistrise Village
+1 Otawara, Soaring City
+
+Sideboard
+2 Carpet of Flowers
+2 Consign to Memory
+2 Faerie Macabre
+2 Force of Negation
+2 Grafdigger's Cage
+1 Boseiju, Who Endures
+1 Disruptor Flute
+1 Hydroblast
+1 Into the Flood Maw
+1 Surgical Extraction
+

@@ -1,0 +1,31 @@
+// Player: Jeremy Cairl
+// Place: 204
+
+4 Balustrade Spy
+4 Boggart Trawler // Boggart Bog
+4 Elvish Spirit Guide
+4 Simian Spirit Guide
+4 Undercity Informer
+3 Poxwalkers
+2 Narcomoeba
+1 Thassa's Oracle
+4 Agadeem's Awakening // Agadeem, the Undercrypt
+2 Cabal Therapy
+2 Thoughtseize
+1 Dread Return
+4 Cabal Ritual
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+4 Pact of Negation
+1 Memory's Journey
+4 Lotus Petal
+2 Chrome Mox
+1 Jack-o'-Lantern
+1 Bridge from Below
+
+Sideboard
+4 Goblin Charbelcher
+4 Mindbreak Trap
+4 The One Ring
+3 Lion's Eye Diamond
+

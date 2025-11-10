@@ -1,0 +1,40 @@
+// Player: Jackson Roark
+// Place: 415
+
+4 Nulldrifter
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Clarion Conqueror
+3 Phyrexian Dreadnought
+4 Stock Up
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+4 Torpor Orb
+1 Silent Gravestone
+4 Dress Down
+2 Urza's Saga
+4 Flooded Strand
+3 Ancient Tomb
+3 Tundra
+1 City of Traitors
+1 Island
+1 Meticulous Archive
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Plains
+1 Polluted Delta
+1 Scalding Tarn
+
+Sideboard
+2 Consign to Memory
+2 Force of Negation
+2 Hullbreacher
+2 Rest in Peace
+2 Sheltered by Ghosts
+1 Clarion Conqueror
+1 Grafdigger's Cage
+1 Phyrexian Dreadnought
+1 Pithing Needle
+1 Wrath of the Skies
+

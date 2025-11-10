@@ -1,0 +1,34 @@
+// Player: Visna Harris
+// Place: 890
+
+4 Emry, Lurker of the Loch
+4 Painter's Servant
+4 Forging the Anchor
+4 Force of Will
+4 Intuition
+4 Pyroblast
+4 Lotus Petal
+3 Grindstone
+2 Aether Spellbomb
+2 Chalice of the Void
+2 Engineered Explosives
+2 Mox Opal
+2 Pithing Needle
+1 Palantír of Orthanc
+1 Stone of Erech
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+2 Glimmervoid
+2 Great Furnace
+1 Otawara, Soaring City
+
+Sideboard
+4 Dismember
+2 Flusterstorm
+2 Force of Negation
+2 Hullbreacher
+2 Red Elemental Blast
+2 Soul-Guide Lantern
+1 Meekstone
+

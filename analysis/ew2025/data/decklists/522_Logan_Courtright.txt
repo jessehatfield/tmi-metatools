@@ -1,0 +1,37 @@
+// Player: Logan Courtright
+// Place: 522
+
+4 Dragon's Rage Channeler
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Ponder
+2 Preordain
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+1 Force of Negation
+1 Unholy Heat
+4 Mishra's Bauble
+3 Cori-Steel Cutter
+4 Misty Rainforest
+4 Wasteland
+3 Scalding Tarn
+3 Volcanic Island
+2 Polluted Delta
+1 Island
+1 Steam Vents
+1 Thundering Falls
+
+Sideboard
+3 Red Elemental Blast
+2 Consign to Memory
+2 Meltdown
+2 Price of Progress
+2 Surgical Extraction
+1 Blood Moon
+1 Grafdigger's Cage
+1 Hydroblast
+1 Unholy Heat
+
