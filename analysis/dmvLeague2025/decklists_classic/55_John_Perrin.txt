@@ -1,0 +1,35 @@
+// Player: John Perrin
+// Place: 55
+
+4 Golgari Grave-Troll
+4 Narcomoeba
+4 Stinkweed Imp
+3 Golgari Thug
+3 Poxwalkers
+1 Anger
+1 Ox of Agonas
+4 Cabal Therapy
+4 Faithless Looting
+3 Unmask
+2 Breakthrough
+1 Careful Study
+1 Dread Return
+4 Otherworldly Gaze
+4 Lion's Eye Diamond
+3 Bridge from Below
+4 Cephalid Coliseum
+4 Scalding Tarn
+3 Volcanic Island
+1 Island
+1 Mountain
+1 Underground Sea
+
+Sideboard
+4 Into the Flood Maw
+3 Leyline of Sanctity
+3 Silent Gravestone
+2 Shenanigans
+1 Ashen Rider
+1 Echoing Truth
+1 Unmask
+

@@ -1,0 +1,39 @@
+// Player: Alex Yatsenko
+// Place: 70
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Orcish Bowmasters
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Reanimate
+4 Thoughtseize
+4 Brainstorm
+4 Entomb
+4 Force of Will
+3 Daze
+1 Animate Dead
+4 Polluted Delta
+4 Underground Sea
+3 Wasteland
+2 Undercity Sewers
+1 Bloodstained Mire
+1 Flooded Strand
+1 Island
+1 Scalding Tarn
+1 Swamp
+1 Verdant Catacombs
+
+Sideboard
+3 Dauthi Voidwalker
+2 Barrowgoyf
+2 Consign to Memory
+2 Fatal Push
+2 Force of Negation
+1 Bitter Triumph
+1 Dismember
+1 Engineered Explosives
+1 Wasteland
+

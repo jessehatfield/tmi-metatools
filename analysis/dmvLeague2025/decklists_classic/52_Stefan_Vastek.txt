@@ -1,0 +1,46 @@
+// Player: Stefan Vastek
+// Place: 52
+
+2 Narset, Parter of Veils
+1 Teferi, Time Raveler
+3 Phelia, Exuberant Shepherd
+3 Quantum Riddler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Thundertrap Trainer
+1 Gilded Drake
+1 Hullbreacher
+3 Ponder
+1 Forth Eorlingas!
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+1 Force of Negation
+1 Spell Pierce
+2 Back to Basics
+2 Dress Down
+4 Flooded Strand
+4 Island
+4 Prismatic Vista
+2 Arid Mesa
+2 Plains
+1 Karakas
+1 Meticulous Archive
+1 Mountain
+1 Tundra
+1 Volcanic Island
+
+Sideboard
+2 Clarion Conqueror
+2 Containment Priest
+2 Red Elemental Blast
+2 Rest in Peace
+1 Consign to Memory
+1 Hydroblast
+1 Prismatic Ending
+1 Pyroblast
+1 Supreme Verdict
+1 Surgical Extraction
+1 Wrath of the Skies
+

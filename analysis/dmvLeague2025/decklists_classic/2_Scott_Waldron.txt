@@ -1,0 +1,40 @@
+// Player: Scott Waldron
+// Place: 2
+
+4 Dragon's Rage Channeler
+3 Delver of Secrets // Insectile Aberration
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+4 Ponder
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+1 Force of Negation
+1 Surgical Extraction
+1 Unholy Heat
+4 Mishra's Bauble
+3 Cori-Steel Cutter
+4 Volcanic Island
+4 Wasteland
+3 Polluted Delta
+2 Flooded Strand
+2 Misty Rainforest
+2 Scalding Tarn
+1 Island
+1 Thundering Falls
+
+Sideboard
+2 Consign to Memory
+2 Hydroblast
+2 Pyroblast
+1 Abrade
+1 Blood Moon
+1 Fire Magic
+1 Force of Negation
+1 Grafdigger's Cage
+1 Meltdown
+1 Null Rod
+1 Surgical Extraction
+1 Unholy Heat
+

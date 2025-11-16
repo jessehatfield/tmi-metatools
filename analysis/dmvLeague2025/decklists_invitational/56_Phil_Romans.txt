@@ -1,0 +1,34 @@
+// Player: Phil Romans
+// Place: 56
+
+3 Karn, the Great Creator
+4 Broadside Bombardiers
+4 Fury
+3 Magus of the Moon
+3 Pyrogoyf
+2 Caves of Chaos Adventurer
+4 Sundering Eruption // Volcanic Fissure
+4 Chalice of the Void
+4 Chrome Mox
+3 The One Ring
+2 Trinisphere
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+2 Blood Moon
+4 Ancient Tomb
+4 Cavern of Souls
+4 City of Traitors
+2 Mountain
+
+Sideboard
+3 Faerie Macabre
+2 Dead // Gone
+2 Disruptor Flute
+2 Fiery Confluence
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Pyroblast
+1 Relic of Progenitus
+1 Tormod's Crypt
+

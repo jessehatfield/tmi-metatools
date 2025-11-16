@@ -1,0 +1,35 @@
+// Player: Jesse Hatfield
+// Place: 34
+
+4 Balustrade Spy
+4 Boggart Trawler // Boggart Bog
+4 Elvish Spirit Guide
+4 Simian Spirit Guide
+4 Undercity Informer
+3 Narcomoeba
+2 Disciple of Freyalise // Garden of Freyalise
+1 Poxwalkers
+1 Thassa's Oracle
+1 Wild Cantor
+2 Cabal Therapy
+2 Thoughtseize
+1 Dread Return
+1 Lively Dirge
+1 Reanimate
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+4 Pact of Negation
+4 Summoner's Pact
+3 Cabal Ritual
+1 Memory's Journey
+4 Lotus Petal
+1 Bridge from Below
+
+Sideboard
+4 Force of Vigor
+4 Leyline of Sanctity
+3 Unmask
+2 Thoughtseize
+1 Disruptive Stormbrood // Petty Revenge
+1 Foundation Breaker
+

@@ -1,0 +1,37 @@
+// Player: Jesse Hatfield
+// Place: 3
+
+4 Dragon's Rage Channeler
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Murktide Regent
+1 Brazen Borrower // Petty Theft
+4 Ponder
+2 Prismatic Ending
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Swords to Plowshares
+3 Cori-Steel Cutter
+3 Mishra's Bauble
+4 Flooded Strand
+4 Scalding Tarn
+4 Wasteland
+3 Tundra
+3 Volcanic Island
+1 Island
+1 Thundering Falls
+
+Sideboard
+2 Force of Negation
+2 Pyroblast
+2 Surgical Extraction
+1 Consign to Memory
+1 Counterbalance
+1 Cursed Totem
+1 Disruptor Flute
+1 Fire Magic
+1 Hydroblast
+1 Meltdown
+1 Null Rod
+1 Pyroclasm
+

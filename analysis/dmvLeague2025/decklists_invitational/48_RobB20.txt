@@ -1,0 +1,46 @@
+// Player: RobB20
+// Place: 48
+
+2 Kaito, Bane of Nightmares
+4 Changeling Outcast
+4 Spellstutter Sprite
+3 Baleful Strix
+3 Ornithopter
+3 Yuriko, the Tiger's Shadow
+2 Mistblade Shinobi
+1 Brazen Borrower // Petty Theft
+1 Ingenious Infiltrator
+1 Sakashima's Student
+4 Brainstorm
+3 Force of Will
+2 Drown in the Loch
+1 Far // Away
+1 Murderous Cut
+1 Sudden Edict
+2 Retrofitter Foundry
+1 Sai of the Shinobi
+1 Urza's Saga
+1 Writ of Passage
+4 Polluted Delta
+4 Underground Sea
+3 Island
+2 Misty Rainforest
+2 Swamp
+2 Wasteland
+1 Flooded Strand
+1 Mystic Sanctuary
+
+Sideboard
+2 Faerie Macabre
+2 Hydroblast
+2 Plague Engineer
+1 Ashiok, Dream Render
+1 Damping Sphere
+1 Dread of Night
+1 Extirpate
+1 Force of Will
+1 Pithing Needle
+1 Profit // Loss
+1 Sudden Edict
+1 Wasteland
+

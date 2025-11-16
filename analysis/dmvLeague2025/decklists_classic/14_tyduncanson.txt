@@ -1,0 +1,33 @@
+// Player: tyduncanson
+// Place: 14
+
+4 Balustrade Spy
+4 Boggart Trawler // Boggart Bog
+4 Elvish Spirit Guide
+4 Simian Spirit Guide
+4 Undercity Informer
+3 Hydroelectric Specimen // Hydroelectric Laboratory
+2 Narcomoeba
+2 Poxwalkers
+1 Thassa's Oracle
+3 Thoughtseize
+2 Cabal Therapy
+2 Dread Return
+1 Reanimate
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+4 Pact of Negation
+4 Sink into Stupor // Soporific Springs
+1 Memory's Journey
+4 Lotus Petal
+2 Jack-o'-Lantern
+1 Bridge from Below
+
+Sideboard
+3 Duress
+3 Echoing Truth
+3 Leyline of the Void
+3 Thassa's Oracle
+2 Barrowgoyf
+1 Surgical Extraction
+

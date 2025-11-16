@@ -1,0 +1,41 @@
+// Player: Danny Brennan
+// Place: 58
+
+3 Street Wraith
+2 Thassa's Oracle
+1 Quantum Riddler
+4 Doomsday
+4 Ponder
+3 Personal Tutor
+2 Edge of Autumn
+2 Thoughtseize
+4 Brainstorm
+4 Dark Ritual
+4 Force of Will
+3 Daze
+2 Flusterstorm
+1 Cabal Ritual
+1 Consider
+3 Lotus Petal
+1 Lion's Eye Diamond
+4 Misty Rainforest
+4 Polluted Delta
+4 Underground Sea
+1 Cavern of Souls
+1 Island
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+3 Barrowgoyf
+2 Brazen Borrower // Petty Theft
+2 Force of Negation
+1 Fatal Push
+1 Grafdigger's Cage
+1 Hydroblast
+1 Jace, Wielder of Mysteries
+1 Long Goodbye
+1 Nihil Spellbomb
+1 Unearth
+1 Vision Charm
+

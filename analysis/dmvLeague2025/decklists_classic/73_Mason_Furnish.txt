@@ -1,0 +1,37 @@
+// Player: Mason Furnish
+// Place: 73
+
+3 Karn, the Great Creator
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+1 Chaos Defiler
+1 Phyrexian Dragon Engine
+4 Pyroblast
+3 Ensnaring Bridge
+2 Grindstone
+2 Lotus Petal
+1 Ghost Vacuum
+1 Lavaspur Boots
+1 Pithing Needle
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+3 Blood Moon
+8 Mountain
+4 Ancient Tomb
+2 City of Traitors
+2 Great Furnace
+1 Arena of Glory
+1 Badlands
+
+Sideboard
+3 Disruptor Flute
+3 Fury
+2 Faerie Macabre
+2 Void Mirror
+1 Abrade
+1 Ensnaring Bridge
+1 Mycosynth Lattice
+1 The One Ring
+1 Tormod's Crypt
+
