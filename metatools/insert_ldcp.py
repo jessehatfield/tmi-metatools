@@ -80,7 +80,7 @@ def parseChallengeMatches(filename):
 
 
 def insertLDCPTournament(session, filename, nameArg=None, formatArg=None, dateArg=None,
-        archetypesFile=None, decklistsFile=None):
+        archetypesFile=None, decklistsFile=None, ignore_given_archetypes=False):
     baseName = os.path.basename(filename)
     filenameMatch = filenameExpr.match(baseName)
     if filenameMatch is None:
@@ -144,13 +144,14 @@ def insertLDCPTournament(session, filename, nameArg=None, formatArg=None, dateAr
                 deck.readLines(decklist_lines)
                 deck.saveContents()
                 if archetype_parser is not None:
+                    fallback = ArchetypeParser.unknown if ignore_given_archetypes else deck.archetype
                     try:
-                        new_name, new_sub = archetype_parser.classify(deck)
+                        new_name, new_sub = archetype_parser.classify(deck, fallback=fallback)
                         deck.archetype = new_name
                         deck.subarchetype = new_sub
                     except Exception as e:
-                        print(f"WARNING: {e} (using {ArchetypeParser.unknown})")
-                        deck.archetype = ArchetypeParser.unknown
+                        print(f"WARNING: {e} (using {fallback})")
+                        deck.archetype = fallback
         session.add(deck)
         nDecks += 1
     tourney.numPlayers = nDecks
@@ -178,6 +179,10 @@ if __name__ == "__main__":
             "produced by the Legacy Data Collection Project.")
     p.add_argument("-a", "--archetypes", help="Path to a directory containing archetype "
             + "definitions, which will override the deck names in the input files if --decklists is given.")
+    p.add_argument("-i", "--ignore_given_archetypes", action="store_true", help="If using the archetype parser, "
+            + "completely ignore the archetype field in the input file. If not specified, the "
+            + "input field will be used as a fallback if the parser fails to label the deck. "
+            + "Has no effect without both --archetypes / -a and --decklists / -l .")
     p.add_argument("-D", "--dry_run", action="store_true",
             help="Perform a dry run: parse the data, but don't commit anything to the database")
     p.add_argument("-n", "--name", help="Tournament name (if not given, assume it can be extracted from filename)")
@@ -192,7 +197,8 @@ if __name__ == "__main__":
     for filename in args.files:
         insertLDCPTournament(session, filename, args.name, args.format, args.date,
                 archetypesFile=args.archetypes,
-                decklistsFile=args.decklists)
+                decklistsFile=args.decklists,
+                ignore_given_archetypes=args.ignore_given_archetypes)
     if args.dry_run:
         print('(Not committing; dry run.)')
     else:

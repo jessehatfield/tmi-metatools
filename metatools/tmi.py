@@ -642,7 +642,7 @@ def main(arglist):
 
     # If data was generated, figure out how to output the data.
     if (table):
-        if args.output == 'tab':
+        if args.output == 'tab' or args.output == 'tsv':
             table.printDelim('\t')
         elif args.output == 'csv':
             table.printDelim(',')

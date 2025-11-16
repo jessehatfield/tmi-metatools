@@ -698,8 +698,10 @@ def getCardInfo(tournies, outputs, top, multitop=[], cards=[]):
         table.addRecord(*row)
 
     # Sort the table.
-    for i in range(len(outputs)-1, -1, -1):
+    for i in range(len(outputs)-1, 0, -1):
         table.sortKey(outputs[i], **{'reverse': True})
+    table.sortKey('Card')
+    table.sortKey(outputs[0], **{'reverse': True})
 
     return table
 
