@@ -1,0 +1,46 @@
+// Player: JoshuaK1
+// Place: 41
+
+4 Knight of the Reliquary
+3 Barrowgoyf
+3 Caustic Bronco
+1 Dryad Arbor
+1 Elvish Reclaimer
+1 Gaddock Teeg
+1 Keen-Eyed Curator
+2 Green Sun's Zenith
+2 Life from the Loam
+3 Punishing Fire
+2 Abrupt Decay
+2 Assassin's Trophy
+4 Chalice of the Void
+4 Mox Diamond
+2 Sylvan Library
+2 Urza's Saga
+4 Verdant Catacombs
+4 Wasteland
+2 Grove of the Burnwillows
+2 Windswept Heath
+1 Badlands
+1 Bayou
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Forest
+1 Karakas
+1 Maze of Ith
+1 Savannah
+1 Scrubland
+1 Taiga
+1 Underground Mortuary
+
+Sideboard
+4 Leyline of the Void
+2 Disruptor Flute
+2 Force of Vigor
+2 Swords to Plowshares
+1 Collector Ouphe
+1 Minsc & Boo, Timeless Heroes
+1 Pyroblast
+1 Red Elemental Blast
+1 The Tabernacle at Pendrell Vale
+

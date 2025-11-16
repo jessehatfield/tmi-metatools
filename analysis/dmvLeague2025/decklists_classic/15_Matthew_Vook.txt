@@ -1,0 +1,35 @@
+// Player: Matthew Vook
+// Place: 15
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Murktide Regent
+2 Brazen Borrower // Petty Theft
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Reanimate
+4 Thoughtseize
+4 Brainstorm
+4 Entomb
+4 Force of Will
+2 Daze
+2 Force of Negation
+2 Animate Dead
+4 Polluted Delta
+4 Underground Sea
+2 Misty Rainforest
+2 Undercity Sewers
+2 Verdant Catacombs
+2 Wasteland
+1 Bloodstained Mire
+1 Island
+1 Swamp
+
+Sideboard
+3 Barrowgoyf
+3 Consign to Memory
+3 Dauthi Voidwalker
+3 Fatal Push
+2 Engineered Explosives
+1 Bitter Triumph
+

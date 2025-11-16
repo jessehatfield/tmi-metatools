@@ -1,0 +1,424 @@
+Card Statistics over 82 Decks (DMV Legacy League Classic (2025-11-08))
++---------------------------------------------------------+-------+--------+------------+--------+-------------+-------------+
+|                          Card                           | # of  |  % of  |   Record   | Win %  | # of Copies | # of Copies |
+|                                                         | Decks | Decks  |    With    |  With  |   (Main)    |   (Side)    |
++---------------------------------------------------------+-------+--------+------------+--------+-------------+-------------+
+| Force of Will                                           |    48 | 58.54% | 138-132-16 | 51.05% |         192 |           0 |
+| Island                                                  |    48 | 58.54% | 139-133-16 | 51.04% |          73 |           0 |
+| Consign to Memory                                       |    47 | 57.32% | 134-128-16 | 51.08% |           7 |         100 |
+| Force of Negation                                       |    47 | 57.32% | 133-131-15 | 50.36% |          32 |          59 |
+| Brainstorm                                              |    43 | 52.44% | 121-118-15 | 50.59% |         172 |           0 |
+| Ponder                                                  |    42 | 51.22% | 120-115-15 | 51.00% |         165 |           0 |
+| Wasteland                                               |    38 | 46.34% | 109-105-12 | 50.88% |         135 |           1 |
+| Faerie Macabre                                          |    36 | 43.90% |  113-104-6 | 52.02% |           0 |          75 |
+| Flooded Strand                                          |    36 | 43.90% |  103-97-14 | 51.40% |          82 |           0 |
+| Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar |    35 | 42.68% |  96-100-10 | 49.03% |         126 |           0 |
+| Thoughtseize                                            |    32 | 39.02% |    96-93-8 | 50.76% |         111 |           6 |
+| Polluted Delta                                          |    31 | 37.80% |   92-85-12 | 51.85% |         108 |           0 |
+| Misty Rainforest                                        |    30 | 36.59% |    91-82-8 | 52.49% |          73 |           0 |
+| Pithing Needle                                          |    30 | 36.59% |    87-84-8 | 50.84% |          17 |          16 |
+| Daze                                                    |    29 | 35.37% |    82-78-9 | 51.18% |          91 |           0 |
+| Brazen Borrower // Petty Theft                          |    27 | 32.93% |    79-74-9 | 51.54% |          47 |           9 |
+| Murktide Regent                                         |    27 | 32.93% |    73-73-9 | 50.00% |          66 |           2 |
+| Urza's Saga                                             |    27 | 32.93% |    78-75-7 | 50.94% |         104 |           0 |
+| Swords to Plowshares                                    |    26 | 31.71% |    70-76-7 | 48.04% |          89 |          13 |
+| Ancient Tomb                                            |    25 | 30.49% |    72-71-4 | 50.34% |          85 |           0 |
+| Barrowgoyf                                              |    25 | 30.49% |    74-67-9 | 52.33% |           9 |          56 |
+| Underground Sea                                         |    25 | 30.49% |    70-71-8 | 49.66% |          77 |           0 |
+| Disruptor Flute                                         |    24 | 29.27% |    67-70-2 | 48.92% |           6 |          55 |
+| Hydroblast                                              |    24 | 29.27% |    71-65-9 | 52.07% |           0 |          34 |
+| Swamp                                                   |    24 | 29.27% |    71-68-7 | 51.03% |          26 |           0 |
+| Karakas                                                 |    23 | 28.05% |    68-67-5 | 50.36% |          28 |           0 |
+| Lotus Petal                                             |    23 | 28.05% |    68-66-2 | 50.74% |          75 |           0 |
+| Scalding Tarn                                           |    22 | 26.83% |   67-58-10 | 53.33% |          38 |           0 |
+| Undercity Sewers                                        |    21 | 25.61% |    63-58-6 | 51.97% |          34 |           0 |
+| Plains                                                  |    20 | 24.39% |    50-61-6 | 45.30% |          29 |           0 |
+| Null Rod                                                |    19 | 23.17% |    54-53-7 | 50.44% |           0 |          25 |
+| Prismatic Ending                                        |    19 | 23.17% |    51-56-5 | 47.77% |          15 |          19 |
+| Reanimate                                               |    19 | 23.17% |    58-54-5 | 51.71% |          64 |           2 |
+| Fatal Push                                              |    18 | 21.95% |    57-49-6 | 53.57% |          10 |          40 |
+| Pyroblast                                               |    18 | 21.95% |    43-53-6 | 45.10% |          16 |          30 |
+| Dismember                                               |    17 | 20.73% |    60-49-3 | 54.91% |           0 |          34 |
+| Force of Vigor                                          |    17 | 20.73% |    53-50-2 | 51.43% |           0 |          43 |
+| Surgical Extraction                                     |    17 | 20.73% |    45-49-7 | 48.02% |           5 |          28 |
+| Verdant Catacombs                                       |    17 | 20.73% |    54-46-5 | 53.81% |          28 |           0 |
+| Grafdigger's Cage                                       |    16 | 19.51% |    38-43-5 | 47.09% |           3 |          14 |
+| Orcish Bowmasters                                       |    16 | 19.51% |    55-45-7 | 54.67% |          39 |           6 |
+| Soul-Guide Lantern                                      |    16 | 19.51% |    43-46-2 | 48.35% |          15 |           3 |
+| Tormod's Crypt                                          |    16 | 19.51% |    51-45-2 | 53.06% |           6 |          17 |
+| Tundra                                                  |    16 | 19.51% |    42-44-6 | 48.91% |          34 |           0 |
+| Atraxa, Grand Unifier                                   |    15 | 18.29% |    44-41-4 | 51.69% |          15 |           0 |
+| Engineered Explosives                                   |    15 | 18.29% |    48-40-4 | 54.35% |           0 |          18 |
+| Entomb                                                  |    15 | 18.29% |    44-41-4 | 51.69% |          60 |           0 |
+| Forest                                                  |    15 | 18.29% |    46-43-2 | 51.65% |          20 |           0 |
+| Lavaspur Boots                                          |    15 | 18.29% |    37-44-3 | 45.83% |          15 |           0 |
+| Animate Dead                                            |    14 | 17.07% |    37-41-2 | 47.50% |          18 |           0 |
+| Archon of Cruelty                                       |    14 | 17.07% |    44-38-4 | 53.49% |          15 |           0 |
+| Bloodstained Mire                                       |    14 | 17.07% |    31-42-2 | 42.67% |          20 |           0 |
+| Ensnaring Bridge                                        |    14 | 17.07% |    38-39-1 | 49.36% |           6 |          11 |
+| Marsh Flats                                             |    13 | 15.85% |    41-35-7 | 53.61% |          32 |           0 |
+| Mox Opal                                                |    13 | 15.85% |    41-35-2 | 53.85% |          25 |           0 |
+| Savannah                                                |    13 | 15.85% |    39-35-2 | 52.63% |          19 |           0 |
+| The One Ring                                            |    13 | 15.85% |    37-38-1 | 49.34% |          46 |           3 |
+| Mishra's Bauble                                         |    12 | 14.63% |    37-30-5 | 54.86% |          48 |           0 |
+| Tropical Island                                         |    12 | 14.63% |    38-31-2 | 54.93% |          21 |           0 |
+| Windswept Heath                                         |    12 | 14.63% |    34-34-1 | 50.00% |          35 |           0 |
+| Dauthi Voidwalker                                       |    11 | 13.41% |    32-28-3 | 53.17% |           4 |          31 |
+| Karn, the Great Creator                                 |    11 | 13.41% |    34-31-1 | 52.27% |          42 |           0 |
+| Mycosynth Lattice                                       |    11 | 13.41% |    34-31-1 | 52.27% |           0 |          11 |
+| Volcanic Island                                         |    11 | 13.41% |    31-28-7 | 52.27% |          34 |           0 |
+| Bitter Triumph                                          |    10 | 12.20% |    38-24-4 | 60.61% |           2 |          13 |
+| Collector Ouphe                                         |    10 | 12.20% |    29-29-0 | 50.00% |           3 |           8 |
+| Deafening Silence                                       |    10 | 12.20% |    26-32-1 | 44.92% |           0 |          23 |
+| Dryad Arbor                                             |    10 | 12.20% |    29-29-0 | 50.00% |          10 |           0 |
+| Endurance                                               |    10 | 12.20% |    29-29-0 | 50.00% |          16 |           6 |
+| Green Sun's Zenith                                      |    10 | 12.20% |    29-29-0 | 50.00% |          40 |           0 |
+| Lightning Bolt                                          |    10 | 12.20% |    26-25-5 | 50.89% |          36 |           0 |
+| Meticulous Archive                                      |    10 | 12.20% |    23-27-6 | 46.43% |          10 |           0 |
+| Mountain                                                |    10 | 12.20% |    17-33-2 | 34.62% |          40 |           0 |
+| Nadu, Winged Wisdom                                     |    10 | 12.20% |    31-27-1 | 53.39% |          40 |           0 |
+| Nomads en-Kor                                           |    10 | 12.20% |    31-27-1 | 53.39% |          38 |           0 |
+| Scrubland                                               |    10 | 12.20% |    27-31-3 | 46.72% |          16 |           0 |
+| Sylvan Safekeeper                                       |    10 | 12.20% |    29-29-0 | 50.00% |          10 |           0 |
+| Teferi, Time Raveler                                    |    10 | 12.20% |    22-29-2 | 43.40% |          12 |           1 |
+| Blood Moon                                              |     9 | 10.98% |    21-24-4 | 46.94% |           9 |          10 |
+| Boseiju, Who Endures                                    |     9 | 10.98% |    28-25-2 | 52.73% |          18 |           2 |
+| Kozilek's Command                                       |     9 | 10.98% |    30-24-1 | 55.45% |          36 |           0 |
+| Liquimetal Coating                                      |     9 | 10.98% |    30-24-1 | 55.45% |           0 |           9 |
+| Meltdown                                                |     9 | 10.98% |    26-23-5 | 52.78% |           0 |          11 |
+| Planar Nexus                                            |     9 | 10.98% |    30-24-1 | 55.45% |          36 |           0 |
+| Simian Spirit Guide                                     |     9 | 10.98% |    23-27-0 | 46.00% |          26 |           0 |
+| Urza's Tower                                            |     9 | 10.98% |    30-24-1 | 55.45% |          36 |           0 |
+| Abrade                                                  |     8 |  9.76% |    20-19-4 | 51.16% |           0 |          10 |
+| Cabal Therapy                                           |     8 |  9.76% |    26-27-1 | 49.07% |          21 |           0 |
+| Clarion Conqueror                                       |     8 |  9.76% |    23-23-5 | 50.00% |           5 |          15 |
+| Grim Monolith                                           |     8 |  9.76% |    26-21-1 | 55.21% |          32 |           0 |
+| Hedge Maze                                              |     8 |  9.76% |    27-21-1 | 56.12% |           8 |           0 |
+| Leyline of the Void                                     |     8 |  9.76% |    23-21-1 | 52.22% |           0 |          31 |
+| Manifold Key                                            |     8 |  9.76% |    26-21-1 | 55.21% |          24 |           0 |
+| Noble Hierarch                                          |     8 |  9.76% |    22-23-0 | 48.89% |          20 |           0 |
+| Tezzeret, Cruel Captain                                 |     8 |  9.76% |    26-21-1 | 55.21% |          26 |           0 |
+| Urza's Workshop                                         |     8 |  9.76% |    26-21-1 | 55.21% |          32 |           0 |
+| Arid Mesa                                               |     7 |  8.54% |    18-23-2 | 44.19% |          21 |           0 |
+| Chalice of the Void                                     |     7 |  8.54% |    20-21-1 | 48.81% |          24 |           3 |
+| Dragon's Rage Channeler                                 |     7 |  8.54% |    20-16-4 | 55.00% |          28 |           0 |
+| Expedition Map                                          |     7 |  8.54% |    26-20-1 | 56.38% |           7 |           0 |
+| Fable of the Mirror-Breaker // Reflection of Kiki-Jiki  |     7 |  8.54% |    11-22-0 | 33.33% |          27 |           0 |
+| Fury                                                    |     7 |  8.54% |    11-22-0 | 33.33% |          12 |          10 |
+| Glaring Fleshraker                                      |     7 |  8.54% |    26-19-1 | 57.61% |          28 |           0 |
+| Grindstone                                              |     7 |  8.54% |    13-19-1 | 40.91% |          13 |           1 |
+| Once Upon a Time                                        |     7 |  8.54% |    16-22-0 | 42.11% |          23 |           0 |
+| Painter's Servant                                       |     7 |  8.54% |    13-19-1 | 40.91% |          27 |           1 |
+| Portable Hole                                           |     7 |  8.54% |    24-18-1 | 56.98% |           6 |           4 |
+| Red Elemental Blast                                     |     7 |  8.54% |    12-19-1 | 39.06% |           2 |           8 |
+| Thassa's Oracle                                         |     7 |  8.54% |    23-21-1 | 52.22% |           7 |           5 |
+| Thundering Falls                                        |     7 |  8.54% |    20-16-4 | 55.00% |           7 |           0 |
+| Unholy Heat                                             |     7 |  8.54% |    20-16-4 | 55.00% |           8 |           3 |
+| Badlands                                                |     6 |  7.32% |    14-22-2 | 39.47% |           7 |           0 |
+| City of Traitors                                        |     6 |  7.32% |    11-20-0 | 35.48% |          16 |           0 |
+| Containment Priest                                      |     6 |  7.32% |    15-18-3 | 45.83% |           1 |           9 |
+| Cori-Steel Cutter                                       |     6 |  7.32% |    18-13-4 | 57.14% |          18 |           0 |
+| Delver of Secrets // Insectile Aberration               |     6 |  7.32% |    18-13-4 | 57.14% |          19 |           0 |
+| Dread Return                                            |     6 |  7.32% |    19-18-1 | 51.32% |           7 |           0 |
+| Dress Down                                              |     6 |  7.32% |    14-18-4 | 44.44% |          15 |           1 |
+| Lush Portico                                            |     6 |  7.32% |    18-17-0 | 51.43% |           6 |           0 |
+| Mishra's Research Desk                                  |     6 |  7.32% |    21-14-1 | 59.72% |           6 |           0 |
+| Mystic Forge                                            |     6 |  7.32% |    24-16-1 | 59.76% |          10 |           5 |
+| Narcomoeba                                              |     6 |  7.32% |    19-18-1 | 51.32% |          16 |           0 |
+| Outland Liberator // Frenzied Trapbreaker               |     6 |  7.32% |    15-19-0 | 44.12% |           0 |           6 |
+| Perilous Snare                                          |     6 |  7.32% |    20-15-1 | 56.94% |           0 |           6 |
+| Quantum Riddler                                         |     6 |  7.32% |    12-16-3 | 43.55% |          18 |           0 |
+| Shadowspear                                             |     6 |  7.32% |    17-17-2 | 50.00% |           0 |           6 |
+| Sink into Stupor // Soporific Springs                   |     6 |  7.32% |    22-16-1 | 57.69% |          20 |           0 |
+| Voltaic Key                                             |     6 |  7.32% |    16-16-0 | 50.00% |           6 |           0 |
+| Wrath of the Skies                                      |     6 |  7.32% |    13-18-3 | 42.65% |           2 |           9 |
+| Aether Spellbomb                                        |     5 |  6.10% |    17-14-1 | 54.69% |           3 |           2 |
+| Bojuka Bog                                              |     5 |  6.10% |    16-15-1 | 51.56% |           5 |           0 |
+| Broadside Bombardiers                                   |     5 |  6.10% |    15-16-0 | 48.39% |          17 |           0 |
+| Candelabra of Tawnos                                    |     5 |  6.10% |    14-14-1 | 50.00% |           5 |           0 |
+| Carpet of Flowers                                       |     5 |  6.10% |    17-14-0 | 54.84% |           0 |          10 |
+| Cavern of Souls                                         |     5 |  6.10% |    15-15-1 | 50.00% |           7 |           3 |
+| Chaos Defiler                                           |     5 |  6.10% |     8-15-0 | 34.78% |           4 |           1 |
+| Crop Rotation                                           |     5 |  6.10% |    16-15-1 | 51.56% |          19 |           0 |
+| Cursed Totem                                            |     5 |  6.10% |    10-15-1 | 40.38% |           0 |           7 |
+| Dark Ritual                                             |     5 |  6.10% |    18-16-0 | 52.94% |          20 |           0 |
+| Delighted Halfling                                      |     5 |  6.10% |    17-14-0 | 54.84% |           9 |           0 |
+| Emry, Lurker of the Loch                                |     5 |  6.10% |    17-14-1 | 54.69% |          19 |           0 |
+| Gaddock Teeg                                            |     5 |  6.10% |    13-15-0 | 46.43% |           1 |           4 |
+| Kaito, Bane of Nightmares                               |     5 |  6.10% |    11-16-2 | 41.38% |           8 |           0 |
+| Keen-Eyed Curator                                       |     5 |  6.10% |    12-15-0 | 44.44% |           7 |           0 |
+| Memory's Journey                                        |     5 |  6.10% |    17-14-1 | 54.69% |           5 |           0 |
+| Mox Diamond                                             |     5 |  6.10% |    16-14-2 | 53.12% |          19 |           0 |
+| Otawara, Soaring City                                   |     5 |  6.10% |    20-14-2 | 58.33% |           5 |           0 |
+| Paradox Engine                                          |     5 |  6.10% |    13-14-0 | 48.15% |           0 |           5 |
+| Price of Progress                                       |     5 |  6.10% |    12-14-2 | 46.43% |           0 |           6 |
+| Seat of the Synod                                       |     5 |  6.10% |    17-14-1 | 54.69% |          20 |           0 |
+| Shadowy Backstreet                                      |     5 |  6.10% |    16-17-1 | 48.53% |           6 |           0 |
+| Ugin, Eye of the Storms                                 |     5 |  6.10% |    21-13-1 | 61.43% |           9 |           3 |
+| Uro, Titan of Nature's Wrath                            |     5 |  6.10% |    22-12-1 | 64.29% |           1 |           4 |
+| Yavimaya, Cradle of Growth                              |     5 |  6.10% |    16-15-1 | 51.56% |          14 |           0 |
+| Agatha's Soul Cauldron                                  |     4 |  4.88% |     8-10-1 | 44.74% |           9 |           1 |
+| Ajani, Nacatl Pariah // Ajani, Nacatl Avenger           |     4 |  4.88% |    12-14-1 | 46.30% |          16 |           0 |
+| Amped Raptor                                            |     4 |  4.88% |    12-14-1 | 46.30% |          16 |           0 |
+| Basalt Monolith                                         |     4 |  4.88% |     8-12-0 | 40.00% |           4 |           0 |
+| Birds of Paradise                                       |     4 |  4.88% |    13-11-0 | 54.17% |          13 |           0 |
+| Boggart Trawler // Boggart Bog                          |     4 |  4.88% |    13-12-0 | 52.00% |          13 |           0 |
+| Bridge from Below                                       |     4 |  4.88% |    14-13-0 | 51.85% |           6 |           0 |
+| Chrome Mox                                              |     4 |  4.88% |    10-14-0 | 41.67% |          13 |           0 |
+| Damping Sphere                                          |     4 |  4.88% |     5-12-0 | 29.41% |           0 |           7 |
+| Dark Depths                                             |     4 |  4.88% |    12-12-1 | 50.00% |          14 |           0 |
+| Duress                                                  |     4 |  4.88% |    16-10-1 | 61.11% |           0 |          10 |
+| Elvish Reclaimer                                        |     4 |  4.88% |    12-12-1 | 50.00% |           4 |           7 |
+| Elvish Spirit Guide                                     |     4 |  4.88% |    16-12-0 | 57.14% |          16 |           0 |
+| Gaea's Cradle                                           |     4 |  4.88% |     9-12-0 | 42.86% |          13 |           0 |
+| Ghost Quarter                                           |     4 |  4.88% |    13-11-2 | 53.85% |           4 |           0 |
+| Ghost Vacuum                                            |     4 |  4.88% |    10-11-2 | 47.83% |           2 |           2 |
+| Goblin Engineer                                         |     4 |  4.88% |     4-12-0 | 25.00% |          16 |           0 |
+| Goblin Welder                                           |     4 |  4.88% |     4-12-0 | 25.00% |          16 |           0 |
+| Great Furnace                                           |     4 |  4.88% |     4-12-0 | 25.00% |           9 |           0 |
+| Guide of Souls                                          |     4 |  4.88% |    12-14-1 | 46.30% |          16 |           0 |
+| Haywire Mite                                            |     4 |  4.88% |    10-11-1 | 47.73% |           0 |           4 |
+| Kappa Cannoneer                                         |     4 |  4.88% |    13-11-1 | 54.00% |          13 |           0 |
+| Life from the Loam                                      |     4 |  4.88% |    13-11-2 | 53.85% |          14 |           0 |
+| Magus of the Moon                                       |     4 |  4.88% |     7-13-0 | 35.00% |          10 |           2 |
+| Malevolent Rumble                                       |     4 |  4.88% |    13-11-2 | 53.85% |          15 |           0 |
+| Nihil Spellbomb                                         |     4 |  4.88% |    14-11-1 | 55.77% |           7 |           1 |
+| Ocelot Pride                                            |     4 |  4.88% |    12-14-1 | 46.30% |          16 |           0 |
+| Pact of Negation                                        |     4 |  4.88% |    15-13-0 | 53.57% |          12 |           1 |
+| Phelia, Exuberant Shepherd                              |     4 |  4.88% |     8-12-2 | 40.91% |          14 |           0 |
+| Phyrexian Dragon Engine                                 |     4 |  4.88% |     4-12-0 | 25.00% |           4 |           0 |
+| Pinnacle Emissary                                       |     4 |  4.88% |    13-11-1 | 54.00% |          15 |           0 |
+| Plateau                                                 |     4 |  4.88% |    12-14-1 | 46.30% |           8 |           0 |
+| Poxwalkers                                              |     4 |  4.88% |    14-13-0 | 51.85% |           7 |           0 |
+| Rest in Peace                                           |     4 |  4.88% |     9-12-3 | 43.75% |           0 |           7 |
+| Sejiri Steppe                                           |     4 |  4.88% |    12-12-1 | 50.00% |           4 |           0 |
+| Spell Pierce                                            |     4 |  4.88% |     7-12-2 | 38.10% |           7 |           0 |
+| Thespian's Stage                                        |     4 |  4.88% |    12-12-1 | 50.00% |          14 |           0 |
+| Thoughtcast                                             |     4 |  4.88% |    15-11-1 | 57.41% |          16 |           0 |
+| Urza's Bauble                                           |     4 |  4.88% |    13-11-1 | 54.00% |          12 |           0 |
+| Veil of Summer                                          |     4 |  4.88% |    13-11-0 | 54.17% |           0 |           5 |
+| Allosaurus Shepherd                                     |     3 |  3.66% |      9-8-0 | 52.94% |           6 |           0 |
+| Arena of Glory                                          |     3 |  3.66% |      0-9-0 |  0.00% |           3 |           0 |
+| Back to Basics                                          |     3 |  3.66% |      3-9-2 | 28.57% |           5 |           0 |
+| Balustrade Spy                                          |     3 |  3.66% |     12-9-0 | 57.14% |          12 |           0 |
+| Bayou                                                   |     3 |  3.66% |      9-7-2 | 55.56% |           4 |           0 |
+| Cabal Ritual                                            |     3 |  3.66% |    10-10-0 | 50.00% |           7 |           0 |
+| Chord of Calling                                        |     3 |  3.66% |      9-8-0 | 52.94% |          12 |           0 |
+| Curie, Emergent Intelligence                            |     3 |  3.66% |      9-9-2 | 50.00% |           8 |           0 |
+| Echoing Truth                                           |     3 |  3.66% |      7-9-0 | 43.75% |           2 |           5 |
+| Elegant Parlor                                          |     3 |  3.66% |     8-11-1 | 42.50% |           3 |           0 |
+| Exploration                                             |     3 |  3.66% |      9-9-1 | 50.00% |          12 |           0 |
+| Fiery Confluence                                        |     3 |  3.66% |     7-10-0 | 41.18% |           0 |           5 |
+| Fire Magic                                              |     3 |  3.66% |     10-6-2 | 61.11% |           0 |           3 |
+| Forth Eorlingas!                                        |     3 |  3.66% |     8-11-1 | 42.50% |           1 |           3 |
+| Frenzied Baloth                                         |     3 |  3.66% |     4-10-0 | 28.57% |           6 |           0 |
+| Genemorph Imago                                         |     3 |  3.66% |     10-7-0 | 58.82% |           3 |           0 |
+| Gilded Drake                                            |     3 |  3.66% |      4-9-2 | 33.33% |           3 |           0 |
+| Goblin Bombardment                                      |     3 |  3.66% |     8-11-1 | 42.50% |           7 |           0 |
+| Lavinia, Azorius Renegade                               |     3 |  3.66% |      8-8-1 | 50.00% |           0 |           3 |
+| Leyline of Sanctity                                     |     3 |  3.66% |     9-11-0 | 45.00% |           0 |          11 |
+| Lion's Eye Diamond                                      |     3 |  3.66% |     8-11-0 | 42.11% |           5 |           1 |
+| Lórien Revealed                                         |     3 |  3.66% |     10-9-2 | 52.38% |           9 |           0 |
+| March of Otherworldly Light                             |     3 |  3.66% |     8-11-1 | 42.50% |           1 |           5 |
+| Maze of Ith                                             |     3 |  3.66% |      9-9-1 | 50.00% |           3 |           0 |
+| Mystic Sanctuary                                        |     3 |  3.66% |      8-8-1 | 50.00% |           3 |           0 |
+| Narset, Parter of Veils                                 |     3 |  3.66% |     5-10-3 | 36.11% |           4 |           0 |
+| Path to Exile                                           |     3 |  3.66% |     12-8-2 | 59.09% |           0 |           5 |
+| Phyrexian Devourer                                      |     3 |  3.66% |      4-8-0 | 33.33% |           3 |           0 |
+| Phyrexian Dreadnought                                   |     3 |  3.66% |      9-9-2 | 50.00% |          10 |           0 |
+| Prismatic Vista                                         |     3 |  3.66% |      7-9-2 | 44.44% |          11 |           0 |
+| Pyrogoyf                                                |     3 |  3.66% |     7-10-0 | 41.18% |          10 |           0 |
+| Quirion Ranger                                          |     3 |  3.66% |      9-8-0 | 52.94% |           6 |           0 |
+| Scythecat Cub                                           |     3 |  3.66% |    10-10-0 | 50.00% |           3 |           0 |
+| Sheoldred's Edict                                       |     3 |  3.66% |     9-10-1 | 47.50% |           1 |           2 |
+| Snuff Out                                               |     3 |  3.66% |     5-10-0 | 33.33% |           0 |           4 |
+| Solitude                                                |     3 |  3.66% |     10-7-1 | 58.33% |          10 |           0 |
+| Springheart Nantuko                                     |     3 |  3.66% |      9-8-0 | 52.94% |           4 |           0 |
+| Sundering Eruption // Volcanic Fissure                  |     3 |  3.66% |     7-10-0 | 41.18% |           9 |           0 |
+| The Tabernacle at Pendrell Vale                         |     3 |  3.66% |      9-9-1 | 50.00% |           3 |           0 |
+| Toxic Deluge                                            |     3 |  3.66% |      9-8-2 | 52.63% |           0 |           4 |
+| Trinisphere                                             |     3 |  3.66% |     8-10-0 | 44.44% |           7 |           1 |
+| Undercity Informer                                      |     3 |  3.66% |     12-9-0 | 57.14% |          12 |           0 |
+| Voice of Victory                                        |     3 |  3.66% |     8-11-1 | 42.50% |          10 |           0 |
+| Walking Ballista                                        |     3 |  3.66% |     12-8-1 | 59.52% |           2 |           2 |
+| Wooded Foothills                                        |     3 |  3.66% |      9-8-0 | 52.94% |           6 |           0 |
+| Blue Elemental Blast                                    |     2 |  2.44% |      5-5-0 | 50.00% |           0 |           2 |
+| Bonecrusher Giant // Stomp                              |     2 |  2.44% |      6-6-0 | 50.00% |           0 |           3 |
+| Cephalid Illusionist                                    |     2 |  2.44% |      5-5-1 | 50.00% |           8 |           0 |
+| Chain Lightning                                         |     2 |  2.44% |      4-6-1 | 40.91% |           2 |           0 |
+| Cling to Dust                                           |     2 |  2.44% |      3-7-2 | 33.33% |           3 |           0 |
+| Consider                                                |     2 |  2.44% |      6-7-0 | 46.15% |           2 |           0 |
+| Craterhoof Behemoth                                     |     2 |  2.44% |      8-5-0 | 61.54% |           2 |           0 |
+| Dead // Gone                                            |     2 |  2.44% |      3-7-0 | 30.00% |           0 |           4 |
+| Disciple of Freyalise // Garden of Freyalise            |     2 |  2.44% |      7-7-0 | 50.00% |           4 |           1 |
+| Disruptive Stormbrood // Petty Revenge                  |     2 |  2.44% |      7-7-0 | 50.00% |           0 |           2 |
+| Doomsday                                                |     2 |  2.44% |      6-7-0 | 46.15% |           4 |           4 |
+| Doorkeeper Thrull                                       |     2 |  2.44% |      3-7-1 | 31.82% |           6 |           0 |
+| Echoing Deeps                                           |     2 |  2.44% |      7-6-0 | 53.85% |           2 |           0 |
+| Edge of Autumn                                          |     2 |  2.44% |      6-7-0 | 46.15% |           2 |           1 |
+| Emrakul, the Aeons Torn                                 |     2 |  2.44% |      6-6-0 | 50.00% |           2 |           0 |
+| Fell the Profane // Fell Mire                           |     2 |  2.44% |      9-5-0 | 64.29% |           8 |           0 |
+| Flusterstorm                                            |     2 |  2.44% |      7-5-1 | 57.69% |           2 |           1 |
+| Foundation Breaker                                      |     2 |  2.44% |      7-7-0 | 50.00% |           0 |           2 |
+| Grist, the Hunger Tide                                  |     2 |  2.44% |      4-6-1 | 40.91% |           2 |           1 |
+| Hullbreacher                                            |     2 |  2.44% |      7-5-2 | 57.14% |           1 |           1 |
+| Inquisition of Kozilek                                  |     2 |  2.44% |      4-5-1 | 45.00% |           0 |           2 |
+| Jace, Wielder of Mysteries                              |     2 |  2.44% |      6-7-0 | 46.15% |           0 |           2 |
+| Knight of the Reliquary                                 |     2 |  2.44% |      3-7-0 | 30.00% |           7 |           0 |
+| Lively Dirge                                            |     2 |  2.44% |      7-7-0 | 50.00% |           2 |           0 |
+| Massacre                                                |     2 |  2.44% |      5-5-1 | 50.00% |           0 |           2 |
+| Metallic Rebuke                                         |     2 |  2.44% |      9-5-1 | 63.33% |           5 |           0 |
+| Nethergoyf                                              |     2 |  2.44% |      7-6-0 | 53.85% |           8 |           0 |
+| Overlord of the Balemurk                                |     2 |  2.44% |      5-6-0 | 45.45% |           8 |           0 |
+| Samwise the Stouthearted                                |     2 |  2.44% |      4-8-1 | 34.62% |           2 |           0 |
+| Sanctifier en-Vec                                       |     2 |  2.44% |      7-6-0 | 53.85% |           0 |           4 |
+| Shaman en-Kor                                           |     2 |  2.44% |      6-5-0 | 54.55% |           2 |           0 |
+| Shuko                                                   |     2 |  2.44% |      5-5-1 | 50.00% |           4 |           0 |
+| Silent Clearing                                         |     2 |  2.44% |      6-8-0 | 42.86% |           2 |           0 |
+| Snapcaster Mage                                         |     2 |  2.44% |      4-7-1 | 37.50% |           3 |           0 |
+| Static Prison                                           |     2 |  2.44% |      6-8-0 | 42.86% |           3 |           1 |
+| Stock Up                                                |     2 |  2.44% |      9-5-1 | 63.33% |           6 |           0 |
+| Stony Silence                                           |     2 |  2.44% |      6-6-1 | 50.00% |           0 |           3 |
+| Street Wraith                                           |     2 |  2.44% |      6-7-0 | 46.15% |           3 |           2 |
+| Summoner's Pact                                         |     2 |  2.44% |      7-7-0 | 50.00% |           8 |           0 |
+| Sunbaked Canyon                                         |     2 |  2.44% |      6-8-0 | 42.86% |           2 |           0 |
+| Thought Monitor                                         |     2 |  2.44% |      6-6-0 | 50.00% |           6 |           0 |
+| Thundertrap Trainer                                     |     2 |  2.44% |      3-6-2 | 36.36% |           4 |           0 |
+| Unlicensed Hearse                                       |     2 |  2.44% |      5-6-1 | 45.83% |           0 |           3 |
+| Unmask                                                  |     2 |  2.44% |      6-7-0 | 46.15% |           3 |           4 |
+| Wild Cantor                                             |     2 |  2.44% |      7-7-0 | 50.00% |           2 |           0 |
+| Witch Enchanter // Witch-Blessed Meadow                 |     2 |  2.44% |      5-6-0 | 45.45% |           3 |           0 |
+| Yorion, Sky Nomad                                       |     2 |  2.44% |      9-4-1 | 67.86% |           0 |           2 |
+| Aether Vial                                             |     1 |  1.22% |      4-3-0 | 57.14% |           4 |           0 |
+| Agadeem's Awakening // Agadeem, the Undercrypt          |     1 |  1.22% |      3-4-0 | 42.86% |           4 |           0 |
+| Anger                                                   |     1 |  1.22% |      2-4-0 | 33.33% |           1 |           0 |
+| Ashen Rider                                             |     1 |  1.22% |      2-4-0 | 33.33% |           0 |           1 |
+| Baleful Strix                                           |     1 |  1.22% |      2-4-1 | 35.71% |           2 |           0 |
+| Blue Sun's Zenith                                       |     1 |  1.22% |      3-4-0 | 42.86% |           0 |           1 |
+| Breakthrough                                            |     1 |  1.22% |      2-4-0 | 33.33% |           2 |           0 |
+| Cache Grab                                              |     1 |  1.22% |      6-2-1 | 72.22% |           2 |           0 |
+| Careful Study                                           |     1 |  1.22% |      2-4-0 | 33.33% |           1 |           0 |
+| Caves of Chaos Adventurer                               |     1 |  1.22% |      4-3-0 | 57.14% |           2 |           0 |
+| Cephalid Coliseum                                       |     1 |  1.22% |      2-4-0 | 33.33% |           4 |           0 |
+| Cityscape Leveler                                       |     1 |  1.22% |      2-3-0 | 40.00% |           1 |           1 |
+| Cloudpost                                               |     1 |  1.22% |      4-3-0 | 57.14% |           4 |           0 |
+| Commercial District                                     |     1 |  1.22% |      3-3-0 | 50.00% |           1 |           0 |
+| Counterbalance                                          |     1 |  1.22% |      1-4-0 | 20.00% |           0 |           1 |
+| Cunning Wish                                            |     1 |  1.22% |      3-4-0 | 42.86% |           1 |           1 |
+| Dread of Night                                          |     1 |  1.22% |      3-3-0 | 50.00% |           0 |           1 |
+| Eldrazi Confluence                                      |     1 |  1.22% |      0-2-0 |  0.00% |           0 |           1 |
+| Eumidian Hatchery                                       |     1 |  1.22% |      4-2-1 | 64.29% |           4 |           0 |
+| Exorcise                                                |     1 |  1.22% |      1-4-0 | 20.00% |           0 |           1 |
+| Extirpate                                               |     1 |  1.22% |      0-3-0 |  0.00% |           0 |           2 |
+| Eye of Ugin                                             |     1 |  1.22% |      4-3-0 | 57.14% |           1 |           0 |
+| Fae of Wishes // Granted                                |     1 |  1.22% |      3-4-0 | 42.86% |           1 |           0 |
+| Faithless Looting                                       |     1 |  1.22% |      2-4-0 | 33.33% |           4 |           0 |
+| Fiend Artisan                                           |     1 |  1.22% |      5-2-0 | 71.43% |           1 |           0 |
+| Filter Out                                              |     1 |  1.22% |      3-4-0 | 42.86% |           0 |           1 |
+| Flagstones of Trokair                                   |     1 |  1.22% |      3-3-0 | 50.00% |           2 |           0 |
+| Flash of Insight                                        |     1 |  1.22% |      3-4-0 | 42.86% |           0 |           1 |
+| Flickerwisp                                             |     1 |  1.22% |      4-3-0 | 57.14% |           2 |           0 |
+| From the Catacombs                                      |     1 |  1.22% |      2-4-1 | 35.71% |           0 |           1 |
+| Get Lost                                                |     1 |  1.22% |      0-3-0 |  0.00% |           0 |           2 |
+| Glimmerpost                                             |     1 |  1.22% |      4-3-0 | 57.14% |           2 |           0 |
+| Glissa Sunslayer                                        |     1 |  1.22% |      0-4-0 |  0.00% |           1 |           0 |
+| Golgari Grave-Troll                                     |     1 |  1.22% |      2-4-0 | 33.33% |           4 |           0 |
+| Golgari Thug                                            |     1 |  1.22% |      2-4-0 | 33.33% |           3 |           0 |
+| Harbinger of the Seas                                   |     1 |  1.22% |      4-3-0 | 57.14% |           0 |           2 |
+| Hide on the Ceiling                                     |     1 |  1.22% |      3-4-0 | 42.86% |           0 |           1 |
+| High Tide                                               |     1 |  1.22% |      3-4-0 | 42.86% |           4 |           0 |
+| Hogaak, Arisen Necropolis                               |     1 |  1.22% |      4-2-1 | 64.29% |           2 |           0 |
+| Hope of Ghirapur                                        |     1 |  1.22% |      1-3-0 | 25.00% |           0 |           1 |
+| Horizon Canopy                                          |     1 |  1.22% |      0-4-0 |  0.00% |           1 |           0 |
+| Hurkyl's Recall                                         |     1 |  1.22% |      4-3-0 | 57.14% |           0 |           2 |
+| Hydroelectric Specimen // Hydroelectric Laboratory      |     1 |  1.22% |      5-2-0 | 71.43% |           3 |           0 |
+| Icetill Explorer                                        |     1 |  1.22% |      3-3-0 | 50.00% |           1 |           0 |
+| Ignoble Hierarch                                        |     1 |  1.22% |      0-4-0 |  0.00% |           2 |           0 |
+| Inkwell Leviathan                                       |     1 |  1.22% |      0-3-0 |  0.00% |           1 |           0 |
+| Into the Flood Maw                                      |     1 |  1.22% |      2-4-0 | 33.33% |           0 |           4 |
+| Intuition                                               |     1 |  1.22% |      3-4-0 | 42.86% |           0 |           1 |
+| Jack-o'-Lantern                                         |     1 |  1.22% |      5-2-0 | 71.43% |           2 |           0 |
+| Kaldra Compleat                                         |     1 |  1.22% |      4-3-0 | 57.14% |           1 |           0 |
+| Karn's Sylex                                            |     1 |  1.22% |      4-3-0 | 57.14% |           3 |           0 |
+| Kolaghan's Command                                      |     1 |  1.22% |      2-4-1 | 35.71% |           2 |           0 |
+| Legion Extruder                                         |     1 |  1.22% |      0-3-0 |  0.00% |           1 |           0 |
+| Leovold, Emissary of Trest                              |     1 |  1.22% |      5-1-1 | 78.57% |           1 |           0 |
+| Leyline Binding                                         |     1 |  1.22% |      5-1-1 | 78.57% |           4 |           0 |
+| Lion Sash                                               |     1 |  1.22% |      4-3-0 | 57.14% |           1 |           0 |
+| Long Goodbye                                            |     1 |  1.22% |      0-3-0 |  0.00% |           0 |           3 |
+| Mawloc                                                  |     1 |  1.22% |      3-3-0 | 50.00% |           1 |           0 |
+| Melded Moxite                                           |     1 |  1.22% |      0-3-0 |  0.00% |           2 |           0 |
+| Memory Guardian                                         |     1 |  1.22% |      2-3-0 | 40.00% |           4 |           0 |
+| Merchant Scroll                                         |     1 |  1.22% |      3-4-0 | 42.86% |           4 |           0 |
+| Mind's Desire                                           |     1 |  1.22% |      3-4-0 | 42.86% |           4 |           0 |
+| Mindbreak Trap                                          |     1 |  1.22% |      4-3-0 | 57.14% |           0 |           2 |
+| Minor Misstep                                           |     1 |  1.22% |      0-3-0 |  0.00% |           2 |           0 |
+| Mystical Dispute                                        |     1 |  1.22% |      1-4-0 | 20.00% |           0 |           2 |
+| Nimble Obstructionist                                   |     1 |  1.22% |      2-4-1 | 35.71% |           1 |           0 |
+| Noxious Revival                                         |     1 |  1.22% |      2-3-1 | 41.67% |           1 |           0 |
+| Nulldrifter                                             |     1 |  1.22% |      5-2-1 | 68.75% |           4 |           0 |
+| Nurturing Peatland                                      |     1 |  1.22% |      0-4-0 |  0.00% |           1 |           0 |
+| Opposition Agent                                        |     1 |  1.22% |      2-4-1 | 35.71% |           0 |           1 |
+| Otherworldly Gaze                                       |     1 |  1.22% |      2-4-0 | 33.33% |           4 |           0 |
+| Ox of Agonas                                            |     1 |  1.22% |      2-4-0 | 33.33% |           1 |           0 |
+| Patchwork Automaton                                     |     1 |  1.22% |      2-3-0 | 40.00% |           4 |           0 |
+| Pernicious Deed                                         |     1 |  1.22% |      5-1-1 | 78.57% |           0 |           3 |
+| Personal Tutor                                          |     1 |  1.22% |      3-3-0 | 50.00% |           3 |           0 |
+| Peter Parker's Camera                                   |     1 |  1.22% |      0-3-0 |  0.00% |           1 |           0 |
+| Phantom Blade                                           |     1 |  1.22% |      4-3-0 | 57.14% |           1 |           0 |
+| Plague Engineer                                         |     1 |  1.22% |      1-3-0 | 25.00% |           0 |           1 |
+| Pre-War Formalwear                                      |     1 |  1.22% |      4-3-0 | 57.14% |           1 |           0 |
+| Preordain                                               |     1 |  1.22% |      2-3-0 | 40.00% |           1 |           0 |
+| Pyroclasm                                               |     1 |  1.22% |      1-2-0 | 33.33% |           0 |           1 |
+| Questing Druid // Seek the Beast                        |     1 |  1.22% |      2-3-0 | 40.00% |           2 |           0 |
+| Ramunap Excavator                                       |     1 |  1.22% |      0-4-0 |  0.00% |           1 |           0 |
+| Raucous Theater                                         |     1 |  1.22% |      0-3-0 |  0.00% |           1 |           0 |
+| Recruiter of the Guard                                  |     1 |  1.22% |      4-3-0 | 57.14% |           4 |           0 |
+| Relic of Progenitus                                     |     1 |  1.22% |      4-3-0 | 57.14% |           0 |           1 |
+| Retrofitter Foundry                                     |     1 |  1.22% |      3-3-1 | 50.00% |           1 |           0 |
+| Rough // Tumble                                         |     1 |  1.22% |      2-3-0 | 40.00% |           0 |           1 |
+| Serenity                                                |     1 |  1.22% |      4-2-1 | 64.29% |           0 |           1 |
+| Shatterskull Smashing // Shatterskull, the Hammer Pass  |     1 |  1.22% |      1-3-0 | 25.00% |           3 |           0 |
+| Shenanigans                                             |     1 |  1.22% |      2-4-0 | 33.33% |           0 |           2 |
+| Shifting Woodland                                       |     1 |  1.22% |      3-3-0 | 50.00% |           1 |           0 |
+| Silent Gravestone                                       |     1 |  1.22% |      2-4-0 | 33.33% |           0 |           3 |
+| Skyclave Apparition                                     |     1 |  1.22% |      4-3-0 | 57.14% |           3 |           0 |
+| Smallpox                                                |     1 |  1.22% |      4-2-1 | 64.29% |           4 |           0 |
+| Snap                                                    |     1 |  1.22% |      3-4-0 | 42.86% |           2 |           1 |
+| Snow-Covered Island                                     |     1 |  1.22% |      1-3-0 | 25.00% |           1 |           0 |
+| Snow-Covered Plains                                     |     1 |  1.22% |      1-3-0 | 25.00% |           1 |           0 |
+| Snow-Covered Swamp                                      |     1 |  1.22% |      1-3-0 | 25.00% |           1 |           0 |
+| Staff of the Storyteller                                |     1 |  1.22% |      2-5-0 | 28.57% |           1 |           0 |
+| Steel Wrecking Ball                                     |     1 |  1.22% |      0-3-0 |  0.00% |           0 |           2 |
+| Stern Scolding                                          |     1 |  1.22% |      0-3-0 |  0.00% |           1 |           0 |
+| Stifle                                                  |     1 |  1.22% |      1-4-0 | 20.00% |           3 |           0 |
+| Stinkweed Imp                                           |     1 |  1.22% |      2-4-0 | 33.33% |           4 |           0 |
+| Stoneforge Mystic                                       |     1 |  1.22% |      4-3-0 | 57.14% |           4 |           0 |
+| Sudden Edict                                            |     1 |  1.22% |      2-4-1 | 35.71% |           1 |           0 |
+| Supreme Verdict                                         |     1 |  1.22% |      2-3-1 | 41.67% |           0 |           1 |
+| Sylvan Library                                          |     1 |  1.22% |      3-3-0 | 50.00% |           2 |           0 |
+| Taiga                                                   |     1 |  1.22% |      3-3-0 | 50.00% |           1 |           0 |
+| Talon Gates of Madara                                   |     1 |  1.22% |      3-3-0 | 50.00% |           1 |           0 |
+| The Stone Brain                                         |     1 |  1.22% |      6-2-1 | 72.22% |           0 |           1 |
+| Time Spiral                                             |     1 |  1.22% |      3-4-0 | 42.86% |           4 |           0 |
+| Torpor Orb                                              |     1 |  1.22% |      5-2-1 | 68.75% |           3 |           0 |
+| Triumph of Saint Katherine                              |     1 |  1.22% |      1-4-0 | 20.00% |           0 |           2 |
+| Tune the Narrative                                      |     1 |  1.22% |      0-3-0 |  0.00% |           2 |           0 |
+| Turnabout                                               |     1 |  1.22% |      3-4-0 | 42.86% |           4 |           0 |
+| Twinshot Sniper                                         |     1 |  1.22% |      1-4-0 | 20.00% |           0 |           1 |
+| Twisted Image                                           |     1 |  1.22% |      3-3-0 | 50.00% |           0 |           1 |
+| Tyrant's Scorn                                          |     1 |  1.22% |      2-4-1 | 35.71% |           1 |           0 |
+| Ugin, the Ineffable                                     |     1 |  1.22% |      2-3-0 | 40.00% |           1 |           0 |
+| Ulamog, the Ceaseless Hunger                            |     1 |  1.22% |      4-3-0 | 57.14% |           1 |           0 |
+| Underground Mortuary                                    |     1 |  1.22% |      4-2-1 | 64.29% |           1 |           0 |
+| Up the Beanstalk                                        |     1 |  1.22% |      5-1-1 | 78.57% |           4 |           0 |
+| Urza's Mine                                             |     1 |  1.22% |      2-3-0 | 40.00% |           4 |           0 |
+| Urza's Power Plant                                      |     1 |  1.22% |      2-3-0 | 40.00% |           4 |           0 |
+| Valgavoth, Terror Eater                                 |     1 |  1.22% |      0-3-0 |  0.00% |           1 |           0 |
+| Vision Charm                                            |     1 |  1.22% |      3-3-0 | 50.00% |           0 |           1 |
+| Void Mirror                                             |     1 |  1.22% |      0-4-0 |  0.00% |           0 |           2 |
+| Volrath's Stronghold                                    |     1 |  1.22% |      2-5-0 | 28.57% |           1 |           0 |
+| Warping Wail                                            |     1 |  1.22% |      0-2-0 |  0.00% |           0 |           1 |
+| White Orchid Phantom                                    |     1 |  1.22% |      4-3-0 | 57.14% |           2 |           0 |
+| Witherbloom Command                                     |     1 |  1.22% |      4-2-1 | 64.29% |           3 |           0 |
++---------------------------------------------------------+-------+--------+------------+--------+-------------+-------------+

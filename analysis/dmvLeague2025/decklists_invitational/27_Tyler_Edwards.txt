@@ -1,0 +1,39 @@
+// Player: Tyler Edwards
+// Place: 27
+
+4 Birds of Paradise
+4 Nadu, Winged Wisdom
+4 Noble Hierarch
+4 Nomads en-Kor
+2 Allosaurus Shepherd
+2 Endurance
+2 Quirion Ranger
+1 Collector Ouphe
+1 Craterhoof Behemoth
+1 Dryad Arbor
+1 Frenzied Baloth
+1 Keen-Eyed Curator
+1 Shaman en-Kor
+1 Springheart Nantuko
+1 Sylvan Safekeeper
+4 Green Sun's Zenith
+4 Chord of Calling
+3 Once Upon a Time
+4 Gaea's Cradle
+4 Windswept Heath
+3 Verdant Catacombs
+2 Forest
+2 Savannah
+2 Tropical Island
+1 Boseiju, Who Endures
+1 Lush Portico
+
+Sideboard
+4 Swords to Plowshares
+2 Deafening Silence
+2 Disruptor Flute
+2 Endurance
+2 Faerie Macabre
+2 Void Mirror
+1 Reclamation Sage
+

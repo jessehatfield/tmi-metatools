@@ -1,0 +1,30 @@
+// Player: RedEyeHairy
+// Place: 59
+
+4 Griselbrand
+2 Archon of Cruelty
+1 Atraxa, Grand Unifier
+1 Etali, Primal Conqueror // Etali, Primal Sickness
+1 Worldgorger Dragon
+4 Cabal Therapy
+4 Reanimate
+4 Thoughtseize
+4 Unmask
+4 Dark Ritual
+4 Entomb
+4 Lotus Petal
+4 Animate Dead
+4 Dance of the Dead
+4 Bloodstained Mire
+4 Polluted Delta
+3 Underground Sea
+2 Swamp
+2 Undercity Sewers
+
+Sideboard
+4 Dauthi Voidwalker
+4 Show and Tell
+3 Echoing Truth
+2 Faerie Macabre
+2 Null Rod
+

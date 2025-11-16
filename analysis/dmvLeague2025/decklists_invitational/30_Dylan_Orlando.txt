@@ -1,0 +1,37 @@
+// Player: Dylan Orlando
+// Place: 30
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Amped Raptor
+4 Guide of Souls
+4 Ocelot Pride
+3 Broadside Bombardiers
+3 Orcish Bowmasters
+3 Cabal Therapy
+3 Thoughtseize
+4 Swords to Plowshares
+2 Lightning Bolt
+3 Static Prison
+4 Arid Mesa
+4 Marsh Flats
+4 Wasteland
+2 Plateau
+2 Scrubland
+1 Badlands
+1 Elegant Parlor
+1 Karakas
+1 Plains
+1 Shadowy Backstreet
+1 Sunbaked Canyon
+1 Swamp
+
+Sideboard
+4 Faerie Macabre
+2 Containment Priest
+2 Deafening Silence
+2 Mindbreak Trap
+2 Red Elemental Blast
+1 Meltdown
+1 Pyroblast
+1 Stony Silence
+

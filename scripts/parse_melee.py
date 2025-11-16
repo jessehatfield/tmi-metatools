@@ -128,7 +128,8 @@ def fetch_decklist(deck_id):
         for category in decklist_container.find_all('div', class_='decklist-category'):
             title = category.find('div', class_='decklist-category-title')
             entries = category.find_all('div', class_='decklist-record')
-            is_sideboard = title is not None and title.text is not None and title.text.strip().startswith('Sideboard' )
+            is_sideboard = title is not None and title.text is not None and \
+                    (title.text.strip().startswith('Sideboard' ) or title.text.strip().startswith('Companion' ))
             for entry in entries:
                 quantity = entry.find('span', class_='decklist-record-quantity')
                 card_name = entry.find('a', class_='decklist-record-name')

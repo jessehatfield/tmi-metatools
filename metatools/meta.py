@@ -4,6 +4,7 @@ from .util import mwp
 from decimal import *
 from math import floor
 from numpy.random import multinomial
+from csv import DictReader
 from sys import stderr
 
 class Metagame(object):
@@ -43,6 +44,37 @@ class Metagame(object):
             for j in range(len(decks)):
                 newmatchups[decks[i]][''][decks[j]] = { '': matchups[i][j] }
         return Metagame(newdecks, newmatchups)
+
+    @staticmethod
+    def fromFile(filename):
+        deck_cols = {'deck', 'deck name', 'archetype'}
+        count_cols = {'n', '#', 'field', '# in field'}
+        player_cols = {'player', 'player name'}
+        deck_col = None
+        count_col = None
+        player_col = None
+        counts = {}
+        with open(filename) as f:
+            reader = DictReader(f)
+            for col in reader.fieldnames:
+                if deck_col is None and col.lower() in deck_cols:
+                    deck_col = col
+                if count_col is None and col.lower() in count_cols:
+                    count_col = col
+                if player_col is None and col.lower() in player_cols:
+                    player_col = col
+            if deck_col is None:
+                raise Exception(f"Expected deck name field (one of {deck_cols})")
+            if count_col is None and player_col is None:
+                raise Exception(f"Expected count/proportion field (one of {count_cols}) or "
+                        f"individual player assignments (one of {player_cols})")
+            for row in reader:
+                archetype = row[deck_col]
+                if count_col is None:
+                    counts[archetype] = counts.get(archetype, 0) + 1
+                else:
+                    counts[archetype] = int(row[count_col])
+        return Metagame(decks={d: {"": counts[d]} for d in counts})
 
     def toList(self):
         """Express matchups as a two-dimensional list. Subarchetypes are ignored."""
@@ -337,7 +369,6 @@ class PairedMeta(Metagame):
                     self.d2s[d2] = 0
                 self.d2s[d2] = self.d2s[d2] + 1
             self.d1s.append(d1)
-
 
 class MetaFactory(object):
     """An object that can instantiate Metagames, based on some

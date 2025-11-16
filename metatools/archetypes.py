@@ -79,6 +79,8 @@ class ArchetypeParser:
     def test_archetype(self, archetype, maindeck, sideboard):
         match = True
         for condition in archetype['Conditions']:
+            if 'Type' not in condition or 'Cards' not in condition:
+                raise Exception(f"Malformed archetype condition for {archetype['Name']}: {condition}")
             if not self.test_condition(condition, maindeck, sideboard):
                 match = False
                 break
@@ -109,7 +111,8 @@ class ArchetypeParser:
         size = len(fallback['CommonCards'])
         return fallback['Name'], fallback['IncludeColorInName'], strength, size
 
-    def classify(self, deck, min_similarity=0.1, verbose=False):
+    def classify(self, deck, min_similarity=0.1, verbose=False, fallback=None):
+        default_label = fallback if fallback else ArchetypeParser.unknown
         if not deck.maindeck:
             raise Exception(f"No maindeck loaded for {deck}")
         if deck.count() < 50:
@@ -150,8 +153,8 @@ class ArchetypeParser:
         if len(matching_names) == 0:
             print("--------\nWARNING: couldn't find an archetype or fallback for decklist:")
             deck.printList()
-            print(f"-------- (using '{ArchetypeParser.unknown}')\n")
-            matching_names.add((ArchetypeParser.unknown, ''))
+            print(f"-------- (using '{default_label}')\n")
+            matching_names.add((default_label, ''))
         return list(matching_names)[0]
 
     def get_meta(self, date):

@@ -1,0 +1,36 @@
+// Player: Kody_Holiday
+// Place: 33
+
+4 Painter's Servant
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Emry, Lurker of the Loch
+4 Thoughtcast
+3 Stock Up
+4 Force of Will
+3 Metallic Rebuke
+2 Sink into Stupor // Soporific Springs
+1 Force of Negation
+4 Lotus Petal
+4 Mishra's Bauble
+2 Grindstone
+2 Mox Opal
+1 Aether Spellbomb
+1 Lavaspur Boots
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+3 Island
+1 Otawara, Soaring City
+
+Sideboard
+2 Dismember
+2 Disruptor Flute
+2 Faerie Macabre
+2 Force of Negation
+2 Hurkyl's Recall
+2 Hydroblast
+2 Tormod's Crypt
+1 Blue Elemental Blast
+
