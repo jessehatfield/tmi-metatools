@@ -1,0 +1,39 @@
+// Player: Magicskeleton
+// Place: 16
+
+1 Emrakul, the Aeons Torn
+4 Show and Tell
+4 Stock Up
+3 Lórien Revealed
+4 Brainstorm
+4 Cunning Wish
+4 Force of Will
+4 Moment of Truth
+4 Veil of Summer
+2 Spell Pierce
+1 Intuition
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+3 Island
+2 Mistrise Village
+2 Prismatic Vista
+2 Shifting Woodland
+1 Flooded Strand
+1 Forest
+1 Hedge Maze
+1 Tropical Island
+
+Sideboard
+3 Consign to Memory
+2 Blue Elemental Blast
+2 Carpet of Flowers
+1 Eladamri's Call
+1 Firemind's Foresight
+1 Hide on the Ceiling
+1 Krosan Grip
+1 Mindbreak Trap
+1 Release the Ants
+1 Sublime Epiphany
+1 Surgical Extraction
+

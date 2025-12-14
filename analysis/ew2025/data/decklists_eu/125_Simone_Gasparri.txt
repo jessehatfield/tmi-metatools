@@ -1,0 +1,41 @@
+// Player: Simone_Gasparri
+// Place: 125
+
+2 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Barrowgoyf
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+2 Nethergoyf
+2 Yuriko, the Tiger's Shadow
+4 Ponder
+3 Thoughtseize
+4 Brainstorm
+4 Force of Will
+3 Daze
+3 Fatal Push
+1 Bitter Triumph
+4 Polluted Delta
+4 Underground Sea
+3 Wasteland
+2 Island
+2 Undercity Sewers
+1 Flooded Strand
+1 Marsh Flats
+1 Prismatic Vista
+1 Swamp
+
+Sideboard
+3 Consign to Memory
+2 Hydroblast
+2 Surgical Extraction
+1 Barrowgoyf
+1 Dauthi Voidwalker
+1 Engineered Explosives
+1 Force of Negation
+1 Hullbreacher
+1 Long Goodbye
+1 Sheoldred's Edict
+1 Toxic Deluge
+

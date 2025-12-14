@@ -1,0 +1,32 @@
+// Player: RickyMTG
+// Place: 410
+
+4 Balustrade Spy
+4 Boggart Trawler // Boggart Bog
+4 Elvish Spirit Guide
+4 Simian Spirit Guide
+4 Undercity Informer
+2 Narcomoeba
+1 Poxwalkers
+1 Thassa's Oracle
+4 Agadeem's Awakening // Agadeem, the Undercrypt
+4 Thoughtseize
+4 Unmask
+2 Cabal Therapy
+2 Lively Dirge
+1 Dread Return
+4 Cabal Ritual
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+1 Memory's Journey
+4 Lotus Petal
+1 Jack-o'-Lantern
+1 Bridge from Below
+
+Sideboard
+4 Barrowgoyf
+4 Dauthi Voidwalker
+4 Passageway Seer
+2 Cecil, Dark Knight // Cecil, Redeemed Paladin
+1 Swamp
+

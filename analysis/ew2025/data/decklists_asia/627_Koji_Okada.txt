@@ -1,0 +1,32 @@
+// Player: Koji Okada
+// Place: 627
+
+4 Apex Devastator
+4 Noise Marine
+3 Emrakul, the Aeons Torn
+1 Maelstrom Wanderer
+1 Trumpeting Carnosaur
+4 Creative Technique
+4 Throes of Chaos
+3 Call Forth the Tempest
+4 Transforming Flourish
+3 Tibalt's Trickery
+4 Ancient Tomb
+4 Dwarven Ruins
+4 Great Furnace
+4 Hickory Woodlot
+4 Sandstone Needle
+4 Tree of Tales
+3 Boseiju, Who Endures
+3 City of Traitors
+3 Seat of the Synod
+2 Mossfire Valley
+
+Sideboard
+4 Chancellor of the Annex
+4 Violent Outburst
+3 Trumpeting Carnosaur
+2 Mossfire Valley
+1 Boseiju, Who Endures
+1 Tibalt's Trickery
+

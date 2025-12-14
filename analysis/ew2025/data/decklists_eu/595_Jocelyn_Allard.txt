@@ -1,0 +1,44 @@
+// Player: Jocelyn Allard
+// Place: 595
+
+4 Quantum Riddler
+3 Uro, Titan of Nature's Wrath
+2 Phelia, Exuberant Shepherd
+4 Ponder
+2 Prismatic Ending
+1 Life from the Loam
+1 Stock Up
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+2 Force of Negation
+1 Stifle
+4 Leyline Binding
+4 Up the Beanstalk
+4 Flooded Strand
+4 Misty Rainforest
+2 Wasteland
+1 Forest
+1 Hedge Maze
+1 Island
+1 Meticulous Archive
+1 Plains
+1 Savannah
+1 Scalding Tarn
+1 Spara's Headquarters
+1 Tropical Island
+1 Tundra
+1 Volcanic Island
+1 Xander's Lounge
+
+Sideboard
+2 Carpet of Flowers
+2 Containment Priest
+2 Hydroblast
+2 Surgical Extraction
+2 Teferi, Time Raveler
+2 Veil of Summer
+1 Flusterstorm
+1 Ravenous Trap
+1 Stony Silence
+

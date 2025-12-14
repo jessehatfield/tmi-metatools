@@ -1,0 +1,41 @@
+// Player: Eric Ratkowski
+// Place: 27
+
+2 Street Wraith
+2 Thassa's Oracle
+4 Doomsday
+4 Ponder
+4 Thoughtseize
+3 Personal Tutor
+2 Edge of Autumn
+1 Unearth
+4 Brainstorm
+4 Dark Ritual
+4 Force of Will
+3 Daze
+2 Cabal Ritual
+1 Consider
+3 Lotus Petal
+1 Lion's Eye Diamond
+4 Polluted Delta
+4 Underground Sea
+1 Cavern of Souls
+1 Flooded Strand
+1 Island
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+3 Duress
+3 Force of Negation
+3 Leyline of Sanctity
+1 Echoing Truth
+1 Hydroblast
+1 Laboratory Maniac
+1 Long Goodbye
+1 Misdirection
+1 Nihil Spellbomb
+

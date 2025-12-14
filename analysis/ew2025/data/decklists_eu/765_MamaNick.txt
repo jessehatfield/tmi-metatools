@@ -1,0 +1,41 @@
+// Player: MamaNick
+// Place: 765
+
+4 Life from the Loam
+3 Malevolent Rumble
+4 Crop Rotation
+1 Swords to Plowshares
+4 Mox Diamond
+4 Sphere of Resistance
+1 Lavaspur Boots
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Exploration
+4 Urza's Saga
+1 Walk-In Closet // Forgotten Cellar
+4 Thespian's Stage
+4 Wasteland
+3 Dark Depths
+2 Ancient Tomb
+2 Boseiju, Who Endures
+2 Windswept Heath
+2 Yavimaya, Cradle of Growth
+1 Bojuka Bog
+1 Forest
+1 Ghost Quarter
+1 Karakas
+1 Lush Portico
+1 Maze of Ith
+1 Savannah
+1 Sejiri Steppe
+1 The Tabernacle at Pendrell Vale
+
+Sideboard
+3 Force of Vigor
+3 Swords to Plowshares
+2 Containment Priest
+2 Deafening Silence
+2 Endurance
+2 Faerie Macabre
+1 Haywire Mite
+

@@ -1,0 +1,40 @@
+// Player: Ryuichi Katayama
+// Place: 502
+
+1 Kaito, Bane of Nightmares
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Murktide Regent
+3 Orcish Bowmasters
+2 Barrowgoyf
+1 Brazen Borrower // Petty Theft
+4 Ponder
+4 Thoughtseize
+2 Witherbloom Command
+4 Brainstorm
+4 Daze
+4 Force of Will
+3 Fatal Push
+1 Feed the Cycle
+4 Polluted Delta
+4 Wasteland
+3 Underground Sea
+2 Misty Rainforest
+2 Verdant Catacombs
+1 Bayou
+1 Island
+1 Swamp
+1 Tropical Island
+1 Undercity Sewers
+
+Sideboard
+3 Consign to Memory
+2 Carpet of Flowers
+2 Force of Negation
+2 Hydroblast
+1 Baleful Strix
+1 Boseiju, Who Endures
+1 Disruptor Flute
+1 Engineered Explosives
+1 Feed the Cycle
+1 Grafdigger's Cage
+

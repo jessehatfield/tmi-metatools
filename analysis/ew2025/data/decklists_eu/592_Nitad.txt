@@ -1,0 +1,47 @@
+// Player: Nitad
+// Place: 592
+
+2 Kaito, Bane of Nightmares
+1 Narset, Parter of Veils
+4 Orcish Bowmasters
+2 Baleful Strix
+1 Barrowgoyf
+1 Brazen Borrower // Petty Theft
+1 Murktide Regent
+1 Nimble Obstructionist
+1 Quantum Riddler
+1 Snapcaster Mage
+4 Ponder
+2 Thoughtseize
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+4 Lightning Bolt
+2 Fatal Push
+2 Kolaghan's Command
+2 Sheoldred's Edict
+1 Cling to Dust
+4 Polluted Delta
+3 Bloodstained Mire
+2 Badlands
+2 Island
+2 Scalding Tarn
+2 Underground Sea
+1 Mountain
+1 Swamp
+1 Undercity Sewers
+1 Volcanic Island
+
+Sideboard
+2 Consign to Memory
+2 Meltdown
+2 Price of Progress
+2 Pyroblast
+1 Barrowgoyf
+1 Grafdigger's Cage
+1 Hydroblast
+1 Opposition Agent
+1 Red Elemental Blast
+1 Surgical Extraction
+1 Toxic Deluge
+

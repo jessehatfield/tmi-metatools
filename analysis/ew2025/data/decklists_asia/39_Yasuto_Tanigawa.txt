@@ -1,0 +1,39 @@
+// Player: Yasuto Tanigawa
+// Place: 39
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Amped Raptor
+4 Guide of Souls
+4 Ocelot Pride
+4 Voice of Victory
+2 Phelia, Exuberant Shepherd
+2 Phlage, Titan of Fire's Fury
+2 Professor of Symbology
+2 Spider-Punk
+1 Broadside Bombardiers
+4 Swords to Plowshares
+3 Static Prison
+2 Goblin Bombardment
+4 Arid Mesa
+4 Wasteland
+3 Plateau
+2 Flooded Strand
+2 Karakas
+2 Marsh Flats
+2 Plains
+1 Elegant Parlor
+1 Mountain
+1 Sunbaked Canyon
+
+Sideboard
+2 Deafening Silence
+2 Disruptor Flute
+2 Faerie Macabre
+2 Price of Progress
+2 Pyroblast
+1 Firebending Lesson
+1 Null Rod
+1 Price of Freedom
+1 Redirect Lightning
+1 Void Mirror
+

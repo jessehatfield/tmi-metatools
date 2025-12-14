@@ -1,0 +1,39 @@
+// Player: RobB58
+// Place: 348
+
+2 Emrakul, the Aeons Torn
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Show and Tell
+4 Stock Up
+3 Thoughtseize
+2 Lórien Revealed
+2 Preordain
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+2 Daze
+2 Lim-Dûl's Vault
+1 Sink into Stupor // Soporific Springs
+4 Omniscience
+4 Ancient Tomb
+4 Polluted Delta
+3 Island
+3 Underground Sea
+2 Flooded Strand
+1 Mystic Sanctuary
+1 Swamp
+
+Sideboard
+2 Boseiju, Who Shelters All
+2 Consign to Memory
+2 Defense Grid
+2 Dress Down
+1 Echoing Truth
+1 Flusterstorm
+1 Force of Negation
+1 Grafdigger's Cage
+1 Shared Summons
+1 Sublime Epiphany
+1 Surgical Extraction
+

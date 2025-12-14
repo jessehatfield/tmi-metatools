@@ -1,0 +1,40 @@
+// Player: kousuke oku
+// Place: 462
+
+2 Atraxa, Grand Unifier
+2 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Veil of Summer
+2 Cunning Wish
+2 Planar Genesis
+3 Lotus Petal
+3 The One Ring
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+3 Island
+2 Tropical Island
+1 Flooded Strand
+1 Forest
+1 Hedge Maze
+1 Mistrise Village
+1 Polluted Delta
+
+Sideboard
+3 Carpet of Flowers
+3 Consign to Memory
+1 Boseiju, Who Endures
+1 Echoing Truth
+1 Force of Negation
+1 Grafdigger's Cage
+1 Heritage Reclamation
+1 Shared Summons
+1 Sublime Epiphany
+1 Surgical Extraction
+1 Veil of Summer
+

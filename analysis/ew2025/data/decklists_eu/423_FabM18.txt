@@ -1,0 +1,44 @@
+// Player: FabM18
+// Place: 423
+
+2 Teferi, Master of Time
+4 Stoneforge Mystic
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Murktide Regent
+1 Snapcaster Mage
+4 Ponder
+3 Prismatic Ending
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+1 Spell Pierce
+1 Batterskull
+1 Cryptic Coat
+1 Kaldra Compleat
+2 Back to Basics
+4 Flooded Strand
+4 Island
+4 Prismatic Vista
+2 Plains
+1 Karakas
+1 Meticulous Archive
+1 Mountain
+1 Scalding Tarn
+1 Tundra
+1 Volcanic Island
+
+Sideboard
+2 Consign to Memory
+2 Lavinia, Azorius Renegade
+2 Red Elemental Blast
+2 Wrath of the Skies
+1 Hydroblast
+1 Lion Sash
+1 Meltdown
+1 Null Rod
+1 Pyroblast
+1 Rest in Peace
+1 Surgical Extraction
+

@@ -1,0 +1,31 @@
+// Player: Yoshihiro Hirooka
+// Place: 401
+
+4 Broadside Bombardiers
+4 Goblin Matron
+4 Goblin Rabblemaster
+4 Howlsquad Heavy
+4 Simian Spirit Guide
+3 Goblin Ringleader
+3 Muxus, Goblin Grandee
+2 Goblin Trashmaster
+1 Battle Cry Goblin
+1 Boggart Trawler // Boggart Bog
+1 General Kreat, the Boltbringer
+1 Stingscourger
+1 Sundering Eruption // Volcanic Fissure
+4 Chrome Mox
+4 Thorn of Amethyst
+7 Mountain
+4 Ancient Tomb
+4 Cavern of Souls
+4 City of Traitors
+
+Sideboard
+4 Faerie Macabre
+4 Seething Song
+3 Disruptor Flute
+2 Fury
+1 Goblin Trashmaster
+1 Mindbreak Trap
+

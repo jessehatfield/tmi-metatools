@@ -1,0 +1,43 @@
+// Player: Mihawk94
+// Place: 471
+
+4 Chancellor of the Annex
+4 Recruiter of the Guard
+3 Flickerwisp
+3 Solitude
+3 Voice of Victory
+3 Witch Enchanter // Witch-Blessed Meadow
+2 Orcish Bowmasters
+2 Overlord of the Balemurk
+2 Phelia, Exuberant Shepherd
+2 Skyclave Apparition
+2 Thalia, Guardian of Thraben
+2 White Orchid Phantom
+1 Archon of Emeria
+1 Boggart Trawler // Boggart Bog
+1 Loran of the Third Path
+1 Sanctifier en-Vec
+1 Spider-Woman, Stunning Savior
+1 Reanimate
+2 March of Otherworldly Light
+4 Aether Vial
+4 Marsh Flats
+3 Cavern of Souls
+3 Flooded Strand
+2 Plains
+1 Arid Mesa
+1 Karakas
+1 Scrubland
+1 Shadowy Backstreet
+1 Swamp
+
+Sideboard
+4 Leyline of the Void
+2 Deafening Silence
+2 Shining Shoal
+2 Void Mirror
+2 White Orchid Phantom
+1 Archon of Emeria
+1 Sanctifier en-Vec
+1 Surgical Extraction
+

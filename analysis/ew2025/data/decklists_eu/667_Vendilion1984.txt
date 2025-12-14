@@ -1,0 +1,33 @@
+// Player: Vendilion1984
+// Place: 667
+
+4 Emry, Lurker of the Loch
+4 Pinnacle Emissary
+3 Kappa Cannoneer
+1 Thought Monitor
+4 Thoughtcast
+4 Force of Will
+4 Chalice of the Void
+4 Lotus Petal
+4 Mishra's Bauble
+4 Mox Opal
+3 Urza's Bauble
+1 Aether Spellbomb
+1 Lavaspur Boots
+4 Obsessive Pursuit
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+3 Underground Sea
+
+Sideboard
+3 Metallic Rebuke
+2 Disruptor Flute
+2 Force of Negation
+2 Ghirapur Aether Grid
+2 Harbinger of the Seas
+1 Dismember
+1 Pithing Needle
+1 Shadowspear
+1 Tormod's Crypt
+

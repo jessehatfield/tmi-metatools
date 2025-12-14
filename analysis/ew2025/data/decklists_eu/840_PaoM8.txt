@@ -1,0 +1,39 @@
+// Player: PaoM8
+// Place: 840
+
+2 Emrakul, the Aeons Torn
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Show and Tell
+4 Stock Up
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+3 Veil of Summer
+2 Spell Pierce
+1 Flusterstorm
+3 Lotus Petal
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+3 Island
+2 Mistrise Village
+2 Scalding Tarn
+1 Forest
+1 Hedge Maze
+1 Tropical Island
+
+Sideboard
+3 Carpet of Flowers
+2 Consign to Memory
+2 Grafdigger's Cage
+2 Surgical Extraction
+1 Echoing Truth
+1 Heritage Reclamation
+1 Hydroblast
+1 Into the Flood Maw
+1 Shared Summons
+1 Sublime Epiphany
+

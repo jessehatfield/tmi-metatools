@@ -1,0 +1,44 @@
+// Player: YAKUMO MINAMIJIMA
+// Place: 117
+
+2 Street Wraith
+2 Thassa's Oracle
+4 Doomsday
+4 Ponder
+3 Personal Tutor
+3 Thoughtseize
+2 Edge of Autumn
+1 Duress
+1 Night's Whisper
+4 Brainstorm
+4 Dark Ritual
+4 Force of Will
+3 Daze
+1 Cabal Ritual
+1 Consider
+1 Flusterstorm
+3 Lotus Petal
+1 Lion's Eye Diamond
+4 Polluted Delta
+4 Underground Sea
+2 Flooded Strand
+1 Bloodstained Mire
+1 Cavern of Souls
+1 Island
+1 Misty Rainforest
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+2 Barrowgoyf
+2 Force of Negation
+2 Murktide Regent
+2 Orcish Bowmasters
+1 Brazen Borrower // Petty Theft
+1 Duress
+1 Feed the Cycle
+1 Hide on the Ceiling
+1 Hydroblast
+1 Tormod's Crypt
+1 Vision Charm
+

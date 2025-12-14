@@ -1,0 +1,35 @@
+// Player: MicZ
+// Place: 465
+
+4 Delver of Secrets // Insectile Aberration
+4 Dragon's Rage Channeler
+3 Murktide Regent
+2 Brazen Borrower // Petty Theft
+4 Ponder
+1 Chain Lightning
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+2 Unholy Heat
+1 Force of Negation
+4 Mishra's Bauble
+4 Volcanic Island
+4 Wasteland
+3 Polluted Delta
+2 Flooded Strand
+2 Misty Rainforest
+2 Scalding Tarn
+1 Island
+1 Thundering Falls
+
+Sideboard
+4 Pyroblast
+2 Consign to Memory
+2 Force of Negation
+2 Grafdigger's Cage
+2 Hydroblast
+1 Meltdown
+1 Price of Progress
+1 Unholy Heat
+

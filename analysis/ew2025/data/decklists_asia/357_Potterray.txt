@@ -1,0 +1,34 @@
+// Player: Potterray
+// Place: 357
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Atraxa, Grand Unifier
+1 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+4 Thoughtseize
+2 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Daze
+2 Fatal Push
+3 Omniscience
+4 Ancient Tomb
+4 Polluted Delta
+3 Underground Sea
+2 Flooded Strand
+2 Island
+1 Bloodstained Mire
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+4 Barrowgoyf
+3 Consign to Memory
+2 Brazen Borrower // Petty Theft
+2 Force of Negation
+2 Grafdigger's Cage
+1 Blue Elemental Blast
+1 Fatal Push
+

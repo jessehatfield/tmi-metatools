@@ -1,0 +1,39 @@
+// Player: nkMf
+// Place: 468
+
+4 Badgermole Cub
+4 Noble Hierarch
+3 Endurance
+2 Birds of Paradise
+2 Uro, Titan of Nature's Wrath
+1 Atraxa, Grand Unifier
+1 Craterhoof Behemoth
+1 Dryad Arbor
+1 Icetill Explorer
+1 Ouroboroid
+4 Green Sun's Zenith
+4 Stock Up
+3 Natural Order
+4 Brainstorm
+4 Force of Will
+2 Force of Negation
+4 Misty Rainforest
+3 Wasteland
+3 Windswept Heath
+2 Snow-Covered Forest
+2 Snow-Covered Island
+2 Tropical Island
+1 Boseiju, Who Endures
+1 Savannah
+1 Tundra
+
+Sideboard
+4 Swords to Plowshares
+2 Carpet of Flowers
+2 Collector Ouphe
+2 Consign to Memory
+2 Prismatic Ending
+1 Blue Elemental Blast
+1 Disruptor Flute
+1 Hydroblast
+

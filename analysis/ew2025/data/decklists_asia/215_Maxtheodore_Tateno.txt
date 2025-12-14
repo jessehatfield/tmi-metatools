@@ -1,0 +1,39 @@
+// Player: Maxtheodore Tateno
+// Place: 215
+
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+2 Simian Spirit Guide
+1 Chaos Defiler
+1 Phyrexian Devourer
+1 Phyrexian Dragon Engine
+4 Pyroblast
+2 Red Elemental Blast
+3 Agatha's Soul Cauldron
+2 Grindstone
+2 Lotus Petal
+1 Ensnaring Bridge
+1 Lavaspur Boots
+1 Melded Moxite
+1 Mox Opal
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+8 Mountain
+4 Ancient Tomb
+2 City of Traitors
+2 Great Furnace
+1 Arena of Glory
+
+Sideboard
+3 Fury
+2 Abrade
+2 Blood Moon
+2 Disruptor Flute
+2 Faerie Macabre
+1 Damping Sphere
+1 Magus of the Moon
+1 Pithing Needle
+1 Void Mirror
+

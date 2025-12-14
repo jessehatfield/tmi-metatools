@@ -1,0 +1,40 @@
+// Player: kirlsc
+// Place: 95
+
+4 Life from the Loam
+4 Malevolent Rumble
+4 Crop Rotation
+4 Mox Diamond
+3 Disruptor Flute
+1 Expedition Map
+1 Grafdigger's Cage
+1 Lavaspur Boots
+1 Pithing Needle
+4 Exploration
+4 Urza's Saga
+4 Dark Depths
+4 Thespian's Stage
+4 Wasteland
+4 Yavimaya, Cradle of Growth
+3 Boseiju, Who Endures
+2 Forest
+2 Maze of Ith
+1 Ancient Tomb
+1 Bojuka Bog
+1 Ghost Quarter
+1 Karakas
+1 Otawara, Soaring City
+1 Sejiri Steppe
+1 The Tabernacle at Pendrell Vale
+
+Sideboard
+3 Elvish Reclaimer
+2 Damping Sphere
+2 Dismember
+2 Legolas's Quick Reflexes
+2 Surgical Extraction
+1 Brittle Effigy
+1 Disruptor Flute
+1 Endurance
+1 Pithing Needle
+

@@ -1,0 +1,39 @@
+// Player: paolohitz93
+// Place: 167
+
+1 Teferi, Time Raveler
+4 Cephalid Illusionist
+4 Nomads en-Kor
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Narcomoeba
+1 Murktide Regent
+1 Thassa's Oracle
+4 Ponder
+2 Prismatic Ending
+2 Step Through
+1 Dread Return
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+1 Orim's Chant
+2 Shuko
+2 Urza's Saga
+4 Flooded Strand
+4 Island
+2 Plains
+2 Tundra
+1 Arid Mesa
+1 Meticulous Archive
+1 Misty Rainforest
+1 Polluted Delta
+1 Scalding Tarn
+
+Sideboard
+4 Consign to Memory
+4 Triumph of Saint Katherine
+2 Force of Negation
+2 Prismatic Ending
+1 Orim's Chant
+1 Pithing Needle
+1 Serenity
+

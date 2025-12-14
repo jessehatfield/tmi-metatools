@@ -1,0 +1,40 @@
+// Player: JosephClark
+// Place: 156
+
+2 Kaito, Bane of Nightmares
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Orcish Bowmasters
+2 Baleful Strix
+2 Murktide Regent
+2 Nethergoyf
+1 Barrowgoyf
+4 Ponder
+4 Thoughtseize
+2 Hymn to Tourach
+4 Brainstorm
+4 Force of Will
+3 Fatal Push
+2 Daze
+1 Force of Negation
+1 Snuff Out
+4 Polluted Delta
+4 Underground Sea
+3 Bloodstained Mire
+3 Wasteland
+1 Island
+1 Misty Rainforest
+1 Swamp
+1 Undercity Sewers
+1 Volcanic Island
+
+Sideboard
+4 Pyroblast
+3 Consign to Memory
+2 Barrowgoyf
+1 Dauthi Voidwalker
+1 Force of Negation
+1 Grafdigger's Cage
+1 Null Rod
+1 Orcish Bowmasters
+1 Toxic Deluge
+

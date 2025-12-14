@@ -1,0 +1,44 @@
+// Player: fedetett
+// Place: 656
+
+2 Emrakul, the Aeons Torn
+1 Atraxa, Grand Unifier
+1 Uro, Titan of Nature's Wrath
+4 Ponder
+4 Show and Tell
+4 Stock Up
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+3 Veil of Summer
+2 Spell Pierce
+1 Intuition
+1 Sink into Stupor // Soporific Springs
+3 Lotus Petal
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+2 Island
+2 Tropical Island
+1 Flooded Strand
+1 Forest
+1 Hedge Maze
+1 Mistrise Village
+1 Polluted Delta
+1 Prismatic Vista
+
+Sideboard
+3 Consign to Memory
+2 Carpet of Flowers
+1 Echoing Truth
+1 Faerie Macabre
+1 Grafdigger's Cage
+1 Hydroblast
+1 Intuition
+1 Krosan Grip
+1 Mistrise Village
+1 Shared Summons
+1 Sublime Epiphany
+1 Surgical Extraction
+

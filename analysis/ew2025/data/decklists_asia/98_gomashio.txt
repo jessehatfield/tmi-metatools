@@ -1,0 +1,37 @@
+// Player: gomashio
+// Place: 98
+
+4 Cephalid Illusionist
+4 Nomads en-Kor
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Narcomoeba
+1 Thassa's Oracle
+4 Ponder
+2 Prismatic Ending
+1 Dread Return
+1 Step Through
+4 Brainstorm
+4 Force of Will
+2 Daze
+2 Orim's Chant
+2 Swords to Plowshares
+2 Shuko
+4 Urza's Saga
+4 Flooded Strand
+4 Misty Rainforest
+3 Tundra
+2 Island
+1 Meticulous Archive
+1 Plains
+1 Windswept Heath
+
+Sideboard
+3 Consign to Memory
+3 Triumph of Saint Katherine
+2 Force of Negation
+2 Hydroblast
+2 Swords to Plowshares
+1 Flusterstorm
+1 Pithing Needle
+1 Prismatic Ending
+

@@ -1,0 +1,35 @@
+// Player: Tatsuya Chiba
+// Place: 223
+
+4 Cephalid Illusionist
+4 Emry, Lurker of the Loch
+4 Patron Wizard
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Golbez, Crystal Collector
+2 Narcomoeba
+1 Thassa's Oracle
+1 Cabal Therapy
+1 Dread Return
+4 Brainstorm
+4 Force of Will
+4 Mishra's Bauble
+4 Mox Amber
+3 Shuko
+3 Urza's Saga
+4 Cavern of Souls
+4 Misty Rainforest
+2 Seat of the Synod
+2 Underground Sea
+1 Island
+1 Undercity Sewers
+
+Sideboard
+3 Consign to Memory
+2 Dismember
+2 Force of Negation
+2 Harbinger of the Seas
+2 Hydroblast
+2 Surgical Extraction
+1 Ghost Vacuum
+1 Pithing Needle
+

@@ -1,0 +1,40 @@
+// Player: TommyBoy04
+// Place: 895
+
+2 Grist, the Hunger Tide
+4 Orcish Bowmasters
+2 Barrowgoyf
+2 Hogaak, Arisen Necropolis
+4 Smallpox
+4 Thoughtseize
+3 Afterlife from the Loam
+3 Witherbloom Command
+2 Malevolent Rumble
+1 Inquisition of Kozilek
+1 Fatal Push
+4 Mox Diamond
+1 Lavaspur Boots
+1 Nihil Spellbomb
+4 Urza's Saga
+4 Eumidian Hatchery
+4 Verdant Catacombs
+4 Wasteland
+2 Bayou
+2 Boseiju, Who Endures
+2 Snow-Covered Swamp
+1 Forest
+1 Ghost Quarter
+1 Polluted Delta
+1 Underground Mortuary
+
+Sideboard
+4 Leyline of the Void
+2 Damping Sphere
+2 Force of Vigor
+2 Toxic Deluge
+1 Abrupt Decay
+1 Barrowgoyf
+1 Fatal Push
+1 Haywire Mite
+1 Pithing Needle
+

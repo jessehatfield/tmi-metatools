@@ -1,0 +1,31 @@
+// Player: nakaikeita
+// Place: 40
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 It That Heralds the End
+4 Thought-Knot Seer
+4 Wastescape Battlemage
+3 Reality Smasher
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+3 Eye of Ugin
+3 Secluded Courtyard
+3 Wasteland
+2 City of Traitors
+1 Gemstone Caverns
+1 Wastes
+
+Sideboard
+4 Disruptor Flute
+3 Dismember
+3 Unlicensed Hearse
+2 Null Rod
+1 Eldrazi Confluence
+1 Karakas
+1 Warping Wail
+

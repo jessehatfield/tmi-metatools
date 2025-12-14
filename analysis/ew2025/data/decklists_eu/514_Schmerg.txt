@@ -1,0 +1,41 @@
+// Player: Schmerg
+// Place: 514
+
+4 Duress
+4 Infernal Tutor
+4 Thoughtseize
+3 Burning Wish
+2 Beseech the Mirror
+1 Cabal Therapy
+1 Gaea's Will
+1 Tendrils of Agony
+4 Dark Ritual
+1 Ad Nauseam
+4 Chrome Mox
+4 Lion's Eye Diamond
+4 Lotus Petal
+4 Mox Opal
+3 Wishclaw Talisman
+1 Candy Trail
+1 Lavaspur Boots
+4 Urza's Saga
+1 Necrodominance
+4 Vault of Whispers
+3 Swamp
+1 Spire of Industry
+1 Starting Town
+
+Sideboard
+4 Leyline of the Void
+1 Beseech the Mirror
+1 Cabal Therapy
+1 Echo of Eons
+1 Empty the Warrens
+1 Fatal Push
+1 Feed the Swarm
+1 Haywire Mite
+1 Helm of Obedience
+1 Peer into the Abyss
+1 Shenanigans
+1 Tendrils of Agony
+

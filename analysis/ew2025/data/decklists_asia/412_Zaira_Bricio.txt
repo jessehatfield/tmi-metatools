@@ -1,0 +1,37 @@
+// Player: Zaira Bricio
+// Place: 412
+
+2 Grist, the Hunger Tide
+4 Barrowgoyf
+4 Orcish Bowmasters
+3 Endurance
+3 Hogaak, Arisen Necropolis
+1 Dryad Arbor
+4 Malevolent Rumble
+4 Thoughtseize
+3 Cabal Therapy
+2 Witherbloom Command
+2 Abrupt Decay
+2 Fatal Push
+3 Altar of Dementia
+3 Bridge from Below
+4 Verdant Catacombs
+3 Bayou
+3 Misty Rainforest
+3 Polluted Delta
+2 Boseiju, Who Endures
+2 Wasteland
+1 Forest
+1 Swamp
+1 Underground Mortuary
+
+Sideboard
+3 Force of Vigor
+3 Leyline of the Void
+2 Collector Ouphe
+2 Dismember
+2 Phyrexian Revoker
+1 Assassin's Trophy
+1 Engineered Explosives
+1 Fatal Push
+

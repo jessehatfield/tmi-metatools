@@ -1,0 +1,44 @@
+// Player: Luca Stasi
+// Place: 868
+
+1 Teferi, Time Raveler
+4 Cephalid Illusionist
+4 Nomads en-Kor
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Narcomoeba
+2 Orcish Bowmasters
+1 Thassa's Oracle
+1 Voice of Victory
+4 Ponder
+2 Thoughtseize
+1 Cabal Therapy
+1 Dread Return
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+2 Swords to Plowshares
+2 Shuko
+3 Urza's Saga
+4 Flooded Strand
+3 Misty Rainforest
+2 Island
+2 Polluted Delta
+2 Tundra
+1 Meticulous Archive
+1 Plains
+1 Undercity Sewers
+1 Underground Sea
+
+Sideboard
+3 Consign to Memory
+2 Hydroblast
+2 Swords to Plowshares
+1 Brazen Borrower // Petty Theft
+1 Flusterstorm
+1 Force of Negation
+1 Orim's Chant
+1 Pithing Needle
+1 Prismatic Ending
+1 Serenity
+1 Surgical Extraction
+

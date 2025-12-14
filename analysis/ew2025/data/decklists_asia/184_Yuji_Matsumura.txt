@@ -1,0 +1,41 @@
+// Player: Yuji Matsumura
+// Place: 184
+
+4 Delver of Secrets // Insectile Aberration
+3 Brazen Borrower // Petty Theft
+3 Murktide Regent
+1 Azure Beastbinder
+1 Floodpits Drowner
+4 Ponder
+3 Preordain
+4 Brainstorm
+4 Daze
+4 Force of Will
+2 Dismember
+2 Spell Snare
+2 Stifle
+1 Flusterstorm
+1 Force of Negation
+1 Sink into Stupor // Soporific Springs
+1 Spell Pierce
+2 Astrologian's Planisphere
+5 Island
+4 Wasteland
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+
+Sideboard
+3 Hydroblast
+2 Engineered Explosives
+2 Surgical Extraction
+1 Consign to Memory
+1 Disruptor Flute
+1 Dress Down
+1 Harbinger of the Seas
+1 Null Rod
+1 Stern Scolding
+1 True-Name Nemesis
+1 Unable to Scream
+

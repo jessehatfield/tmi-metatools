@@ -1,0 +1,39 @@
+// Player: Yuuki Ichikawa
+// Place: 249
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Atraxa, Grand Unifier
+1 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+4 Thoughtseize
+1 Lórien Revealed
+1 Preordain
+4 Brainstorm
+4 Force of Will
+2 Fatal Push
+1 Sink into Stupor // Soporific Springs
+1 Lotus Petal
+3 Omniscience
+4 Ancient Tomb
+4 Polluted Delta
+3 Underground Sea
+2 Island
+1 Bloodstained Mire
+1 Flooded Strand
+1 Misty Rainforest
+1 Scalding Tarn
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+4 Barrowgoyf
+3 Consign to Memory
+3 Dauthi Voidwalker
+1 Blue Elemental Blast
+1 Fatal Push
+1 Force of Negation
+1 Murktide Regent
+1 Sheoldred's Edict
+

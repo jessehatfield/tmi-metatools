@@ -1,0 +1,35 @@
+// Player: ForceofPhil
+// Place: 374
+
+1 Jace, the Mind Sculptor
+4 Ponder
+4 Portent
+3 Terminus
+2 Prismatic Ending
+1 Entreat the Angels
+1 Witness the Future
+4 Brainstorm
+4 Force of Will
+4 Predict
+4 Swords to Plowshares
+2 Spell Pierce
+1 Revitalize
+1 Thwart
+1 Unexpectedly Absent
+3 Counterbalance
+4 Flooded Strand
+4 Mystic Sanctuary
+4 Tundra
+3 Island
+3 Misty Rainforest
+1 Meticulous Archive
+1 Plains
+
+Sideboard
+4 Consign to Memory
+4 Snapcaster Mage
+2 Flusterstorm
+2 Hydroblast
+2 Null Rod
+1 Surgical Extraction
+

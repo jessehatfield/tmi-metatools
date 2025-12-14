@@ -1,0 +1,43 @@
+// Player: Faye Lai
+// Place: 509
+
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+4 Stoneforge Mystic
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Murktide Regent
+2 Snapcaster Mage
+2 Wan Shi Tong, Librarian
+4 Ponder
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Swords to Plowshares
+1 Force of Negation
+1 Assimilation Aegis
+1 Kaldra Compleat
+1 Meteor Sword
+1 Back to Basics
+4 Flooded Strand
+4 Tundra
+4 Wasteland
+2 Island
+2 Plains
+1 Karakas
+1 Meticulous Archive
+1 Polluted Delta
+1 Windswept Heath
+
+Sideboard
+3 Consign to Memory
+2 Containment Priest
+2 Wrath of the Skies
+1 Batterskull
+1 Blue Elemental Blast
+1 Deafening Silence
+1 Force of Negation
+1 Grafdigger's Cage
+1 Narset, Parter of Veils
+1 Rest in Peace
+1 Stony Silence
+

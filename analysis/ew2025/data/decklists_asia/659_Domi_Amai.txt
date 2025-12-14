@@ -1,0 +1,41 @@
+// Player: Domi Amai
+// Place: 659
+
+2 Murktide Regent
+2 Uro, Titan of Nature's Wrath
+1 Triumph of Saint Katherine
+4 Ponder
+2 Prismatic Ending
+1 Forth Eorlingas!
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+4 Leyline Binding
+4 Stormchaser's Talent
+4 Up the Beanstalk
+1 Dress Down
+4 Flooded Strand
+4 Misty Rainforest
+2 Tropical Island
+2 Tundra
+2 Wasteland
+1 Hedge Maze
+1 Island
+1 Meticulous Archive
+1 Plains
+1 Savannah
+1 Volcanic Island
+1 Xander's Lounge
+
+Sideboard
+3 Pyroblast
+2 Blue Elemental Blast
+2 Carpet of Flowers
+2 Consign to Memory
+2 Grafdigger's Cage
+1 Clarion Conqueror
+1 Fire Magic
+1 Force of Negation
+1 Meltdown
+

@@ -1,0 +1,39 @@
+// Player: Corkyjet
+// Place: 900
+
+3 Archon of Cruelty
+3 Atraxa, Grand Unifier
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+2 Orcish Bowmasters
+4 Careful Study
+4 Reanimate
+3 Ponder
+3 Thoughtseize
+4 Brainstorm
+4 Force of Will
+3 Daze
+1 Bitter Triumph
+1 Animate Dead
+4 Polluted Delta
+3 Wasteland
+2 Island
+2 Misty Rainforest
+2 Undercity Sewers
+2 Underground Sea
+1 Bloodstained Mire
+1 Flooded Strand
+1 Swamp
+
+Sideboard
+2 Barrowgoyf
+2 Consign to Memory
+2 Dauthi Voidwalker
+2 Engineered Explosives
+2 Fatal Push
+2 Hydroblast
+1 Force of Negation
+1 Sheoldred's Edict
+1 Surgical Extraction
+

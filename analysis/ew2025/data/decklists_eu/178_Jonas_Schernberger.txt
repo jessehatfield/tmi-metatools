@@ -1,0 +1,25 @@
+// Player: Jonas Schernberger
+// Place: 178
+
+4 Ancient Cellarspawn
+4 Boggart Trawler // Boggart Bog
+3 Shadow of Mortality
+4 Duress
+4 Thoughtseize
+4 Cabal Ritual
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+4 Sickening Shoal
+4 Soul Spike
+3 March of Wretched Sorrow
+4 The One Ring
+4 Necrodominance
+10 Swamp
+
+Sideboard
+4 Dauthi Voidwalker
+4 Insatiable Avarice
+3 Barrowgoyf
+3 Null Rod
+1 March of Wretched Sorrow
+

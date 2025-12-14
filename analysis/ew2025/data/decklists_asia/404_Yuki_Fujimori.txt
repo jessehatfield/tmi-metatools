@@ -1,0 +1,39 @@
+// Player: Yuki Fujimori
+// Place: 404
+
+4 Atraxa, Grand Unifier
+3 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+4 Brainstorm
+4 Force of Will
+2 Spell Pierce
+1 Flusterstorm
+4 Lotus Petal
+4 Sneak Attack
+2 Omniscience
+4 Scalding Tarn
+3 Ancient Tomb
+3 Volcanic Island
+2 City of Traitors
+2 Island
+2 Polluted Delta
+1 Flooded Strand
+1 Mistrise Village
+1 Mountain
+1 Thundering Falls
+
+Sideboard
+2 Abrade
+2 Consign to Memory
+2 Disruptor Flute
+2 Grafdigger's Cage
+1 Brotherhood's End
+1 Hullbreacher
+1 Mistrise Village
+1 Pyroblast
+1 Red Elemental Blast
+1 Surgical Extraction
+1 Through the Breach
+

@@ -1,0 +1,36 @@
+// Player: Philipp Roushani
+// Place: 82
+
+4 Atraxa, Grand Unifier
+2 Archon of Cruelty
+2 Emrakul, the Aeons Torn
+2 Simian Spirit Guide
+4 Ponder
+4 Show and Tell
+3 Stock Up
+4 Brainstorm
+4 Force of Will
+2 Daze
+4 Lotus Petal
+4 Sneak Attack
+2 Omniscience
+4 Scalding Tarn
+3 Ancient Tomb
+3 Volcanic Island
+2 City of Traitors
+2 Island
+2 Misty Rainforest
+1 Mistrise Village
+1 Mountain
+1 Thundering Falls
+
+Sideboard
+3 Consign to Memory
+3 Pyroblast
+2 Blood Moon
+2 Faerie Macabre
+2 Hydroblast
+1 Abrade
+1 Brotherhood's End
+1 Omniscience
+

@@ -1,0 +1,38 @@
+// Player: KimYoungsu
+// Place: 195
+
+2 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Barrowgoyf
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+4 Ponder
+4 Thoughtseize
+3 Hymn to Tourach
+4 Brainstorm
+4 Force of Will
+3 Daze
+3 Fatal Push
+1 Sheoldred's Edict
+4 Polluted Delta
+4 Underground Sea
+4 Wasteland
+2 Marsh Flats
+2 Scalding Tarn
+1 Island
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+2 Consign to Memory
+2 Dauthi Voidwalker
+2 Engineered Explosives
+2 Harbinger of the Seas
+2 Surgical Extraction
+1 Barrowgoyf
+1 Force of Negation
+1 Hydroblast
+1 Null Rod
+1 Sheoldred's Edict
+

@@ -1,0 +1,32 @@
+// Player: LeoR17
+// Place: 575
+
+4 Golgari Grave-Troll
+4 Narcomoeba
+4 Stinkweed Imp
+3 Golgari Thug
+3 Poxwalkers
+2 Satoru, the Infiltrator
+1 Thassa's Oracle
+4 Cabal Therapy
+4 Careful Study
+2 Dread Return
+1 Breakthrough
+4 Brainstorm
+4 Force of Will
+4 Otherworldly Gaze
+2 Bridge from Below
+4 Cephalid Coliseum
+3 Flooded Strand
+2 Island
+2 Polluted Delta
+2 Underground Sea
+1 Undercity Sewers
+
+Sideboard
+4 Chain of Vapor
+4 Daze
+4 Leyline of the Void
+2 Bridge from Below
+1 Stern Dismissal
+

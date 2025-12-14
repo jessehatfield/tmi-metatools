@@ -1,0 +1,35 @@
+// Player: Humbert Milazzo
+// Place: 183
+
+4 Hullbreacher
+4 Orcish Bowmasters
+4 Scrawling Crawler
+4 Echo of Eons
+4 Force of Will
+4 Thirst for Knowledge
+3 Fell the Profane // Fell Mire
+3 Sink into Stupor // Soporific Springs
+2 Bitter Triumph
+3 Chalice of the Void
+3 Chrome Mox
+3 Lion's Eye Diamond
+1 Mox Opal
+1 Shadowspear
+4 Urza's Saga
+4 Ancient Tomb
+4 Polluted Delta
+2 Underground Sea
+1 Island
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+3 Barrowgoyf
+3 Consign to Memory
+2 Dismember
+2 Disruptor Flute
+2 Faerie Macabre
+1 Damping Sphere
+1 Fell the Profane // Fell Mire
+1 Sink into Stupor // Soporific Springs
+

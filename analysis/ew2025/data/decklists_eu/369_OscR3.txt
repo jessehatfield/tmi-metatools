@@ -1,0 +1,31 @@
+// Player: OscR3
+// Place: 369
+
+4 Archon of Cruelty
+4 Caves of Chaos Adventurer
+4 Seasoned Dungeoneer
+4 Solitude
+3 Simian Spirit Guide
+3 Witch Enchanter // Witch-Blessed Meadow
+2 Magus of the Moon
+3 Forth Eorlingas!
+3 Sundering Eruption // Volcanic Fissure
+4 Chalice of the Void
+4 Chrome Mox
+4 Lotus Petal
+2 Blood Moon
+2 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Ancient Tomb
+3 City of Traitors
+2 Karakas
+2 Plains
+2 Plateau
+1 Mountain
+
+Sideboard
+4 Leyline of the Void
+4 Swords to Plowshares
+3 Null Rod
+2 Blood Moon
+2 Touch the Spirit Realm
+

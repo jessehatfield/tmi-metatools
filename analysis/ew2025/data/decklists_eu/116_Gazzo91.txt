@@ -1,0 +1,41 @@
+// Player: Gazzo91
+// Place: 116
+
+2 Murktide Regent
+2 Uro, Titan of Nature's Wrath
+4 Ponder
+2 Prismatic Ending
+1 Life from the Loam
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+1 This Town Ain't Big Enough
+4 Leyline Binding
+4 Stormchaser's Talent
+4 Up the Beanstalk
+1 Dress Down
+4 Flooded Strand
+4 Misty Rainforest
+2 Tundra
+2 Volcanic Island
+2 Wasteland
+1 Forest
+1 Hedge Maze
+1 Island
+1 Plains
+1 Savannah
+1 Tropical Island
+1 Xander's Lounge
+
+Sideboard
+3 Consign to Memory
+2 Carpet of Flowers
+2 Hydroblast
+2 Pyroblast
+2 Surgical Extraction
+1 Clarion Conqueror
+1 Fire Magic
+1 Force of Negation
+1 Meltdown
+

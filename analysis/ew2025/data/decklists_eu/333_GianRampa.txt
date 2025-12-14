@@ -1,0 +1,32 @@
+// Player: GianRampa
+// Place: 333
+
+4 Apex Devastator
+4 Noise Marine
+2 Maelstrom Wanderer
+4 Creative Technique
+4 Throes of Chaos
+2 Emergent Ultimatum
+1 Call Forth the Tempest
+1 Mind's Desire
+4 Tibalt's Trickery
+4 Violent Outburst
+4 Ancient Tomb
+4 Boseiju, Who Endures
+4 Dwarven Ruins
+4 Mossfire Valley
+4 Sandstone Needle
+3 Tinder Farm
+2 City of Traitors
+2 Hickory Woodlot
+1 Crystal Vein
+1 Forest
+1 Mountain
+
+Sideboard
+4 Chancellor of the Annex
+4 Ingot Chewer
+4 Leyline of the Void
+2 Inevitable Betrayal
+1 Trumpeting Carnosaur
+

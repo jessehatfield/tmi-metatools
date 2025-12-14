@@ -1,0 +1,37 @@
+// Player: Stephane Roumanille
+// Place: 839
+
+4 Karn, the Great Creator
+2 Ugin, Eye of the Storms
+4 Thundertrap Trainer
+1 Hullbreacher
+4 Stock Up
+2 Lórien Revealed
+4 Force of Will
+4 Kozilek's Command
+2 Eldrazi Confluence
+2 Force of Negation
+2 Sink into Stupor // Soporific Springs
+2 Waterlogged Teachings // Inundated Archive
+3 Disruptor Flute
+3 The One Ring
+4 Ancient Tomb
+4 Cloudpost
+4 Planar Nexus
+4 Urza's Tower
+3 Glimmerpost
+2 Island
+1 Underground Sea
+
+Sideboard
+4 Barrowgoyf
+2 Dress Down
+2 Hydroblast
+1 Engineered Explosives
+1 Ensnaring Bridge
+1 Hullbreacher
+1 Moonsnare Prototype
+1 Mycosynth Lattice
+1 The One Ring
+1 Walking Ballista
+

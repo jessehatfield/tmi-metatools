@@ -1,0 +1,29 @@
+// Player: atori131
+// Place: 350
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Reality Smasher
+4 Thought-Knot Seer
+3 Devourer of Destiny
+2 Nulldrifter
+1 Eldrazi Displacer
+1 Emrakul's Hatcher
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Planar Nexus
+4 Urza's Tower
+3 Cloudpost
+2 Eye of Ugin
+
+Sideboard
+4 Leyline of the Void
+4 Wastescape Battlemage
+3 Pithing Needle
+2 Faerie Macabre
+2 Null Rod
+

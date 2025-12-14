@@ -1,0 +1,43 @@
+// Player: Taro Takahashi
+// Place: 84
+
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Triumph of Saint Katherine
+2 Uro, Titan of Nature's Wrath
+1 Wan Shi Tong, Librarian
+4 Ponder
+1 Forth Eorlingas!
+1 Life from the Loam
+1 Lórien Revealed
+1 Terminus
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+4 Leyline Binding
+4 Up the Beanstalk
+1 Dress Down
+4 Flooded Strand
+4 Misty Rainforest
+2 Tundra
+2 Wasteland
+1 Forest
+1 Hedge Maze
+1 Island
+1 Meticulous Archive
+1 Plains
+1 Savannah
+1 Tropical Island
+1 Volcanic Island
+1 Xander's Lounge
+
+Sideboard
+3 Consign to Memory
+2 Carpet of Flowers
+2 Clarion Conqueror
+2 Grafdigger's Cage
+2 Red Elemental Blast
+2 Wrath of the Skies
+1 Blue Elemental Blast
+1 Damping Sphere
+

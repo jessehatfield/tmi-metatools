@@ -1,0 +1,38 @@
+// Player: Ryo Ito
+// Place: 610
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Thundertrap Trainer
+3 Murktide Regent
+2 Snapcaster Mage
+4 Ponder
+2 Prismatic Ending
+1 Forth Eorlingas!
+4 Brainstorm
+4 Flame of Anor
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+1 Sink into Stupor // Soporific Springs
+2 Dress Down
+4 Flooded Strand
+4 Island
+4 Prismatic Vista
+2 Plains
+1 Mountain
+1 Plateau
+1 Scalding Tarn
+1 Tundra
+1 Volcanic Island
+
+Sideboard
+3 Consign to Memory
+3 Pyroblast
+2 Blue Elemental Blast
+2 Wrath of the Skies
+1 Back to Basics
+1 Fire Magic
+1 Grafdigger's Cage
+1 Surgical Extraction
+1 Triumph of Saint Katherine
+

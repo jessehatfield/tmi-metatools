@@ -1,0 +1,42 @@
+// Player: Piiinooo
+// Place: 489
+
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Emrakul, the Aeons Torn
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Show and Tell
+4 Stock Up
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+3 Veil of Summer
+1 Intuition
+1 Sink into Stupor // Soporific Springs
+1 Spell Pierce
+3 Lotus Petal
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+3 Island
+1 Flooded Strand
+1 Forest
+1 Hedge Maze
+1 Mistrise Village
+1 Polluted Delta
+1 Tropical Island
+
+Sideboard
+3 Carpet of Flowers
+2 Consign to Memory
+2 Dress Down
+1 Echoing Truth
+1 Flusterstorm
+1 Noxious Revival
+1 Return to Nature
+1 Shared Summons
+1 Sublime Epiphany
+1 Surgical Extraction
+1 Veil of Summer
+

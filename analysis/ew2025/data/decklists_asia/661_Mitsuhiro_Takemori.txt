@@ -1,0 +1,36 @@
+// Player: Mitsuhiro Takemori
+// Place: 661
+
+4 Karn, the Great Creator
+3 Ugin, Eye of the Storms
+4 Thundertrap Trainer
+1 Ulamog, the Ceaseless Hunger
+4 Stock Up
+2 Lórien Revealed
+4 Force of Will
+4 Kozilek's Command
+2 Force of Negation
+2 Waterlogged Teachings // Inundated Archive
+1 Cyclonic Rift
+3 Disruptor Flute
+3 The One Ring
+4 Ancient Tomb
+4 Cloudpost
+4 Planar Nexus
+4 Urza's Tower
+3 Glimmerpost
+2 Island
+1 Karakas
+1 Underground Sea
+
+Sideboard
+3 Barrowgoyf
+2 Consign to Memory
+2 Dismember
+2 Faerie Macabre
+2 Hydroblast
+1 Ensnaring Bridge
+1 Mycosynth Lattice
+1 The One Ring
+1 Walking Ballista
+

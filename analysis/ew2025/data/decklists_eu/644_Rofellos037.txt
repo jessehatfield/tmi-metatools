@@ -1,0 +1,35 @@
+// Player: Rofellos037
+// Place: 644
+
+4 Karn, the Great Creator
+2 Ugin, Eye of the Storms
+4 Thundertrap Trainer
+4 Stock Up
+2 Lórien Revealed
+4 Force of Will
+4 Kozilek's Command
+2 Eldrazi Confluence
+2 Force of Negation
+2 Sink into Stupor // Soporific Springs
+4 Chalice of the Void
+3 The One Ring
+4 Ancient Tomb
+4 Cloudpost
+4 Glimmerpost
+4 Planar Nexus
+4 Urza's Tower
+3 Island
+
+Sideboard
+3 Faerie Macabre
+2 Flusterstorm
+2 Wurmcoil Engine
+1 Cyclonic Rift
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Moonsnare Prototype
+1 Mycosynth Lattice
+1 The One Ring
+1 Tormod's Crypt
+1 Walking Ballista
+

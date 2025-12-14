@@ -1,0 +1,40 @@
+// Player: GFT
+// Place: 135
+
+4 Ignoble Hierarch
+4 Wight of the Reliquary
+3 Noble Hierarch
+2 Badgermole Cub
+2 Dryad Arbor
+2 Keen-Eyed Curator
+2 Sylvan Safekeeper
+1 Collector Ouphe
+1 Craterhoof Behemoth
+1 Endurance
+1 Fiend Artisan
+1 Quirion Ranger
+1 Springheart Nantuko
+4 Green Sun's Zenith
+4 Thoughtseize
+3 Natural Order
+3 Once Upon a Time
+3 Gaea's Cradle
+3 Misty Rainforest
+3 Wasteland
+3 Windswept Heath
+2 Bayou
+2 Forest
+2 Verdant Catacombs
+1 Bojuka Bog
+1 Lair of the Hydra
+1 Talon Gates of Madara
+
+Sideboard
+3 Endurance
+3 Force of Vigor
+2 Abrupt Decay
+2 Faerie Macabre
+2 Snuff Out
+2 Veil of Summer
+1 Gaddock Teeg
+

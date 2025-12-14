@@ -1,0 +1,44 @@
+// Player: The_Thing711
+// Place: 828
+
+2 Teferi, Time Raveler
+1 Narset, Parter of Veils
+3 Phelia, Exuberant Shepherd
+3 Quantum Riddler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Containment Priest
+1 Snapcaster Mage
+3 Ponder
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+1 Force of Negation
+1 Spell Pierce
+2 Dress Down
+1 Back to Basics
+5 Island
+4 Flooded Strand
+3 Prismatic Vista
+3 Tundra
+2 Plains
+2 Windswept Heath
+1 Karakas
+1 Meticulous Archive
+
+Sideboard
+2 Clarion Conqueror
+2 Hydroblast
+1 Celestial Purge
+1 Consign to Memory
+1 Faerie Macabre
+1 Flusterstorm
+1 Gilded Drake
+1 Rest in Peace
+1 Sanctifier en-Vec
+1 Supreme Verdict
+1 Surgical Extraction
+1 Triumph of Saint Katherine
+1 Wrath of the Skies
+

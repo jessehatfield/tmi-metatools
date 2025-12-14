@@ -1,0 +1,38 @@
+// Player: LucaMassimoRainieri
+// Place: 42
+
+2 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Barrowgoyf
+2 Baleful Strix
+1 Brazen Borrower // Petty Theft
+4 Ponder
+4 Thoughtseize
+4 Brainstorm
+4 Fatal Push
+4 Force of Will
+2 Daze
+2 Sheoldred's Edict
+4 Polluted Delta
+4 Snow-Covered Island
+4 Wasteland
+2 Misty Rainforest
+2 Snow-Covered Swamp
+2 Verdant Catacombs
+1 Undercity Sewers
+1 Underground Sea
+
+Sideboard
+2 Consign to Memory
+2 Force of Negation
+2 Hydroblast
+2 Nihil Spellbomb
+1 Back to Basics
+1 Blue Elemental Blast
+1 Damping Sphere
+1 Engineered Explosives
+1 Narset, Parter of Veils
+1 Null Rod
+1 Surgical Extraction
+

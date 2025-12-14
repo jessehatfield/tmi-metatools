@@ -1,0 +1,49 @@
+// Player: Steivei
+// Place: 668
+
+3 Phelia, Exuberant Shepherd
+3 Quantum Riddler
+2 Containment Priest
+1 Solitude
+1 Uro, Titan of Nature's Wrath
+2 Ponder
+1 Forth Eorlingas!
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+2 Force of Negation
+2 Spell Pierce
+4 Leyline Binding
+4 Up the Beanstalk
+4 Flooded Strand
+3 Misty Rainforest
+2 Island
+2 Wasteland
+1 Forest
+1 Hedge Maze
+1 Karakas
+1 Meticulous Archive
+1 Plains
+1 Savannah
+1 Tropical Island
+1 Tundra
+1 Volcanic Island
+1 Windswept Heath
+1 Xander's Lounge
+
+Sideboard
+2 Carpet of Flowers
+2 Hydroblast
+2 Lavinia, Azorius Renegade
+1 Clarion Conqueror
+1 Consign to Memory
+1 Deafening Silence
+1 Engineered Explosives
+1 Null Rod
+1 Pyroblast
+1 Rest in Peace
+1 Surgical Extraction
+1 Wrath of the Skies
+

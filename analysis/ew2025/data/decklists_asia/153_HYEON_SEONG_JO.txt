@@ -1,0 +1,39 @@
+// Player: HYEON SEONG JO
+// Place: 153
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Murktide Regent
+3 Uro, Titan of Nature's Wrath
+4 Ponder
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+2 Force of Negation
+4 Leyline Binding
+4 Up the Beanstalk
+4 Flooded Strand
+4 Misty Rainforest
+2 Tropical Island
+2 Tundra
+1 Forest
+1 Hedge Maze
+1 Island
+1 Meticulous Archive
+1 Plains
+1 Savannah
+1 Volcanic Island
+1 Xander's Lounge
+
+Sideboard
+3 Consign to Memory
+2 Carpet of Flowers
+2 Pyroblast
+2 Surgical Extraction
+2 Wrath of the Skies
+1 Hydroblast
+1 Lavinia, Azorius Renegade
+1 Stony Silence
+1 Toxicrene
+

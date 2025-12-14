@@ -1,0 +1,36 @@
+// Player: GibbyAlters
+// Place: 550
+
+4 Archon of Cruelty
+3 Atraxa, Grand Unifier
+1 Griselbrand
+1 Summon: Bahamut
+4 Faithless Looting
+4 Reanimate
+4 Thoughtseize
+4 Unmask
+3 Cabal Therapy
+2 Collective Brutality
+2 Unmarked Grave
+4 Dark Ritual
+2 Shallow Grave
+4 Lotus Petal
+2 Animate Dead
+4 Bloodstained Mire
+4 Polluted Delta
+2 Badlands
+2 Swamp
+2 Undercity Sewers
+1 Raucous Theater
+1 Underground Sea
+
+Sideboard
+4 Show and Tell
+3 Dauthi Voidwalker
+2 Abhorrent Oculus
+2 Fatal Push
+1 Meltdown
+1 Null Rod
+1 Shenanigans
+1 Sheoldred's Edict
+

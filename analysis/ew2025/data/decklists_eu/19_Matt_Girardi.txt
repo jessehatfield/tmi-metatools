@@ -1,0 +1,40 @@
+// Player: Matt Girardi
+// Place: 19
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Murktide Regent
+2 Orcish Bowmasters
+2 Street Wraith
+2 Thassa's Oracle
+4 Doomsday
+4 Ponder
+2 Thoughtseize
+1 Edge of Autumn
+4 Brainstorm
+4 Dark Ritual
+4 Force of Will
+3 Daze
+1 Consider
+1 Lion's Eye Diamond
+1 Lotus Petal
+4 Polluted Delta
+4 Underground Sea
+3 Wasteland
+2 Misty Rainforest
+1 Cavern of Souls
+1 Flooded Strand
+1 Island
+1 Scalding Tarn
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+4 Barrowgoyf
+2 Consign to Memory
+2 Dauthi Voidwalker
+2 Fatal Push
+2 Force of Negation
+1 Brazen Borrower // Petty Theft
+1 Long Goodbye
+1 Wasteland
+

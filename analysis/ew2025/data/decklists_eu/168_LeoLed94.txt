@@ -1,0 +1,39 @@
+// Player: LeoLed94
+// Place: 168
+
+4 Duress
+4 Infernal Tutor
+4 Thoughtseize
+2 Beseech the Mirror
+1 Burning Wish
+1 Cabal Therapy
+1 Gaea's Will
+1 Tendrils of Agony
+4 Dark Ritual
+2 Cabal Ritual
+1 Ad Nauseam
+4 Lion's Eye Diamond
+4 Lotus Petal
+4 Mishra's Bauble
+4 Mox Opal
+3 Wishclaw Talisman
+1 Candy Trail
+1 Chrome Mox
+4 Urza's Saga
+4 Vault of Whispers
+3 Bayou
+2 Verdant Catacombs
+1 Swamp
+
+Sideboard
+3 Carpet of Flowers
+3 Surgical Extraction
+2 Abrupt Decay
+1 Beseech the Mirror
+1 Debt to the Deathless
+1 Grafdigger's Cage
+1 Haywire Mite
+1 Peer into the Abyss
+1 Song of Creation
+1 Tendrils of Agony
+

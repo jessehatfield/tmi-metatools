@@ -1,0 +1,44 @@
+// Player: Takuto Gotoh
+// Place: 594
+
+4 Phyrexian Dreadnought
+2 Abhorrent Oculus
+2 Doorkeeper Thrull
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Uro, Titan of Nature's Wrath
+1 Curie, Emergent Intelligence
+4 Ponder
+3 Prismatic Ending
+2 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Daze
+3 Once Upon a Time
+3 Swords to Plowshares
+1 Force of Negation
+1 Stifle
+4 Dress Down
+4 Flooded Strand
+2 Misty Rainforest
+2 Wasteland
+1 Hedge Maze
+1 Island
+1 Karakas
+1 Mystic Sanctuary
+1 Plains
+1 Tropical Island
+1 Tundra
+
+Sideboard
+2 Consign to Memory
+2 Hydroblast
+2 Mosswort Bridge
+2 Rest in Peace
+1 Back to Basics
+1 Carpet of Flowers
+1 Emrakul, the Aeons Torn
+1 Ghost Vacuum
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+1 Triumph of Saint Katherine
+

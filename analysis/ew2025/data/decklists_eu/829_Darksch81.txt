@@ -1,0 +1,39 @@
+// Player: Darksch81
+// Place: 829
+
+4 Clarion Conqueror
+4 Nulldrifter
+4 Phyrexian Dreadnought
+1 Brazen Borrower // Petty Theft
+4 Ponder
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Consign to Memory
+3 Daze
+1 Force of Negation
+4 Dress Down
+4 Flooded Strand
+3 Tundra
+3 Wasteland
+2 Ancient Tomb
+2 Island
+1 Meticulous Archive
+1 Misty Rainforest
+1 Plains
+1 Scalding Tarn
+1 Windswept Heath
+
+Sideboard
+2 Blue Elemental Blast
+2 Damping Sphere
+2 Force of Negation
+2 Prismatic Ending
+2 Rest in Peace
+1 Consign to Memory
+1 Hullbreacher
+1 Hydroblast
+1 Stony Silence
+1 Wrath of the Skies
+

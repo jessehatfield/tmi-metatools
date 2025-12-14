@@ -1,0 +1,39 @@
+// Player: xavil
+// Place: 561
+
+4 Atraxa, Grand Unifier
+3 Emrakul, the Aeons Torn
+1 Brazen Borrower // Petty Theft
+1 Griselbrand
+1 Simian Spirit Guide
+4 Ponder
+4 Show and Tell
+3 Stock Up
+4 Brainstorm
+4 Force of Will
+2 Flusterstorm
+4 Lotus Petal
+4 Sneak Attack
+2 Omniscience
+4 Ancient Tomb
+4 Scalding Tarn
+3 Volcanic Island
+2 Island
+2 Polluted Delta
+1 City of Traitors
+1 Mistrise Village
+1 Mountain
+1 Thundering Falls
+
+Sideboard
+2 Abrade
+2 Consign to Memory
+2 Defense Grid
+2 Grafdigger's Cage
+2 Yggdrasil, Rebirth Engine
+1 Brotherhood's End
+1 Faerie Macabre
+1 Null Rod
+1 Pyroblast
+1 Red Elemental Blast
+

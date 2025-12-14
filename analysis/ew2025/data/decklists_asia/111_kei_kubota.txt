@@ -1,0 +1,37 @@
+// Player: kei kubota
+// Place: 111
+
+4 Atraxa, Grand Unifier
+2 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+2 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Veil of Summer
+1 Intuition
+1 Sink into Stupor // Soporific Springs
+3 Lotus Petal
+3 The One Ring
+3 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+3 Snow-Covered Island
+2 Tropical Island
+1 Flooded Strand
+1 Hedge Maze
+1 Mistrise Village
+1 Polluted Delta
+1 Snow-Covered Forest
+
+Sideboard
+3 Carpet of Flowers
+3 Consign to Memory
+2 Faerie Macabre
+2 Force of Negation
+2 Grafdigger's Cage
+1 Boseiju, Who Endures
+1 Mistrise Village
+1 Yggdrasil, Rebirth Engine
+

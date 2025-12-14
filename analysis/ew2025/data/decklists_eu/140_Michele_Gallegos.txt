@@ -1,0 +1,37 @@
+// Player: Michele Gallegos
+// Place: 140
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Amped Raptor
+4 Guide of Souls
+4 Ocelot Pride
+4 Orcish Bowmasters
+4 Voice of Victory
+4 Thoughtseize
+3 Cabal Therapy
+4 Swords to Plowshares
+2 Goblin Bombardment
+4 Marsh Flats
+4 Wasteland
+3 Arid Mesa
+2 Karakas
+2 Plains
+1 Badlands
+1 Bloodstained Mire
+1 Elegant Parlor
+1 Godless Shrine
+1 Plateau
+1 Sacred Foundry
+1 Scrubland
+1 Shadowy Backstreet
+
+Sideboard
+2 Clarion Conqueror
+2 Deafening Silence
+2 Faerie Macabre
+2 Meltdown
+2 Null Rod
+2 Prismatic Ending
+2 Pyroblast
+1 Surgical Extraction
+

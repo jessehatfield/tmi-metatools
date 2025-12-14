@@ -1,0 +1,40 @@
+// Player: Shota Fukui
+// Place: 52
+
+3 Barrowgoyf
+2 Thassa's Oracle
+1 Street Wraith
+4 Doomsday
+4 Ponder
+4 Thoughtseize
+3 Personal Tutor
+1 Edge of Autumn
+1 Ideas Unbound
+4 Brainstorm
+4 Dark Ritual
+4 Force of Will
+3 Daze
+1 Consider
+3 Lotus Petal
+1 Lion's Eye Diamond
+4 Polluted Delta
+4 Underground Sea
+3 Misty Rainforest
+2 Bloodstained Mire
+1 Cavern of Souls
+1 Island
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+3 Orcish Bowmasters
+2 Bitter Triumph
+2 Consign to Memory
+2 Murktide Regent
+1 Barrowgoyf
+1 Engineered Explosives
+1 Fatal Push
+1 Force of Negation
+1 Grafdigger's Cage
+1 Sheoldred's Edict
+

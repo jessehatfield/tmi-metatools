@@ -1,0 +1,36 @@
+// Player: hirokawamasahiro
+// Place: 593
+
+4 Karn, the Great Creator
+1 Ugin, Eye of the Storms
+4 Glaring Fleshraker
+4 Kozilek's Command
+4 Grim Monolith
+4 Lotus Petal
+4 Manifold Key
+4 The One Ring
+3 Mystic Forge
+3 Voltaic Key
+1 Basalt Monolith
+1 Candelabra of Tawnos
+1 Ghost Vacuum
+1 Mox Opal
+1 Pithing Needle
+4 Urza's Saga
+4 Ancient Tomb
+4 City of Traitors
+4 Planar Nexus
+4 Urza's Tower
+
+Sideboard
+4 Leyline of the Void
+2 Boseiju, Who Endures
+2 Dismember
+1 Disruptor Flute
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Paradox Engine
+1 Perilous Snare
+1 Tormod's Crypt
+

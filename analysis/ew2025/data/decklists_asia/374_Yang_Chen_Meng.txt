@@ -1,0 +1,33 @@
+// Player: Yang Chen Meng
+// Place: 374
+
+4 Emry, Lurker of the Loch
+4 Kappa Cannoneer
+4 Patchwork Automaton
+4 Pinnacle Emissary
+4 Force of Will
+3 Sink into Stupor // Soporific Springs
+4 Chalice of the Void
+4 Lotus Petal
+4 Mishra's Bauble
+4 Mox Opal
+4 Urza's Bauble
+1 Lavaspur Boots
+1 Pithing Needle
+1 Shadowspear
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+1 Island
+1 Otawara, Soaring City
+
+Sideboard
+4 Consign to Memory
+3 Dismember
+2 Force of Negation
+2 Tormod's Crypt
+1 Aether Spellbomb
+1 Disruptor Flute
+1 Flusterstorm
+1 Haywire Mite
+

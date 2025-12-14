@@ -1,0 +1,39 @@
+// Player: ilMaia
+// Place: 692
+
+3 Karn, the Great Creator
+4 Painter's Servant
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Simian Spirit Guide
+2 Magus of the Moon
+4 Ponder
+3 Stock Up
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+2 Pyroblast
+2 Grindstone
+2 Unlicensed Hearse
+1 Aether Spellbomb
+1 Lotus Petal
+1 Pithing Needle
+4 Urza's Saga
+4 Scalding Tarn
+3 Ancient Tomb
+3 Island
+2 Volcanic Island
+1 Mountain
+1 Otawara, Soaring City
+1 Thundering Falls
+
+Sideboard
+2 Blue Elemental Blast
+2 Consign to Memory
+2 Dismember
+2 Disruptor Flute
+2 Red Elemental Blast
+2 Surgical Extraction
+1 Ensnaring Bridge
+1 Grafdigger's Cage
+1 Liquimetal Coating
+

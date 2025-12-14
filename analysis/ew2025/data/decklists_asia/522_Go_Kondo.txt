@@ -1,0 +1,30 @@
+// Player: Go Kondo
+// Place: 522
+
+4 Barrowgoyf
+4 Caustic Bronco
+4 Dauthi Voidwalker
+4 Opposition Agent
+4 Orcish Bowmasters
+2 Boggart Trawler // Boggart Bog
+2 Cecil, Dark Knight // Cecil, Redeemed Paladin
+4 Thoughtseize
+3 Reanimate
+2 Hymn to Tourach
+4 Dark Ritual
+3 Fatal Push
+4 Chrome Mox
+11 Swamp
+4 Wasteland
+1 Takenuma, Abandoned Mire
+
+Sideboard
+3 Plague Engineer
+2 Faerie Macabre
+2 Force of Despair
+2 Infernal Reckoning
+2 Sinkhole
+2 Surgical Extraction
+1 Hymn to Tourach
+1 Snuff Out
+

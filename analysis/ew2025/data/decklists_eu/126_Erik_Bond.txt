@@ -1,0 +1,39 @@
+// Player: Erik Bond
+// Place: 126
+
+1 Kaito, Bane of Nightmares
+4 Dragon's Rage Channeler
+3 Nethergoyf
+2 Murktide Regent
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Brazen Borrower // Petty Theft
+4 Ponder
+1 Molten Collapse
+1 Preordain
+4 Brainstorm
+4 Daze
+4 Force of Will
+3 Lightning Bolt
+1 Unholy Heat
+4 Mishra's Bauble
+2 Cori-Steel Cutter
+4 Wasteland
+3 Underground Sea
+3 Volcanic Island
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+1 Thundering Falls
+
+Sideboard
+3 Pyroblast
+2 Hydroblast
+2 Meltdown
+2 Nihil Spellbomb
+2 Orcish Bowmasters
+1 Barrowgoyf
+1 Consign to Memory
+1 Force of Negation
+1 Price of Progress
+

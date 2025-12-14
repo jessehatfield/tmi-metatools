@@ -1,0 +1,41 @@
+// Player: ryosuke
+// Place: 313
+
+3 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Baleful Strix
+2 Ingenious Infiltrator
+2 Mockingbird
+2 Ornithopter
+2 Yuriko, the Tiger's Shadow
+1 Brazen Borrower // Petty Theft
+3 Ponder
+2 Thoughtseize
+4 Brainstorm
+4 Force of Will
+3 Fatal Push
+3 Force of Negation
+1 Flare of Malice
+1 Murderous Cut
+1 Sink into Stupor // Soporific Springs
+4 Island
+4 Polluted Delta
+4 Prismatic Vista
+2 Swamp
+2 Underground Sea
+1 Undercity Sewers
+
+Sideboard
+3 Consign to Memory
+2 Back to Basics
+2 Strategic Betrayal
+1 Blue Elemental Blast
+1 Disruptor Flute
+1 Engineered Explosives
+1 Extirpate
+1 Grafdigger's Cage
+1 Hydroblast
+1 Null Rod
+1 Sheoldred's Edict
+

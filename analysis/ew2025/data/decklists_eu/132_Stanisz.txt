@@ -1,0 +1,43 @@
+// Player: Stanisz
+// Place: 132
+
+2 Kaito, Bane of Nightmares
+4 Ice-Fang Coatl
+4 Orcish Bowmasters
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Barrowgoyf
+1 Baleful Strix
+4 Ponder
+3 Thoughtseize
+2 Witherbloom Command
+4 Brainstorm
+4 Fatal Push
+4 Force of Will
+1 Force of Negation
+1 Sheoldred's Edict
+4 Polluted Delta
+3 Misty Rainforest
+3 Underground Sea
+2 Tropical Island
+2 Verdant Catacombs
+2 Wasteland
+1 Bayou
+1 Snow-Covered Forest
+1 Snow-Covered Island
+1 Snow-Covered Swamp
+
+Sideboard
+3 Consign to Memory
+1 Blue Elemental Blast
+1 Carpet of Flowers
+1 Damping Sphere
+1 Disruptor Flute
+1 Force of Negation
+1 Force of Vigor
+1 Hydroblast
+1 Nihil Spellbomb
+1 Null Rod
+1 Pernicious Deed
+1 Surgical Extraction
+1 Veil of Summer
+

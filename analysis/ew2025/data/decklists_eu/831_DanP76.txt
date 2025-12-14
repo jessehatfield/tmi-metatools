@@ -1,0 +1,33 @@
+// Player: DanP76
+// Place: 831
+
+4 Karn, the Great Creator
+4 Anointed Peacekeeper
+4 Archon of Emeria
+4 Witch Enchanter // Witch-Blessed Meadow
+3 Solitude
+2 Elite Spellbinder
+2 Palace Jailer
+2 Skyclave Apparition
+4 Chalice of the Void
+4 Chrome Mox
+4 Lotus Petal
+1 Shadowspear
+4 Touch the Spirit Realm
+4 Urza's Saga
+6 Plains
+4 Ancient Tomb
+3 City of Traitors
+1 Karakas
+
+Sideboard
+3 Disruptor Flute
+3 Faerie Macabre
+2 Containment Priest
+2 Rest in Peace
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Perilous Snare
+1 Tormod's Crypt
+

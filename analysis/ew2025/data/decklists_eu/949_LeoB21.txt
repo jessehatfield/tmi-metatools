@@ -1,0 +1,31 @@
+// Player: LeoB21
+// Place: 949
+
+4 Floodpits Drowner
+4 Master of the Pearl Trident
+4 Tide Shaper
+4 Vodalian Hexcatcher
+3 Lord of Atlantis
+3 Mistcaller
+2 Harbinger of the Seas
+2 Silvergill Adept
+2 True-Name Nemesis
+1 Phantasmal Image
+4 Force of Will
+3 Sink into Stupor // Soporific Springs
+2 Flare of Denial
+4 Aether Vial
+10 Island
+4 Cavern of Souls
+4 Wasteland
+
+Sideboard
+3 Consign to Memory
+3 Dismember
+2 Force of Negation
+2 Merfolk Trickster
+2 Unlicensed Hearse
+1 Blue Elemental Blast
+1 Null Rod
+1 True-Name Nemesis
+

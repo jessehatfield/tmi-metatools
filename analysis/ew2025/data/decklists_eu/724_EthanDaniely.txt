@@ -1,0 +1,35 @@
+// Player: EthanDaniely
+// Place: 724
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Amped Raptor
+4 Guide of Souls
+4 Ocelot Pride
+4 Orcish Bowmasters
+4 Voice of Victory
+4 Thoughtseize
+3 Cabal Therapy
+4 Swords to Plowshares
+2 Goblin Bombardment
+4 Arid Mesa
+4 Marsh Flats
+4 Wasteland
+2 Karakas
+2 Plains
+2 Plateau
+2 Scrubland
+1 Badlands
+1 Elegant Parlor
+1 Shadowy Backstreet
+
+Sideboard
+3 Stony Silence
+2 Clarion Conqueror
+2 Faerie Macabre
+2 Prismatic Ending
+2 Surgical Extraction
+1 Damping Sphere
+1 Grafdigger's Cage
+1 Meltdown
+1 Price of Progress
+

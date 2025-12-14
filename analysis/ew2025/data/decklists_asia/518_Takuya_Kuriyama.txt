@@ -1,0 +1,31 @@
+// Player: Takuya Kuriyama
+// Place: 518
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+3 It That Heralds the End
+3 Wastescape Battlemage
+2 Devourer of Destiny
+2 Reality Smasher
+1 Sire of Seven Deaths
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+4 Wasteland
+3 Eye of Ugin
+2 Wastes
+
+Sideboard
+3 Dismember
+3 Faerie Macabre
+3 Null Rod
+2 Disruptor Flute
+2 Eldrazi Obligator
+1 Warping Wail
+1 Wastescape Battlemage
+

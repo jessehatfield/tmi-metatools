@@ -1,0 +1,37 @@
+// Player: Michel Kohn
+// Place: 91
+
+4 Karn, the Great Creator
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Thundertrap Trainer
+1 Atraxa, Grand Unifier
+1 Emrakul, the Aeons Torn
+4 Show and Tell
+4 Stock Up
+3 Lórien Revealed
+4 Force of Will
+4 Once Upon a Time
+3 Brainstorm
+3 The One Ring
+3 Omniscience
+4 Planar Nexus
+4 Urza's Tower
+3 Ancient Tomb
+3 Island
+2 Tropical Island
+1 Flooded Strand
+1 Misty Rainforest
+
+Sideboard
+4 Carpet of Flowers
+2 Force of Negation
+1 Consign to Memory
+1 Disruptor Flute
+1 Engineered Explosives
+1 Ensnaring Bridge
+1 Grafdigger's Cage
+1 Mycosynth Lattice
+1 Portal to Phyrexia
+1 The One Ring
+1 Tormod's Crypt
+

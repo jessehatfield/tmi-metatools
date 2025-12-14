@@ -1,0 +1,40 @@
+// Player: AlessioBoem
+// Place: 689
+
+2 Narset, Parter of Veils
+2 Teferi, Time Raveler
+3 Snapcaster Mage
+3 Thundertrap Trainer
+2 Magus of the Moon
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Ponder
+3 Prismatic Ending
+1 Forth Eorlingas!
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Flame of Anor
+2 Force of Negation
+1 Spell Pierce
+1 Dress Down
+4 Snow-Covered Island
+3 Flooded Strand
+3 Prismatic Vista
+3 Scalding Tarn
+2 Snow-Covered Plains
+1 Meticulous Archive
+1 Snow-Covered Mountain
+1 Tundra
+1 Volcanic Island
+
+Sideboard
+3 Consign to Memory
+3 Pyroblast
+2 Blue Elemental Blast
+2 Surgical Extraction
+2 Wrath of the Skies
+1 Containment Priest
+1 Grafdigger's Cage
+1 Stony Silence
+

@@ -1,0 +1,40 @@
+// Player: ThomasJim
+// Place: 112
+
+4 Orcish Bowmasters
+4 Phelia, Exuberant Shepherd
+4 Stoneforge Mystic
+4 White Orchid Phantom
+3 Overlord of the Balemurk
+3 Recruiter of the Guard
+2 Skyclave Apparition
+2 Solitude
+2 Witch Enchanter // Witch-Blessed Meadow
+1 Flickerwisp
+4 Swords to Plowshares
+4 Aether Vial
+1 Kaldra Compleat
+1 Meteor Sword
+1 Pre-War Formalwear
+4 Marsh Flats
+4 Wasteland
+3 Karakas
+2 Plains
+2 Silent Clearing
+2 Windswept Heath
+1 Scrubland
+1 Shadowy Backstreet
+1 Swamp
+
+Sideboard
+4 Thoughtseize
+2 Disruptor Flute
+2 Surgical Extraction
+1 Containment Priest
+1 Damping Sphere
+1 Deafening Silence
+1 Faerie Macabre
+1 Opposition Agent
+1 Path to Exile
+1 Solitude
+

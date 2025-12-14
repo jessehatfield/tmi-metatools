@@ -1,0 +1,43 @@
+// Player: sunfly
+// Place: 303
+
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Atraxa, Grand Unifier
+1 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+3 Veil of Summer
+1 Force of Negation
+1 Intuition
+1 Sink into Stupor // Soporific Springs
+1 Spell Pierce
+3 Lotus Petal
+1 The One Ring
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+2 Island
+2 Prismatic Vista
+1 Forest
+1 Hedge Maze
+1 Mistrise Village
+1 Scalding Tarn
+1 Tropical Island
+
+Sideboard
+3 Consign to Memory
+2 Carpet of Flowers
+2 Disruptor Flute
+2 Grafdigger's Cage
+1 Firemind's Foresight
+1 Hydroblast
+1 Release the Ants
+1 Shared Summons
+1 Sublime Epiphany
+1 Veil of Summer
+

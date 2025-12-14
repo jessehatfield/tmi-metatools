@@ -1,0 +1,37 @@
+// Player: StephanH
+// Place: 334
+
+4 Broadside Bombardiers
+4 Goblin Matron
+4 Goblin Rabblemaster
+4 Goblin Ringleader
+4 Howlsquad Heavy
+4 Simian Spirit Guide
+3 Muxus, Goblin Grandee
+1 Battle Cry Goblin
+1 Boggart Trawler // Boggart Bog
+1 General Kreat, the Boltbringer
+1 Goblin Trashmaster
+1 Stingscourger
+1 Shatterskull Smashing // Shatterskull, the Hammer Pass
+1 Sundering Eruption // Volcanic Fissure
+4 Chalice of the Void
+4 Chrome Mox
+6 Mountain
+4 Ancient Tomb
+4 Cavern of Souls
+4 City of Traitors
+
+Sideboard
+2 Disruptor Flute
+2 Pyrokinesis
+2 Red Elemental Blast
+2 Surgical Extraction
+1 Dead // Gone
+1 Goblin Cratermaker
+1 Magus of the Moon
+1 Null Rod
+1 Pyroblast
+1 Unlicensed Hearse
+1 Void Mirror
+

@@ -1,0 +1,31 @@
+// Player: kovagg
+// Place: 74
+
+4 Blighted Agent
+4 Glistener Elf
+4 Noble Hierarch
+4 Ponder
+4 Brainstorm
+4 Daze
+4 Embiggen
+4 Force of Will
+4 Invigorate
+3 Legolas's Quick Reflexes
+2 Berserk
+1 Spell Pierce
+4 Inkmoth Nexus
+4 Tropical Island
+4 Windswept Heath
+4 Wooded Foothills
+1 Forest
+1 Pendelhaven
+
+Sideboard
+3 Blue Elemental Blast
+3 Consign to Memory
+3 Force of Vigor
+3 Veil of Summer
+1 Legolas's Quick Reflexes
+1 Spell Pierce
+1 Sylvan Library
+

@@ -1,0 +1,37 @@
+// Player: Hutterer
+// Place: 478
+
+4 Beseech the Mirror
+4 Infernal Tutor
+4 Ponder
+4 Thoughtseize
+2 Duress
+1 Gaea's Will
+1 Tendrils of Agony
+4 Brainstorm
+4 Dark Ritual
+2 Cabal Ritual
+2 Veil of Summer
+1 Ad Nauseam
+4 Chrome Mox
+4 Lion's Eye Diamond
+4 Lotus Petal
+1 Nihil Spellbomb
+4 Polluted Delta
+2 Misty Rainforest
+2 Underground Sea
+2 Verdant Catacombs
+1 Swamp
+1 Tropical Island
+1 Undercity Sewers
+1 Underground Mortuary
+
+Sideboard
+4 Leyline of the Void
+3 Carpet of Flowers
+2 Boseiju, Who Endures
+2 Echoing Truth
+2 Veil of Summer
+1 Empty the Warrens
+1 Helm of Obedience
+

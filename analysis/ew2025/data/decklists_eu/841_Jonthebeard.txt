@@ -1,0 +1,34 @@
+// Player: Jonthebeard
+// Place: 841
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Amped Raptor
+4 Guide of Souls
+4 Ocelot Pride
+4 Voice of Victory
+2 Broadside Bombardiers
+2 Esper Sentinel
+2 Forth Eorlingas!
+4 Swords to Plowshares
+1 Thraben Charm
+1 Staff of the Storyteller
+3 Goblin Bombardment
+2 Static Prison
+4 Arid Mesa
+4 Marsh Flats
+4 Wasteland
+3 Plateau
+2 Karakas
+2 Plains
+2 Windswept Heath
+1 Elegant Parlor
+1 Sacred Foundry
+
+Sideboard
+4 Pyroblast
+3 Faerie Macabre
+2 Abrade
+2 Disruptor Flute
+2 Price of Progress
+2 Stony Silence
+

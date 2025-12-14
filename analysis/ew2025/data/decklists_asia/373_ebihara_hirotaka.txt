@@ -1,0 +1,45 @@
+// Player: ebihara hirotaka
+// Place: 373
+
+1 Grist, the Hunger Tide
+4 Badgermole Cub
+4 Fiend Artisan
+3 Birds of Paradise
+3 Orcish Bowmasters
+3 Young Wolf
+1 Dryad Arbor
+1 Endurance
+1 Fulminator Mage
+1 Ignoble Hierarch
+1 Outland Liberator // Frenzied Trapbreaker
+1 Renegade Rallier
+1 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+1 Walking Ballista
+1 Yawgmoth, Thran Physician
+4 Cabal Therapy
+4 Green Sun's Zenith
+2 Nature's Rhythm
+3 Agatha's Soul Cauldron
+1 Birthing Pod
+2 Dredger's Insight
+4 Verdant Catacombs
+3 Gaea's Cradle
+3 Windswept Heath
+2 Bayou
+2 Tropical Island
+1 Forest
+1 Savannah
+1 Scrubland
+1 Swamp
+
+Sideboard
+3 Consign to Memory
+2 Barrowgoyf
+2 Deafening Silence
+2 Doorkeeper Thrull
+2 Swords to Plowshares
+1 Abrupt Decay
+1 Collector Ouphe
+1 Faerie Macabre
+1 Surgical Extraction
+

@@ -1,0 +1,36 @@
+// Player: MMagno
+// Place: 669
+
+4 Atraxa, Grand Unifier
+3 Archon of Cruelty
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Brazen Borrower // Petty Theft
+4 Careful Study
+4 Reanimate
+4 Thoughtseize
+3 Ponder
+4 Brainstorm
+4 Force of Will
+3 Daze
+2 Bitter Triumph
+3 Animate Dead
+4 Polluted Delta
+4 Underground Sea
+2 Undercity Sewers
+1 Bloodstained Mire
+1 Flooded Strand
+1 Island
+1 Scalding Tarn
+1 Swamp
+1 Verdant Catacombs
+1 Wasteland
+
+Sideboard
+3 Barrowgoyf
+3 Consign to Memory
+2 Damping Sphere
+2 Dauthi Voidwalker
+2 Engineered Explosives
+2 Fatal Push
+1 Force of Negation
+

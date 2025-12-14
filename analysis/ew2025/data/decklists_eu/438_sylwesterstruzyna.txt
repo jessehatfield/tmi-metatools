@@ -1,0 +1,37 @@
+// Player: sylwesterstruzyna
+// Place: 438
+
+4 Blighted Agent
+4 Glistener Elf
+4 Noble Hierarch
+1 Brazen Borrower // Petty Theft
+3 Ponder
+1 Scale Up
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Invigorate
+4 Legolas's Quick Reflexes
+2 Berserk
+1 Become Immense
+1 Embiggen
+4 Inkmoth Nexus
+4 Misty Rainforest
+4 Tropical Island
+2 Wooded Foothills
+1 Forest
+1 Hedge Maze
+1 Pendelhaven
+1 Verdant Catacombs
+1 Windswept Heath
+
+Sideboard
+3 Force of Vigor
+3 Surgical Extraction
+2 Hydroblast
+2 Sylvan Library
+2 Veil of Summer
+1 Consign to Memory
+1 Flusterstorm
+1 Grafdigger's Cage
+

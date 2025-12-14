@@ -1,0 +1,39 @@
+// Player: AFranek
+// Place: 872
+
+2 Kaito, Bane of Nightmares
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Nethergoyf
+3 Orcish Bowmasters
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+4 Ponder
+3 Thoughtseize
+2 Witherbloom Command
+4 Brainstorm
+4 Fatal Push
+4 Force of Will
+3 Daze
+1 Nihil Spellbomb
+4 Polluted Delta
+4 Wasteland
+3 Underground Sea
+2 Misty Rainforest
+1 Bayou
+1 Island
+1 Swamp
+1 Tropical Island
+1 Undercity Sewers
+1 Verdant Catacombs
+
+Sideboard
+3 Consign to Memory
+2 Assassin's Trophy
+2 Barrowgoyf
+2 Force of Negation
+2 Hydroblast
+1 Carpet of Flowers
+1 Life from the Loam
+1 Nihil Spellbomb
+1 Null Rod
+

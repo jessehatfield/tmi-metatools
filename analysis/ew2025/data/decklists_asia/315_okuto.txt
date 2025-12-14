@@ -1,0 +1,39 @@
+// Player: okuto
+// Place: 315
+
+1 Grist, the Hunger Tide
+4 Allosaurus Shepherd
+4 Badgermole Cub
+4 Endurance
+3 Fiend Artisan
+3 Ignoble Hierarch
+2 Llanowar Elves
+2 Orcish Bowmasters
+2 Quirion Ranger
+1 Atraxa, Grand Unifier
+1 Collector Ouphe
+1 Craterhoof Behemoth
+1 Dryad Arbor
+1 Fyndhorn Elves
+4 Green Sun's Zenith
+4 Natural Order
+2 Once Upon a Time
+4 Gaea's Cradle
+4 Wasteland
+3 Bayou
+2 Forest
+2 Verdant Catacombs
+2 Wooded Foothills
+1 Boseiju, Who Endures
+1 Misty Rainforest
+1 Windswept Heath
+
+Sideboard
+4 Thoughtseize
+3 Force of Vigor
+2 Dismember
+2 Disruptor Flute
+2 Faerie Macabre
+1 Abrupt Decay
+1 Alpha Deathclaw
+

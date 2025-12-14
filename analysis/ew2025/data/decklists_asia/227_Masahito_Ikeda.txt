@@ -1,0 +1,38 @@
+// Player: Masahito Ikeda
+// Place: 227
+
+4 Dragon's Rage Channeler
+2 Murktide Regent
+4 Boomerang Basics
+3 Ponder
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+1 Unholy Heat
+4 Mishra's Bauble
+3 Cori-Steel Cutter
+4 Stormchaser's Talent
+4 Volcanic Island
+4 Wasteland
+3 Scalding Tarn
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+1 Island
+1 Thundering Falls
+
+Sideboard
+2 Consign to Memory
+2 Force of Negation
+2 Pyroblast
+1 Fire Magic
+1 Grafdigger's Cage
+1 Hydroblast
+1 Meltdown
+1 Null Rod
+1 Price of Progress
+1 Surgical Extraction
+1 Unable to Scream
+1 Unholy Heat
+

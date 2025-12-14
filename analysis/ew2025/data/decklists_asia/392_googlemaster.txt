@@ -1,0 +1,32 @@
+// Player: googlemaster
+// Place: 392
+
+4 Broadside Bombardiers
+4 Goblin Matron
+4 Goblin Rabblemaster
+4 Howlsquad Heavy
+4 Muxus, Goblin Grandee
+4 Simian Spirit Guide
+3 Goblin Ringleader
+2 Goblin Trashmaster
+1 Battle Cry Goblin
+1 Boggart Trawler // Boggart Bog
+1 Stingscourger
+1 Sundering Eruption // Volcanic Fissure
+4 Chrome Mox
+4 Thorn of Amethyst
+7 Mountain
+4 Ancient Tomb
+4 Cavern of Souls
+4 City of Traitors
+
+Sideboard
+3 Fury
+2 Blood Moon
+2 Chalice of the Void
+2 Disruptor Flute
+2 Faerie Macabre
+2 Pyroblast
+1 Mindbreak Trap
+1 Surgical Extraction
+

@@ -1,0 +1,38 @@
+// Player: TAKAAKI Magara
+// Place: 487
+
+4 Questing Druid // Seek the Beast
+4 Ral, Monsoon Mage // Ral, Leyline Prodigy
+4 Burning Wish
+4 Rite of Flame
+3 Jeska's Will
+3 Wrenn's Resolve
+2 Bonus Round
+2 Reckless Impulse
+2 Storm of Memories
+1 Wish
+4 Manamorphose
+4 Seething Song
+3 Desperate Ritual
+4 Ruby Medallion
+4 Ancient Tomb
+4 Sandstone Needle
+3 Mountain
+1 Arid Mesa
+1 Bloodstained Mire
+1 Scalding Tarn
+1 Taiga
+1 Wooded Foothills
+
+Sideboard
+4 Leyline of the Void
+2 Blast Zone
+2 Defense Grid
+1 Alchemist's Gambit
+1 Bonus Round
+1 Elemental Eruption
+1 Fiery Confluence
+1 Grapeshot
+1 Jeska's Will
+1 Storm of Memories
+

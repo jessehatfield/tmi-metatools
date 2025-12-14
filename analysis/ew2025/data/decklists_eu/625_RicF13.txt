@@ -1,0 +1,46 @@
+// Player: RicF13
+// Place: 625
+
+1 Atraxa, Grand Unifier
+1 Emrakul, the Aeons Torn
+1 Hullbreaker Horror
+1 Uro, Titan of Nature's Wrath
+4 Ponder
+4 Show and Tell
+4 Stock Up
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+3 Veil of Summer
+1 Auroral Procession
+1 Flusterstorm
+1 Impulse
+1 Intuition
+2 Lotus Petal
+4 Omniscience
+4 Ancient Tomb
+4 Island
+4 Misty Rainforest
+3 Prismatic Vista
+1 Forest
+1 Hedge Maze
+1 Mistrise Village
+1 Tropical Island
+
+Sideboard
+2 Carpet of Flowers
+1 Boseiju, Who Endures
+1 Consign to Memory
+1 Dream Halls
+1 Echoing Truth
+1 Firemind's Foresight
+1 Grafdigger's Cage
+1 Null Rod
+1 Release the Ants
+1 Shared Summons
+1 Sublime Epiphany
+1 Surgical Extraction
+1 Veil of Summer
+1 Wipe Away
+

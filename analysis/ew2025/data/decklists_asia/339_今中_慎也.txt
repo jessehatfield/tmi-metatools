@@ -1,0 +1,33 @@
+// Player: 今中 慎也
+// Place: 339
+
+4 Memory Guardian
+4 Patchwork Automaton
+4 Pinnacle Emissary
+3 Emry, Lurker of the Loch
+3 Kappa Cannoneer
+4 Force of Will
+4 Sink into Stupor // Soporific Springs
+4 Lotus Petal
+4 Mishra's Bauble
+4 Mox Opal
+4 Urza's Bauble
+3 Chalice of the Void
+1 Lavaspur Boots
+1 Shadowspear
+4 Urza's Saga
+4 Ancient Tomb
+3 Island
+2 Spirebluff Canal
+
+Sideboard
+2 Dismember
+2 Faerie Macabre
+2 Flusterstorm
+2 Force of Negation
+2 Hullbreacher
+2 Whipflare
+1 Aether Spellbomb
+1 Haywire Mite
+1 Tormod's Crypt
+

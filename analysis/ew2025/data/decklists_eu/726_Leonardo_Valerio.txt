@@ -1,0 +1,41 @@
+// Player: Leonardo Valerio
+// Place: 726
+
+4 Narset, Parter of Veils
+2 Teferi, Time Raveler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Hullbreacher
+2 Lavinia, Azorius Renegade
+4 Ponder
+3 Prismatic Ending
+2 Day's Undoing
+2 Forth Eorlingas!
+1 Supreme Verdict
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Spell Pierce
+1 Back to Basics
+4 Flooded Strand
+4 Island
+4 Prismatic Vista
+2 Plains
+2 Scalding Tarn
+1 Meticulous Archive
+1 Mountain
+1 Tundra
+1 Volcanic Island
+
+Sideboard
+2 Force of Negation
+2 Hydroblast
+2 Pyroblast
+2 Wrath of the Skies
+1 Back to Basics
+1 Consign to Memory
+1 Containment Priest
+1 Red Elemental Blast
+1 Rest in Peace
+1 Stony Silence
+1 Surgical Extraction
+

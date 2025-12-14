@@ -1,0 +1,29 @@
+// Player: AndreaGarofalo
+// Place: 558
+
+4 Monastery Swiftspear
+4 Boltwave
+4 Chain Lightning
+4 Lava Spike
+4 Rift Bolt
+3 Skewer the Critics
+4 Fireblast
+4 Lightning Bolt
+4 Price of Progress
+3 Thunderous Wrath
+1 Redirect Lightning
+3 Roiling Vortex
+17 Mountain
+1 Barbarian Ring
+
+Sideboard
+3 Smash to Smithereens
+2 Ensnaring Bridge
+2 Red Elemental Blast
+2 Redirect Lightning
+2 Surgical Extraction
+1 Grafdigger's Cage
+1 Meltdown
+1 Pyroblast
+1 Soul-Guide Lantern
+

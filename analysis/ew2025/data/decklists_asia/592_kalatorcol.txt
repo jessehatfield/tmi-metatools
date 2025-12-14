@@ -1,0 +1,31 @@
+// Player: kalatorcol
+// Place: 592
+
+4 Harbinger of the Seas
+4 Lord of Atlantis
+4 Tide Shaper
+4 Vodalian Hexcatcher
+3 Floodpits Drowner
+2 Master of the Pearl Trident
+2 Tishana's Tidebinder
+1 Svyelun of Sea and Sky
+4 Force of Will
+2 Daze
+1 Flare of Denial
+4 Aether Vial
+3 Sea's Claim
+2 Back to Basics
+16 Island
+4 Wasteland
+
+Sideboard
+2 Dismember
+2 Energy Flux
+2 Hullbreacher
+2 Hurkyl's Recall
+2 Mistcaller
+2 Null Rod
+1 Force of Negation
+1 Grafdigger's Cage
+1 Relic of Progenitus
+

@@ -1,0 +1,37 @@
+// Player: Yusuke Kondo
+// Place: 308
+
+3 Atraxa, Grand Unifier
+2 Emrakul, the Aeons Torn
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Show and Tell
+4 Stock Up
+2 Lórien Revealed
+2 Portent of Calamity
+4 Brainstorm
+4 Force of Will
+4 Kozilek's Command
+1 Spell Pierce
+3 Lotus Petal
+2 The One Ring
+3 Omniscience
+4 Ancient Tomb
+4 Planar Nexus
+4 Urza's Tower
+3 Island
+1 Flooded Strand
+1 Misty Rainforest
+1 Otawara, Soaring City
+1 Polluted Delta
+1 Undercity Sewers
+
+Sideboard
+4 Barrowgoyf
+2 Consign to Memory
+2 Cyclonic Rift
+2 Hullbreacher
+2 Surgical Extraction
+1 Blue Elemental Blast
+1 Eldrazi Confluence
+1 Force of Negation
+

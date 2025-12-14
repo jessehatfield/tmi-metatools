@@ -1,0 +1,41 @@
+// Player: Shogo Muto
+// Place: 256
+
+1 Kaito, Bane of Nightmares
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Murktide Regent
+3 Orcish Bowmasters
+2 Barrowgoyf
+1 Brazen Borrower // Petty Theft
+4 Ponder
+4 Thoughtseize
+3 Hymn to Tourach
+4 Brainstorm
+4 Daze
+4 Force of Will
+3 Fatal Push
+1 Snuff Out
+4 Polluted Delta
+4 Underground Sea
+4 Wasteland
+2 Scalding Tarn
+2 Verdant Catacombs
+1 Island
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+2 Consign to Memory
+2 Hydroblast
+1 Barrowgoyf
+1 Brazen Borrower // Petty Theft
+1 Dauthi Voidwalker
+1 Engineered Explosives
+1 Force of Negation
+1 Hurkyl's Recall
+1 Nihil Spellbomb
+1 Null Rod
+1 Sheoldred's Edict
+1 Torpor Orb
+1 Unlicensed Hearse
+

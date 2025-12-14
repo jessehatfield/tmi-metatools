@@ -1,0 +1,37 @@
+// Player: sylvogel
+// Place: 325
+
+4 Nulldrifter
+4 Phyrexian Dreadnought
+2 Brazen Borrower // Petty Theft
+3 Ponder
+4 Brainstorm
+4 Force of Will
+4 Stifle
+2 Consign to Memory
+1 Daze
+1 Spell Pierce
+4 Torpor Orb
+3 Scroll of Fate
+2 Lotus Petal
+1 Disruptor Flute
+1 Lavaspur Boots
+4 Urza's Saga
+5 Island
+4 Ancient Tomb
+4 Wasteland
+2 Polluted Delta
+1 Flooded Strand
+
+Sideboard
+3 Surgical Extraction
+2 Back to Basics
+2 Disruptor Flute
+2 Hydroblast
+1 Brazen Borrower // Petty Theft
+1 Consign to Memory
+1 Flusterstorm
+1 Force of Negation
+1 Ghost Vacuum
+1 Pithing Needle
+

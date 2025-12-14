@@ -1,0 +1,42 @@
+// Player: Matteoliperez
+// Place: 761
+
+1 Grist, the Hunger Tide
+4 Barrowgoyf
+4 Ignoble Hierarch
+4 Orcish Bowmasters
+3 Frenzied Baloth
+3 Nethergoyf
+3 Questing Druid // Seek the Beast
+1 Endurance
+4 Thoughtseize
+1 Molten Collapse
+3 Fatal Push
+2 Abrupt Decay
+2 Redirect Lightning
+2 Sheoldred's Edict
+1 Nihil Spellbomb
+4 Wasteland
+3 Bayou
+3 Bloodstained Mire
+3 Verdant Catacombs
+2 Badlands
+2 Wooded Foothills
+1 Boseiju, Who Endures
+1 Forest
+1 Swamp
+1 Taiga
+1 Underground Mortuary
+
+Sideboard
+2 Choke
+2 Endurance
+2 Force of Vigor
+2 Red Elemental Blast
+2 Void Mirror
+1 Collector Ouphe
+1 Grafdigger's Cage
+1 Meltdown
+1 Null Rod
+1 Pyroblast
+

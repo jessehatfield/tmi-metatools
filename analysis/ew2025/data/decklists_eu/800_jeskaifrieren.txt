@@ -1,0 +1,37 @@
+// Player: jeskaifrieren
+// Place: 800
+
+1 Narset, Parter of Veils
+1 Teferi, Time Raveler
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Thundertrap Trainer
+2 Snapcaster Mage
+4 Ponder
+2 Prismatic Ending
+1 Forth Eorlingas!
+4 Brainstorm
+4 Flame of Anor
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+2 Dress Down
+1 Back to Basics
+5 Island
+4 Flooded Strand
+4 Prismatic Vista
+2 Plains
+2 Scalding Tarn
+1 Mountain
+1 Tundra
+1 Volcanic Island
+
+Sideboard
+4 Consign to Memory
+3 Pyroblast
+2 Surgical Extraction
+2 Wrath of the Skies
+1 Containment Priest
+1 Fire Magic
+1 Stony Silence
+1 Supreme Verdict
+

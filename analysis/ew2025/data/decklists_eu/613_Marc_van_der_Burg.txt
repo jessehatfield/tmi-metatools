@@ -1,0 +1,32 @@
+// Player: Marc van der Burg
+// Place: 613
+
+4 Archon of Emeria
+4 Caves of Chaos Adventurer
+4 Seasoned Dungeoneer
+4 Simian Spirit Guide
+3 Broadside Bombardiers
+3 Magus of the Moon
+3 Solitude
+2 Witch Enchanter // Witch-Blessed Meadow
+1 Fury
+4 Chalice of the Void
+4 Chrome Mox
+4 Lotus Petal
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Ancient Tomb
+4 Cavern of Souls
+4 City of Traitors
+1 Karakas
+1 Mountain
+1 Plains
+1 Plateau
+
+Sideboard
+4 Leyline of the Void
+4 Swords to Plowshares
+3 Clarion Conqueror
+2 Pyroblast
+1 Null Rod
+1 Trinisphere
+

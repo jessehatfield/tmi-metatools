@@ -1,0 +1,43 @@
+// Player: PeachBulls
+// Place: 490
+
+3 Narset, Parter of Veils
+2 Teferi, Time Raveler
+1 Comet, Stellar Pup
+1 The Wandering Emperor
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Ponder
+3 Prismatic Ending
+2 Forth Eorlingas!
+2 Lórien Revealed
+1 Day's Undoing
+1 Supreme Verdict
+1 Wrath of the Skies
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Force of Negation
+3 Dress Down
+1 Back to Basics
+4 Island
+4 Prismatic Vista
+3 Flooded Strand
+2 Plains
+2 Tundra
+1 Mountain
+1 Scalding Tarn
+1 Volcanic Island
+
+Sideboard
+3 Consign to Memory
+2 Pyroblast
+2 Surgical Extraction
+1 Blue Elemental Blast
+1 Containment Priest
+1 Damping Sphere
+1 Hydroblast
+1 Red Elemental Blast
+1 Ruination
+1 Stony Silence
+1 Wrath of the Skies
+

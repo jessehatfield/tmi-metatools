@@ -1,0 +1,30 @@
+// Player: Jacques Ammon
+// Place: 925
+
+4 Balustrade Spy
+4 Boggart Trawler // Boggart Bog
+4 Chancellor of the Annex
+4 Elvish Spirit Guide
+4 Narcomoeba
+4 Simian Spirit Guide
+4 Undercity Informer
+1 Thassa's Oracle
+4 Agadeem's Awakening // Agadeem, the Undercrypt
+1 Dread Return
+1 Lively Dirge
+4 Cabal Ritual
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+4 Pact of Negation
+4 Summoner's Pact
+4 Lotus Petal
+1 Grim Monolith
+
+Sideboard
+4 Force of Vigor
+4 Once Upon a Time
+4 Unmask
+1 Cabal Therapy
+1 Jack-o'-Lantern
+1 Memory's Journey
+

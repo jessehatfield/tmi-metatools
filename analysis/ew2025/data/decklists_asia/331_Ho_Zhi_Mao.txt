@@ -1,0 +1,41 @@
+// Player: Ho Zhi Mao
+// Place: 331
+
+4 Quantum Riddler
+3 Phelia, Exuberant Shepherd
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Solitude
+3 Ponder
+1 Lórien Revealed
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+2 Force of Negation
+4 Up the Beanstalk
+3 Leyline Binding
+4 Flooded Strand
+4 Misty Rainforest
+2 Island
+2 Plains
+2 Tropical Island
+2 Tundra
+1 Karakas
+1 Meticulous Archive
+1 Savannah
+1 Xander's Lounge
+
+Sideboard
+2 Carpet of Flowers
+2 Clarion Conqueror
+2 Consign to Memory
+2 White Orchid Phantom
+1 Containment Priest
+1 Dress Down
+1 Hydroblast
+1 Lavinia, Azorius Renegade
+1 Rest in Peace
+1 Veil of Summer
+1 Wrath of the Skies
+

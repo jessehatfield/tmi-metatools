@@ -1,0 +1,35 @@
+// Player: Felidae
+// Place: 666
+
+4 Karn, the Great Creator
+3 Narset, Parter of Veils
+4 Hullbreacher
+4 Day's Undoing
+4 Echo of Eons
+4 Force of Will
+4 Sink into Stupor // Soporific Springs
+4 Chalice of the Void
+4 Lotus Petal
+3 Chrome Mox
+3 Lion's Eye Diamond
+1 Aether Spellbomb
+1 Mox Opal
+1 Shadowspear
+4 Urza's Saga
+4 Ancient Tomb
+4 Saprazzan Skerry
+2 City of Traitors
+2 Otawara, Soaring City
+
+Sideboard
+4 Defense Grid
+3 Force of Negation
+1 Echoing Truth
+1 Ensnaring Bridge
+1 Lion's Eye Diamond
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Skysovereign, Consul Flagship
+1 Tormod's Crypt
+1 Walking Ballista
+

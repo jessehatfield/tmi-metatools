@@ -1,0 +1,39 @@
+// Player: Marsden
+// Place: 469
+
+4 Death's Shadow
+4 Street Wraith
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Abhorrent Oculus
+2 Cecil, Dark Knight // Cecil, Redeemed Paladin
+4 Ponder
+4 Thoughtseize
+2 Reanimate
+4 Brainstorm
+4 Daze
+4 Force of Will
+2 Fatal Push
+2 Snuff Out
+1 Sink into Stupor // Soporific Springs
+4 Polluted Delta
+4 Wasteland
+3 Watery Grave
+1 Flooded Strand
+1 Island
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Swamp
+1 Underground Sea
+
+Sideboard
+2 Baleful Strix
+2 Consign to Memory
+2 Dauthi Voidwalker
+2 Dress Down
+2 Force of Negation
+2 Mai, Scornful Striker
+1 Engineered Explosives
+1 Null Rod
+1 Toxic Deluge
+

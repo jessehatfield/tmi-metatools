@@ -1,0 +1,40 @@
+// Player: MarB170
+// Place: 245
+
+4 Duress
+4 Infernal Tutor
+4 Ponder
+4 Thoughtseize
+2 Beseech the Mirror
+1 Gaea's Will
+1 Past in Flames
+1 Tendrils of Agony
+4 Brainstorm
+4 Cabal Ritual
+4 Dark Ritual
+1 Ad Nauseam
+4 Lion's Eye Diamond
+4 Lotus Petal
+2 Chrome Mox
+1 Song of Creation
+4 Polluted Delta
+2 Underground Sea
+2 Verdant Catacombs
+1 Badlands
+1 Bloodstained Mire
+1 Island
+1 Misty Rainforest
+1 Raucous Theater
+1 Swamp
+1 Tropical Island
+
+Sideboard
+4 Leyline of the Void
+3 Spider-Punk
+2 Abrupt Decay
+2 Echoing Truth
+1 Empty the Warrens
+1 Helm of Obedience
+1 Hide on the Ceiling
+1 Hurkyl's Recall
+

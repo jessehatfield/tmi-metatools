@@ -1,0 +1,44 @@
+// Player: Akira ITOH
+// Place: 474
+
+4 Orcish Bowmasters
+4 Scrawling Crawler
+2 Cecil, Dark Knight // Cecil, Redeemed Paladin
+2 Dauthi Voidwalker
+2 Sheoldred, the Apocalypse
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Boggart Trawler // Boggart Bog
+1 Ertai Resurrected
+1 Faller's Faithful
+1 Hydroelectric Specimen // Hydroelectric Laboratory
+4 Echo of Eons
+1 Agadeem's Awakening // Agadeem, the Undercrypt
+4 Force of Will
+3 Thirst for Knowledge
+2 Fell the Profane // Fell Mire
+2 Sink into Stupor // Soporific Springs
+1 Bitter Triumph
+1 Three Steps Ahead
+1 Waterlogged Teachings // Inundated Archive
+4 Aether Vial
+2 Chrome Mox
+4 Polluted Delta
+3 Wasteland
+2 Underground Sea
+1 Bloodstained Mire
+1 Island
+1 Scalding Tarn
+1 Spymaster's Vault
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+3 Barrowgoyf
+3 Mai, Scornful Striker
+3 Thoughtseize
+2 Consign to Memory
+1 Blue Elemental Blast
+1 Dauthi Voidwalker
+1 Glistening Deluge
+1 Vendilion Clique
+

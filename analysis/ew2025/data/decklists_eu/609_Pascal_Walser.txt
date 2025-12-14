@@ -1,0 +1,38 @@
+// Player: Pascal Walser
+// Place: 609
+
+4 Karn, the Great Creator
+2 Tezzeret, Cruel Captain
+2 Ugin, Eye of the Storms
+4 Glaring Fleshraker
+1 Walking Ballista
+4 Kozilek's Command
+4 Grim Monolith
+4 Lotus Petal
+4 The One Ring
+2 Manifold Key
+2 Mystic Forge
+1 Basalt Monolith
+1 Expedition Map
+1 Mox Opal
+1 Pithing Needle
+1 Portable Hole
+1 Soul-Guide Lantern
+1 Voltaic Key
+4 Urza's Saga
+4 Ancient Tomb
+4 Planar Nexus
+4 Urza's Tower
+4 Urza's Workshop
+
+Sideboard
+4 Thought-Knot Seer
+3 Trinisphere
+2 Dismember
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Perilous Snare
+1 Portable Hole
+1 Tormod's Crypt
+

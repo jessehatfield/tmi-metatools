@@ -1,0 +1,39 @@
+// Player: Takeshi Yamanashi
+// Place: 532
+
+3 Emrakul, the Aeons Torn
+3 Fireflux Squad
+2 Atraxa, Grand Unifier
+1 Griselbrand
+1 Koma, World-Eater
+1 Simian Spirit Guide
+1 Worldspine Wurm
+3 Sundering Eruption // Volcanic Fissure
+2 Shatterskull Smashing // Shatterskull, the Hammer Pass
+3 Seething Song
+2 Through the Breach
+4 Lotus Petal
+4 Yggdrasil, Rebirth Engine
+3 Chalice of the Void
+3 Chrome Mox
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Sneak Attack
+4 Ancient Tomb
+4 City of Traitors
+4 Mountain
+1 Cavern of Souls
+1 Crystal Vein
+1 Den of the Bugbear
+1 Sokenzan, Crucible of Defiance
+
+Sideboard
+3 Abrade
+2 Blood Moon
+2 Mindbreak Trap
+2 Through the Breach
+2 Trinisphere
+1 Ashen Rider
+1 Defense Grid
+1 Ravenous Trap
+1 Seething Song
+

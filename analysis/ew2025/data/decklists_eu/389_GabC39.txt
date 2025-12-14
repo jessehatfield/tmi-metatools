@@ -1,0 +1,45 @@
+// Player: GabC39
+// Place: 389
+
+4 Cephalid Illusionist
+4 Nomads en-Kor
+3 Narcomoeba
+3 Stoneforge Mystic
+2 Brazen Borrower // Petty Theft
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Thassa's Oracle
+4 Ponder
+1 Dread Return
+1 Prismatic Ending
+1 Step Through
+4 Brainstorm
+4 Force of Will
+2 Daze
+1 Memory's Journey
+1 Swords to Plowshares
+3 Shuko
+1 Kaldra Compleat
+1 Urza's Saga
+3 Flooded Strand
+3 Island
+2 Plains
+2 Windswept Heath
+1 Forest
+1 Meticulous Archive
+1 Misty Rainforest
+1 Savannah
+1 Scalding Tarn
+1 Tropical Island
+1 Tundra
+
+Sideboard
+2 Consign to Memory
+2 Damping Sphere
+2 Echoing Truth
+2 Faerie Macabre
+2 Pithing Needle
+2 Serenity
+1 Hydroblast
+1 Prismatic Ending
+1 Swords to Plowshares
+

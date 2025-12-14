@@ -1,0 +1,40 @@
+// Player: Kosuke Shiraishi
+// Place: 499
+
+1 Grist, the Hunger Tide
+4 Allosaurus Shepherd
+4 Birchlore Rangers
+4 Elvish Visionary
+4 Heritage Druid
+4 Nettle Sentinel
+4 Wirewood Symbiote
+1 Badgermole Cub
+1 Craterhoof Behemoth
+1 Dryad Arbor
+1 Quirion Ranger
+1 Regal Force
+4 Glimpse of Nature
+4 Green Sun's Zenith
+3 Natural Order
+2 Once Upon a Time
+4 Gaea's Cradle
+3 Forest
+2 Bayou
+2 Boseiju, Who Endures
+2 Misty Rainforest
+2 Verdant Catacombs
+1 Windswept Heath
+1 Wooded Foothills
+
+Sideboard
+3 Abrupt Decay
+3 Eladamri, Korvecdal
+2 Endurance
+1 Collector Ouphe
+1 Disruptor Flute
+1 Force of Vigor
+1 Grist, the Hunger Tide
+1 Keen-Eyed Curator
+1 Natural Order
+1 Reclamation Sage
+

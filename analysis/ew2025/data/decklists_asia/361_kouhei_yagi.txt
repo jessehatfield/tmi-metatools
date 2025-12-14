@@ -1,0 +1,36 @@
+// Player: kouhei yagi
+// Place: 361
+
+4 Emry, Lurker of the Loch
+4 Kappa Cannoneer
+4 Patchwork Automaton
+4 Pinnacle Emissary
+1 Brazen Borrower // Petty Theft
+4 Force of Will
+4 Sink into Stupor // Soporific Springs
+4 Lotus Petal
+4 Mishra's Bauble
+4 Mox Opal
+4 Urza's Bauble
+3 Chalice of the Void
+1 Shadowspear
+1 Tormod's Crypt
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+1 Island
+1 Secluded Starforge
+
+Sideboard
+3 Consign to Memory
+2 Dismember
+2 Force of Negation
+1 Aether Spellbomb
+1 Amphibian Downpour
+1 Disruptor Flute
+1 Faerie Macabre
+1 Harbinger of the Seas
+1 Haywire Mite
+1 Pithing Needle
+1 Tormod's Crypt
+

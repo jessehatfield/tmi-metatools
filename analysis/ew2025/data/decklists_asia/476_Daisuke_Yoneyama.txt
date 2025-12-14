@@ -1,0 +1,49 @@
+// Player: Daisuke Yoneyama
+// Place: 476
+
+1 Grist, the Hunger Tide
+4 Elvish Reclaimer
+3 Knight of the Reliquary
+2 Badgermole Cub
+1 Dryad Arbor
+1 Endurance
+1 Gaddock Teeg
+1 Icetill Explorer
+3 Green Sun's Zenith
+1 Life from the Loam
+1 Prismatic Ending
+4 Crop Rotation
+4 Swords to Plowshares
+3 Mox Diamond
+1 Lavaspur Boots
+1 Shadowspear
+3 Urza's Saga
+2 Sylvan Library
+4 Windswept Heath
+3 Yavimaya, Cradle of Growth
+2 Boseiju, Who Endures
+2 Savannah
+2 Wasteland
+1 Bojuka Bog
+1 Dark Depths
+1 Echoing Deeps
+1 Flagstones of Trokair
+1 Forest
+1 Karakas
+1 Lush Portico
+1 Maze of Ith
+1 Sejiri Steppe
+1 Thespian's Stage
+
+Sideboard
+3 Deafening Silence
+2 Containment Priest
+2 Disruptor Flute
+2 Force of Vigor
+1 Collector Ouphe
+1 Doorkeeper Thrull
+1 Endurance
+1 Gaddock Teeg
+1 Pithing Needle
+1 The Tabernacle at Pendrell Vale
+

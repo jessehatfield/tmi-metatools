@@ -1,0 +1,35 @@
+// Player: gabbroilfabbro
+// Place: 777
+
+4 Barrowgoyf
+4 Dauthi Voidwalker
+4 Nethergoyf
+4 Orcish Bowmasters
+3 Opposition Agent
+4 Thoughtseize
+3 Hymn to Tourach
+4 Dark Ritual
+3 Fatal Push
+2 Bitter Triumph
+2 Sheoldred's Edict
+1 Snuff Out
+2 Nihil Spellbomb
+4 Swamp
+4 Wasteland
+2 Badlands
+2 Bloodstained Mire
+2 Marsh Flats
+2 Polluted Delta
+2 Verdant Catacombs
+1 Castle Locthwain
+1 Raucous Theater
+
+Sideboard
+4 Leyline of the Void
+3 Damping Sphere
+2 Mindbreak Trap
+2 Null Rod
+2 Pyroblast
+1 Meltdown
+1 The Filigree Sylex
+

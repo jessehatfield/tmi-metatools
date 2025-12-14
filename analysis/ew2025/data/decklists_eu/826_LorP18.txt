@@ -1,0 +1,43 @@
+// Player: LorP18
+// Place: 826
+
+2 Narset, Parter of Veils
+2 Teferi, Time Raveler
+3 Phelia, Exuberant Shepherd
+3 Quantum Riddler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Containment Priest
+3 Ponder
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+1 Force of Negation
+1 Minor Misstep
+1 Stern Scolding
+2 Dress Down
+1 Back to Basics
+5 Island
+4 Flooded Strand
+4 Prismatic Vista
+2 Arid Mesa
+2 Plains
+2 Tundra
+1 Karakas
+1 Meticulous Archive
+
+Sideboard
+2 Blue Elemental Blast
+2 Celestial Purge
+2 Wrath of the Skies
+1 Back to Basics
+1 Clarion Conqueror
+1 Consign to Memory
+1 Faerie Macabre
+1 Prismatic Ending
+1 Quantum Riddler
+1 Rest in Peace
+1 Sanctifier en-Vec
+1 Surgical Extraction
+

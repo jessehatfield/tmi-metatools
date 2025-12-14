@@ -1,0 +1,36 @@
+// Player: Kenji Matsuda
+// Place: 558
+
+4 Delver of Secrets // Insectile Aberration
+4 Surge Engine
+3 Brazen Borrower // Petty Theft
+2 Murktide Regent
+1 Spider-Woman, Stunning Savior
+4 Ponder
+3 Preordain
+4 Brainstorm
+4 Daze
+4 Force of Will
+2 Dismember
+2 Spell Pierce
+2 Spell Snare
+2 Stifle
+1 Flusterstorm
+1 Sink into Stupor // Soporific Springs
+5 Island
+4 Prismatic Vista
+4 Scalding Tarn
+4 Wasteland
+1 Mountain
+
+Sideboard
+3 Pyroblast
+2 Consign to Memory
+2 Hydroblast
+2 Price of Progress
+2 Surgical Extraction
+1 Force of Negation
+1 Grafdigger's Cage
+1 Meltdown
+1 Shenanigans
+

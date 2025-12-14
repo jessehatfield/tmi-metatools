@@ -1,0 +1,31 @@
+// Player: Shin Tomizawa
+// Place: 677
+
+4 Anticausal Vestige
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+2 Devourer of Destiny
+2 Reality Smasher
+2 Wastescape Battlemage
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+1 Talisman of Creativity
+1 Talisman of Impulse
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Wasteland
+3 Eye of Ugin
+2 Unclaimed Territory
+2 Yavimaya, Cradle of Growth
+1 Wastes
+
+Sideboard
+4 Disruptor Flute
+4 Leyline of the Void
+3 Dismember
+2 Null Rod
+2 Wastescape Battlemage
+

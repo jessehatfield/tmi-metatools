@@ -1,0 +1,39 @@
+// Player: ganesh
+// Place: 350
+
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+3 Simian Spirit Guide
+1 Chaos Defiler
+1 Phyrexian Dragon Engine
+4 Lightning Bolt
+4 Pyroblast
+2 Grindstone
+1 Ensnaring Bridge
+1 Lavaspur Boots
+1 Lotus Petal
+1 Mox Opal
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+2 Blood Moon
+8 Mountain
+4 Ancient Tomb
+2 City of Traitors
+2 Great Furnace
+1 Arena of Glory
+
+Sideboard
+3 Untimely Malfunction
+2 Disruptor Flute
+2 Fury
+2 Surgical Extraction
+1 Abrade
+1 Fiery Confluence
+1 Magus of the Moon
+1 Null Rod
+1 Red Elemental Blast
+1 Torpor Orb
+

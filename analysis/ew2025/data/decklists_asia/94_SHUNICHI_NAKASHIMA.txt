@@ -1,0 +1,36 @@
+// Player: SHUNICHI NAKASHIMA
+// Place: 94
+
+4 Balustrade Spy
+4 Boggart Trawler // Boggart Bog
+4 Elvish Spirit Guide
+4 Simian Spirit Guide
+4 Undercity Informer
+3 Poxwalkers
+2 Disciple of Freyalise // Garden of Freyalise
+2 Narcomoeba
+1 Thassa's Oracle
+2 Agadeem's Awakening // Agadeem, the Undercrypt
+2 Cabal Therapy
+1 Dread Return
+1 Reanimate
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+4 Pact of Negation
+2 Once Upon a Time
+2 Summoner's Pact
+1 Cabal Ritual
+1 Memory's Journey
+4 Lotus Petal
+2 Chrome Mox
+1 Goblin Charbelcher
+1 Jack-o'-Lantern
+
+Sideboard
+4 Chain of Smog
+3 Force of Vigor
+2 Goblin Charbelcher
+2 Surgical Extraction
+2 Thoughtseize
+2 Witherbloom Apprentice
+

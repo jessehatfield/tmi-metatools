@@ -1,0 +1,29 @@
+// Player: Timon Barlag
+// Place: 859
+
+4 Eidolon of the Great Revel
+4 Goblin Guide
+4 Monastery Swiftspear
+4 Boltwave
+4 Chain Lightning
+4 Lava Spike
+3 Skewer the Critics
+2 Rift Bolt
+4 Fireblast
+4 Lightning Bolt
+4 Price of Progress
+1 Roiling Vortex
+17 Mountain
+1 Fiery Islet
+
+Sideboard
+3 Smash to Smithereens
+2 Ensnaring Bridge
+2 Faerie Macabre
+2 Pyroblast
+2 Searing Blood
+1 Emrakul, the Aeons Torn
+1 Roiling Vortex
+1 Sulfuric Vortex
+1 Void Mirror
+

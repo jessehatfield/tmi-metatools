@@ -1,0 +1,42 @@
+// Player: Jair Dominguez
+// Place: 380
+
+4 Duress
+4 Infernal Tutor
+4 Thoughtseize
+2 Beseech the Mirror
+1 Burning Wish
+1 Cabal Therapy
+1 Gaea's Will
+1 Tendrils of Agony
+4 Dark Ritual
+3 Cabal Ritual
+1 Ad Nauseam
+4 Chrome Mox
+4 Lion's Eye Diamond
+4 Lotus Petal
+4 Mox Opal
+3 Wishclaw Talisman
+1 Candy Trail
+4 Urza's Saga
+1 Necrodominance
+4 Vault of Whispers
+3 Swamp
+1 City of Traitors
+1 Spire of Industry
+
+Sideboard
+3 Surgical Extraction
+1 Beseech the Mirror
+1 Bone Shards
+1 Cabal Therapy
+1 Contagion
+1 Debt to the Deathless
+1 Faerie Macabre
+1 Feed the Swarm
+1 Lavaspur Boots
+1 Peer into the Abyss
+1 Sheoldred, the Apocalypse
+1 Surge Node
+1 Tendrils of Agony
+

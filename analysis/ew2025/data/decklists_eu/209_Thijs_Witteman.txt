@@ -1,0 +1,42 @@
+// Player: Thijs Witteman
+// Place: 209
+
+1 Grist, the Hunger Tide
+4 Ignoble Hierarch
+4 Keen-Eyed Curator
+4 Wight of the Reliquary
+2 Badgermole Cub
+2 Noble Hierarch
+2 Sylvan Safekeeper
+1 Atraxa, Grand Unifier
+1 Collector Ouphe
+1 Dryad Arbor
+1 Endurance
+1 Icetill Explorer
+4 Green Sun's Zenith
+4 Thoughtseize
+3 Natural Order
+3 Once Upon a Time
+1 Abrupt Decay
+4 Verdant Catacombs
+4 Wasteland
+4 Windswept Heath
+2 Bayou
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Forest
+1 Gaea's Cradle
+1 Lair of the Hydra
+1 Swamp
+1 Talon Gates of Madara
+
+Sideboard
+4 Snuff Out
+2 Choke
+2 Disruptor Flute
+2 Duress
+2 Endurance
+1 Abrupt Decay
+1 Force of Vigor
+1 Gaddock Teeg
+

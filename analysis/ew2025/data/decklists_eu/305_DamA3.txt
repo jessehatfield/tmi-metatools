@@ -1,0 +1,40 @@
+// Player: DamA3
+// Place: 305
+
+4 Duress
+4 Infernal Tutor
+4 Thoughtseize
+2 Beseech the Mirror
+2 Burning Wish
+1 Cabal Therapy
+1 Gaea's Will
+1 Tendrils of Agony
+4 Dark Ritual
+1 Ad Nauseam
+1 Cabal Ritual
+4 Chrome Mox
+4 Lion's Eye Diamond
+4 Lotus Petal
+4 Mox Opal
+4 Wishclaw Talisman
+1 Candy Trail
+4 Urza's Saga
+1 Necrodominance
+4 Vault of Whispers
+2 Polluted Delta
+1 Badlands
+1 Raucous Theater
+1 Swamp
+
+Sideboard
+4 Leyline of the Void
+2 Bone Shards
+2 Spider-Punk
+1 Beseech the Mirror
+1 Debt to the Deathless
+1 Feed the Swarm
+1 Haywire Mite
+1 Helm of Obedience
+1 Song of Creation
+1 Surge Node
+

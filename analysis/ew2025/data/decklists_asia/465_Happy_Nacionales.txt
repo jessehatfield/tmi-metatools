@@ -1,0 +1,30 @@
+// Player: Happy Nacionales
+// Place: 465
+
+4 Eidolon of the Great Revel
+4 Goblin Guide
+4 Monastery Swiftspear
+4 Chain Lightning
+4 Lava Spike
+4 Rift Bolt
+4 Skewer the Critics
+1 Exquisite Firecraft
+4 Fireblast
+4 Lightning Bolt
+4 Price of Progress
+1 Sulfuric Vortex
+10 Mountain
+4 Wooded Foothills
+2 Prismatic Vista
+1 Barbarian Ring
+1 Sunbaked Canyon
+
+Sideboard
+3 Faerie Macabre
+3 Smash to Smithereens
+2 Mindbreak Trap
+2 Pyroblast
+2 Roiling Vortex
+2 Searing Blaze
+1 Red Elemental Blast
+

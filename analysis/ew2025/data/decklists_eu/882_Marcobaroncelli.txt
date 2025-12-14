@@ -1,0 +1,41 @@
+// Player: Marcobaroncelli
+// Place: 882
+
+2 Teferi, Time Raveler
+1 Jace, the Mind Sculptor
+4 Stoneforge Mystic
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Barrowgoyf
+2 Snapcaster Mage
+1 Murktide Regent
+4 Ponder
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+1 Force of Negation
+1 Spell Pierce
+1 Batterskull
+1 Kaldra Compleat
+2 Back to Basics
+1 Dress Down
+6 Island
+4 Prismatic Vista
+2 Flooded Strand
+2 Plains
+2 Polluted Delta
+1 Scrubland
+1 Swamp
+1 Tundra
+1 Underground Sea
+
+Sideboard
+3 Consign to Memory
+3 Hydroblast
+2 Lavinia, Azorius Renegade
+2 Surgical Extraction
+2 Wrath of the Skies
+1 Flusterstorm
+1 Force of Negation
+1 Sheoldred's Edict
+

@@ -1,0 +1,36 @@
+// Player: heggie023
+// Place: 640
+
+2 Jace, the Mind Sculptor
+4 Snapcaster Mage
+4 Lórien Revealed
+1 Fiery Confluence
+4 Brainstorm
+4 Force of Will
+4 Lightning Bolt
+4 Stern Scolding
+3 Counterspell
+2 Fire // Ice
+2 Force of Negation
+1 Incinerate
+1 Pyroblast
+1 Red Elemental Blast
+1 Spell Snare
+1 Engineered Explosives
+4 Mishra's Factory
+4 Volcanic Island
+3 Flooded Strand
+3 Island
+3 Polluted Delta
+2 Mystic Sanctuary
+1 Steam Vents
+1 Thundering Falls
+
+Sideboard
+4 Obsidian Charmaw
+4 Relic of Progenitus
+2 Blue Elemental Blast
+2 Energy Flux
+2 Hydroblast
+1 Force of Negation
+

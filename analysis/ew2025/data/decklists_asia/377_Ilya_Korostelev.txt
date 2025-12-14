@@ -1,0 +1,38 @@
+// Player: Ilya Korostelev
+// Place: 377
+
+4 Katara, Waterbending Master
+4 Orcish Bowmasters
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Murktide Regent
+1 Brazen Borrower // Petty Theft
+3 Thoughtseize
+4 Brainstorm
+4 Consider
+4 Force of Will
+3 Daze
+3 Fatal Push
+2 Force of Negation
+2 Snuff Out
+4 Polluted Delta
+4 Underground Sea
+3 Wasteland
+2 Bloodstained Mire
+1 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Scalding Tarn
+1 Snow-Covered Swamp
+1 Undercity Sewers
+
+Sideboard
+3 Consign to Memory
+2 Barrowgoyf
+2 Blue Elemental Blast
+2 Mystical Dispute
+2 Surgical Extraction
+1 Brazen Borrower // Petty Theft
+1 Engineered Explosives
+1 Fatal Push
+1 Wasteland
+

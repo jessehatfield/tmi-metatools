@@ -1,0 +1,36 @@
+// Player: Yuto
+// Place: 124
+
+4 Stoneforge Mystic
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Phelia, Exuberant Shepherd
+2 Quantum Riddler
+4 Ponder
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+3 Stifle
+1 Kaldra Compleat
+1 Meteor Sword
+1 Pre-War Formalwear
+4 Flooded Strand
+4 Polluted Delta
+4 Wasteland
+3 Tundra
+1 Island
+1 Karakas
+1 Meticulous Archive
+1 Misty Rainforest
+1 Plains
+
+Sideboard
+4 Consign to Memory
+3 Wrath of the Skies
+2 Blue Elemental Blast
+2 Containment Priest
+2 Null Rod
+1 Batterskull
+1 Surgical Extraction
+

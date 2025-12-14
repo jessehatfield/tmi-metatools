@@ -1,0 +1,37 @@
+// Player: Taku Saitou
+// Place: 494
+
+4 Phyrexian Dreadnought
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Curie, Emergent Intelligence
+2 Doorkeeper Thrull
+2 Murktide Regent
+1 Nulldrifter
+4 Ponder
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+3 Stifle
+2 Consign to Memory
+3 Dress Down
+4 Flooded Strand
+4 Polluted Delta
+4 Wasteland
+3 Island
+2 Tundra
+1 Meticulous Archive
+1 Plains
+
+Sideboard
+2 Blue Elemental Blast
+2 Force of Negation
+2 Prismatic Ending
+2 Snapcaster Mage
+2 Surgical Extraction
+1 Consign to Memory
+1 Flusterstorm
+1 Soul Partition
+1 Stony Silence
+1 Wrath of the Skies
+

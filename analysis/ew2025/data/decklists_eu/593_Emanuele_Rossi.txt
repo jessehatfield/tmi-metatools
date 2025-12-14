@@ -1,0 +1,37 @@
+// Player: Emanuele Rossi
+// Place: 593
+
+3 Atraxa, Grand Unifier
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Emrakul, the Aeons Torn
+2 Uro, Titan of Nature's Wrath
+4 Ponder
+4 Show and Tell
+4 Stock Up
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+1 Cunning Wish
+1 Sink into Stupor // Soporific Springs
+1 Veil of Summer
+3 Lotus Petal
+2 Yggdrasil, Rebirth Engine
+3 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+3 Island
+2 Polluted Delta
+2 Tropical Island
+1 Forest
+1 Hedge Maze
+1 Mistrise Village
+
+Sideboard
+3 Carpet of Flowers
+3 Consign to Memory
+3 Veil of Summer
+2 Disruptor Flute
+2 Surgical Extraction
+1 Shared Summons
+1 Sublime Epiphany
+

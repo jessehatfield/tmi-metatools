@@ -1,0 +1,32 @@
+// Player: Cermak
+// Place: 371
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+3 Eldrazi Obligator
+3 Reality Smasher
+3 Wastescape Battlemage
+2 It That Heralds the End
+4 Kozilek's Command
+1 Eldrazi Confluence
+4 Lotus Petal
+3 The One Ring
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+3 Wasteland
+2 City of Traitors
+2 Eye of Ugin
+1 Snow-Covered Wastes
+1 Wastes
+
+Sideboard
+4 Chalice of the Void
+4 Disruptor Flute
+2 Dismember
+2 Eldrazi Confluence
+2 Null Rod
+1 Meteor Golem
+

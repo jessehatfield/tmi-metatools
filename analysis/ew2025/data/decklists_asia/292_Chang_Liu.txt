@@ -1,0 +1,38 @@
+// Player: Chang Liu
+// Place: 292
+
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+2 Simian Spirit Guide
+1 Chaos Defiler
+1 Phyrexian Devourer
+1 Phyrexian Dragon Engine
+3 Pyroblast
+3 Red Elemental Blast
+3 Agatha's Soul Cauldron
+2 Grindstone
+1 Disruptor Flute
+1 Ensnaring Bridge
+1 Lavaspur Boots
+1 Lotus Petal
+1 Mox Opal
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+9 Mountain
+4 Ancient Tomb
+2 Great Furnace
+1 Arena of Glory
+1 City of Traitors
+
+Sideboard
+3 Disruptor Flute
+3 Magus of the Moon
+3 Torpor Orb
+2 Abrade
+2 Lightning Bolt
+1 Damping Sphere
+1 Meekstone
+

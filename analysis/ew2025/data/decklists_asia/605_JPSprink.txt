@@ -1,0 +1,37 @@
+// Player: JPSprink
+// Place: 605
+
+4 Barrowgoyf
+4 Dauthi Voidwalker
+4 Orcish Bowmasters
+3 Cecil, Dark Knight // Cecil, Redeemed Paladin
+3 Mai, Scornful Striker
+1 Sheoldred, the Apocalypse
+4 Hymn to Tourach
+4 Thoughtseize
+4 Dark Ritual
+2 Fatal Push
+2 Fell the Profane // Fell Mire
+1 Sheoldred's Edict
+3 Bloodchief Ascension
+3 Obsessive Pursuit
+5 Swamp
+4 Wasteland
+2 Bloodstained Mire
+2 Verdant Catacombs
+1 Bayou
+1 Marsh Flats
+1 Nurturing Peatland
+1 Polluted Delta
+1 Underground Mortuary
+
+Sideboard
+3 Collector Ouphe
+2 Damping Sphere
+2 Necromentia
+2 Pithing Needle
+2 Sheoldred's Edict
+2 Surgical Extraction
+1 Plague Engineer
+1 Toxic Deluge
+

@@ -1,0 +1,38 @@
+// Player: zixuan
+// Place: 242
+
+4 Phyrexian Dreadnought
+3 Doorkeeper Thrull
+3 Nulldrifter
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Ponder
+1 Wrath of the Skies
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+3 Stifle
+2 Consign to Memory
+1 Sink into Stupor // Soporific Springs
+3 Dress Down
+4 Flooded Strand
+4 Prismatic Vista
+4 Wasteland
+2 Island
+2 Plains
+2 Tundra
+1 Karakas
+
+Sideboard
+2 Clarion Conqueror
+2 Consign to Memory
+2 Triumph of Saint Katherine
+2 Wrath of the Skies
+1 Cataclysm
+1 Containment Priest
+1 Grafdigger's Cage
+1 Hydroblast
+1 Path to Exile
+1 Surge of Salvation
+1 Surgical Extraction
+

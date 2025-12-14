@@ -1,0 +1,43 @@
+// Player: Lionco
+// Place: 833
+
+4 Infernal Tutor
+4 Thoughtseize
+3 Beseech the Mirror
+3 Duress
+2 Burning Wish
+1 Gaea's Will
+1 Tendrils of Agony
+4 Dark Ritual
+1 Ad Nauseam
+1 Cabal Ritual
+4 Chrome Mox
+4 Lion's Eye Diamond
+4 Lotus Petal
+4 Mox Opal
+3 Wishclaw Talisman
+2 Defense Grid
+4 Urza's Saga
+1 Song of Creation
+3 Polluted Delta
+3 Vault of Whispers
+2 Badlands
+1 Raucous Theater
+1 Swamp
+
+Sideboard
+2 Spider-Punk
+1 Beseech the Mirror
+1 Blast Zone
+1 Bone Shards
+1 Duress
+1 Echo of Eons
+1 Empty the Warrens
+1 Fatal Push
+1 Feed the Swarm
+1 Peer into the Abyss
+1 Pulverize
+1 Shattering Spree
+1 Tendrils of Agony
+1 Untimely Malfunction
+

@@ -1,0 +1,38 @@
+// Player: Atsushi
+// Place: 135
+
+1 Grist, the Hunger Tide
+4 Allosaurus Shepherd
+4 Badgermole Cub
+4 Fiend Artisan
+4 Llanowar Elves
+4 Quirion Ranger
+2 Elvish Mystic
+1 Atraxa, Grand Unifier
+1 Collector Ouphe
+1 Craterhoof Behemoth
+1 Dryad Arbor
+1 Dryad Militant
+1 Endurance
+1 Sylvan Safekeeper
+4 Green Sun's Zenith
+4 Natural Order
+3 Once Upon a Time
+4 Forest
+4 Gaea's Cradle
+3 Wasteland
+2 Bayou
+2 Boseiju, Who Endures
+2 Misty Rainforest
+1 Verdant Catacombs
+1 Windswept Heath
+
+Sideboard
+4 Thoughtseize
+2 Dismember
+2 Disruptor Flute
+2 Endurance
+2 Snuff Out
+2 Void Mirror
+1 Dryad Militant
+

@@ -1,0 +1,37 @@
+// Player: Cri7
+// Place: 857
+
+4 Dragon's Rage Channeler
+2 Murktide Regent
+2 Questing Druid // Seek the Beast
+1 Brazen Borrower // Petty Theft
+4 Ponder
+1 Preordain
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+1 Unholy Heat
+4 Mishra's Bauble
+3 Cori-Steel Cutter
+1 Urza's Bauble
+2 Unable to Scream
+4 Volcanic Island
+4 Wasteland
+3 Polluted Delta
+2 Flooded Strand
+2 Misty Rainforest
+2 Scalding Tarn
+1 Island
+1 Tropical Island
+
+Sideboard
+3 Pyroblast
+2 Consign to Memory
+2 Force of Negation
+2 Hydroblast
+2 Meltdown
+2 Surgical Extraction
+1 Grafdigger's Cage
+1 Price of Progress
+

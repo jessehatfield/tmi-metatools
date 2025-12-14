@@ -1,0 +1,36 @@
+// Player: SebastianF
+// Place: 99
+
+2 Kaito, Bane of Nightmares
+4 Nethergoyf
+4 Orcish Bowmasters
+3 Katara, Waterbending Master
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Abhorrent Oculus
+1 Brazen Borrower // Petty Theft
+3 Ponder
+3 Thoughtseize
+4 Brainstorm
+4 Force of Will
+3 Daze
+3 Fatal Push
+1 Snuff Out
+4 Polluted Delta
+4 Underground Sea
+4 Wasteland
+3 Flooded Strand
+1 Bloodstained Mire
+1 Island
+1 Otawara, Soaring City
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+3 Barrowgoyf
+3 Consign to Memory
+2 Dress Down
+2 Force of Negation
+2 Hydroblast
+2 Nihil Spellbomb
+1 Null Rod
+

@@ -1,0 +1,43 @@
+// Player: Dario Rabolini
+// Place: 24
+
+3 Atraxa, Grand Unifier
+1 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+1 Eureka
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+2 Flusterstorm
+2 Veil of Summer
+1 Borne Upon a Wind
+1 Intuition
+3 Lotus Petal
+1 The One Ring
+4 Omniscience
+3 Ancient Tomb
+3 Island
+2 City of Traitors
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+2 Tropical Island
+1 Hedge Maze
+1 Mistrise Village
+
+Sideboard
+2 Consign to Memory
+2 Force of Negation
+2 Grafdigger's Cage
+2 Surgical Extraction
+1 Echoing Truth
+1 Firemind's Foresight
+1 Heritage Reclamation
+1 Release the Ants
+1 Shared Summons
+1 Sublime Epiphany
+1 Veil of Summer
+

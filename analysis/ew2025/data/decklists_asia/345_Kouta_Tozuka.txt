@@ -1,0 +1,40 @@
+// Player: Kouta Tozuka
+// Place: 345
+
+1 Grist, the Hunger Tide
+4 Allosaurus Shepherd
+4 Badgermole Cub
+4 Quirion Ranger
+3 Llanowar Elves
+2 Dryad Arbor
+2 Elvish Mystic
+2 Fyndhorn Elves
+1 Atraxa, Grand Unifier
+1 Birchlore Rangers
+1 Collector Ouphe
+1 Craterhoof Behemoth
+1 Eladamri, Korvecdal
+1 Fiend Artisan
+1 Jaspera Sentinel
+1 Keen-Eyed Curator
+1 Tyvar, the Pummeler
+1 Wirewood Symbiote
+4 Green Sun's Zenith
+4 Natural Order
+2 Nature's Rhythm
+4 Gaea's Cradle
+3 Bayou
+2 Forest
+2 Misty Rainforest
+2 Verdant Catacombs
+2 Windswept Heath
+2 Wooded Foothills
+1 Underground Mortuary
+
+Sideboard
+4 Abrupt Decay
+4 Leyline of the Void
+4 Thoughtseize
+2 Disruptor Flute
+1 Reclamation Sage
+

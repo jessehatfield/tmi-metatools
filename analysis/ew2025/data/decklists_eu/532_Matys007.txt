@@ -1,0 +1,38 @@
+// Player: Matys007
+// Place: 532
+
+1 Teferi, Time Raveler
+4 Phelia, Exuberant Shepherd
+4 Quantum Riddler
+3 Solitude
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Ponder
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+4 Leyline Binding
+4 Up the Beanstalk
+4 Flooded Strand
+4 Misty Rainforest
+2 Island
+2 Tropical Island
+2 Tundra
+1 Hedge Maze
+1 Karakas
+1 Meticulous Archive
+1 Plains
+1 Savannah
+1 Xander's Lounge
+
+Sideboard
+2 Carpet of Flowers
+2 Clarion Conqueror
+2 Consign to Memory
+2 Containment Priest
+2 Force of Negation
+2 Wrath of the Skies
+1 Blue Elemental Blast
+1 Rest in Peace
+1 Surgical Extraction
+

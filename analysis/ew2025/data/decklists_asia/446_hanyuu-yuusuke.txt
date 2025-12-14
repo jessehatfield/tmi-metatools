@@ -1,0 +1,41 @@
+// Player: hanyuu-yuusuke
+// Place: 446
+
+2 Emrakul, the Aeons Torn
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Show and Tell
+4 Stock Up
+2 Preordain
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+2 Veil of Summer
+1 Sink into Stupor // Soporific Springs
+1 Spell Pierce
+3 Lotus Petal
+3 The One Ring
+3 Omniscience
+2 Mind Over Matter
+4 Island
+4 Misty Rainforest
+3 Ancient Tomb
+2 Prismatic Vista
+2 Tropical Island
+1 Forest
+1 Hedge Maze
+1 Mistrise Village
+1 Otawara, Soaring City
+
+Sideboard
+3 Consign to Memory
+2 Carpet of Flowers
+2 Disruptor Flute
+2 Surgical Extraction
+1 Dress Down
+1 Engineered Explosives
+1 Force of Negation
+1 Hurkyl's Recall
+1 Hydroblast
+1 Veil of Summer
+

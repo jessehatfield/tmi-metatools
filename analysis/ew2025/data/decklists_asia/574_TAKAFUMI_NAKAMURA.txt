@@ -1,0 +1,35 @@
+// Player: TAKAFUMI NAKAMURA
+// Place: 574
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Barrowgoyf
+3 Murktide Regent
+1 Brazen Borrower // Petty Theft
+4 Ponder
+4 Thoughtseize
+3 Hymn to Tourach
+4 Brainstorm
+4 Force of Will
+3 Daze
+3 Fatal Push
+2 Force of Negation
+2 Snuff Out
+4 Polluted Delta
+4 Wasteland
+3 Underground Sea
+2 Flooded Strand
+2 Island
+2 Marsh Flats
+1 Swamp
+1 Undercity Sewers
+1 Urborg, Tomb of Yawgmoth
+
+Sideboard
+4 Leyline of the Void
+3 Consign to Memory
+2 Hydroblast
+2 Sheoldred's Edict
+2 Toxic Deluge
+1 Fatal Push
+1 Null Rod
+

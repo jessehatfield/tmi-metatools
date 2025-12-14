@@ -1,0 +1,38 @@
+// Player: Carl Meinung
+// Place: 639
+
+2 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Barrowgoyf
+2 Murktide Regent
+1 Brazen Borrower // Petty Theft
+4 Ponder
+3 Thoughtseize
+4 Brainstorm
+4 Fatal Push
+4 Force of Will
+3 Daze
+1 Lightning Bolt
+1 Sheoldred's Edict
+1 Engineered Explosives
+4 Polluted Delta
+4 Scalding Tarn
+4 Underground Sea
+4 Wasteland
+1 Badlands
+1 Island
+1 Undercity Sewers
+1 Volcanic Island
+
+Sideboard
+4 Pyroblast
+2 Consign to Memory
+2 Grafdigger's Cage
+2 Hydroblast
+1 Barrowgoyf
+1 Engineered Explosives
+1 Force of Negation
+1 Null Rod
+1 Surgical Extraction
+

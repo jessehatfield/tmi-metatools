@@ -1,0 +1,37 @@
+// Player: Shun Furukawa
+// Place: 101
+
+4 Phelia, Exuberant Shepherd
+4 Stoneforge Mystic
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Quantum Riddler
+4 Ponder
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Swords to Plowshares
+3 Stifle
+1 Kaldra Compleat
+1 Meteor Sword
+1 Pre-War Formalwear
+4 Flooded Strand
+4 Wasteland
+3 Tundra
+2 Polluted Delta
+2 Windswept Heath
+1 Island
+1 Karakas
+1 Meticulous Archive
+1 Plains
+1 Scalding Tarn
+
+Sideboard
+3 Consign to Memory
+2 Containment Priest
+2 Force of Negation
+2 Lavinia, Azorius Renegade
+2 Prismatic Ending
+2 Wrath of the Skies
+1 Deafening Silence
+1 Narset, Parter of Veils
+

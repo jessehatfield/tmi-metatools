@@ -1,0 +1,42 @@
+// Player: tatsuya nishiwaki
+// Place: 281
+
+2 Kaito, Bane of Nightmares
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Thundertrap Trainer
+3 Orcish Bowmasters
+2 Murktide Regent
+1 Barrowgoyf
+4 Ponder
+3 Thoughtseize
+1 Molten Collapse
+4 Brainstorm
+4 Force of Will
+3 Fatal Push
+3 Flame of Anor
+1 Sheoldred's Edict
+4 Polluted Delta
+3 Underground Sea
+3 Volcanic Island
+3 Wasteland
+2 Misty Rainforest
+1 Bloodstained Mire
+1 Flooded Strand
+1 Island
+1 Mystic Sanctuary
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+2 Consign to Memory
+2 Force of Negation
+2 Hydroblast
+2 Pyroblast
+1 Barrowgoyf
+1 Blood Moon
+1 Meltdown
+1 Null Rod
+1 Red Elemental Blast
+1 Surgical Extraction
+1 Unlicensed Hearse
+

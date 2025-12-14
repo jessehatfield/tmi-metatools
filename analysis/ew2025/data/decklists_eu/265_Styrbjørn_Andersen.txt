@@ -1,0 +1,49 @@
+// Player: Styrbjørn Andersen
+// Place: 265
+
+2 Minsc & Boo, Timeless Heroes
+4 Elvish Reclaimer
+4 Knight of the Reliquary
+2 Endurance
+1 Collector Ouphe
+1 Dryad Arbor
+1 Gaddock Teeg
+1 Icetill Explorer
+1 Keen-Eyed Curator
+1 Sylvan Safekeeper
+3 Green Sun's Zenith
+2 Prismatic Ending
+4 Crop Rotation
+4 Swords to Plowshares
+1 Legolas's Quick Reflexes
+2 Mox Diamond
+4 Windswept Heath
+3 Wasteland
+2 Dark Depths
+2 Flagstones of Trokair
+2 Savannah
+2 Thespian's Stage
+1 Bojuka Bog
+1 Commercial District
+1 Echoing Deeps
+1 Forest
+1 Karakas
+1 Lush Portico
+1 Maze of Ith
+1 Plains
+1 Sejiri Steppe
+1 Taiga
+1 Talon Gates of Madara
+1 Yavimaya, Cradle of Growth
+
+Sideboard
+3 Force of Vigor
+2 Choke
+2 Deafening Silence
+2 Disruptor Flute
+2 Surgical Extraction
+1 Containment Priest
+1 Damping Sphere
+1 Legolas's Quick Reflexes
+1 Veil of Summer
+

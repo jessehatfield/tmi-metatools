@@ -1,0 +1,41 @@
+// Player: Meldrazi
+// Place: 705
+
+2 Grist, the Hunger Tide
+2 Minsc & Boo, Timeless Heroes
+4 Barrowgoyf
+4 Dauthi Voidwalker
+4 Ignoble Hierarch
+4 Orcish Bowmasters
+3 Questing Druid // Seek the Beast
+1 Endurance
+4 Thoughtseize
+1 Unearth
+3 Sheoldred's Edict
+2 Abrupt Decay
+2 Lightning Bolt
+1 Fatal Push
+4 Verdant Catacombs
+4 Wasteland
+3 Bayou
+3 Wooded Foothills
+2 Badlands
+2 Bloodstained Mire
+1 Forest
+1 Raucous Theater
+1 Swamp
+1 Taiga
+1 Underground Mortuary
+
+Sideboard
+2 Choke
+2 Duress
+2 Force of Vigor
+2 Red Elemental Blast
+2 Veil of Summer
+1 Molten Collapse
+1 Nihil Spellbomb
+1 Plague Engineer
+1 Pyroblast
+1 Toxic Deluge
+

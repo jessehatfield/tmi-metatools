@@ -1,0 +1,43 @@
+// Player: Samuel Mistygatz
+// Place: 922
+
+2 Endurance
+4 Life from the Loam
+4 Malevolent Rumble
+4 Crop Rotation
+4 Mox Diamond
+2 Disruptor Flute
+1 Expedition Map
+1 Grafdigger's Cage
+1 Lavaspur Boots
+1 Pithing Needle
+4 Exploration
+4 Urza's Saga
+4 Wasteland
+3 Boseiju, Who Endures
+3 Dark Depths
+3 Thespian's Stage
+2 Maze of Ith
+2 Yavimaya, Cradle of Growth
+1 Ancient Tomb
+1 Blast Zone
+1 Bojuka Bog
+1 Forest
+1 Karakas
+1 Lush Portico
+1 Otawara, Soaring City
+1 Savannah
+1 Sejiri Steppe
+1 The Tabernacle at Pendrell Vale
+1 Windswept Heath
+1 Wooded Foothills
+
+Sideboard
+4 Swords to Plowshares
+3 Force of Vigor
+2 Containment Priest
+2 Damping Sphere
+2 Disruptor Flute
+1 Field of the Dead
+1 Gaddock Teeg
+

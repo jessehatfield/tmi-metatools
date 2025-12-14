@@ -1,0 +1,30 @@
+// Player: HiroakiOsuga
+// Place: 467
+
+4 Colossal Grave-Reaver
+4 Stitcher's Supplier
+2 Archon of Cruelty
+2 Atraxa, Grand Unifier
+2 Griselbrand
+4 Faithless Looting
+4 Reanimate
+4 Thoughtseize
+4 Unmask
+2 Cabal Therapy
+4 Dark Ritual
+4 Shallow Grave
+4 Lotus Petal
+2 Animate Dead
+4 Bloodstained Mire
+4 Verdant Catacombs
+2 Badlands
+2 Swamp
+1 Bayou
+1 Underground Mortuary
+
+Sideboard
+4 Chain of Smog
+4 Leyline of the Void
+4 Witherbloom Apprentice
+3 Assassin's Trophy
+

@@ -1,0 +1,45 @@
+// Player: Naoya Koyano
+// Place: 330
+
+4 Elvish Reclaimer
+3 Primeval Titan
+2 Endurance
+1 Emrakul, the Aeons Torn
+1 Icetill Explorer
+1 Ulamog, the Ceaseless Hunger
+1 Wastescape Battlemage
+2 Green Sun's Zenith
+4 Crop Rotation
+4 Kozilek's Command
+4 Disruptor Flute
+4 Expedition Map
+4 Cloudpost
+4 Glimmerpost
+4 Planar Nexus
+4 Yavimaya, Cradle of Growth
+2 Boseiju, Who Endures
+1 Bojuka Bog
+1 Cavern of Souls
+1 Dark Depths
+1 Echoing Deeps
+1 Eye of Ugin
+1 Forest
+1 Ghost Quarter
+1 Glacial Chasm
+1 Karakas
+1 Maze of Ith
+1 Thespian's Stage
+1 Urza's Tower
+
+Sideboard
+3 Carpet of Flowers
+3 Force of Vigor
+2 Dismember
+1 Collector Ouphe
+1 Endurance
+1 Gaddock Teeg
+1 Krosan Grip
+1 Rootpath Purifier
+1 Warping Wail
+1 Wastescape Battlemage
+

@@ -1,0 +1,43 @@
+// Player: Yosuke Takaizumi
+// Place: 171
+
+4 Infernal Tutor
+3 Ponder
+3 Thoughtseize
+2 Duress
+2 Living Wish
+1 Beseech the Mirror
+1 Gaea's Will
+1 Tendrils of Agony
+4 Brainstorm
+4 Dark Ritual
+3 Veil of Summer
+2 Cabal Ritual
+2 Flusterstorm
+1 Ad Nauseam
+4 Lion's Eye Diamond
+4 Lotus Petal
+2 Chrome Mox
+1 Wishclaw Talisman
+4 Polluted Delta
+3 Verdant Catacombs
+1 Badlands
+1 Bayou
+1 Boseiju, Who Endures
+1 Hedge Maze
+1 Island
+1 Raucous Theater
+1 Swamp
+1 Tropical Island
+1 Underground Sea
+
+Sideboard
+4 Assassin's Trophy
+3 Spider-Punk
+2 Ancient Grudge
+2 Carpet of Flowers
+1 Empty the Warrens
+1 Sire of Insanity
+1 Stormscale Scion
+1 Witherbloom Apprentice
+

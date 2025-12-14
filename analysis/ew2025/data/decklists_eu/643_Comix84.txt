@@ -1,0 +1,35 @@
+// Player: Comix84
+// Place: 643
+
+4 Baleful Strix
+4 Orcish Bowmasters
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Cavern Harpy
+3 Uro, Titan of Nature's Wrath
+2 Coiling Oracle
+4 Ponder
+4 Brainstorm
+4 Force of Will
+2 Abrupt Decay
+2 Flare of Denial
+4 Aluren
+4 Misty Rainforest
+3 Polluted Delta
+2 Snow-Covered Forest
+2 Snow-Covered Island
+2 Tropical Island
+2 Verdant Catacombs
+1 Bayou
+1 Hedge Maze
+1 Snow-Covered Swamp
+1 Undercity Sewers
+1 Underground Sea
+
+Sideboard
+3 Consign to Memory
+3 Force of Negation
+3 Force of Vigor
+2 Carpet of Flowers
+2 Endurance
+2 Grafdigger's Cage
+

@@ -1,0 +1,26 @@
+// Player: M1KY
+// Place: 687
+
+4 Barrowgoyf
+4 Dauthi Voidwalker
+4 Nethergoyf
+4 Opposition Agent
+4 Orcish Bowmasters
+4 Sinkhole
+4 Thoughtseize
+4 Dark Ritual
+3 Fatal Push
+3 Snuff Out
+2 Chains of Mephistopheles
+8 Swamp
+4 Marsh Flats
+4 Verdant Catacombs
+4 Wasteland
+
+Sideboard
+4 Leyline of the Void
+3 Plague Engineer
+3 Powder Keg
+3 Sheoldred's Edict
+2 Damping Sphere
+

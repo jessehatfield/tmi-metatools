@@ -1,0 +1,40 @@
+// Player: HIROKI ENDOH
+// Place: 206
+
+3 Quantum Riddler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Phelia, Exuberant Shepherd
+1 Murktide Regent
+1 Wan Shi Tong, Librarian
+4 Ponder
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+4 Up the Beanstalk
+3 Stormchaser's Talent
+2 Leyline Binding
+4 Flooded Strand
+4 Misty Rainforest
+2 Tropical Island
+2 Tundra
+2 Underground Sea
+2 Wasteland
+1 Island
+1 Karakas
+1 Plains
+1 Raffine's Tower
+1 Savannah
+
+Sideboard
+3 Carpet of Flowers
+3 Orcish Bowmasters
+2 Blue Elemental Blast
+2 Surgical Extraction
+1 Clarion Conqueror
+1 Force of Negation
+1 Lavinia, Azorius Renegade
+1 Life from the Loam
+1 Wrath of the Skies
+

@@ -1,0 +1,43 @@
+// Player: Dan Ford
+// Place: 596
+
+4 Broadside Bombardiers
+4 Goblin Lackey
+4 Goblin Matron
+2 Battle Cry Goblin
+2 Goblin Cratermaker
+2 Goblin Ringleader
+2 Mogg War Marshal
+2 Munitions Expert
+2 Muxus, Goblin Grandee
+2 Skirk Prospector
+2 Sling-Gang Lieutenant
+1 Boggart Trawler // Boggart Bog
+1 Masked Vandal
+1 Pashalik Mons
+1 Stingscourger
+2 Lightning Bolt
+4 Aether Vial
+4 Cavern of Souls
+4 Wasteland
+3 Mountain
+2 Badlands
+2 Bloodstained Mire
+2 Rishadan Port
+2 Wooded Foothills
+1 Arid Mesa
+1 Raucous Theater
+1 Scalding Tarn
+1 Taiga
+
+Sideboard
+3 Leyline of the Void
+3 Pyroblast
+2 Disruptor Flute
+2 Pyrokinesis
+1 Blood Moon
+1 Goblin Trashmaster
+1 Mindbreak Trap
+1 Null Rod
+1 Red Elemental Blast
+

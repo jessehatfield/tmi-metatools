@@ -1,0 +1,44 @@
+// Player: cloudedmirror
+// Place: 287
+
+1 Kaito, Bane of Nightmares
+3 Orcish Bowmasters
+2 Baleful Strix
+2 Barrowgoyf
+2 Dennick, Pious Apprentice // Dennick, Pious Apparition
+2 Lavinia, Azorius Renegade
+2 Murktide Regent
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Ponder
+3 Prismatic Ending
+3 Thoughtseize
+2 Witherbloom Command
+1 Lórien Revealed
+1 Sevinne's Reclamation
+4 Brainstorm
+4 Force of Will
+3 Swords to Plowshares
+4 Flooded Strand
+3 Wasteland
+2 Polluted Delta
+2 Tundra
+2 Underground Sea
+1 Island
+1 Marsh Flats
+1 Misty Rainforest
+1 Plains
+1 Savannah
+1 Scrubland
+1 Tropical Island
+
+Sideboard
+3 Consign to Memory
+2 Clarion Conqueror
+2 Containment Priest
+2 Force of Negation
+2 Hydroblast
+1 Gaddock Teeg
+1 Plague Engineer
+1 Sheoldred's Edict
+1 Wrath of the Skies
+

@@ -1,0 +1,32 @@
+// Player: dreschwater
+// Place: 150
+
+4 Amped Raptor
+4 Dragon's Rage Channeler
+4 Nethergoyf
+4 Orcish Bowmasters
+4 Cabal Therapy
+4 Thoughtseize
+2 Molten Collapse
+4 Lightning Bolt
+1 Sheoldred's Edict
+4 Cori-Steel Cutter
+4 Urza's Bauble
+2 Mishra's Bauble
+4 Badlands
+4 Bloodstained Mire
+4 Wasteland
+2 Arid Mesa
+2 Marsh Flats
+1 Mountain
+1 Raucous Theater
+1 Swamp
+
+Sideboard
+4 Leyline of the Void
+4 Pyroblast
+2 Meltdown
+2 Null Rod
+2 Price of Progress
+1 Sheoldred's Edict
+

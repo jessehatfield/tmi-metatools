@@ -1,0 +1,40 @@
+// Player: Zhongting Wang
+// Place: 208
+
+3 Narset, Parter of Veils
+2 Jace, the Mind Sculptor
+2 Teferi, Time Raveler
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Phlage, Titan of Fire's Fury
+2 Snapcaster Mage
+3 Prismatic Ending
+2 Forth Eorlingas!
+2 Lórien Revealed
+2 Supreme Verdict
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+1 Counterspell
+4 Flooded Strand
+3 Island
+3 Volcanic Island
+2 Plains
+2 Prismatic Vista
+2 Tundra
+1 Arid Mesa
+1 Meticulous Archive
+1 Mountain
+1 Plateau
+1 Scalding Tarn
+
+Sideboard
+4 Consign to Memory
+3 Pyroblast
+2 Containment Priest
+2 Wrath of the Skies
+1 From the Ashes
+1 Hydroblast
+1 Surgical Extraction
+1 Wear // Tear
+

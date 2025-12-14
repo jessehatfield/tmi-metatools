@@ -1,0 +1,30 @@
+// Player: Paul Ridoux
+// Place: 932
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+3 Barrowgoyf
+3 Reality Smasher
+3 Wastescape Battlemage
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+2 Talisman of Indulgence
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Unclaimed Territory
+4 Wasteland
+3 Eye of Ugin
+2 Urborg, Tomb of Yawgmoth
+
+Sideboard
+3 Dismember
+3 Faerie Macabre
+2 Disruptor Flute
+2 Null Rod
+2 Thorn of Amethyst
+2 Warping Wail
+1 Wastescape Battlemage
+

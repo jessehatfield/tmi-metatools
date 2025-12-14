@@ -1,0 +1,35 @@
+// Player: TaniyaToui
+// Place: 628
+
+3 Liliana of the Veil
+4 Caustic Bronco
+4 Dauthi Voidwalker
+3 Barrowgoyf
+3 Collector Ouphe
+3 Orcish Bowmasters
+2 Cecil, Dark Knight // Cecil, Redeemed Paladin
+2 Plague Engineer
+4 Thoughtseize
+4 Dark Ritual
+3 Abrupt Decay
+3 Legolas's Quick Reflexes
+6 Swamp
+4 Verdant Catacombs
+4 Wasteland
+2 Bloodstained Mire
+2 Urborg, Tomb of Yawgmoth
+1 Bayou
+1 Boseiju, Who Endures
+1 Forest
+1 Underground Mortuary
+
+Sideboard
+4 Leyline of the Void
+2 Disruptor Flute
+2 Opposition Agent
+2 Pernicious Deed
+2 Sheoldred's Edict
+1 Carpet of Flowers
+1 Pick Your Poison
+1 Sylvan Library
+

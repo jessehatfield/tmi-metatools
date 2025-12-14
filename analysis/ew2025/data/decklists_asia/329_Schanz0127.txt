@@ -1,0 +1,38 @@
+// Player: Schanz0127
+// Place: 329
+
+2 Atraxa, Grand Unifier
+4 Ponder
+4 Show and Tell
+4 Stock Up
+2 Lórien Revealed
+4 Brainstorm
+4 Cunning Wish
+4 Force of Will
+3 Veil of Summer
+2 Auroral Procession
+2 Flusterstorm
+2 Planar Genesis
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+3 Island
+2 Mistrise Village
+2 Scalding Tarn
+2 Tropical Island
+1 Boseiju, Who Endures
+1 Hedge Maze
+
+Sideboard
+2 Carpet of Flowers
+2 Consign to Memory
+2 Dress Down
+2 Surgical Extraction
+1 Brain Freeze
+1 Endurance
+1 Engineered Explosives
+1 Firemind's Foresight
+1 Force of Vigor
+1 Heritage Reclamation
+1 Sublime Epiphany
+

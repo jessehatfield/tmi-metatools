@@ -1,0 +1,40 @@
+// Player: Yamadakensuke
+// Place: 257
+
+4 Karn, the Great Creator
+2 Ugin, Eye of the Storms
+4 Thought-Knot Seer
+1 Emrakul, the Aeons Torn
+1 Endurance
+1 Ulamog, the Ceaseless Hunger
+4 Ancient Stirrings
+3 Malevolent Rumble
+4 Crop Rotation
+4 Kozilek's Command
+1 Eldrazi Confluence
+3 Disruptor Flute
+3 The One Ring
+4 Cloudpost
+4 Planar Nexus
+4 Urza's Tower
+3 Forest
+2 Boseiju, Who Endures
+2 Glimmerpost
+2 Yavimaya, Cradle of Growth
+1 Blast Zone
+1 Bojuka Bog
+1 Eye of Ugin
+1 Karakas
+
+Sideboard
+3 Dismember
+2 Faerie Macabre
+2 Force of Vigor
+2 Veil of Summer
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 The One Ring
+1 The Stone Brain
+1 Tormod's Crypt
+

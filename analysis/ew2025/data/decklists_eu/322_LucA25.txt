@@ -1,0 +1,34 @@
+// Player: LucA25
+// Place: 322
+
+4 Anointed Peacekeeper
+4 Archon of Emeria
+4 Seasoned Dungeoneer
+4 Solitude
+3 Clarion Conqueror
+3 Magus of the Moon
+3 Palace Jailer
+3 Witch Enchanter // Witch-Blessed Meadow
+2 Caves of Chaos Adventurer
+4 Chalice of the Void
+4 Chrome Mox
+4 Lotus Petal
+2 Touch the Spirit Realm
+4 Ancient Tomb
+4 Cavern of Souls
+4 City of Traitors
+3 Plains
+1 Karakas
+1 Mountain
+
+Sideboard
+3 Rest in Peace
+2 Aven Mindcensor
+2 Boromir, Warden of the Tower
+2 Faerie Macabre
+2 Wrath of the Skies
+1 Cataclysm
+1 Clarion Conqueror
+1 Reidane, God of the Worthy // Valkmira, Protector's Shield
+1 Summon: Yojimbo
+

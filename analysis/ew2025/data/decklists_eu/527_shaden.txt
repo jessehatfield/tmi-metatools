@@ -1,0 +1,51 @@
+// Player: shaden
+// Place: 527
+
+2 Teferi, Time Raveler
+3 Birds of Paradise
+3 Endurance
+3 Fauna Shaman
+3 Mother of Runes
+2 Meddling Mage
+2 Noble Hierarch
+2 Wan Shi Tong, Librarian
+1 Aang, Swift Savior // Aang and La, Ocean's Fury
+1 Atraxa, Grand Unifier
+1 Dryad Arbor
+1 Gilded Drake
+1 Hullbreacher
+1 Leovold, Emissary of Trest
+1 Loyal Retainers
+1 Master of Death
+1 Scryb Ranger
+1 Uro, Titan of Nature's Wrath
+1 Vendilion Clique
+3 Green Sun's Zenith
+4 Force of Will
+4 Aether Vial
+3 Misty Rainforest
+3 Tropical Island
+3 Wooded Foothills
+2 Savannah
+2 Verdant Catacombs
+1 Bayou
+1 Boseiju, Who Endures
+1 Forest
+1 Karakas
+1 Taiga
+
+Sideboard
+2 Meddling Mage
+2 Spider-Sense
+1 Collector Ouphe
+1 Gaddock Teeg
+1 Grist, the Hunger Tide
+1 Knight of Autumn
+1 Lazav, Wearer of Faces
+1 Linvala, Keeper of Silence
+1 Magus of the Moon
+1 Orzhov Pontiff
+1 Phage the Untouchable
+1 Spell Pierce
+1 Surgical Extraction
+
