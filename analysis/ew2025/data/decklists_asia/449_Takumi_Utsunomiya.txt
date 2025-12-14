@@ -1,0 +1,29 @@
+// Player: Takumi Utsunomiya
+// Place: 449
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+4 Wastescape Battlemage
+3 Reality Smasher
+2 Eldrazi Obligator
+2 Matter Reshaper
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+4 Wasteland
+3 Eye of Ugin
+1 Gemstone Caverns
+1 Mountain
+
+Sideboard
+4 Disruptor Flute
+4 Leyline of the Void
+3 Dismember
+2 Mindbreak Trap
+2 Null Rod
+

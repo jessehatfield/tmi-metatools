@@ -1,0 +1,44 @@
+// Player: Peter White
+// Place: 145
+
+1 Kaito, Bane of Nightmares
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Orcish Bowmasters
+2 Barrowgoyf
+2 Murktide Regent
+2 Nethergoyf
+1 Brazen Borrower // Petty Theft
+4 Ponder
+3 Thoughtseize
+2 Night's Whisper
+4 Brainstorm
+4 Force of Will
+3 Daze
+3 Fatal Push
+1 Bitter Triumph
+1 Snuff Out
+1 Nihil Spellbomb
+4 Polluted Delta
+4 Underground Sea
+4 Wasteland
+2 Bloodstained Mire
+2 Flooded Strand
+1 Island
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+2 Consign to Memory
+2 Force of Negation
+1 Barrowgoyf
+1 Blue Elemental Blast
+1 Damping Sphere
+1 Dread of Night
+1 Energy Flux
+1 Engineered Explosives
+1 Grafdigger's Cage
+1 Hydroblast
+1 Mystical Dispute
+1 Sheoldred's Edict
+1 Surgical Extraction
+

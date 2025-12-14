@@ -1,0 +1,41 @@
+// Player: SebH9
+// Place: 195
+
+4 Quantum Riddler
+3 Phelia, Exuberant Shepherd
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Solitude
+4 Ponder
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+3 Swords to Plowshares
+2 Daze
+1 Consign to Memory
+1 Force of Negation
+3 Leyline Binding
+3 Up the Beanstalk
+4 Flooded Strand
+4 Misty Rainforest
+3 Wasteland
+2 Tropical Island
+2 Tundra
+1 Island
+1 Karakas
+1 Meticulous Archive
+1 Plains
+1 Savannah
+1 Xander's Lounge
+
+Sideboard
+3 Consign to Memory
+2 Clarion Conqueror
+2 Containment Priest
+2 Wrath of the Skies
+1 Carpet of Flowers
+1 Faerie Macabre
+1 Force of Negation
+1 Grafdigger's Cage
+1 Swords to Plowshares
+1 Veil of Summer
+

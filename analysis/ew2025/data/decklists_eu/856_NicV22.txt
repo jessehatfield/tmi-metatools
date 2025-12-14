@@ -1,0 +1,35 @@
+// Player: NicV22
+// Place: 856
+
+3 Street Wraith
+2 Thassa's Oracle
+4 Doomsday
+4 Personal Tutor
+4 Ponder
+2 Edge of Autumn
+1 Duress
+1 Thoughtseize
+4 Brainstorm
+4 Dark Ritual
+4 Force of Will
+3 Daze
+2 Flusterstorm
+1 Consider
+4 Lotus Petal
+1 Lion's Eye Diamond
+4 Flooded Strand
+4 Polluted Delta
+4 Underground Sea
+1 Cavern of Souls
+1 Island
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+4 Barrowgoyf
+4 Leyline of the Void
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Force of Negation
+1 Consign to Memory
+1 Jace, Wielder of Mysteries
+

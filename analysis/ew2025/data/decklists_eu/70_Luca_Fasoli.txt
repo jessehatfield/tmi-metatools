@@ -1,0 +1,38 @@
+// Player: Luca Fasoli
+// Place: 70
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Street Wraith
+1 Thassa's Oracle
+4 Doomsday
+4 Ponder
+3 Thoughtseize
+2 Edge of Autumn
+2 Personal Tutor
+1 Duress
+4 Brainstorm
+4 Dark Ritual
+4 Force of Will
+2 Daze
+1 Consider
+4 Lotus Petal
+1 Lion's Eye Diamond
+4 Misty Rainforest
+4 Polluted Delta
+3 Underground Sea
+1 Bayou
+1 Cavern of Souls
+1 Island
+1 Tropical Island
+1 Undercity Sewers
+1 Verdant Catacombs
+
+Sideboard
+4 Barrowgoyf
+3 Carpet of Flowers
+2 Force of Negation
+2 Leyline of the Void
+2 Veil of Summer
+1 Consign to Memory
+1 Jace, Wielder of Mysteries
+

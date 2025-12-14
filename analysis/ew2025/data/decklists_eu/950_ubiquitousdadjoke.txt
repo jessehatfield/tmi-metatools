@@ -1,0 +1,40 @@
+// Player: ubiquitousdadjoke
+// Place: 950
+
+4 Life from the Loam
+4 Malevolent Rumble
+4 Crop Rotation
+3 Once Upon a Time
+4 Mox Diamond
+3 Disruptor Flute
+1 Expedition Map
+1 Grafdigger's Cage
+1 Lavaspur Boots
+1 Pithing Needle
+4 Exploration
+4 Urza's Saga
+4 Dark Depths
+4 Thespian's Stage
+4 Wasteland
+4 Yavimaya, Cradle of Growth
+3 Boseiju, Who Endures
+1 Ancient Tomb
+1 Bojuka Bog
+1 Forest
+1 Ghost Quarter
+1 Karakas
+1 Maze of Ith
+1 Sejiri Steppe
+1 The Tabernacle at Pendrell Vale
+
+Sideboard
+3 Force of Vigor
+2 Dismember
+2 Endurance
+2 Faerie Macabre
+2 Mindbreak Trap
+1 Disruptor Flute
+1 Otawara, Soaring City
+1 Pithing Needle
+1 Talon Gates of Madara
+

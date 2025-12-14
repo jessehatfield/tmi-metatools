@@ -1,0 +1,35 @@
+// Player: Francisco José Guerrero
+// Place: 389
+
+4 Katara, Waterbending Master
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Orcish Bowmasters
+2 Barrowgoyf
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+3 Ponder
+4 Brainstorm
+4 Fatal Push
+4 Force of Will
+3 Daze
+3 Force of Negation
+2 Snuff Out
+4 Polluted Delta
+4 Underground Sea
+4 Wasteland
+2 Flooded Strand
+2 Island
+2 Scalding Tarn
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+4 Consign to Memory
+3 Hydroblast
+2 Surgical Extraction
+2 Toxic Deluge
+1 Annul
+1 Barrowgoyf
+1 Harbinger of the Seas
+1 Orcish Bowmasters
+

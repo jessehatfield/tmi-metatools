@@ -1,0 +1,43 @@
+// Player: LucG28
+// Place: 642
+
+4 Broadside Bombardiers
+4 Mother of Runes
+4 Recruiter of the Guard
+4 Solitude
+4 Stoneforge Mystic
+3 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+3 Phelia, Exuberant Shepherd
+3 Thalia, Guardian of Thraben
+2 Magus of the Moon
+2 Skyclave Apparition
+2 Witch Enchanter // Witch-Blessed Meadow
+1 Flickerwisp
+1 Lion Sash
+4 Swords to Plowshares
+4 Aether Vial
+1 Chainsaw
+1 Kaldra Compleat
+1 Pre-War Formalwear
+5 Plains
+4 Arid Mesa
+4 Karakas
+4 Marsh Flats
+4 Wasteland
+4 Windswept Heath
+2 Elegant Parlor
+2 Plateau
+2 Prismatic Vista
+1 Mountain
+
+Sideboard
+1 Yorion, Sky Nomad
+4 Pyroblast
+2 Deafening Silence
+2 Disruptor Flute
+2 Wrath of the Skies
+1 Containment Priest
+1 Faerie Macabre
+1 Grafdigger's Cage
+1 Kataki, War's Wage
+

@@ -1,0 +1,40 @@
+// Player: Ergazpo
+// Place: 521
+
+2 Atraxa, Grand Unifier
+1 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+2 Eureka
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+3 Veil of Summer
+1 Sink into Stupor // Soporific Springs
+1 Spell Pierce
+4 Lotus Petal
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+2 Island
+2 Polluted Delta
+2 Tropical Island
+1 Flooded Strand
+1 Forest
+1 Hedge Maze
+1 Mistrise Village
+
+Sideboard
+3 Carpet of Flowers
+3 Consign to Memory
+2 Force of Negation
+1 Echoing Truth
+1 Intuition
+1 Mistrise Village
+1 Shared Summons
+1 Sublime Epiphany
+1 Surgical Extraction
+1 Veil of Summer
+

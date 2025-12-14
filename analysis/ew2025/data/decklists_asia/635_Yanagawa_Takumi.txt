@@ -1,0 +1,39 @@
+// Player: Yanagawa Takumi
+// Place: 635
+
+4 Delver of Secrets // Insectile Aberration
+4 Dragon's Rage Channeler
+3 Tarmogoyf
+2 Murktide Regent
+1 Brazen Borrower // Petty Theft
+1 Chain Lightning
+1 Ponder
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+2 Spell Pierce
+1 Unholy Heat
+4 Mishra's Bauble
+1 Cori-Steel Cutter
+1 Unable to Scream
+4 Misty Rainforest
+4 Scalding Tarn
+4 Volcanic Island
+4 Wasteland
+2 Tropical Island
+1 Thundering Falls
+
+Sideboard
+3 Pyroblast
+2 Consign to Memory
+2 Grafdigger's Cage
+1 Collector Ouphe
+1 Force of Negation
+1 Hydroblast
+1 Meltdown
+1 Pick Your Poison
+1 Pithing Needle
+1 Price of Progress
+1 True-Name Nemesis
+

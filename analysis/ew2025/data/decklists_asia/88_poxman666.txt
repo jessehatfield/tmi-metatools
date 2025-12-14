@@ -1,0 +1,33 @@
+// Player: poxman666
+// Place: 88
+
+4 Caves of Chaos Adventurer
+4 Seasoned Dungeoneer
+4 Simian Spirit Guide
+4 Solitude
+3 Anointed Peacekeeper
+3 Broadside Bombardiers
+2 Magus of the Moon
+4 Chalice of the Void
+4 Chrome Mox
+4 Lotus Petal
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+2 Touch the Spirit Realm
+4 Ancient Tomb
+4 Cavern of Souls
+4 City of Traitors
+2 Plains
+2 Plateau
+1 Karakas
+1 Mountain
+
+Sideboard
+3 Archon of Emeria
+2 Containment Priest
+2 Disruptor Flute
+2 Fury
+2 Swords to Plowshares
+2 Witch Enchanter // Witch-Blessed Meadow
+1 Pyroblast
+1 Red Elemental Blast
+

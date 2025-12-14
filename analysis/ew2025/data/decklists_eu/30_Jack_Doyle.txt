@@ -1,0 +1,34 @@
+// Player: Jack Doyle
+// Place: 30
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Thundertrap Trainer
+3 Murktide Regent
+1 Snapcaster Mage
+4 Preordain
+2 Prismatic Ending
+4 Brainstorm
+4 Flame of Anor
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+2 Spell Pierce
+2 Dress Down
+4 Island
+3 Flooded Strand
+3 Prismatic Vista
+3 Scalding Tarn
+2 Plains
+2 Volcanic Island
+1 Mountain
+1 Plateau
+1 Tundra
+
+Sideboard
+4 Consign to Memory
+3 Red Elemental Blast
+3 Surgical Extraction
+2 Blue Elemental Blast
+2 Wrath of the Skies
+1 Force of Negation
+

@@ -1,0 +1,36 @@
+// Player: Koxinga666
+// Place: 546
+
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+2 Simian Spirit Guide
+1 Chaos Defiler
+1 Phyrexian Devourer
+1 Phyrexian Dragon Engine
+4 Pyroblast
+2 Lightning Bolt
+3 Agatha's Soul Cauldron
+2 Grindstone
+2 Lotus Petal
+1 Ensnaring Bridge
+1 Lavaspur Boots
+1 Pithing Needle
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+3 Blood Moon
+7 Mountain
+4 Ancient Tomb
+2 Arid Mesa
+2 Great Furnace
+1 City of Traitors
+
+Sideboard
+4 Leyline of the Void
+3 Disruptor Flute
+3 Fury
+2 Abrade
+1 Damping Sphere
+1 Fiery Confluence
+1 Void Mirror
+

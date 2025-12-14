@@ -1,0 +1,36 @@
+// Player: Andreas Reling
+// Place: 385
+
+4 Delver of Secrets // Insectile Aberration
+4 Dragon's Rage Channeler
+3 Murktide Regent
+2 Questing Druid // Seek the Beast
+1 Brazen Borrower // Petty Theft
+4 Ponder
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+3 Unholy Heat
+1 Force of Negation
+4 Mishra's Bauble
+4 Volcanic Island
+4 Wasteland
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+1 Island
+1 Tropical Island
+
+Sideboard
+4 Pyroblast
+3 Consign to Memory
+2 Hydroblast
+1 Blood Moon
+1 Force of Negation
+1 Meltdown
+1 Null Rod
+1 Price of Progress
+1 Questing Druid // Seek the Beast
+

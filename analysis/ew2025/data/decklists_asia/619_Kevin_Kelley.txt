@@ -1,0 +1,41 @@
+// Player: Kevin Kelley
+// Place: 619
+
+4 Broadside Bombardiers
+4 Goblin Lackey
+4 Goblin Matron
+3 Munitions Expert
+3 Muxus, Goblin Grandee
+2 Goblin Piledriver
+2 Goblin Ringleader
+2 Sling-Gang Lieutenant
+1 Boggart Trawler // Boggart Bog
+1 Gempalm Incinerator
+1 Goblin Cratermaker
+1 Goblin Warchief
+1 Rundvelt Hordemaster
+1 Searslicer Goblin
+1 Skirk Prospector
+1 Stingscourger
+4 Aether Vial
+1 Mox Diamond
+4 Cavern of Souls
+4 Mountain
+4 Wasteland
+3 Bloodstained Mire
+2 Badlands
+2 Wooded Foothills
+1 Arid Mesa
+1 Karakas
+1 Raucous Theater
+1 Rishadan Port
+
+Sideboard
+3 Pyroblast
+2 Faerie Macabre
+2 Goblin Trashmaster
+2 Leyline of the Void
+2 Pyrokinesis
+2 Sardian Avenger
+2 Void Mirror
+

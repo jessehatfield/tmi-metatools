@@ -1,0 +1,43 @@
+// Player: Tom De Decker
+// Place: 272
+
+1 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Murktide Regent
+1 Baleful Strix
+1 Brazen Borrower // Petty Theft
+1 Snapcaster Mage
+4 Ponder
+4 Thoughtseize
+2 Lórien Revealed
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+1 Force of Negation
+1 Kolaghan's Command
+4 Flooded Strand
+3 Polluted Delta
+3 Underground Sea
+2 Scalding Tarn
+2 Tundra
+1 Island
+1 Meticulous Archive
+1 Plateau
+1 Scrubland
+1 Undercity Sewers
+1 Volcanic Island
+
+Sideboard
+3 Consign to Memory
+2 Hydroblast
+2 Pyroblast
+2 Surgical Extraction
+1 Barrowgoyf
+1 Damping Sphere
+1 Fatal Push
+1 Force of Negation
+1 Lavinia, Azorius Renegade
+1 Null Rod
+

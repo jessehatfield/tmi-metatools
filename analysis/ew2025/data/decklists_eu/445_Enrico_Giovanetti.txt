@@ -1,0 +1,23 @@
+// Player: Enrico Giovanetti
+// Place: 445
+
+4 Eidolon of the Great Revel
+4 Goblin Guide
+4 Grim Lavamancer
+4 Chain Lightning
+4 Lava Spike
+1 Fireball
+4 Fireblast
+4 Lightning Bolt
+4 Price of Progress
+4 Blood Moon
+4 Sulfuric Vortex
+15 Mountain
+4 Bloodstained Mire
+
+Sideboard
+4 Leyline of the Void
+4 Red Elemental Blast
+4 Smash to Smithereens
+3 Searing Blaze
+

@@ -1,0 +1,44 @@
+// Player: Jekko
+// Place: 795
+
+1 Kaito, Bane of Nightmares
+4 Ice-Fang Coatl
+3 Baleful Strix
+3 Orcish Bowmasters
+2 Cavern Harpy
+2 Uro, Titan of Nature's Wrath
+1 Acererak the Archlich
+1 Leovold, Emissary of Trest
+4 Ponder
+3 Thoughtseize
+4 Brainstorm
+4 Force of Will
+3 Abrupt Decay
+2 Consign to Memory
+2 Rakshasa's Bargain
+3 Aluren
+4 Misty Rainforest
+4 Polluted Delta
+2 Snow-Covered Forest
+2 Snow-Covered Island
+2 Verdant Catacombs
+1 Bayou
+1 Hedge Maze
+1 Snow-Covered Swamp
+1 Tropical Island
+1 Underground Sea
+
+Sideboard
+2 Endurance
+2 Hydroblast
+2 Veil of Summer
+1 Barrowgoyf
+1 Carpet of Flowers
+1 Collector Ouphe
+1 Disruptor Flute
+1 Force of Negation
+1 Force of Vigor
+1 Null Rod
+1 Pernicious Deed
+1 Sheoldred's Edict
+

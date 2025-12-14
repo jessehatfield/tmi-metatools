@@ -1,0 +1,35 @@
+// Player: Zaphy
+// Place: 301
+
+4 Emry, Lurker of the Loch
+4 Pinnacle Emissary
+3 Thought Monitor
+2 Kappa Cannoneer
+4 Thoughtcast
+4 Force of Will
+2 Metallic Rebuke
+2 Sink into Stupor // Soporific Springs
+4 Chalice of the Void
+4 Lotus Petal
+4 Mishra's Bauble
+4 Mox Opal
+3 Urza's Bauble
+1 Aether Spellbomb
+1 Lavaspur Boots
+1 Soul-Guide Lantern
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+1 Island
+
+Sideboard
+3 Dismember
+2 Disruptor Flute
+2 Faerie Macabre
+2 Force of Negation
+2 Harbinger of the Seas
+1 Grafdigger's Cage
+1 Haywire Mite
+1 Pithing Needle
+1 Shadowspear
+

@@ -1,0 +1,31 @@
+// Player: Kamil Strachoň
+// Place: 242
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+3 Eldrazi Obligator
+3 Reality Smasher
+3 Wastescape Battlemage
+2 Simian Spirit Guide
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+4 Wasteland
+3 Eye of Ugin
+1 Mountain
+1 Wastes
+
+Sideboard
+4 Faerie Macabre
+3 Disruptor Flute
+2 Dismember
+2 Grim Monolith
+2 Null Rod
+1 Eldrazi Obligator
+1 Wastescape Battlemage
+

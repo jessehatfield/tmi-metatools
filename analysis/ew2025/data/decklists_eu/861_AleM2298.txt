@@ -1,0 +1,43 @@
+// Player: AleM2298
+// Place: 861
+
+4 Cephalid Illusionist
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Nomads en-Kor
+3 Stoneforge Mystic
+2 Narcomoeba
+1 Thassa's Oracle
+4 Ponder
+2 Prismatic Ending
+1 Dread Return
+1 Step Through
+4 Brainstorm
+4 Force of Will
+2 Swords to Plowshares
+1 Memory's Journey
+1 Orim's Chant
+2 Shuko
+1 Kaldra Compleat
+3 Urza's Saga
+4 Flooded Strand
+2 Island
+2 Misty Rainforest
+2 Polluted Delta
+2 Tundra
+1 Hedge Maze
+1 Meticulous Archive
+1 Plains
+1 Tropical Island
+1 Windswept Heath
+
+Sideboard
+3 Force of Negation
+3 Triumph of Saint Katherine
+2 Consign to Memory
+2 Swords to Plowshares
+1 Blue Elemental Blast
+1 Pithing Needle
+1 Serenity
+1 Soul-Guide Lantern
+1 Surgical Extraction
+

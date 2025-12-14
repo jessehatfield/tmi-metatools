@@ -1,0 +1,42 @@
+// Player: kyosuke001
+// Place: 267
+
+4 Overlord of the Balemurk
+4 Phelia, Exuberant Shepherd
+4 Recruiter of the Guard
+4 Skyclave Apparition
+4 Solitude
+4 Stoneforge Mystic
+3 Orcish Bowmasters
+3 White Orchid Phantom
+3 Witch Enchanter // Witch-Blessed Meadow
+1 Flickerwisp
+1 Lion Sash
+4 Thoughtseize
+4 Swords to Plowshares
+4 Aether Vial
+1 Kaldra Compleat
+1 Meteor Sword
+1 Pre-War Formalwear
+5 Plains
+4 Karakas
+4 Marsh Flats
+4 Prismatic Vista
+4 Wasteland
+2 Flooded Strand
+2 Scrubland
+2 Shadowy Backstreet
+2 Windswept Heath
+1 Swamp
+
+Sideboard
+1 Yorion, Sky Nomad
+4 Disruptor Flute
+3 Deafening Silence
+2 Wrath of the Skies
+1 Containment Priest
+1 Faerie Macabre
+1 Grafdigger's Cage
+1 Path to Exile
+1 Surgical Extraction
+

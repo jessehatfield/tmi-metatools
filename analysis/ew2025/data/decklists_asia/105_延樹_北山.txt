@@ -1,0 +1,30 @@
+// Player: 延樹 北山
+// Place: 105
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+4 Wastescape Battlemage
+3 Reality Smasher
+2 It That Heralds the End
+1 Sire of Seven Deaths
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+2 Grim Monolith
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+4 Wasteland
+3 Eye of Ugin
+1 Gemstone Caverns
+
+Sideboard
+4 Disruptor Flute
+4 Leyline of the Void
+2 Dismember
+2 Unlicensed Hearse
+2 Warping Wail
+1 Eldrazi Confluence
+

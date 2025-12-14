@@ -1,0 +1,26 @@
+// Player: sugimtg
+// Place: 596
+
+4 Cursecatcher
+4 Floodpits Drowner
+4 Lord of Atlantis
+4 Master of the Pearl Trident
+4 Tide Shaper
+4 True-Name Nemesis
+4 Vodalian Hexcatcher
+2 Phantasmal Image
+4 Force of Will
+4 Sink into Stupor // Soporific Springs
+2 Daze
+4 Aether Vial
+8 Island
+4 Cavern of Souls
+4 Wasteland
+
+Sideboard
+4 Blue Elemental Blast
+4 Ghost Quarter
+3 Consign to Memory
+2 Dismember
+2 Faerie Macabre
+

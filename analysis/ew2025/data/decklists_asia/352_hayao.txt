@@ -1,0 +1,38 @@
+// Player: hayao
+// Place: 352
+
+2 Kaito, Bane of Nightmares
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Murktide Regent
+3 Orcish Bowmasters
+1 Barrowgoyf
+1 Brazen Borrower // Petty Theft
+4 Ponder
+4 Thoughtseize
+2 Hymn to Tourach
+4 Brainstorm
+4 Daze
+4 Force of Will
+3 Fatal Push
+1 Snuff Out
+4 Wasteland
+3 Misty Rainforest
+3 Polluted Delta
+3 Underground Sea
+2 Island
+2 Undercity Sewers
+1 Flooded Strand
+1 Scalding Tarn
+1 Swamp
+
+Sideboard
+3 Consign to Memory
+2 Barrowgoyf
+2 Dauthi Voidwalker
+2 Engineered Explosives
+2 Force of Negation
+1 Ghost Vacuum
+1 Null Rod
+1 Plague Engineer
+1 Snuff Out
+

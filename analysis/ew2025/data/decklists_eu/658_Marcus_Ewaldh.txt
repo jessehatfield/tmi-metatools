@@ -1,0 +1,39 @@
+// Player: Marcus Ewaldh
+// Place: 658
+
+2 Teferi, Time Raveler
+4 Orcish Bowmasters
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Ponder
+2 Lórien Revealed
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Spell Pierce
+4 Staff of the Storyteller
+1 Retrofitter Foundry
+1 Soul-Guide Lantern
+4 Urza's Saga
+4 Flooded Strand
+4 Polluted Delta
+2 Island
+2 Plains
+1 Marsh Flats
+1 Meticulous Archive
+1 Scrubland
+1 Swamp
+1 Tundra
+1 Underground Sea
+
+Sideboard
+4 Consign to Memory
+2 Barrowgoyf
+2 Force of Negation
+2 Thoughtseize
+1 Disruptor Flute
+1 Grafdigger's Cage
+1 Hydroblast
+1 Pithing Needle
+1 Toxic Deluge
+

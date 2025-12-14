@@ -1,0 +1,44 @@
+// Player: Oscar Christensen
+// Place: 225
+
+1 Grist, the Hunger Tide
+4 Badgermole Cub
+4 Ignoble Hierarch
+4 Wight of the Reliquary
+3 Endurance
+3 Noble Hierarch
+2 Springheart Nantuko
+1 Atraxa, Grand Unifier
+1 Craterhoof Behemoth
+1 Dryad Arbor
+1 Fiend Artisan
+1 Icetill Explorer
+1 Keen-Eyed Curator
+1 Sylvan Safekeeper
+4 Green Sun's Zenith
+4 Thoughtseize
+3 Natural Order
+3 Gaea's Cradle
+3 Verdant Catacombs
+2 Bayou
+2 Forest
+2 Misty Rainforest
+2 Wasteland
+2 Windswept Heath
+2 Wooded Foothills
+1 Lair of the Hydra
+1 Nurturing Peatland
+1 Talon Gates of Madara
+
+Sideboard
+3 Force of Vigor
+2 Disruptor Flute
+2 Duress
+2 Snuff Out
+1 Bojuka Bog
+1 Collector Ouphe
+1 Endurance
+1 Gaddock Teeg
+1 Outland Liberator // Frenzied Trapbreaker
+1 Plague Engineer
+

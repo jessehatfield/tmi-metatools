@@ -1,0 +1,31 @@
+// Player: Edi
+// Place: 219
+
+4 Eldrazi Linebreaker
+4 Eldrazi Repurposer
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+3 Reality Smasher
+2 Wastescape Battlemage
+4 Kozilek's Command
+3 Once Upon a Time
+4 Chalice of the Void
+4 Lotus Petal
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+3 Eye of Ugin
+3 Wasteland
+1 Forest
+1 Yavimaya, Cradle of Growth
+
+Sideboard
+4 Leyline of the Void
+2 Dismember
+2 Disruptor Flute
+2 Eldrazi Confluence
+2 Thief of Existence
+2 Trinisphere
+1 Sire of Seven Deaths
+

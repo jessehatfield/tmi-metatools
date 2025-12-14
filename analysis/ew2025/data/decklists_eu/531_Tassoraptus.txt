@@ -1,0 +1,39 @@
+// Player: Tassoraptus
+// Place: 531
+
+2 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+3 Nethergoyf
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Barrowgoyf
+1 Brazen Borrower // Petty Theft
+1 Murktide Regent
+3 Ponder
+3 Thoughtseize
+4 Brainstorm
+4 Force of Will
+3 Daze
+3 Fatal Push
+1 Bitter Triumph
+1 Drown in the Loch
+2 Nihil Spellbomb
+4 Polluted Delta
+4 Underground Sea
+4 Wasteland
+2 Misty Rainforest
+2 Undercity Sewers
+2 Verdant Catacombs
+1 Island
+1 Swamp
+
+Sideboard
+3 Consign to Memory
+2 Damping Sphere
+2 Engineered Explosives
+2 Hydroblast
+2 Surgical Extraction
+1 Barrowgoyf
+1 Force of Negation
+1 Narset, Parter of Veils
+1 Sheoldred's Edict
+

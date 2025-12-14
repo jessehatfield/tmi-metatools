@@ -1,0 +1,42 @@
+// Player: koshiank
+// Place: 211
+
+2 Emrakul, the Aeons Torn
+2 Uro, Titan of Nature's Wrath
+1 Archon of Cruelty
+1 Atraxa, Grand Unifier
+4 Ponder
+4 Show and Tell
+4 Stock Up
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+3 Cunning Wish
+3 Veil of Summer
+2 Planar Genesis
+2 Spell Pierce
+1 Intuition
+3 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+3 Island
+2 Hedge Maze
+2 Mistrise Village
+1 Flooded Strand
+1 Forest
+1 Polluted Delta
+1 Tropical Island
+
+Sideboard
+3 Consign to Memory
+2 Carpet of Flowers
+2 Disruptor Flute
+1 Dress Down
+1 Force of Vigor
+1 Grafdigger's Cage
+1 Hydroblast
+1 Shared Summons
+1 Sublime Epiphany
+1 Surgical Extraction
+1 Veil of Summer
+

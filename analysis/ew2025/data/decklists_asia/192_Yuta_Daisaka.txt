@@ -1,0 +1,42 @@
+// Player: Yuta Daisaka
+// Place: 192
+
+2 Uro, Titan of Nature's Wrath
+1 Murktide Regent
+1 Quantum Riddler
+4 Ponder
+2 Prismatic Ending
+1 Life from the Loam
+1 Terminus
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+1 This Town Ain't Big Enough
+4 Stormchaser's Talent
+4 Up the Beanstalk
+3 Leyline Binding
+1 Dress Down
+4 Flooded Strand
+4 Misty Rainforest
+2 Tropical Island
+2 Tundra
+2 Wasteland
+1 Forest
+1 Hedge Maze
+1 Island
+1 Plains
+1 Savannah
+1 Volcanic Island
+1 Xander's Lounge
+
+Sideboard
+3 Consign to Memory
+2 Carpet of Flowers
+2 Clarion Conqueror
+2 Containment Priest
+2 Faerie Macabre
+2 Hydroblast
+1 Fire Magic
+1 Surgical Extraction
+

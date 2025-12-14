@@ -1,0 +1,49 @@
+// Player: Auripower
+// Place: 224
+
+3 Elvish Reclaimer
+3 Knight of the Reliquary
+1 Collector Ouphe
+1 Dryad Arbor
+1 Endurance
+1 Gaddock Teeg
+1 Icetill Explorer
+1 Sylvan Safekeeper
+4 Green Sun's Zenith
+2 Life from the Loam
+4 Crop Rotation
+4 Swords to Plowshares
+4 Mox Diamond
+1 Lavaspur Boots
+3 Urza's Saga
+2 Sylvan Library
+4 Wasteland
+2 Dark Depths
+2 Thespian's Stage
+2 Windswept Heath
+2 Yavimaya, Cradle of Growth
+1 Bojuka Bog
+1 Boseiju, Who Endures
+1 Echoing Deeps
+1 Flagstones of Trokair
+1 Forest
+1 Karakas
+1 Lush Portico
+1 Maze of Ith
+1 Plains
+1 Savannah
+1 Sejiri Steppe
+1 Talon Gates of Madara
+
+Sideboard
+3 Force of Vigor
+2 Deafening Silence
+2 Disruptor Flute
+2 Void Mirror
+1 Choke
+1 Endurance
+1 Glacial Chasm
+1 Keen-Eyed Curator
+1 Pithing Needle
+1 The Tabernacle at Pendrell Vale
+

@@ -1,0 +1,39 @@
+// Player: Pyropiwo
+// Place: 589
+
+4 Stoneforge Mystic
+3 Phelia, Exuberant Shepherd
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Quantum Riddler
+1 Containment Priest
+4 Ponder
+3 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Spell Pierce
+1 Force of Negation
+1 Cryptic Coat
+1 Kaldra Compleat
+1 Meteor Sword
+2 Back to Basics
+5 Snow-Covered Island
+4 Flooded Strand
+4 Prismatic Vista
+2 Snow-Covered Plains
+2 Tundra
+1 Karakas
+1 Marsh Flats
+1 Meticulous Archive
+
+Sideboard
+3 Consign to Memory
+2 Disruptor Flute
+2 Hydroblast
+2 Triumph of Saint Katherine
+2 Wrath of the Skies
+1 Batterskull
+1 Blue Elemental Blast
+1 Clarion Conqueror
+1 Surgical Extraction
+

@@ -1,0 +1,44 @@
+// Player: YEJUNJIE
+// Place: 479
+
+4 Scion of Draco
+3 Broadside Bombardiers
+2 Uro, Titan of Nature's Wrath
+1 Bello, Bard of the Brambles
+1 Glarb, Calamity's Augur
+1 Orcish Bowmasters
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+4 Leyline Binding
+4 Leyline of the Guildpact
+4 Up the Beanstalk
+4 Flooded Strand
+4 Misty Rainforest
+2 Tundra
+1 Bayou
+1 Island
+1 Plains
+1 Savannah
+1 Scrubland
+1 Taiga
+1 Tropical Island
+1 Underground Sea
+1 Volcanic Island
+1 Xander's Lounge
+
+Sideboard
+3 Consign to Memory
+3 Veil of Summer
+1 Clarion Conqueror
+1 Deafening Silence
+1 Faerie Macabre
+1 Meltdown
+1 Null Rod
+1 Pyroblast
+1 Red Elemental Blast
+1 Rest in Peace
+1 Wrath of the Skies
+

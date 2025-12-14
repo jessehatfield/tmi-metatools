@@ -1,0 +1,39 @@
+// Player: ksm19
+// Place: 462
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Murktide Regent
+3 Triumph of Saint Katherine
+2 Uro, Titan of Nature's Wrath
+1 Endurance
+4 Ponder
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+4 Leyline Binding
+4 Up the Beanstalk
+4 Flooded Strand
+4 Misty Rainforest
+2 Tropical Island
+2 Tundra
+1 Forest
+1 Hedge Maze
+1 Island
+1 Karakas
+1 Lush Portico
+1 Plains
+1 Savannah
+1 Xander's Lounge
+
+Sideboard
+3 Carpet of Flowers
+3 Consign to Memory
+2 Disruptor Flute
+2 Hydroblast
+2 Wrath of the Skies
+1 Faerie Macabre
+1 Stony Silence
+1 Surgical Extraction
+

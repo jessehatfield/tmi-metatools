@@ -1,0 +1,35 @@
+// Player: HITOSHI YAGI
+// Place: 169
+
+4 Blighted Agent
+4 Glistener Elf
+4 Noble Hierarch
+2 Stock Up
+1 Scale Up
+4 Brainstorm
+4 Embiggen
+4 Force of Will
+4 Invigorate
+4 Legolas's Quick Reflexes
+3 Daze
+2 Berserk
+1 Flusterstorm
+1 Revitalizing Repast // Old-Growth Grove
+4 Inkmoth Nexus
+4 Misty Rainforest
+4 Tropical Island
+2 Verdant Catacombs
+1 Forest
+1 Hedge Maze
+1 Pendelhaven
+1 Windswept Heath
+
+Sideboard
+3 Consign to Memory
+3 Venerated Rotpriest
+2 Endurance
+2 Faerie Macabre
+2 Force of Vigor
+2 Veil of Summer
+1 Null Rod
+

@@ -1,0 +1,49 @@
+// Player: EnrG8
+// Place: 422
+
+2 Kaito, Bane of Nightmares
+1 Narset, Parter of Veils
+4 Orcish Bowmasters
+2 Baleful Strix
+1 Barrowgoyf
+1 Brazen Borrower // Petty Theft
+1 Murktide Regent
+1 Nimble Obstructionist
+1 Snapcaster Mage
+1 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Ponder
+2 Thoughtseize
+1 Lórien Revealed
+1 Reanimate
+4 Brainstorm
+4 Force of Will
+4 Lightning Bolt
+2 Cling to Dust
+2 Kolaghan's Command
+2 Sheoldred's Edict
+4 Polluted Delta
+3 Bloodstained Mire
+2 Island
+2 Scalding Tarn
+2 Swamp
+1 Badlands
+1 Mountain
+1 Raucous Theater
+1 Undercity Sewers
+1 Underground Sea
+1 Volcanic Island
+
+Sideboard
+3 Consign to Memory
+2 Pyroblast
+1 Fatal Push
+1 From the Catacombs
+1 Hydroblast
+1 Meltdown
+1 Nihil Spellbomb
+1 Null Rod
+1 Opposition Agent
+1 Price of Progress
+1 Red Elemental Blast
+1 Surgical Extraction
+

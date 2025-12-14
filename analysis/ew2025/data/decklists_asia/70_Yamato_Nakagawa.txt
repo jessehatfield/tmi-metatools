@@ -1,0 +1,41 @@
+// Player: Yamato Nakagawa
+// Place: 70
+
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Murktide Regent
+2 Orcish Bowmasters
+2 Thassa's Oracle
+1 Street Wraith
+4 Doomsday
+4 Ponder
+3 Thoughtseize
+1 Edge of Autumn
+4 Brainstorm
+4 Dark Ritual
+4 Force of Will
+3 Daze
+1 Consider
+1 Lion's Eye Diamond
+1 Lotus Petal
+4 Polluted Delta
+4 Underground Sea
+3 Wasteland
+1 Cavern of Souls
+1 Flooded Strand
+1 Island
+1 Misty Rainforest
+1 Scalding Tarn
+1 Swamp
+1 Undercity Sewers
+1 Verdant Catacombs
+
+Sideboard
+4 Barrowgoyf
+2 Brazen Borrower // Petty Theft
+2 Dauthi Voidwalker
+2 Fatal Push
+2 Force of Negation
+1 Consign to Memory
+1 Hide on the Ceiling
+1 Long Goodbye
+

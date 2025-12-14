@@ -1,0 +1,40 @@
+// Player: Claire Townley
+// Place: 176
+
+4 Karn, the Great Creator
+2 Ugin, Eye of the Storms
+4 Thundertrap Trainer
+1 Tishana's Tidebinder
+4 Stock Up
+1 Lórien Revealed
+4 Force of Will
+4 Kozilek's Command
+2 Force of Negation
+2 Sink into Stupor // Soporific Springs
+1 Dismember
+1 Eldrazi Confluence
+1 Waterlogged Teachings // Inundated Archive
+4 Chalice of the Void
+3 The One Ring
+4 Ancient Tomb
+4 Cloudpost
+4 Planar Nexus
+4 Urza's Tower
+3 Glimmerpost
+2 Island
+1 Underground Sea
+
+Sideboard
+3 Leyline of the Void
+2 Barrowgoyf
+1 Dismember
+1 Disruptor Flute
+1 Ensnaring Bridge
+1 Hullbreacher
+1 Moonsnare Prototype
+1 Mycosynth Lattice
+1 Null Rod
+1 The One Ring
+1 Tormod's Crypt
+1 Walking Ballista
+

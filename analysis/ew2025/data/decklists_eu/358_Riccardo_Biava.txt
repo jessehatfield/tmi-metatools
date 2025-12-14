@@ -1,0 +1,37 @@
+// Player: Riccardo Biava
+// Place: 358
+
+4 Narset, Parter of Veils
+3 Teferi, Time Raveler
+4 Thundertrap Trainer
+4 Lórien Revealed
+4 Prismatic Ending
+2 Forth Eorlingas!
+1 Day's Undoing
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+1 Pyroblast
+1 Red Elemental Blast
+2 Temporary Lockdown
+1 Dress Down
+4 Flooded Strand
+4 Island
+4 Prismatic Vista
+2 Plains
+2 Tundra
+1 Arid Mesa
+1 Mountain
+1 Volcanic Island
+
+Sideboard
+4 Consign to Memory
+2 Blood Moon
+2 Hydroblast
+2 Monastery Mentor
+2 Surgical Extraction
+1 Dress Down
+1 Pyroblast
+1 Red Elemental Blast
+

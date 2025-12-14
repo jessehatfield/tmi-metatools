@@ -1,0 +1,30 @@
+// Player: mipemipe
+// Place: 415
+
+4 Lord of Atlantis
+4 Master of the Pearl Trident
+4 Silvergill Adept
+4 Tide Shaper
+4 Vodalian Hexcatcher
+3 Floodpits Drowner
+3 True-Name Nemesis
+2 Harbinger of the Seas
+2 Merfolk Trickster
+2 Rishadan Dockhand
+4 Force of Will
+4 Sink into Stupor // Soporific Springs
+4 Aether Vial
+8 Island
+4 Cavern of Souls
+4 Wasteland
+
+Sideboard
+3 Consign to Memory
+3 Dismember
+2 Blue Elemental Blast
+2 Force of Negation
+2 Hydroblast
+1 Damping Sphere
+1 Grafdigger's Cage
+1 Unlicensed Hearse
+

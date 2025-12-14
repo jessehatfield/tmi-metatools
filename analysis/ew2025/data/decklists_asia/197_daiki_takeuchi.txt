@@ -1,0 +1,39 @@
+// Player: daiki takeuchi
+// Place: 197
+
+4 Guide of Souls
+4 Mockingbird
+4 Ocelot Pride
+4 Voice of Victory
+2 Quantum Riddler
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Brazen Borrower // Petty Theft
+1 Haliya, Guided by Light
+2 Ponder
+1 Prismatic Ending
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Swords to Plowshares
+4 Flooded Strand
+4 Tundra
+4 Wasteland
+1 Arid Mesa
+1 Marsh Flats
+1 Meticulous Archive
+1 Misty Rainforest
+1 Polluted Delta
+1 Snow-Covered Island
+1 Snow-Covered Plains
+
+Sideboard
+2 Consign to Memory
+2 Containment Priest
+2 Force of Negation
+2 Harbinger of the Seas
+2 Hydroblast
+2 Prismatic Ending
+1 Lavinia, Azorius Renegade
+1 Serenity
+1 Stony Silence
+

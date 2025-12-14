@@ -1,0 +1,33 @@
+// Player: GeoDade
+// Place: 472
+
+4 Golgari Grave-Troll
+4 Narcomoeba
+4 Stinkweed Imp
+3 Golgari Thug
+3 Poxwalkers
+2 Satoru, the Infiltrator
+1 Ichorid
+1 Thassa's Oracle
+4 Cabal Therapy
+4 Careful Study
+2 Dread Return
+4 Brainstorm
+4 Force of Will
+4 Otherworldly Gaze
+3 Bridge from Below
+4 Cephalid Coliseum
+2 Island
+2 Polluted Delta
+2 Scalding Tarn
+2 Underground Sea
+1 Flooded Strand
+1 Undercity Sewers
+
+Sideboard
+4 Leyline of the Void
+4 Unmask
+3 Daze
+3 Into the Flood Maw
+1 Echoing Truth
+

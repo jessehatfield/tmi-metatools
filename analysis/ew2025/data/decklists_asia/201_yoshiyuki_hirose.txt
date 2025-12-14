@@ -1,0 +1,39 @@
+// Player: yoshiyuki hirose
+// Place: 201
+
+4 Karn, the Great Creator
+2 Ugin, Eye of the Storms
+4 Metalworker
+3 Kuldotha Forgemaster
+1 Blightsteel Colossus
+4 Kozilek's Command
+4 Grim Monolith
+4 Lotus Petal
+4 The One Ring
+2 Disruptor Flute
+2 Manifold Key
+1 Candelabra of Tawnos
+1 Lavaspur Boots
+1 Portal to Phyrexia
+1 Shadowspear
+1 Staff of Domination
+4 Urza's Saga
+4 Ancient Tomb
+4 Planar Nexus
+4 Urza's Tower
+4 Urza's Workshop
+1 Inventors' Fair
+
+Sideboard
+3 Dismember
+2 Boseiju, Who Endures
+2 Faerie Macabre
+1 Disruptor Flute
+1 Ensnaring Bridge
+1 Grafdigger's Cage
+1 Manifold Key
+1 Mycosynth Lattice
+1 Perilous Snare
+1 Tormod's Crypt
+1 Trinisphere
+

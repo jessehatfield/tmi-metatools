@@ -1,0 +1,39 @@
+// Player: TAKUYA KUROSAWA
+// Place: 366
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Amped Raptor
+4 Guide of Souls
+4 Ocelot Pride
+4 Voice of Victory
+4 White Orchid Phantom
+2 Spider-Punk
+2 Spider-Woman, Stunning Savior
+4 Swords to Plowshares
+1 Thraben Charm
+2 Chrome Mox
+2 Goblin Bombardment
+2 Static Prison
+4 Wasteland
+3 Flooded Strand
+2 Arid Mesa
+2 Karakas
+2 Marsh Flats
+2 Plains
+2 Plateau
+1 Eiganjo, Seat of the Empire
+1 Elegant Parlor
+1 Flagstones of Trokair
+1 Sunbaked Canyon
+
+Sideboard
+2 Deafening Silence
+2 Faerie Macabre
+2 Prismatic Ending
+2 Pyroblast
+2 Spider-Woman, Stunning Savior
+2 Surgical Extraction
+1 Abrade
+1 Null Rod
+1 Wear // Tear
+

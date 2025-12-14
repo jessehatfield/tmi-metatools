@@ -1,0 +1,43 @@
+// Player: Benedikt Gruber
+// Place: 653
+
+4 Burning Wish
+4 Thoughtseize
+3 Beseech the Mirror
+1 Gaea's Will
+1 Tendrils of Agony
+4 Brainstorm
+4 Dark Ritual
+4 Veil of Summer
+4 Chrome Mox
+4 Lion's Eye Diamond
+4 Lotus Petal
+4 Mox Opal
+3 Wishclaw Talisman
+4 Urza's Saga
+1 Song of Creation
+3 Bloodstained Mire
+3 Verdant Catacombs
+1 Badlands
+1 Bayou
+1 Commercial District
+1 Undercity Sewers
+1 Underground Sea
+
+Sideboard
+1 Abrupt Decay
+1 Approach of the Second Sun
+1 Beseech the Mirror
+1 Boseiju, Who Endures
+1 Chain of Vapor
+1 Defense Grid
+1 Echoing Truth
+1 Empty the Warrens
+1 Grafdigger's Cage
+1 Haywire Mite
+1 Massacre
+1 Peer into the Abyss
+1 Silent Gravestone
+1 Tendrils of Agony
+1 Wear Down
+

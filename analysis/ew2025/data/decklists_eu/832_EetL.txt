@@ -1,0 +1,40 @@
+// Player: EetL
+// Place: 832
+
+4 Emry, Lurker of the Loch
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Stock Up
+3 Thoughtcast
+4 Force of Will
+3 Paradoxical Outcome
+1 Sink into Stupor // Soporific Springs
+4 Grim Monolith
+4 Lotus Petal
+4 Mox Opal
+4 The One Ring
+3 Mishra's Bauble
+1 Aetherflux Reservoir
+1 Lavaspur Boots
+1 Manifold Key
+1 Paradox Engine
+1 Pyrite Spellbomb
+4 Urza's Saga
+4 Ancient Tomb
+3 Island
+3 Seat of the Synod
+1 Otawara, Soaring City
+
+Sideboard
+2 Consign to Memory
+2 Force of Negation
+2 Pyroblast
+1 Dismember
+1 Flusterstorm
+1 Grafdigger's Cage
+1 Hydroblast
+1 Pithing Needle
+1 Ravenform
+1 Repeal
+1 Shadowspear
+1 Soul-Guide Lantern
+

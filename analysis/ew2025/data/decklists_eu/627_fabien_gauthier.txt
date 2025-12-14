@@ -1,0 +1,40 @@
+// Player: fabien gauthier
+// Place: 627
+
+4 Quantum Riddler
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Uro, Titan of Nature's Wrath
+1 Endurance
+1 Triumph of Saint Katherine
+4 Ponder
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Consign to Memory
+4 Leyline Binding
+4 Up the Beanstalk
+4 Flooded Strand
+4 Misty Rainforest
+2 Island
+2 Tundra
+1 Forest
+1 Hedge Maze
+1 Karakas
+1 Meticulous Archive
+1 Plains
+1 Savannah
+1 Tropical Island
+1 Windswept Heath
+1 Xander's Lounge
+
+Sideboard
+2 Carpet of Flowers
+2 Force of Negation
+2 Hydroblast
+2 Stony Silence
+2 Triumph of Saint Katherine
+2 Wrath of the Skies
+1 Consign to Memory
+1 Surgical Extraction
+1 Toxicrene
+

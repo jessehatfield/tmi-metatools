@@ -1,0 +1,35 @@
+// Player: rimalwalle
+// Place: 854
+
+4 Delver of Secrets // Insectile Aberration
+4 Murktide Regent
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Brazen Borrower // Petty Theft
+2 True-Name Nemesis
+4 Ponder
+2 Preordain
+4 Brainstorm
+4 Daze
+4 Force of Will
+2 Dismember
+2 Stifle
+1 Minor Misstep
+1 Sink into Stupor // Soporific Springs
+1 Spell Pierce
+1 Stern Scolding
+2 Back to Basics
+5 Island
+4 Flooded Strand
+4 Polluted Delta
+4 Wasteland
+
+Sideboard
+3 Consign to Memory
+2 Energy Flux
+2 Engineered Explosives
+2 Harbinger of the Seas
+2 Hydroblast
+2 Surgical Extraction
+1 Dress Down
+1 Flusterstorm
+

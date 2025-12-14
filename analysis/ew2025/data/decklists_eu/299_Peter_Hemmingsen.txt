@@ -1,0 +1,38 @@
+// Player: Peter Hemmingsen
+// Place: 299
+
+4 Karn, the Great Creator
+2 Ugin, Eye of the Storms
+2 Thundertrap Trainer
+2 Tishana's Tidebinder
+1 Emrakul, the Aeons Torn
+4 Stock Up
+2 Lórien Revealed
+1 Portent of Calamity
+4 Force of Will
+4 Kozilek's Command
+2 Sink into Stupor // Soporific Springs
+2 Waterlogged Teachings // Inundated Archive
+4 Chalice of the Void
+3 The One Ring
+2 Disruptor Flute
+4 Ancient Tomb
+4 Cloudpost
+4 Planar Nexus
+4 Urza's Tower
+3 Glimmerpost
+1 Island
+1 Underground Sea
+
+Sideboard
+3 Barrowgoyf
+2 Dismember
+2 Faerie Macabre
+2 Force of Negation
+1 Engineered Explosives
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Moonsnare Prototype
+1 Mycosynth Lattice
+1 The One Ring
+

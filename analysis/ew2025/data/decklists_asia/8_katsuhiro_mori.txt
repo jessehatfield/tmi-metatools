@@ -1,0 +1,45 @@
+// Player: katsuhiro mori
+// Place: 8
+
+4 Atraxa, Grand Unifier
+3 Emrakul, the Aeons Torn
+1 Brazen Borrower // Petty Theft
+4 Ponder
+4 Show and Tell
+4 Stock Up
+4 Brainstorm
+4 Force of Will
+1 Daze
+1 Flusterstorm
+1 Spell Pierce
+1 Stifle
+4 Lotus Petal
+3 Sneak Attack
+2 Omniscience
+4 Ancient Tomb
+4 Scalding Tarn
+2 Island
+2 Volcanic Island
+1 City of Traitors
+1 Flooded Strand
+1 Misty Rainforest
+1 Mountain
+1 Polluted Delta
+1 Thundering Falls
+1 Tropical Island
+
+Sideboard
+2 Carpet of Flowers
+2 Red Elemental Blast
+1 Abrade
+1 Boseiju, Who Endures
+1 Brotherhood's End
+1 Consign to Memory
+1 Faerie Macabre
+1 Force of Negation
+1 Grafdigger's Cage
+1 Hydroblast
+1 Mindbreak Trap
+1 Mistrise Village
+1 Surgical Extraction
+

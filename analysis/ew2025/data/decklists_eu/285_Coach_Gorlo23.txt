@@ -1,0 +1,49 @@
+// Player: Coach_Gorlo23
+// Place: 285
+
+4 Broadside Bombardiers
+4 Recruiter of the Guard
+4 Solitude
+4 Stoneforge Mystic
+4 Thalia, Guardian of Thraben
+3 Skyclave Apparition
+3 White Orchid Phantom
+2 Mother of Runes
+1 Extraction Specialist
+1 Flickerwisp
+1 Giver of Runes
+1 Lion Sash
+1 Loran of the Third Path
+1 Phelia, Exuberant Shepherd
+1 Witch Enchanter // Witch-Blessed Meadow
+4 Swords to Plowshares
+1 Pyroblast
+1 Red Elemental Blast
+4 Aether Vial
+2 Pre-War Formalwear
+1 Batterskull
+1 Kaldra Compleat
+5 Plains
+4 Arid Mesa
+4 Flooded Strand
+4 Karakas
+4 Marsh Flats
+4 Wasteland
+2 Elegant Parlor
+2 Plateau
+2 Prismatic Vista
+1 Mountain
+
+Sideboard
+1 Yorion, Sky Nomad
+2 Disruptor Flute
+2 Magus of the Moon
+2 Surgical Extraction
+2 Wrath of the Skies
+1 Canoptek Scarab Swarm
+1 Containment Priest
+1 Grafdigger's Cage
+1 Kataki, War's Wage
+1 Pyroblast
+1 White Orchid Phantom
+

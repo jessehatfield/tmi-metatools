@@ -1,0 +1,42 @@
+// Player: Gian Andrea Faina
+// Place: 942
+
+4 Cephalid Illusionist
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Narcomoeba
+3 Nomads en-Kor
+3 Stoneforge Mystic
+1 Thassa's Oracle
+4 Ponder
+2 Prismatic Ending
+1 Cabal Therapy
+1 Dread Return
+4 Brainstorm
+4 Force of Will
+2 Swords to Plowshares
+1 Orim's Chant
+2 Shuko
+1 Kaldra Compleat
+3 Urza's Saga
+4 Flooded Strand
+4 Misty Rainforest
+2 Island
+2 Tundra
+1 Marsh Flats
+1 Meticulous Archive
+1 Plains
+1 Undercity Sewers
+1 Underground Sea
+
+Sideboard
+3 Force of Negation
+2 Consign to Memory
+2 Surgical Extraction
+2 Swords to Plowshares
+1 Flusterstorm
+1 Lavinia, Azorius Renegade
+1 Orim's Chant
+1 Pithing Needle
+1 Serenity
+1 Soul-Guide Lantern
+

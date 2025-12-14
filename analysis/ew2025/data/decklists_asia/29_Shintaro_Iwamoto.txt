@@ -1,0 +1,43 @@
+// Player: Shintaro Iwamoto
+// Place: 29
+
+2 Narset, Parter of Veils
+2 Teferi, Time Raveler
+4 Quantum Riddler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Phelia, Exuberant Shepherd
+1 Containment Priest
+4 Ponder
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+1 Force of Negation
+1 Minor Misstep
+1 Stern Scolding
+2 Dress Down
+1 Back to Basics
+5 Island
+4 Flooded Strand
+4 Prismatic Vista
+2 Plains
+2 Tundra
+1 Karakas
+1 Meticulous Archive
+1 Windswept Heath
+
+Sideboard
+2 Celestial Purge
+2 Hydroblast
+2 Wrath of the Skies
+1 Back to Basics
+1 Clarion Conqueror
+1 Consign to Memory
+1 Faerie Macabre
+1 Loran of the Third Path
+1 Prismatic Ending
+1 Rest in Peace
+1 Sanctifier en-Vec
+1 Surgical Extraction
+

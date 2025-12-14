@@ -1,0 +1,32 @@
+// Player: Polvivaara
+// Place: 597
+
+4 Barrowgoyf
+4 Boggart Trawler // Boggart Bog
+4 Orcish Bowmasters
+4 Sheoldred, the Apocalypse
+3 Dauthi Voidwalker
+3 Scrawling Crawler
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+2 Sheoldred's Edict
+1 Bitter Triumph
+4 Chalice of the Void
+4 Chrome Mox
+4 The One Ring
+4 Ancient Tomb
+4 Swamp
+4 Wasteland
+2 City of Traitors
+2 Urborg, Tomb of Yawgmoth
+
+Sideboard
+4 Disruptor Flute
+3 Opposition Agent
+2 Null Rod
+2 Plague Engineer
+1 Bitter Triumph
+1 Dauthi Voidwalker
+1 Mai, Scornful Striker
+1 Scrawling Crawler
+

@@ -1,0 +1,42 @@
+// Player: Atsuya Okuno
+// Place: 161
+
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+2 Simian Spirit Guide
+1 Breya's Apprentice
+1 Chaos Defiler
+1 Phyrexian Dragon Engine
+4 Pyroblast
+2 Lightning Bolt
+2 Red Elemental Blast
+2 Grindstone
+2 Lotus Petal
+1 Cursed Mirror
+1 Ensnaring Bridge
+1 Soul-Guide Lantern
+1 The Underworld Cookbook
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+2 Blood Moon
+10 Mountain
+4 Ancient Tomb
+1 Arena of Glory
+1 City of Traitors
+1 Great Furnace
+
+Sideboard
+2 Abrade
+2 Disruptor Flute
+2 Surgical Extraction
+1 Canoptek Scarab Swarm
+1 Damping Sphere
+1 Ensnaring Bridge
+1 Fiery Confluence
+1 Fury
+1 Grafdigger's Cage
+1 Pyrokinesis
+1 Ruination
+1 Trinisphere
+

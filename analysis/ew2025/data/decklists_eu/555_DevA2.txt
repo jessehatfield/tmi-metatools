@@ -1,0 +1,44 @@
+// Player: DevA2
+// Place: 555
+
+2 Narset, Parter of Veils
+2 Teferi, Time Raveler
+3 Phelia, Exuberant Shepherd
+3 Quantum Riddler
+2 Snapcaster Mage
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Containment Priest
+3 Ponder
+1 Prismatic Ending
+1 Supreme Verdict
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Consign to Memory
+2 Force of Negation
+2 Spell Pierce
+2 Back to Basics
+2 Dress Down
+5 Island
+4 Flooded Strand
+4 Prismatic Vista
+2 Plains
+2 Tundra
+1 Karakas
+1 Scalding Tarn
+
+Sideboard
+2 Celestial Purge
+2 Hydroblast
+1 Blue Elemental Blast
+1 Consign to Memory
+1 Damping Sphere
+1 Disruptor Flute
+1 Lavinia, Azorius Renegade
+1 Rest in Peace
+1 Stony Silence
+1 Supreme Verdict
+1 Surgical Extraction
+1 Torpor Orb
+1 Wrath of the Skies
+

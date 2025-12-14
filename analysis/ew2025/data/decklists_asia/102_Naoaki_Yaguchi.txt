@@ -1,0 +1,29 @@
+// Player: Naoaki Yaguchi
+// Place: 102
+
+4 Eldrazi Linebreaker
+4 Eldrazi Mimic
+4 Glaring Fleshraker
+4 Reality Smasher
+4 Thought-Knot Seer
+4 Wastescape Battlemage
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+3 Eye of Ugin
+3 Wasteland
+1 City of Traitors
+1 Wastes
+
+Sideboard
+4 Disruptor Flute
+3 Dismember
+3 Unlicensed Hearse
+2 Null Rod
+2 Warping Wail
+1 Sire of Seven Deaths
+

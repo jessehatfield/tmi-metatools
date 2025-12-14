@@ -1,0 +1,54 @@
+// Player: shimicorn
+// Place: 270
+
+4 Devoted Druid
+4 Endurance
+4 Ice-Fang Coatl
+2 Brightglass Gearhulk
+1 Atraxa, Grand Unifier
+1 Ghalta, Stampede Tyrant
+1 Koma, World-Eater
+1 Walking Ballista
+4 Green Sun's Zenith
+4 Natural Order
+4 Ponder
+4 Stock Up
+4 Brainstorm
+4 Force of Will
+3 Swords to Plowshares
+1 Force of Negation
+1 Misdirection
+1 Ghost Vacuum
+1 Portable Hole
+1 Retrofitter Foundry
+4 Swift Reconfiguration
+1 Seal of Removal
+4 Flooded Strand
+4 Misty Rainforest
+3 Windswept Heath
+2 Prismatic Vista
+2 Snow-Covered Forest
+2 Snow-Covered Island
+2 Tropical Island
+1 Hallowed Fountain
+1 Karakas
+1 Lush Portico
+1 Meticulous Archive
+1 Savannah
+1 Snow-Covered Plains
+1 Tundra
+1 Underground Sea
+
+Sideboard
+1 Yorion, Sky Nomad
+3 Consign to Memory
+2 Force of Vigor
+2 Hydroblast
+1 Carpet of Flowers
+1 Engineered Explosives
+1 Force of Negation
+1 Pithing Needle
+1 Portable Hole
+1 Silent Gravestone
+1 Uro, Titan of Nature's Wrath
+

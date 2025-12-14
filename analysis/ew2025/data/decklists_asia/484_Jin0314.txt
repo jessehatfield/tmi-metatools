@@ -1,0 +1,34 @@
+// Player: Jin0314
+// Place: 484
+
+4 Balustrade Spy
+4 Boggart Trawler // Boggart Bog
+4 Elvish Spirit Guide
+4 Poxwalkers
+4 Simian Spirit Guide
+4 Undercity Informer
+2 Disciple of Freyalise // Garden of Freyalise
+1 Narcomoeba
+1 Thassa's Oracle
+2 Agadeem's Awakening // Agadeem, the Undercrypt
+2 Cabal Therapy
+1 Dread Return
+1 Reanimate
+4 Cabal Ritual
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+4 Once Upon a Time
+4 Pact of Negation
+4 Lotus Petal
+2 Chrome Mox
+
+Sideboard
+4 Force of Vigor
+4 Thoughtseize
+2 Dread Return
+1 Jack-o'-Lantern
+1 Lotleth Giant
+1 Memory's Journey
+1 Progenitus
+1 Thassa's Oracle
+

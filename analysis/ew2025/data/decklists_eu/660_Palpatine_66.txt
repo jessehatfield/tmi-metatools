@@ -1,0 +1,39 @@
+// Player: Palpatine_66
+// Place: 660
+
+4 Atraxa, Grand Unifier
+3 Emrakul, the Aeons Torn
+1 Simian Spirit Guide
+4 Ponder
+4 Show and Tell
+3 Stock Up
+4 Brainstorm
+4 Force of Will
+2 Daze
+2 Flusterstorm
+4 Lotus Petal
+4 Sneak Attack
+2 Omniscience
+4 Scalding Tarn
+3 Ancient Tomb
+3 Volcanic Island
+2 City of Traitors
+2 Island
+1 Flooded Strand
+1 Misty Rainforest
+1 Polluted Delta
+1 Thundering Falls
+1 Tropical Island
+
+Sideboard
+2 Abrade
+2 Carpet of Flowers
+2 Consign to Memory
+2 Faerie Macabre
+2 Magus of the Moon
+1 Brotherhood's End
+1 Crash
+1 Pyroblast
+1 Red Elemental Blast
+1 Through the Breach
+

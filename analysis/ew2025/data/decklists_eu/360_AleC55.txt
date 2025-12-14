@@ -1,0 +1,41 @@
+// Player: AleC55
+// Place: 360
+
+1 Grist, the Hunger Tide
+4 Badgermole Cub
+4 Ignoble Hierarch
+4 Wight of the Reliquary
+3 Noble Hierarch
+2 Keen-Eyed Curator
+2 Sylvan Safekeeper
+1 Atraxa, Grand Unifier
+1 Birds of Paradise
+1 Dryad Arbor
+1 Icetill Explorer
+4 Green Sun's Zenith
+4 Thoughtseize
+3 Natural Order
+4 Once Upon a Time
+3 Verdant Catacombs
+3 Wasteland
+3 Windswept Heath
+2 Bayou
+2 Forest
+2 Gaea's Cradle
+2 Wooded Foothills
+1 Bojuka Bog
+1 Lair of the Hydra
+1 Nurturing Peatland
+1 Talon Gates of Madara
+
+Sideboard
+4 Endurance
+3 Snuff Out
+2 Duress
+1 Abrupt Decay
+1 Assassin's Trophy
+1 Collector Ouphe
+1 Force of Vigor
+1 Gaddock Teeg
+1 Wasteland
+

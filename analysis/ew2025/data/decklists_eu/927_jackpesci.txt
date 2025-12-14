@@ -1,0 +1,41 @@
+// Player: jackpesci
+// Place: 927
+
+2 Karn, the Great Creator
+4 Painter's Servant
+4 Wonderscape Sage
+2 Hullbreacher
+2 Llawan, Cephalid Empress
+2 Tishana's Tidebinder
+1 Hydroelectric Specimen // Hydroelectric Laboratory
+4 Stock Up
+2 Lórien Revealed
+4 Force of Will
+4 Sink into Stupor // Soporific Springs
+1 Force of Negation
+1 Misdirection
+4 Chalice of the Void
+4 Chrome Mox
+1 Grindstone
+1 Pithing Needle
+1 Shadowspear
+4 Urza's Saga
+4 Ancient Tomb
+4 City of Traitors
+2 Cavern of Souls
+2 Island
+
+Sideboard
+2 Back to Basics
+2 Dismember
+2 Hydroblast
+1 Disruptor Flute
+1 Ensnaring Bridge
+1 Flusterstorm
+1 Force of Negation
+1 Karn, the Great Creator
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 The Stone Brain
+1 Tormod's Crypt
+

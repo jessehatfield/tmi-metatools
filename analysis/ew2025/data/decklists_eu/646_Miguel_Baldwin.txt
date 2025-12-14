@@ -1,0 +1,41 @@
+// Player: Miguel Baldwin
+// Place: 646
+
+4 Barrowgoyf
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Brazen Borrower // Petty Theft
+1 Street Wraith
+1 Thassa's Oracle
+4 Doomsday
+4 Ponder
+2 Thoughtseize
+1 Edge of Autumn
+1 Reanimate
+4 Brainstorm
+4 Dark Ritual
+4 Force of Will
+3 Daze
+1 Consider
+1 Lion's Eye Diamond
+1 Lotus Petal
+4 Polluted Delta
+3 Underground Sea
+3 Wasteland
+2 Misty Rainforest
+2 Scalding Tarn
+2 Undercity Sewers
+1 Cavern of Souls
+1 Island
+1 Swamp
+
+Sideboard
+3 Dauthi Voidwalker
+2 Force of Negation
+2 Long Goodbye
+2 Murktide Regent
+2 Orcish Bowmasters
+1 Fatal Push
+1 Flusterstorm
+1 Null Rod
+1 Sheoldred's Edict
+

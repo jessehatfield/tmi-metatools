@@ -1,0 +1,42 @@
+// Player: Jiang Jiahe
+// Place: 81
+
+2 Icetill Explorer
+4 Malevolent Rumble
+3 Life from the Loam
+4 Crop Rotation
+3 Once Upon a Time
+4 Mox Diamond
+3 Disruptor Flute
+1 Expedition Map
+1 Lavaspur Boots
+1 Pithing Needle
+4 Exploration
+4 Urza's Saga
+4 Dark Depths
+4 Thespian's Stage
+4 Wasteland
+4 Yavimaya, Cradle of Growth
+3 Boseiju, Who Endures
+1 Ancient Tomb
+1 Bojuka Bog
+1 Forest
+1 Ghost Quarter
+1 Karakas
+1 Maze of Ith
+1 Sejiri Steppe
+1 The Tabernacle at Pendrell Vale
+
+Sideboard
+3 Force of Vigor
+2 Dismember
+2 Pick Your Poison
+1 Disruptor Flute
+1 Endurance
+1 Glacial Chasm
+1 Grafdigger's Cage
+1 Pithing Needle
+1 Shadowspear
+1 Surgical Extraction
+1 Torpor Orb
+

@@ -1,0 +1,46 @@
+// Player: PhilippA
+// Place: 98
+
+4 Ponder
+4 Thoughtseize
+3 Duress
+3 Infernal Tutor
+2 Beseech the Mirror
+2 Burning Wish
+1 Gaea's Will
+1 Tendrils of Agony
+4 Brainstorm
+4 Dark Ritual
+2 Cabal Ritual
+1 Ad Nauseam
+4 Chrome Mox
+4 Lion's Eye Diamond
+4 Lotus Petal
+2 Mishra's Bauble
+1 Song of Creation
+4 Polluted Delta
+2 Bloodstained Mire
+1 Badlands
+1 Island
+1 Raucous Theater
+1 Swamp
+1 Undercity Sewers
+1 Underground Sea
+1 Verdant Catacombs
+1 Volcanic Island
+
+Sideboard
+2 Consign to Memory
+2 Spider-Punk
+1 Beseech the Mirror
+1 Boomerang Basics
+1 Debt to the Deathless
+1 Duress
+1 Echo of Eons
+1 Empty the Warrens
+1 Hurkyl's Recall
+1 Molten Collapse
+1 Peer into the Abyss
+1 Pulverize
+1 Tendrils of Agony
+

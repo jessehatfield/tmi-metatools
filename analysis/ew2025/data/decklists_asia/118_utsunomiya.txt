@@ -1,0 +1,28 @@
+// Player: utsunomiya
+// Place: 118
+
+3 Narset, Parter of Veils
+4 Thassa's Oracle
+3 Hullbreacher
+4 Stock Up
+3 Day's Undoing
+3 Paradigm Shift
+1 Step Through
+4 Force of Will
+3 Impulse
+4 Chalice of the Void
+3 Lotus Petal
+4 Thought Lash
+14 Island
+4 Ancient Tomb
+3 Cavern of Souls
+
+Sideboard
+3 Defense Grid
+3 Disruptor Flute
+3 Leyline of the Void
+2 Consign to Memory
+2 Force of Negation
+1 Harbinger of the Seas
+1 Null Rod
+

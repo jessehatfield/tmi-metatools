@@ -1,0 +1,31 @@
+// Player: fangxusheng
+// Place: 275
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+4 Wastescape Battlemage
+3 Reality Smasher
+2 Territory Culler
+1 Devourer of Destiny
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+2 Talisman of Impulse
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+4 Wasteland
+3 Eye of Ugin
+1 Wastes
+
+Sideboard
+3 Dismember
+3 Disruptor Flute
+2 Eldrazi Obligator
+2 Faerie Macabre
+2 Null Rod
+2 Unlicensed Hearse
+1 Warping Wail
+

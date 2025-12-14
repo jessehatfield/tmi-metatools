@@ -1,0 +1,41 @@
+// Player: Kathal09
+// Place: 72
+
+4 Doorkeeper Thrull
+4 Nulldrifter
+4 Phyrexian Dreadnought
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Phlage, Titan of Fire's Fury
+3 Ponder
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+3 Daze
+3 Swords to Plowshares
+2 Minor Misstep
+1 Torpor Orb
+3 Dress Down
+4 Flooded Strand
+3 Arena of Glory
+3 Scalding Tarn
+2 Tundra
+2 Volcanic Island
+1 Arid Mesa
+1 Island
+1 Meticulous Archive
+1 Plains
+1 Thundering Falls
+
+Sideboard
+3 Pyroblast
+2 Clarion Conqueror
+2 Consign to Memory
+1 Force of Negation
+1 Ghost Vacuum
+1 Hydroblast
+1 Meddling Mage
+1 Sheltered by Ghosts
+1 Silent Gravestone
+1 Swords to Plowshares
+1 Triumph of Saint Katherine
+

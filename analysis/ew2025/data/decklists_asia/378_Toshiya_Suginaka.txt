@@ -1,0 +1,42 @@
+// Player: Toshiya Suginaka
+// Place: 378
+
+4 Karn, the Great Creator
+2 Tezzeret, Cruel Captain
+1 Ugin, Eye of the Storms
+4 Glaring Fleshraker
+4 Kozilek's Command
+2 Eldrazi Confluence
+4 Grim Monolith
+4 The One Ring
+3 Lotus Petal
+3 Manifold Key
+2 Mystic Forge
+1 Disruptor Flute
+1 Expedition Map
+1 Mishra's Research Desk
+1 Mox Opal
+1 Pithing Needle
+1 Soul-Guide Lantern
+1 Voltaic Key
+4 Urza's Saga
+4 Ancient Tomb
+4 Planar Nexus
+4 Urza's Tower
+2 Urza's Workshop
+1 Karakas
+1 Urza's Mine
+1 Urza's Power Plant
+
+Sideboard
+4 Ravenous Trap
+2 Disruptor Flute
+2 Lodestone Golem
+1 Eldrazi Confluence
+1 Ensnaring Bridge
+1 Meteor Sword
+1 Mycosynth Lattice
+1 Perilous Snare
+1 Portable Hole
+1 Tormod's Crypt
+

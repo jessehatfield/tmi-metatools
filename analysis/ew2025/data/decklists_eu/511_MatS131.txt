@@ -1,0 +1,37 @@
+// Player: MatS131
+// Place: 511
+
+4 Phyrexian Dreadnought
+2 Brazen Borrower // Petty Theft
+2 Subtlety
+1 Abhorrent Oculus
+1 Murktide Regent
+4 Ponder
+1 Lórien Revealed
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Stifle
+2 Consign to Memory
+2 Slip Out the Back
+2 Spell Pierce
+1 Sink into Stupor // Soporific Springs
+1 Cryptic Coat
+4 Dress Down
+6 Island
+4 Wasteland
+2 Flooded Strand
+2 Polluted Delta
+2 Scalding Tarn
+1 Mystic Sanctuary
+
+Sideboard
+2 Back to Basics
+2 Blue Elemental Blast
+2 Force of Negation
+2 Minor Misstep
+2 Scroll of Fate
+2 Stern Scolding
+2 Surgical Extraction
+1 Faerie Macabre
+

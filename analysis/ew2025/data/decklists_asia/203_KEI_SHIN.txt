@@ -1,0 +1,37 @@
+// Player: KEI SHIN
+// Place: 203
+
+4 Phelia, Exuberant Shepherd
+4 Stoneforge Mystic
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Quantum Riddler
+1 Murktide Regent
+4 Ponder
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Swords to Plowshares
+2 Stifle
+1 Kaldra Compleat
+1 Meteor Sword
+1 Pre-War Formalwear
+4 Flooded Strand
+4 Wasteland
+3 Tundra
+2 Polluted Delta
+2 Scalding Tarn
+1 Eiganjo, Seat of the Empire
+1 Island
+1 Marsh Flats
+1 Meticulous Archive
+1 Plains
+
+Sideboard
+4 Consign to Memory
+2 Containment Priest
+2 Hydroblast
+2 Prismatic Ending
+2 Rest in Peace
+2 Surgical Extraction
+1 Lavinia, Azorius Renegade
+

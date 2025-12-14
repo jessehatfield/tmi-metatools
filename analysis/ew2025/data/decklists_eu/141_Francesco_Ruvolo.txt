@@ -1,0 +1,41 @@
+// Player: Francesco Ruvolo
+// Place: 141
+
+4 Cephalid Illusionist
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Nomads en-Kor
+2 Narcomoeba
+2 Thassa's Oracle
+4 Ponder
+2 Step Through
+1 Dread Return
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+2 Daze
+2 Orim's Chant
+2 Swords to Plowshares
+1 Memory's Journey
+2 Shuko
+3 Urza's Saga
+4 Flooded Strand
+3 Island
+3 Misty Rainforest
+2 Tundra
+1 Hedge Maze
+1 Meticulous Archive
+1 Plains
+1 Tropical Island
+1 Windswept Heath
+
+Sideboard
+3 Consign to Memory
+3 Triumph of Saint Katherine
+2 Force of Negation
+2 Swords to Plowshares
+1 Flusterstorm
+1 Pithing Needle
+1 Prismatic Ending
+1 Serenity
+1 Soul-Guide Lantern
+

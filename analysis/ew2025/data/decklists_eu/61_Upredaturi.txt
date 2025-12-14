@@ -1,0 +1,50 @@
+// Player: Upredaturi
+// Place: 61
+
+3 Teferi, Time Raveler
+4 Quantum Riddler
+3 Phelia, Exuberant Shepherd
+3 Phlage, Titan of Fire's Fury
+3 Solitude
+1 Gilded Drake
+2 Ponder
+2 Prismatic Ending
+1 Life from the Loam
+4 Brainstorm
+4 Consign to Memory
+4 Force of Will
+4 Swords to Plowshares
+3 Force of Negation
+2 The One Ring
+4 Leyline Binding
+4 Up the Beanstalk
+4 Flooded Strand
+3 Misty Rainforest
+3 Scalding Tarn
+2 Tundra
+2 Volcanic Island
+2 Wasteland
+1 Arid Mesa
+1 Forest
+1 Island
+1 Meticulous Archive
+1 Mystic Sanctuary
+1 Plains
+1 Plateau
+1 Savannah
+1 Taiga
+1 Thundering Falls
+1 Tropical Island
+1 Windswept Heath
+1 Xander's Lounge
+
+Sideboard
+1 Yorion, Sky Nomad
+3 Ground Seal
+2 Carpet of Flowers
+2 Clarion Conqueror
+2 Hydroblast
+2 Pyroblast
+2 Supreme Verdict
+1 Surgical Extraction
+

@@ -1,0 +1,42 @@
+// Player: pinkboo
+// Place: 604
+
+4 Quantum Riddler
+2 Phelia, Exuberant Shepherd
+2 Solitude
+1 Containment Priest
+1 Murktide Regent
+1 Uro, Titan of Nature's Wrath
+4 Ponder
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+4 Leyline Binding
+4 Up the Beanstalk
+1 Dress Down
+4 Flooded Strand
+4 Misty Rainforest
+2 Tropical Island
+2 Tundra
+1 Forest
+1 Hedge Maze
+1 Island
+1 Karakas
+1 Meticulous Archive
+1 Plains
+1 Savannah
+1 Xander's Lounge
+
+Sideboard
+3 Consign to Memory
+2 Carpet of Flowers
+2 Clarion Conqueror
+2 Hydroblast
+2 White Orchid Phantom
+1 Faerie Macabre
+1 Surgical Extraction
+1 Veil of Summer
+1 Wrath of the Skies
+

@@ -1,0 +1,41 @@
+// Player: Ricos92
+// Place: 243
+
+3 Doorkeeper Thrull
+3 Nulldrifter
+3 Phyrexian Dreadnought
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Brazen Borrower // Petty Theft
+1 Murktide Regent
+4 Ponder
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+2 Consign to Memory
+2 Minor Misstep
+3 Dress Down
+4 Flooded Strand
+4 Wasteland
+3 Scalding Tarn
+3 Tundra
+2 Volcanic Island
+1 Island
+1 Meticulous Archive
+1 Plains
+
+Sideboard
+2 Hydroblast
+2 Lavinia, Azorius Renegade
+2 Pyroblast
+1 Clarion Conqueror
+1 Consign to Memory
+1 Containment Priest
+1 Force of Negation
+1 Hullbreacher
+1 Prismatic Ending
+1 Rest in Peace
+1 Surgical Extraction
+1 Wrath of the Skies
+

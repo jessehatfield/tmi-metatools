@@ -1,0 +1,35 @@
+// Player: rainking
+// Place: 243
+
+4 Balustrade Spy
+4 Boggart Trawler // Boggart Bog
+4 Elvish Spirit Guide
+4 Poxwalkers
+4 Simian Spirit Guide
+4 Undercity Informer
+3 Disciple of Freyalise // Garden of Freyalise
+1 Narcomoeba
+1 Thassa's Oracle
+2 Agadeem's Awakening // Agadeem, the Undercrypt
+2 Cabal Therapy
+1 Dread Return
+1 Reanimate
+1 Thoughtseize
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+4 Pact of Negation
+3 Cabal Ritual
+3 Once Upon a Time
+1 Memory's Journey
+4 Lotus Petal
+1 Jack-o'-Lantern
+
+Sideboard
+4 Force of Vigor
+4 Goblin Charbelcher
+3 Thoughtseize
+1 Dread Return
+1 Lotleth Giant
+1 Progenitus
+1 Shenanigans
+

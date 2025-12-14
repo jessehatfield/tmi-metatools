@@ -1,0 +1,38 @@
+// Player: DAIKITSURUMI1
+// Place: 80
+
+4 Phelia, Exuberant Shepherd
+4 Stoneforge Mystic
+3 Quantum Riddler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Ponder
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+3 Stifle
+2 Force of Negation
+1 Batterskull
+1 Meteor Sword
+1 Pre-War Formalwear
+4 Flooded Strand
+4 Polluted Delta
+4 Wasteland
+2 Island
+2 Tundra
+1 Karakas
+1 Marsh Flats
+1 Meticulous Archive
+1 Plains
+
+Sideboard
+3 Consign to Memory
+2 Containment Priest
+2 Hydroblast
+2 White Orchid Phantom
+2 Wrath of the Skies
+1 Celestial Purge
+1 Null Rod
+1 Prismatic Ending
+1 Rest in Peace
+

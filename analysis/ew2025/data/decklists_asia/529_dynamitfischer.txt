@@ -1,0 +1,30 @@
+// Player: dynamitfischer
+// Place: 529
+
+4 Archon of Cruelty
+4 Atraxa, Grand Unifier
+2 Griselbrand
+4 Cabal Therapy
+4 Collective Brutality
+4 Reanimate
+4 Thoughtseize
+4 Unmask
+4 Dark Ritual
+2 Shallow Grave
+4 Lotus Petal
+4 Animate Dead
+4 Bloodstained Mire
+4 Polluted Delta
+4 Underground Sea
+2 Swamp
+2 Undercity Sewers
+
+Sideboard
+4 Show and Tell
+3 Faerie Macabre
+2 Chain of Vapor
+2 Null Rod
+2 Spell Pierce
+1 Boomerang Basics
+1 Surgical Extraction
+

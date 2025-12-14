@@ -1,0 +1,29 @@
+// Player: hidekazu sugiura
+// Place: 261
+
+4 Eldrazi Linebreaker
+4 Eldrazi Mimic
+4 Glaring Fleshraker
+4 Reality Smasher
+4 Thought-Knot Seer
+3 Anticausal Vestige
+3 It That Heralds the End
+3 Wastescape Battlemage
+4 Kozilek's Command
+4 Chalice of the Void
+2 Lotus Petal
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+3 Eye of Ugin
+2 City of Traitors
+
+Sideboard
+4 Leyline of the Void
+3 Dismember
+3 Disruptor Flute
+2 Torpor Orb
+2 Warping Wail
+1 Sire of Seven Deaths
+

@@ -1,0 +1,33 @@
+// Player: RicB42
+// Place: 202
+
+4 Balustrade Spy
+4 Boggart Trawler // Boggart Bog
+4 Elvish Spirit Guide
+4 Simian Spirit Guide
+4 Undercity Informer
+3 Narcomoeba
+1 Disciple of Freyalise // Garden of Freyalise
+1 Poxwalkers
+1 Thassa's Oracle
+4 Agadeem's Awakening // Agadeem, the Undercrypt
+4 Thoughtseize
+2 Cabal Therapy
+1 Dread Return
+1 Reanimate
+4 Cabal Ritual
+4 Dark Ritual
+4 Pact of Negation
+3 Fell the Profane // Fell Mire
+1 Memory's Journey
+4 Lotus Petal
+1 Jack-o'-Lantern
+1 Bridge from Below
+
+Sideboard
+4 Force of Vigor
+4 Goblin Charbelcher
+4 Wear Down
+2 Reanimate
+1 Lotleth Giant
+

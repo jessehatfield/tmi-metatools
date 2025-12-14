@@ -1,0 +1,39 @@
+// Player: MarB171
+// Place: 606
+
+4 Murktide Regent
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Triumph of Saint Katherine
+4 Ponder
+2 Lórien Revealed
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+2 Force of Negation
+4 Up the Beanstalk
+3 Leyline Binding
+2 Dress Down
+4 Flooded Strand
+4 Misty Rainforest
+2 Tropical Island
+2 Tundra
+1 Island
+1 Meticulous Archive
+1 Mystic Sanctuary
+1 Plains
+1 Savannah
+1 Volcanic Island
+1 Xander's Lounge
+
+Sideboard
+4 Consign to Memory
+2 Damping Sphere
+2 Pyroblast
+2 Surgical Extraction
+1 Blue Elemental Blast
+1 Force of Negation
+1 Hydroblast
+1 Red Elemental Blast
+1 Wrath of the Skies
+

@@ -1,0 +1,44 @@
+// Player: Iacopo Pineschi
+// Place: 331
+
+1 Grist, the Hunger Tide
+4 Cauldron Familiar
+4 Gilded Goose
+4 Samwise Gamgee
+3 Badgermole Cub
+3 Carrion Feeder
+3 Orcish Bowmasters
+3 Young Wolf
+1 Dryad Arbor
+1 Endurance
+1 Haywire Mite
+1 Sephiroth, Fabled SOLDIER // Sephiroth, One-Winged Angel
+1 Sylvan Safekeeper
+1 Viscera Seer
+1 Yawgmoth, Thran Physician
+4 Chord of Calling
+4 Birthing Ritual
+4 Verdant Catacombs
+4 Windswept Heath
+2 Bayou
+2 Boseiju, Who Endures
+1 Forest
+1 Gaea's Cradle
+1 Lush Portico
+1 Misty Rainforest
+1 Nurturing Peatland
+1 Savannah
+1 Scrubland
+1 Underground Mortuary
+
+Sideboard
+4 Thoughtseize
+3 Endurance
+2 Swords to Plowshares
+1 Abrupt Decay
+1 Cabal Therapy
+1 Collector Ouphe
+1 Damping Sphere
+1 Force of Vigor
+1 Gaddock Teeg
+

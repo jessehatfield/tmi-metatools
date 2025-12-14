@@ -1,0 +1,42 @@
+// Player: mistarille_dawn
+// Place: 780
+
+4 Overlord of the Balemurk
+4 Phelia, Exuberant Shepherd
+4 Recruiter of the Guard
+4 Solitude
+4 Stoneforge Mystic
+3 Skyclave Apparition
+2 Flickerwisp
+2 Orcish Bowmasters
+2 Thalia, Guardian of Thraben
+2 White Orchid Phantom
+2 Witch Enchanter // Witch-Blessed Meadow
+1 Lion Sash
+1 Loran of the Third Path
+1 Phyrexian Metamorph
+4 Thoughtseize
+4 Swords to Plowshares
+4 Aether Vial
+1 Kaldra Compleat
+1 Phantom Blade
+1 Pre-War Formalwear
+7 Plains
+4 Karakas
+4 Marsh Flats
+4 Prismatic Vista
+4 Wasteland
+3 Scrubland
+1 Eiganjo, Seat of the Empire
+1 Shadowy Backstreet
+1 Swamp
+
+Sideboard
+1 Yorion, Sky Nomad
+4 Leyline of the Void
+3 Deafening Silence
+2 Cataclysm
+2 Disruptor Flute
+2 Stony Silence
+1 Containment Priest
+

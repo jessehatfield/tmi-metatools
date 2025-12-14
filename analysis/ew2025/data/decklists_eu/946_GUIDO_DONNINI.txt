@@ -1,0 +1,36 @@
+// Player: GUIDO DONNINI
+// Place: 946
+
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+3 Simian Spirit Guide
+1 Chaos Defiler
+1 Phyrexian Devourer
+1 Phyrexian Dragon Engine
+4 Pyroblast
+2 Red Elemental Blast
+3 Agatha's Soul Cauldron
+2 Grindstone
+2 Lotus Petal
+1 Ensnaring Bridge
+1 Lavaspur Boots
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+8 Mountain
+4 Ancient Tomb
+2 City of Traitors
+2 Great Furnace
+1 Arena of Glory
+
+Sideboard
+3 Blood Moon
+3 Fury
+2 Abrade
+2 Disruptor Flute
+2 Faerie Macabre
+2 Maddening Hex
+1 Ensnaring Bridge
+

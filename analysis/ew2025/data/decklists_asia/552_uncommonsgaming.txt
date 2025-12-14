@@ -1,0 +1,31 @@
+// Player: uncommonsgaming
+// Place: 552
+
+4 Barrowgoyf
+4 Dauthi Voidwalker
+4 Orcish Bowmasters
+4 Stalactite Stalker
+3 Mai, Scornful Striker
+2 Opposition Agent
+4 Thoughtseize
+2 Hymn to Tourach
+4 Dark Ritual
+3 Fatal Push
+2 Sheoldred's Edict
+4 Mishra's Bauble
+3 Obsessive Pursuit
+5 Swamp
+4 Wasteland
+2 Bloodstained Mire
+2 Marsh Flats
+2 Polluted Delta
+2 Verdant Catacombs
+1 Undercity Sewers
+
+Sideboard
+4 Faerie Macabre
+4 Force of Despair
+3 Void Mirror
+2 Hymn to Tourach
+2 Null Rod
+

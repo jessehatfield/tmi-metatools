@@ -1,0 +1,45 @@
+// Player: KAZUMA0324
+// Place: 435
+
+4 Life from the Loam
+4 Crop Rotation
+3 Swords to Plowshares
+4 Mox Diamond
+4 Sphere of Resistance
+1 Expedition Map
+1 Lavaspur Boots
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Exploration
+4 Urza's Saga
+4 Wasteland
+2 Ancient Tomb
+2 Boseiju, Who Endures
+2 Dark Depths
+2 Maze of Ith
+2 Thespian's Stage
+2 Windswept Heath
+1 Ba Sing Se
+1 Blast Zone
+1 Bojuka Bog
+1 Eiganjo, Seat of the Empire
+1 Forest
+1 Ghost Quarter
+1 Karakas
+1 Lush Portico
+1 Plains
+1 Savannah
+1 Scattered Groves
+1 The Tabernacle at Pendrell Vale
+1 Yavimaya, Cradle of Growth
+
+Sideboard
+3 Disruptor Flute
+3 Endurance
+2 Force of Vigor
+2 Gaddock Teeg
+2 Stony Silence
+1 Path to Exile
+1 Shadowspear
+1 Swords to Plowshares
+

@@ -1,0 +1,47 @@
+// Player: jvckliv
+// Place: 955
+
+2 Uro, Titan of Nature's Wrath
+3 Life from the Loam
+3 Treasure Hunt
+4 Crop Rotation
+2 Once Upon a Time
+1 Expedition Map
+1 Lavaspur Boots
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Exploration
+3 Manabond
+3 Urza's Saga
+3 Field of the Dead
+3 Thespian's Stage
+3 Wasteland
+2 Boseiju, Who Endures
+2 Maze of Ith
+2 Misty Rainforest
+2 Windswept Heath
+1 Bojuka Bog
+1 Dark Depths
+1 Flooded Strand
+1 Forest
+1 Ghost Quarter
+1 Glacial Chasm
+1 Hedge Maze
+1 Island
+1 Karakas
+1 Otawara, Soaring City
+1 Savannah
+1 Sejiri Steppe
+1 Snow-Covered Plains
+1 Tropical Island
+1 Yavimaya, Cradle of Growth
+
+Sideboard
+3 Consign to Memory
+3 Disruptor Flute
+2 Endurance
+2 Force of Vigor
+2 Gaddock Teeg
+2 Swords to Plowshares
+1 Collector Ouphe
+

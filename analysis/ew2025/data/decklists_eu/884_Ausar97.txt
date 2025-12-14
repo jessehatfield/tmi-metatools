@@ -1,0 +1,39 @@
+// Player: Ausar97
+// Place: 884
+
+2 Teferi, Time Raveler
+4 Thundertrap Trainer
+3 Snapcaster Mage
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Magus of the Moon
+4 Ponder
+2 Prismatic Ending
+1 Forth Eorlingas!
+1 Lórien Revealed
+4 Brainstorm
+4 Flame of Anor
+4 Force of Will
+4 Swords to Plowshares
+1 Force of Negation
+1 Dress Down
+4 Flooded Strand
+4 Island
+3 Scalding Tarn
+2 Plains
+2 Prismatic Vista
+1 Meticulous Archive
+1 Mountain
+1 Plateau
+1 Tundra
+1 Volcanic Island
+
+Sideboard
+4 Consign to Memory
+3 Pyroblast
+2 Faerie Macabre
+2 Wrath of the Skies
+1 Containment Priest
+1 Flusterstorm
+1 Force of Negation
+1 Lavinia, Azorius Renegade
+

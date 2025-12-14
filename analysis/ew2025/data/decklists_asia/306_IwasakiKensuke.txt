@@ -1,0 +1,32 @@
+// Player: IwasakiKensuke
+// Place: 306
+
+3 Karn, the Great Creator
+4 Barrowgoyf
+4 Boggart Trawler // Boggart Bog
+4 Mutated Cultist
+4 Overlord of the Balemurk
+2 Argentum Masticore
+2 Vampire Hexmage
+1 Sheoldred, the Apocalypse
+1 The Warring Triad
+4 Thoughtseize
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+4 Chrome Mox
+2 Ripples of Undeath
+6 Swamp
+4 Ancient Tomb
+4 Dark Depths
+4 Urborg, Tomb of Yawgmoth
+
+Sideboard
+3 Dauthi Voidwalker
+3 Opposition Agent
+3 Withering Torment
+2 Disruptor Flute
+1 Ghost Lantern // Bind Spirit
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Powder Keg
+

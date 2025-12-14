@@ -1,0 +1,42 @@
+// Player: Atsuki Kihara
+// Place: 630
+
+2 Kaito, Bane of Nightmares
+4 Baleful Strix
+4 Barrowgoyf
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Orcish Bowmasters
+2 Murktide Regent
+1 Brazen Borrower // Petty Theft
+4 Thoughtseize
+4 Brainstorm
+4 Fatal Push
+4 Force of Will
+1 Cling to Dust
+1 Daze
+2 Nihil Spellbomb
+4 Polluted Delta
+4 Underground Sea
+3 Wasteland
+2 Island
+1 Bloodstained Mire
+1 Flooded Strand
+1 Marsh Flats
+1 Misty Rainforest
+1 Scalding Tarn
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+2 Back to Basics
+2 Consign to Memory
+2 Damping Sphere
+2 Sheoldred's Edict
+1 Blue Elemental Blast
+1 Hydroblast
+1 Nihil Spellbomb
+1 Plague Engineer
+1 Ratchet Bomb
+1 The Filigree Sylex
+1 Toxic Deluge
+

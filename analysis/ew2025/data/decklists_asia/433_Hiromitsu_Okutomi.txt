@@ -1,0 +1,32 @@
+// Player: Hiromitsu Okutomi
+// Place: 433
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+4 Wastescape Battlemage
+3 Reality Smasher
+2 Devourer of Destiny
+1 Sire of Seven Deaths
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+1 Talisman of Creativity
+1 Talisman of Impulse
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+4 Wasteland
+3 Eye of Ugin
+1 City of Traitors
+
+Sideboard
+3 Dismember
+3 Disruptor Flute
+2 Faerie Macabre
+2 Spatial Contortion
+2 Unlicensed Hearse
+2 Warping Wail
+1 Null Rod
+

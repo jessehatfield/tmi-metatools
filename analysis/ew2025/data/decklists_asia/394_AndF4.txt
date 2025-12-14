@@ -1,0 +1,38 @@
+// Player: AndF4
+// Place: 394
+
+1 Grist, the Hunger Tide
+4 Allosaurus Shepherd
+4 Nettle Sentinel
+4 Wirewood Symbiote
+3 Elvish Visionary
+3 Heritage Druid
+3 Quirion Ranger
+2 Birchlore Rangers
+2 Dryad Arbor
+2 Eladamri, Korvecdal
+1 Craterhoof Behemoth
+1 Elvish Mystic
+4 Glimpse of Nature
+4 Green Sun's Zenith
+3 Natural Order
+2 Once Upon a Time
+4 Gaea's Cradle
+2 Bayou
+2 Boseiju, Who Endures
+2 Forest
+2 Verdant Catacombs
+2 Windswept Heath
+2 Wooded Foothills
+1 Misty Rainforest
+
+Sideboard
+4 Endurance
+4 Thoughtseize
+2 Force of Vigor
+1 Abrupt Decay
+1 Collector Ouphe
+1 Dismember
+1 Reclamation Sage
+1 Snuff Out
+

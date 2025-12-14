@@ -1,0 +1,31 @@
+// Player: Eisuke Toyohara
+// Place: 675
+
+3 Barrowgoyf
+3 Oliphaunt
+3 Orcish Bowmasters
+2 Archon of Cruelty
+2 Grave Titan
+4 Faithless Looting
+4 Reanimate
+4 Thoughtseize
+4 Unmask
+3 Unmarked Grave
+4 Dark Ritual
+4 Lotus Petal
+4 Animate Dead
+4 Bloodstained Mire
+4 Swamp
+4 Wasteland
+3 Badlands
+1 Raucous Theater
+
+Sideboard
+4 Dauthi Voidwalker
+2 Abrade
+2 Collective Brutality
+2 Mai, Scornful Striker
+2 Red Elemental Blast
+2 Surgical Extraction
+1 Fatal Push
+

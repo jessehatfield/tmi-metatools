@@ -1,0 +1,38 @@
+// Player: AlexeyIvanov
+// Place: 97
+
+4 Emry, Lurker of the Loch
+4 Painter's Servant
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Thought Monitor
+4 Stock Up
+3 Thoughtcast
+4 Force of Will
+3 Metallic Rebuke
+1 Force of Negation
+1 Sink into Stupor // Soporific Springs
+4 Lotus Petal
+4 Mishra's Bauble
+3 Grindstone
+3 Mox Opal
+1 Lavaspur Boots
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+2 Island
+1 Otawara, Soaring City
+1 Spire of Industry
+
+Sideboard
+2 Chalice of the Void
+2 Consign to Memory
+2 Dismember
+2 Disruptor Flute
+2 Faerie Macabre
+2 Hydroblast
+1 Flusterstorm
+1 Haywire Mite
+1 Shadowspear
+

@@ -1,0 +1,33 @@
+// Player: katsuya sakakura
+// Place: 116
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+3 Reality Smasher
+3 Wastescape Battlemage
+2 Territory Culler
+1 Sire of Seven Deaths
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+2 Grim Monolith
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Wasteland
+3 Eye of Ugin
+3 Secluded Courtyard
+1 City of Traitors
+1 Unclaimed Territory
+1 Wastes
+
+Sideboard
+3 Dismember
+3 Faerie Macabre
+2 Disruptor Flute
+2 The Filigree Sylex
+2 Torpor Orb
+2 Warping Wail
+1 Unlicensed Hearse
+

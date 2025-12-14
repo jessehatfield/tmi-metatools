@@ -1,0 +1,40 @@
+// Player: Hiroya Sekine
+// Place: 168
+
+2 Street Wraith
+2 Thassa's Oracle
+4 Doomsday
+4 Ponder
+4 Thoughtseize
+3 Personal Tutor
+1 Edge of Autumn
+1 Ideas Unbound
+1 Night's Whisper
+4 Brainstorm
+4 Dark Ritual
+4 Daze
+4 Force of Will
+1 Consider
+1 Pact of Negation
+3 Lotus Petal
+1 Lion's Eye Diamond
+4 Polluted Delta
+4 Underground Sea
+2 Scalding Tarn
+1 Bloodstained Mire
+1 Cavern of Souls
+1 Flooded Strand
+1 Island
+1 Swamp
+1 Undercity Sewers
+
+Sideboard
+4 Barrowgoyf
+2 Brazen Borrower // Petty Theft
+2 Dauthi Voidwalker
+2 Force of Negation
+2 Murktide Regent
+1 Consign to Memory
+1 Flusterstorm
+1 Unearth
+

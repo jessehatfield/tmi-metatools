@@ -1,0 +1,31 @@
+// Player: andread
+// Place: 323
+
+4 Brazen Borrower // Petty Theft
+4 Murktide Regent
+2 Delver of Secrets // Insectile Aberration
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Ponder
+4 Brainstorm
+4 Daze
+4 Dismember
+4 Force of Will
+1 Archmage's Charm
+1 Spell Pierce
+4 Astrologian's Planisphere
+4 Roiling Dragonstorm
+6 Island
+3 Flooded Strand
+3 Polluted Delta
+3 Scalding Tarn
+3 Wasteland
+
+Sideboard
+4 Consign to Memory
+3 Hydroblast
+2 Back to Basics
+2 Disruptor Flute
+2 True-Name Nemesis
+1 Damping Sphere
+1 Engineered Explosives
+

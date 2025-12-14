@@ -1,0 +1,50 @@
+// Player: Notacatcat47
+// Place: 664
+
+4 Elvish Reclaimer
+4 The Wandering Minstrel
+3 Slogurk, the Overslime
+1 Endurance
+4 Treasure Hunt
+3 Lim-Dûl's Vault
+1 Constant Mists
+1 Mox Diamond
+4 Manabond
+3 Trade Routes
+2 Quest for the Necropolis
+4 Field of Ruin
+2 Dark Depths
+2 Forest
+2 Island
+2 Misty Rainforest
+2 Thespian's Stage
+2 Waterlogged Grove
+1 Bayou
+1 Blast Zone
+1 Bojuka Bog
+1 Breeding Pool
+1 Brokers Hideout
+1 Echoing Deeps
+1 Glacial Chasm
+1 Hickory Woodlot
+1 Hidden Cataract
+1 Hidden Nursery
+1 Maestros Theater
+1 Mystic Sanctuary
+1 Restless Reef
+1 Restless Vinestalk
+1 Saprazzan Skerry
+1 Simic Growth Chamber
+1 Sunken Hollow
+1 Swamp
+1 The Biblioplex
+1 Underground Mortuary
+1 Zagoth Triome
+
+Sideboard
+4 Obstinate Baloth
+3 Springheart Nantuko
+3 Timeless Witness
+3 Whirlwind Denial
+2 Quest for the Necropolis
+

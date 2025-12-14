@@ -1,0 +1,37 @@
+// Player: Daiki Mimaki
+// Place: 91
+
+4 Karn, the Great Creator
+2 Ugin, Eye of the Storms
+1 Tezzeret, Cruel Captain
+4 Glaring Fleshraker
+4 Kozilek's Command
+4 Grim Monolith
+4 The One Ring
+3 Disruptor Flute
+3 Lotus Petal
+3 Manifold Key
+2 Mystic Forge
+1 Basalt Monolith
+1 Mishra's Research Desk
+1 Mox Opal
+1 Pithing Needle
+1 Voltaic Key
+4 Urza's Saga
+4 Ancient Tomb
+4 Planar Nexus
+4 Urza's Tower
+4 Urza's Workshop
+1 City of Traitors
+
+Sideboard
+4 Ravenous Trap
+3 Eldrazi Confluence
+2 The Stone Brain
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Mystic Forge
+1 Portable Hole
+1 Tormod's Crypt
+

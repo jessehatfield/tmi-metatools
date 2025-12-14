@@ -1,0 +1,38 @@
+// Player: ishiyuu0228
+// Place: 324
+
+4 Karn, the Great Creator
+4 Tezzeret, Cruel Captain
+4 Glaring Fleshraker
+4 Kozilek's Command
+4 Grim Monolith
+4 Helm of Awakening
+4 Lotus Petal
+4 Mox Opal
+3 Lion's Eye Diamond
+3 Mystic Forge
+1 Aether Spellbomb
+1 Manifold Key
+1 Mishra's Research Desk
+1 Pithing Needle
+1 Soul-Guide Lantern
+4 Urza's Saga
+4 Ancient Tomb
+4 City of Traitors
+4 Darksteel Citadel
+1 Plains
+
+Sideboard
+3 Warping Wail
+2 Perilous Snare
+1 Ensnaring Bridge
+1 Fountainport Bell
+1 Haywire Mite
+1 Lion's Eye Diamond
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Mystic Forge
+1 Portable Hole
+1 Thran Foundry
+1 Tormod's Crypt
+

@@ -1,0 +1,29 @@
+// Player: salva
+// Place: 475
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Containment Priest
+4 Guide of Souls
+4 Ocelot Pride
+4 Phelia, Exuberant Shepherd
+4 Starfield Shepherd
+4 Witch Enchanter // Witch-Blessed Meadow
+3 Clarion Conqueror
+3 Thalia, Guardian of Thraben
+2 Solitude
+4 Swords to Plowshares
+2 Chrome Mox
+8 Plains
+4 Wasteland
+3 Ancient Tomb
+2 Karakas
+1 Eiganjo, Seat of the Empire
+
+Sideboard
+4 Deafening Silence
+3 Rest in Peace
+3 Stony Silence
+2 Exorcise
+2 March of Otherworldly Light
+1 Recruiter of the Guard
+

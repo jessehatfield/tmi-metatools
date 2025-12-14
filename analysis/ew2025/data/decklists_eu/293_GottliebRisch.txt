@@ -1,0 +1,41 @@
+// Player: GottliebRisch
+// Place: 293
+
+4 Karn, the Great Creator
+3 Tezzeret, Cruel Captain
+1 Ugin, Eye of the Storms
+4 Glaring Fleshraker
+4 Kozilek's Command
+4 Grim Monolith
+4 Lotus Petal
+3 Manifold Key
+3 The One Ring
+2 Mystic Forge
+1 Basalt Monolith
+1 Candelabra of Tawnos
+1 Expedition Map
+1 Mishra's Research Desk
+1 Mox Opal
+1 Pithing Needle
+1 Portable Hole
+1 Voltaic Key
+4 Urza's Saga
+4 Ancient Tomb
+4 Planar Nexus
+4 Urza's Tower
+3 Urza's Workshop
+1 Karakas
+
+Sideboard
+3 Disruptor Flute
+2 Boseiju, Who Endures
+2 Dismember
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Paradox Engine
+1 Perilous Snare
+1 The One Ring
+1 Tormod's Crypt
+1 Walking Ballista
+

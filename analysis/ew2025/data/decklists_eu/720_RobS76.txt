@@ -1,0 +1,35 @@
+// Player: RobS76
+// Place: 720
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Amped Raptor
+4 Guide of Souls
+4 Ocelot Pride
+4 Voice of Victory
+3 Broadside Bombardiers
+3 Phelia, Exuberant Shepherd
+1 Esper Sentinel
+1 Haliya, Guided by Light
+4 Swords to Plowshares
+3 Staff of the Storyteller
+2 Goblin Bombardment
+4 Arid Mesa
+4 Plateau
+4 Wasteland
+3 Windswept Heath
+2 Elegant Parlor
+2 Flooded Strand
+2 Plains
+1 Karakas
+1 Mountain
+
+Sideboard
+3 Disruptor Flute
+2 Damping Sphere
+2 Deafening Silence
+2 Grafdigger's Cage
+2 Mindbreak Trap
+2 Null Rod
+1 Pyroblast
+1 Rest in Peace
+

@@ -1,0 +1,31 @@
+// Player: KonYou
+// Place: 284
+
+4 Kappa Cannoneer
+4 Pinnacle Emissary
+3 Emry, Lurker of the Loch
+3 Memory Guardian
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Thoughtcast
+4 Force of Will
+3 Sink into Stupor // Soporific Springs
+4 Lotus Petal
+4 Mishra's Bauble
+4 Mox Opal
+3 Urza's Bauble
+1 Lavaspur Boots
+1 Pithing Needle
+1 Shadowspear
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+3 Volcanic Island
+
+Sideboard
+3 Blood Moon
+3 Consign to Memory
+3 Tormod's Crypt
+2 Choke
+2 Force of Negation
+2 Galvanic Blast
+

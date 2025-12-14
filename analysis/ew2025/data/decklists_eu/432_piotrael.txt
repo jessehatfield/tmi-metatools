@@ -1,0 +1,40 @@
+// Player: piotrael
+// Place: 432
+
+4 Delver of Secrets // Insectile Aberration
+4 Dragon's Rage Channeler
+3 Murktide Regent
+1 Brazen Borrower // Petty Theft
+4 Ponder
+1 Chain Lightning
+1 Preordain
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+1 Force of Negation
+1 Unholy Heat
+1 Vapor Snag
+4 Mishra's Bauble
+4 Scalding Tarn
+4 Volcanic Island
+4 Wasteland
+2 Flooded Strand
+2 Polluted Delta
+1 Mystic Sanctuary
+1 Snow-Covered Island
+1 Thundering Falls
+
+Sideboard
+2 Consign to Memory
+2 Hydroblast
+2 Pyroblast
+2 Surgical Extraction
+1 Abrade
+1 Counterbalance
+1 Force of Negation
+1 Meltdown
+1 Price of Progress
+1 Red Elemental Blast
+1 Rough // Tumble
+

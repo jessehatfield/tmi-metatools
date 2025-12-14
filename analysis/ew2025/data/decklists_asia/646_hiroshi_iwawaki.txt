@@ -1,0 +1,36 @@
+// Player: hiroshi iwawaki
+// Place: 646
+
+4 Blighted Agent
+4 Glistener Elf
+4 Noble Hierarch
+3 Stock Up
+4 Brainstorm
+4 Embiggen
+4 Force of Will
+4 Invigorate
+4 Legolas's Quick Reflexes
+3 Berserk
+3 Daze
+1 Flusterstorm
+4 Inkmoth Nexus
+4 Tropical Island
+2 Misty Rainforest
+2 Verdant Catacombs
+2 Wooded Foothills
+1 Forest
+1 Hedge Maze
+1 Pendelhaven
+1 Windswept Heath
+
+Sideboard
+3 Consign to Memory
+2 Dismember
+2 Endurance
+2 Force of Vigor
+2 Veil of Summer
+1 Blue Elemental Blast
+1 Flusterstorm
+1 Grafdigger's Cage
+1 Null Rod
+

@@ -1,0 +1,35 @@
+// Player: Yuta Takahashi
+// Place: 82
+
+2 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Murktide Regent
+4 Ponder
+4 Thoughtseize
+2 Witherbloom Command
+4 Brainstorm
+4 Daze
+4 Force of Will
+3 Fatal Push
+2 Sheoldred's Edict
+4 Misty Rainforest
+4 Polluted Delta
+4 Wasteland
+3 Underground Sea
+1 Bayou
+1 Flooded Strand
+1 Island
+1 Tropical Island
+1 Undercity Sewers
+
+Sideboard
+3 Consign to Memory
+2 Barrowgoyf
+2 Blue Elemental Blast
+2 Carpet of Flowers
+2 Engineered Explosives
+2 Force of Negation
+1 Grafdigger's Cage
+1 Toxic Deluge
+

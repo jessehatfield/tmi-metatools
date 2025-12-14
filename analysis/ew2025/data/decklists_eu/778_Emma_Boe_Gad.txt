@@ -1,0 +1,45 @@
+// Player: Emma Boe Gad
+// Place: 778
+
+4 Goblin Engineer
+4 Goblin Welder
+4 Painter's Servant
+2 Magus of the Moon
+2 Simian Spirit Guide
+1 Chaos Defiler
+1 Phyrexian Dragon Engine
+4 Swords to Plowshares
+3 Pyroblast
+2 Red Elemental Blast
+2 Grindstone
+2 Lotus Petal
+1 Disruptor Flute
+1 Lavaspur Boots
+1 Mox Opal
+1 Soul-Guide Lantern
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+4 Urza's Saga
+4 Ancient Tomb
+3 Mountain
+2 Great Furnace
+2 Scalding Tarn
+1 Arena of Glory
+1 Arid Mesa
+1 Bloodstained Mire
+1 City of Traitors
+1 Elegant Parlor
+1 Plateau
+
+Sideboard
+2 Blood Moon
+2 Damping Sphere
+2 Fury
+2 Wear // Tear
+1 Disruptor Flute
+1 Ensnaring Bridge
+1 Faerie Macabre
+1 Fiery Confluence
+1 Pithing Needle
+1 Soul-Guide Lantern
+1 Surgical Extraction
+

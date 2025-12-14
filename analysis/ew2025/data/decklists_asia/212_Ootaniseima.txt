@@ -1,0 +1,47 @@
+// Player: Ootaniseima
+// Place: 212
+
+4 Infernal Tutor
+3 Duress
+3 Ponder
+3 Thoughtseize
+2 Burning Wish
+1 Beseech the Mirror
+1 Gaea's Will
+1 Tendrils of Agony
+4 Brainstorm
+4 Dark Ritual
+3 Cabal Ritual
+2 Veil of Summer
+1 Ad Nauseam
+4 Lion's Eye Diamond
+4 Lotus Petal
+1 Chrome Mox
+1 Mox Opal
+1 Wishclaw Talisman
+4 Polluted Delta
+2 Misty Rainforest
+2 Verdant Catacombs
+1 Bayou
+1 Boseiju, Who Endures
+1 Island
+1 Raucous Theater
+1 Swamp
+1 Tanglepool Bridge
+1 Tropical Island
+1 Underground Sea
+1 Volcanic Island
+
+Sideboard
+2 Abrupt Decay
+2 Carpet of Flowers
+2 Chain of Vapor
+2 Spider-Punk
+1 Beseech the Mirror
+1 Boseiju, Who Endures
+1 Duress
+1 Elemental Eruption
+1 Peer into the Abyss
+1 Radstorm
+1 Wear Down
+

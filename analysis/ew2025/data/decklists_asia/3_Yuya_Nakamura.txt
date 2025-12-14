@@ -1,0 +1,37 @@
+// Player: Yuya Nakamura
+// Place: 3
+
+4 Emry, Lurker of the Loch
+4 Pinnacle Emissary
+3 Thought Monitor
+2 Kappa Cannoneer
+4 Thoughtcast
+4 Force of Will
+1 Metallic Rebuke
+1 Sink into Stupor // Soporific Springs
+4 Lotus Petal
+4 Mishra's Bauble
+4 Mox Opal
+3 Chalice of the Void
+3 Urza's Bauble
+1 Aether Spellbomb
+1 Pithing Needle
+1 Shadowspear
+1 Tormod's Crypt
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+2 Volcanic Island
+1 Otawara, Soaring City
+
+Sideboard
+3 Harbinger of the Seas
+2 Consign to Memory
+2 Disruptor Flute
+2 Force of Negation
+2 Hydroblast
+1 Brazen Borrower // Petty Theft
+1 Dismember
+1 Ghirapur Aether Grid
+1 Grafdigger's Cage
+

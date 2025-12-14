@@ -1,0 +1,36 @@
+// Player: Nathanial Caron
+// Place: 69
+
+4 Delver of Secrets // Insectile Aberration
+4 Dragon's Rage Channeler
+3 Murktide Regent
+1 Brazen Borrower // Petty Theft
+4 Ponder
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+2 Unholy Heat
+1 Force of Negation
+4 Mishra's Bauble
+2 Cori-Steel Cutter
+4 Volcanic Island
+4 Wasteland
+3 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+1 Island
+1 Thundering Falls
+
+Sideboard
+3 Pyroblast
+2 Consign to Memory
+2 Hydroblast
+2 Meltdown
+2 Price of Progress
+1 Abrade
+1 Force of Negation
+1 Grafdigger's Cage
+1 Surgical Extraction
+

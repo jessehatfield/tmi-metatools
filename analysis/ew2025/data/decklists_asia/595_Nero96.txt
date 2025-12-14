@@ -1,0 +1,36 @@
+// Player: Nero96
+// Place: 595
+
+4 Dragon's Rage Channeler
+3 Murktide Regent
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+4 Ponder
+1 Preordain
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+2 Unholy Heat
+1 Spell Pierce
+4 Cori-Steel Cutter
+4 Mishra's Bauble
+4 Polluted Delta
+4 Volcanic Island
+4 Wasteland
+3 Flooded Strand
+1 Island
+1 Scalding Tarn
+1 Thundering Falls
+
+Sideboard
+3 Pyroblast
+2 Consign to Memory
+2 Force of Negation
+2 Hydroblast
+1 Abrade
+1 Blood Moon
+1 Ghost Vacuum
+1 Meltdown
+1 Null Rod
+1 Unlicensed Hearse
+

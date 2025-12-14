@@ -1,0 +1,33 @@
+// Player: hideki komiyama
+// Place: 280
+
+4 Emry, Lurker of the Loch
+4 Kappa Cannoneer
+4 Memory Guardian
+4 Pinnacle Emissary
+3 Broadside Bombardiers
+4 Force of Will
+2 Sink into Stupor // Soporific Springs
+4 Lotus Petal
+4 Mishra's Bauble
+4 Mox Opal
+4 Urza's Bauble
+3 Chalice of the Void
+1 Lavaspur Boots
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+3 Volcanic Island
+
+Sideboard
+3 Harbinger of the Seas
+2 Consign to Memory
+2 Disruptor Flute
+2 Tormod's Crypt
+1 Aether Spellbomb
+1 Faerie Macabre
+1 Force of Negation
+1 Haywire Mite
+1 Pithing Needle
+1 Shadowspear
+

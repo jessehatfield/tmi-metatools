@@ -1,0 +1,59 @@
+// Player: FlaG2
+// Place: 786
+
+4 Stoneforge Mystic
+3 Recruiter of the Guard
+2 Hullbreacher
+2 Lavinia, Azorius Renegade
+2 Orcish Bowmasters
+2 Spellseeker
+2 True-Name Nemesis
+1 Ertai Resurrected
+1 Opposition Agent
+1 Palace Jailer
+1 Plague Engineer
+1 Sakashima the Impostor
+1 Skyclave Apparition
+1 Snapcaster Mage
+1 Solitude
+1 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 The Reality Chip
+1 Venser, Shaper Savant
+1 Witch Enchanter // Witch-Blessed Meadow
+2 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+1 Test of Talents
+1 Vanishing Verse
+4 Aether Vial
+1 Batterskull
+1 Cryptic Coat
+1 Pre-War Formalwear
+1 Umezawa's Jitte
+4 Flooded Strand
+4 Karakas
+4 Marsh Flats
+4 Polluted Delta
+3 Plains
+2 Cavern of Souls
+2 Island
+1 Meticulous Archive
+1 Scrubland
+1 Swamp
+1 Tundra
+1 Underground Sea
+
+Sideboard
+1 Yorion, Sky Nomad
+2 Consign to Memory
+2 Force of Negation
+2 Rest in Peace
+2 Solitude
+1 Containment Priest
+1 Fracture
+1 Harbinger of the Seas
+1 Plague Engineer
+1 Test of Talents
+1 Wrath of the Skies
+

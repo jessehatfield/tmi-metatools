@@ -1,0 +1,39 @@
+// Player: Mizuki2740
+// Place: 178
+
+3 Thought-Knot Seer
+2 Thundertrap Trainer
+2 Tishana's Tidebinder
+1 Emrakul, the Aeons Torn
+4 Stock Up
+2 Lórien Revealed
+4 Force of Will
+4 Kozilek's Command
+3 Eldrazi Confluence
+2 Force of Negation
+2 Repeal
+1 Sink into Stupor // Soporific Springs
+4 The One Ring
+3 Disruptor Flute
+2 Batterskull
+4 Cloudpost
+4 Planar Nexus
+4 Urza's Tower
+3 Glimmerpost
+3 Island
+2 Ancient Tomb
+1 Otawara, Soaring City
+
+Sideboard
+2 Consign to Memory
+2 Energy Flux
+2 Flusterstorm
+2 Hydroblast
+1 Dismember
+1 Dress Down
+1 Echoing Truth
+1 Faerie Macabre
+1 Grafdigger's Cage
+1 Sire of Seven Deaths
+1 Surgical Extraction
+

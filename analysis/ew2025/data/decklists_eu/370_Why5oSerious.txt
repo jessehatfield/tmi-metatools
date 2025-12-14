@@ -1,0 +1,38 @@
+// Player: Why5oSerious
+// Place: 370
+
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Atraxa, Grand Unifier
+1 Emrakul, the Aeons Torn
+4 Ponder
+4 Show and Tell
+4 Stock Up
+4 Thoughtseize
+2 Profane Tutor
+4 Brainstorm
+4 Force of Will
+2 Cunning Wish
+3 Lotus Petal
+4 Omniscience
+4 Polluted Delta
+3 Ancient Tomb
+3 Island
+3 Underground Sea
+1 City of Traitors
+1 Misty Rainforest
+1 Scalding Tarn
+1 Swamp
+1 Undercity Sewers
+1 Verdant Catacombs
+
+Sideboard
+4 Barrowgoyf
+2 Dauthi Voidwalker
+2 Fatal Push
+2 Orcish Bowmasters
+1 Consign to Memory
+1 Engineered Explosives
+1 Shared Summons
+1 Sheoldred's Edict
+1 Sublime Epiphany
+

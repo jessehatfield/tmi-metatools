@@ -1,0 +1,37 @@
+// Player: Katrin Belohlavek
+// Place: 594
+
+4 Balustrade Spy
+4 Boggart Trawler // Boggart Bog
+4 Disciple of Freyalise // Garden of Freyalise
+4 Elvish Spirit Guide
+4 Simian Spirit Guide
+4 Undercity Informer
+3 Narcomoeba
+2 Poxwalkers
+1 Thassa's Oracle
+2 Agadeem's Awakening // Agadeem, the Undercrypt
+2 Cabal Therapy
+2 Thoughtseize
+1 Dread Return
+1 Reanimate
+4 Dark Ritual
+4 Fell the Profane // Fell Mire
+4 Pact of Negation
+1 Memory's Journey
+4 Lotus Petal
+2 Chrome Mox
+2 Goblin Charbelcher
+1 Jack-o'-Lantern
+1 Bridge from Below
+
+Sideboard
+4 Force of Vigor
+4 Leyline of the Void
+2 Goblin Charbelcher
+1 Dread Return
+1 Lotleth Giant
+1 Progenitus
+1 Shenanigans
+1 Thassa's Oracle
+

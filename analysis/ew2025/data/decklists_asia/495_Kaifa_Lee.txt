@@ -1,0 +1,31 @@
+// Player: Kaifa Lee
+// Place: 495
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+4 Wastescape Battlemage
+3 Eldrazi Obligator
+3 Reality Smasher
+1 Simian Spirit Guide
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+4 Wasteland
+3 Eye of Ugin
+1 Mountain
+1 Snow-Covered Wastes
+
+Sideboard
+3 Dismember
+3 Disruptor Flute
+3 Faerie Macabre
+2 Null Rod
+2 Warping Wail
+1 Grim Monolith
+1 Unlicensed Hearse
+

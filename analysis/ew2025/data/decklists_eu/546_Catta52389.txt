@@ -1,0 +1,37 @@
+// Player: Catta52389
+// Place: 546
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Amped Raptor
+4 Guide of Souls
+4 Ocelot Pride
+4 Voice of Victory
+3 Phelia, Exuberant Shepherd
+2 Broadside Bombardiers
+1 Phlage, Titan of Fire's Fury
+2 Forth Eorlingas!
+4 Swords to Plowshares
+4 Staff of the Storyteller
+1 Goblin Bombardment
+4 Arid Mesa
+4 Plateau
+4 Wasteland
+3 Marsh Flats
+2 Elegant Parlor
+2 Plains
+2 Windswept Heath
+1 Karakas
+1 Mountain
+
+Sideboard
+1 Jegantha, the Wellspring
+3 Pyroblast
+2 Mindbreak Trap
+2 Price of Progress
+2 Surgical Extraction
+1 Damping Sphere
+1 Deafening Silence
+1 Faerie Macabre
+1 Null Rod
+1 Stony Silence
+

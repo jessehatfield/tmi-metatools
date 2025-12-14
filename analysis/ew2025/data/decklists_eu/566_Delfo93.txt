@@ -1,0 +1,33 @@
+// Player: Delfo93
+// Place: 566
+
+4 Griselbrand
+3 Archon of Cruelty
+3 Atraxa, Grand Unifier
+4 Cabal Therapy
+4 Faithless Looting
+4 Reanimate
+4 Unmask
+2 Thoughtseize
+4 Dark Ritual
+4 Shallow Grave
+4 Lotus Petal
+4 Animate Dead
+4 Polluted Delta
+2 Raucous Theater
+2 Swamp
+2 Underground Sea
+2 Verdant Catacombs
+1 Badlands
+1 Bloodstained Mire
+1 Marsh Flats
+1 Undercity Sewers
+
+Sideboard
+4 Show and Tell
+4 Stronghold Gambit
+2 Meltdown
+2 Sneak Attack
+2 Thoughtseize
+1 Mindbreak Trap
+

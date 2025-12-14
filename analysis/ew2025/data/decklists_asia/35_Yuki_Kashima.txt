@@ -1,0 +1,39 @@
+// Player: Yuki Kashima
+// Place: 35
+
+1 Tezzeret, Agent of Bolas
+4 Emry, Lurker of the Loch
+4 Pinnacle Emissary
+3 Kappa Cannoneer
+1 Thought Monitor
+4 Thoughtcast
+4 Force of Will
+2 Sink into Stupor // Soporific Springs
+4 Lotus Petal
+4 Mishra's Bauble
+4 Urza's Bauble
+3 Mox Opal
+1 Aether Spellbomb
+1 Chalice of the Void
+1 Lavaspur Boots
+1 Shadowspear
+1 Soul-Guide Lantern
+4 Urza's Saga
+4 Ancient Tomb
+4 Seat of the Synod
+2 Spire of Industry
+2 Starting Town
+1 Island
+
+Sideboard
+2 Banish to Another Universe
+2 Blue Elemental Blast
+2 Carpet of Flowers
+2 Consign to Memory
+2 Ethersworn Canonist
+1 Disruptor Flute
+1 Faerie Macabre
+1 Haywire Mite
+1 Hullbreacher
+1 Pithing Needle
+

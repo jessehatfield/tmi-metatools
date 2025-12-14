@@ -1,0 +1,37 @@
+// Player: Jacob Milchman
+// Place: 899
+
+4 Delver of Secrets // Insectile Aberration
+4 Dragon's Rage Channeler
+3 Murktide Regent
+3 Questing Druid // Seek the Beast
+1 Brazen Borrower // Petty Theft
+4 Ponder
+4 Brainstorm
+4 Daze
+4 Force of Will
+4 Lightning Bolt
+1 Force of Negation
+4 Mishra's Bauble
+1 Unable to Scream
+4 Volcanic Island
+4 Wasteland
+2 Flooded Strand
+2 Misty Rainforest
+2 Polluted Delta
+2 Scalding Tarn
+1 Island
+1 Thundering Falls
+1 Tropical Island
+
+Sideboard
+4 Pyroblast
+2 Consign to Memory
+2 Grafdigger's Cage
+2 Unholy Heat
+1 Force of Negation
+1 Gut Shot
+1 Hydroblast
+1 Meltdown
+1 Rough // Tumble
+

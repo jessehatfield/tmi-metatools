@@ -1,0 +1,41 @@
+// Player: Eurekada
+// Place: 514
+
+4 Phelia, Exuberant Shepherd
+4 Stoneforge Mystic
+3 Quantum Riddler
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Wan Shi Tong, Librarian
+3 Ponder
+1 Prismatic Ending
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+3 Daze
+2 Consign to Memory
+1 Force of Negation
+1 Kaldra Compleat
+1 Meteor Sword
+1 Pre-War Formalwear
+4 Flooded Strand
+4 Wasteland
+3 Tundra
+2 Polluted Delta
+2 Scalding Tarn
+2 Snow-Covered Island
+1 Karakas
+1 Meticulous Archive
+1 Snow-Covered Plains
+
+Sideboard
+2 Consign to Memory
+2 Containment Priest
+2 Gut Shot
+2 Lavinia, Azorius Renegade
+2 Triumph of Saint Katherine
+1 Blue Elemental Blast
+1 Hydroblast
+1 Null Rod
+1 Rest in Peace
+1 True-Name Nemesis
+

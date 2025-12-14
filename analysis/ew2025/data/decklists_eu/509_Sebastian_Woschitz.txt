@@ -1,0 +1,34 @@
+// Player: Sebastian Woschitz
+// Place: 509
+
+4 Golgari Grave-Troll
+4 Narcomoeba
+4 Stinkweed Imp
+3 Golgari Thug
+3 Poxwalkers
+1 Anger
+1 Hogaak, Arisen Necropolis
+1 Ox of Agonas
+4 Cabal Therapy
+4 Faithless Looting
+3 Breakthrough
+1 Careful Study
+1 Dread Return
+4 Otherworldly Gaze
+4 Lion's Eye Diamond
+3 Bridge from Below
+4 Cephalid Coliseum
+4 Scalding Tarn
+3 Volcanic Island
+1 Island
+1 Mountain
+1 Polluted Delta
+1 Underground Sea
+
+Sideboard
+4 Into the Flood Maw
+4 Leyline of the Void
+4 Unmask
+2 Shenanigans
+1 Echoing Truth
+

@@ -1,0 +1,37 @@
+// Player: YANN BELMER
+// Place: 500
+
+2 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+1 Barrowgoyf
+4 Ponder
+3 Hymn to Tourach
+2 Thoughtseize
+4 Brainstorm
+4 Daze
+4 Force of Will
+3 Fatal Push
+1 Feed the Cycle
+4 Polluted Delta
+4 Underground Sea
+4 Wasteland
+3 Scalding Tarn
+2 Undercity Sewers
+1 Flooded Strand
+1 Island
+1 Swamp
+
+Sideboard
+3 Consign to Memory
+2 Barrowgoyf
+2 Engineered Explosives
+2 Force of Negation
+2 Surgical Extraction
+1 Bitter Triumph
+1 Harbinger of the Seas
+1 Null Rod
+1 Thoughtseize
+

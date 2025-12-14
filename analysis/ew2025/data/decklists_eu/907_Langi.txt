@@ -1,0 +1,29 @@
+// Player: Langi
+// Place: 907
+
+4 Broadside Bombardiers
+4 Fury
+4 Magus of the Moon
+4 Pyrogoyf
+4 Simian Spirit Guide
+3 Shatterskull Smashing // Shatterskull, the Hammer Pass
+3 Sundering Eruption // Volcanic Fissure
+4 Chalice of the Void
+4 Chrome Mox
+4 The One Ring
+4 Blood Moon
+4 Fable of the Mirror-Breaker // Reflection of Kiki-Jiki
+5 Snow-Covered Mountain
+4 Ancient Tomb
+4 City of Traitors
+1 Sokenzan, Crucible of Defiance
+
+Sideboard
+4 Leyline of the Void
+2 Ashen Rider
+2 Disruptor Flute
+2 Fiery Confluence
+2 Null Rod
+2 Trinisphere
+1 Emrakul, the Aeons Torn
+

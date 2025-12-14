@@ -1,0 +1,41 @@
+// Player: ValV5
+// Place: 146
+
+2 Endurance
+2 Quantum Riddler
+2 Uro, Titan of Nature's Wrath
+4 Ponder
+2 Lórien Revealed
+1 Forth Eorlingas!
+1 Life from the Loam
+1 Prismatic Ending
+1 Terminus
+4 Brainstorm
+4 Force of Will
+4 Swords to Plowshares
+1 Force of Negation
+4 Leyline Binding
+4 Up the Beanstalk
+2 Dress Down
+4 Flooded Strand
+4 Misty Rainforest
+2 Tropical Island
+2 Tundra
+1 Hedge Maze
+1 Island
+1 Meticulous Archive
+1 Mystic Sanctuary
+1 Plains
+1 Savannah
+1 Volcanic Island
+1 Wasteland
+1 Xander's Lounge
+
+Sideboard
+3 Carpet of Flowers
+3 Consign to Memory
+3 Force of Vigor
+2 Hydroblast
+2 Pyroblast
+2 Red Elemental Blast
+

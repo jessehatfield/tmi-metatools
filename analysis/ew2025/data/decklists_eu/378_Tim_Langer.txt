@@ -1,0 +1,35 @@
+// Player: Tim Langer
+// Place: 378
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+3 Reality Smasher
+3 Wastescape Battlemage
+1 Eldrazi Repurposer
+1 Phyrexian Metamorph
+1 Simian Spirit Guide
+4 Kozilek's Command
+2 Once Upon a Time
+4 Chalice of the Void
+4 Lotus Petal
+1 The One Ring
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Secluded Courtyard
+3 Eye of Ugin
+3 Wasteland
+1 City of Traitors
+1 Yavimaya, Cradle of Growth
+
+Sideboard
+3 Dismember
+3 Faerie Macabre
+2 Disruptor Flute
+2 Null Rod
+2 Unlicensed Hearse
+1 The One Ring
+1 Wasteland
+1 Wastescape Battlemage
+

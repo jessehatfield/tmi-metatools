@@ -1,0 +1,43 @@
+// Player: Peter_Klein
+// Place: 869
+
+2 Kaito, Bane of Nightmares
+4 Orcish Bowmasters
+3 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+2 Brazen Borrower // Petty Theft
+2 Murktide Regent
+1 Nimble Obstructionist
+1 Snapcaster Mage
+4 Ponder
+3 Thoughtseize
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+4 Lightning Bolt
+2 Kolaghan's Command
+2 Sheoldred's Edict
+1 Cling to Dust
+1 Fatal Push
+4 Polluted Delta
+3 Bloodstained Mire
+2 Badlands
+2 Island
+2 Scalding Tarn
+2 Swamp
+1 Mountain
+1 Undercity Sewers
+1 Underground Sea
+1 Volcanic Island
+
+Sideboard
+2 Barrowgoyf
+2 Consign to Memory
+2 Meltdown
+2 Price of Progress
+2 Surgical Extraction
+1 Blue Elemental Blast
+1 Fatal Push
+1 Nihil Spellbomb
+1 Pyroblast
+1 Red Elemental Blast
+

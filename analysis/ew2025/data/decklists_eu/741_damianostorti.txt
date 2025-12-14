@@ -1,0 +1,25 @@
+// Player: damianostorti
+// Place: 741
+
+4 Barrowgoyf
+4 Dauthi Voidwalker
+4 Nethergoyf
+4 Opposition Agent
+4 Orcish Bowmasters
+4 Sinkhole
+4 Thoughtseize
+4 Dark Ritual
+4 Fatal Push
+4 Snuff Out
+8 Swamp
+4 Bloodstained Mire
+4 Verdant Catacombs
+4 Wasteland
+
+Sideboard
+4 Leyline of the Void
+3 Plague Engineer
+3 Powder Keg
+3 Sheoldred's Edict
+2 Damping Sphere
+

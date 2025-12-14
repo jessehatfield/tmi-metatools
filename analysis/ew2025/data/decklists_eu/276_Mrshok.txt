@@ -1,0 +1,38 @@
+// Player: Mrshok
+// Place: 276
+
+4 Atraxa, Grand Unifier
+3 Emrakul, the Aeons Torn
+1 Archon of Cruelty
+4 Ponder
+4 Show and Tell
+4 Stock Up
+4 Brainstorm
+4 Force of Will
+2 Veil of Summer
+1 Flusterstorm
+4 Lotus Petal
+4 Sneak Attack
+2 Omniscience
+4 Scalding Tarn
+3 Ancient Tomb
+2 City of Traitors
+2 Island
+2 Tropical Island
+2 Volcanic Island
+1 Flooded Strand
+1 Mistrise Village
+1 Misty Rainforest
+1 Mountain
+
+Sideboard
+3 Carpet of Flowers
+2 Abrade
+2 Consign to Memory
+2 Grafdigger's Cage
+2 Pyroblast
+1 Brotherhood's End
+1 Flusterstorm
+1 Mistrise Village
+1 Surgical Extraction
+

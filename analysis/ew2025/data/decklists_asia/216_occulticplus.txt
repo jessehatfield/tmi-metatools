@@ -1,0 +1,38 @@
+// Player: occulticplus
+// Place: 216
+
+3 Karn, the Great Creator
+2 Ugin, Eye of the Storms
+2 Thundertrap Trainer
+4 Stock Up
+2 Lórien Revealed
+4 Force of Will
+4 Kozilek's Command
+2 Eldrazi Confluence
+2 Force of Negation
+2 Impulse
+2 Waterlogged Teachings // Inundated Archive
+1 Dismember
+1 Sink into Stupor // Soporific Springs
+4 The One Ring
+3 Disruptor Flute
+4 Ancient Tomb
+4 Cloudpost
+4 Planar Nexus
+4 Urza's Tower
+3 Glimmerpost
+2 Island
+1 Underground Sea
+
+Sideboard
+4 Barrowgoyf
+2 Hydroblast
+2 Surgical Extraction
+1 Boompile
+1 Dismember
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Tormod's Crypt
+1 Walking Ballista
+

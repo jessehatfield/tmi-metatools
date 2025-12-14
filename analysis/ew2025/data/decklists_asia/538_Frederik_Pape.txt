@@ -1,0 +1,35 @@
+// Player: Frederik Pape
+// Place: 538
+
+4 Ajani, Nacatl Pariah // Ajani, Nacatl Avenger
+4 Guide of Souls
+4 Ocelot Pride
+4 Orcish Bowmasters
+4 Phelia, Exuberant Shepherd
+3 Overlord of the Balemurk
+3 Solitude
+3 Witch Enchanter // Witch-Blessed Meadow
+4 Thoughtseize
+3 Cabal Therapy
+4 Swords to Plowshares
+2 Staff of the Storyteller
+4 Marsh Flats
+4 Wasteland
+2 Karakas
+2 Plains
+2 Scrubland
+2 Swamp
+1 Prismatic Vista
+1 Shadowy Backstreet
+
+Sideboard
+3 Disruptor Flute
+2 Barrowgoyf
+2 Clarion Conqueror
+2 Containment Priest
+2 Damping Sphere
+1 Faerie Macabre
+1 Ghost Vacuum
+1 Grafdigger's Cage
+1 Surgical Extraction
+

@@ -1,0 +1,39 @@
+// Player: GiaS8
+// Place: 552
+
+3 Atraxa, Grand Unifier
+3 Emrakul, the Aeons Torn
+1 Archon of Cruelty
+1 Valgavoth, Terror Eater
+4 Ponder
+4 Show and Tell
+3 Stock Up
+4 Brainstorm
+4 Daze
+4 Force of Will
+1 Flusterstorm
+4 Lotus Petal
+4 Sneak Attack
+2 Omniscience
+3 Ancient Tomb
+3 Flooded Strand
+3 Volcanic Island
+2 City of Traitors
+2 Island
+2 Mistrise Village
+2 Scalding Tarn
+1 Bloodstained Mire
+1 Mountain
+1 Thundering Falls
+
+Sideboard
+3 Consign to Memory
+2 Blood Moon
+2 Disruptor Flute
+2 Pyroblast
+2 Surgical Extraction
+1 Abrade
+1 Brotherhood's End
+1 Grafdigger's Cage
+1 Meltdown
+

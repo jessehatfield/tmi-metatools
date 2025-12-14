@@ -1,0 +1,30 @@
+// Player: drgreenstuff
+// Place: 37
+
+4 Archon of Cruelty
+4 Atraxa, Grand Unifier
+4 Griselbrand
+4 Faithless Looting
+4 Reanimate
+4 Thoughtseize
+4 Unmask
+2 Collective Brutality
+4 Dark Ritual
+4 Shallow Grave
+4 Lotus Petal
+4 Animate Dead
+4 Marsh Flats
+4 Verdant Catacombs
+2 Badlands
+1 Raucous Theater
+1 Swamp
+1 Undercity Sewers
+1 Underground Sea
+
+Sideboard
+4 Show and Tell
+4 Sneak Attack
+3 Ancient Tomb
+2 City of Traitors
+2 Through the Breach
+

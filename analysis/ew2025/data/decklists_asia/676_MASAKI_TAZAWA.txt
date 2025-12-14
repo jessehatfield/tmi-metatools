@@ -1,0 +1,40 @@
+// Player: MASAKI TAZAWA
+// Place: 676
+
+4 Karn, the Great Creator
+2 Tezzeret, Cruel Captain
+1 Ugin, Eye of the Storms
+4 Glaring Fleshraker
+4 Kozilek's Command
+4 Grim Monolith
+4 Manifold Key
+4 The One Ring
+3 Lotus Petal
+2 Disruptor Flute
+2 Mystic Forge
+1 Basalt Monolith
+1 Candelabra of Tawnos
+1 Mox Opal
+1 Pithing Needle
+1 Relic of Progenitus
+1 Voltaic Key
+4 Urza's Saga
+4 Ancient Tomb
+4 Planar Nexus
+4 Urza's Tower
+4 Urza's Workshop
+
+Sideboard
+2 Dismember
+2 Eldrazi Confluence
+2 Faerie Macabre
+1 Boseiju, Who Endures
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Mystic Forge
+1 Paradox Engine
+1 Perilous Snare
+1 Tormod's Crypt
+1 Walking Ballista
+

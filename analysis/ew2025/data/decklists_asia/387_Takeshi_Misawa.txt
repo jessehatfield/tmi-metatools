@@ -1,0 +1,41 @@
+// Player: Takeshi Misawa
+// Place: 387
+
+2 Emrakul, the Aeons Torn
+1 Atraxa, Grand Unifier
+1 Uro, Titan of Nature's Wrath
+4 Ponder
+4 Show and Tell
+4 Stock Up
+1 Lórien Revealed
+4 Brainstorm
+4 Force of Will
+4 Veil of Summer
+3 Cunning Wish
+1 Intuition
+1 Sink into Stupor // Soporific Springs
+1 Spell Pierce
+3 Lotus Petal
+4 Omniscience
+4 Ancient Tomb
+4 Misty Rainforest
+3 Island
+2 Tropical Island
+1 Hedge Maze
+1 Mistrise Village
+1 Polluted Delta
+1 Scalding Tarn
+1 Snow-Covered Forest
+
+Sideboard
+3 Carpet of Flowers
+2 Consign to Memory
+2 Engineered Explosives
+2 Surgical Extraction
+1 Disruptor Flute
+1 Echoing Truth
+1 Grafdigger's Cage
+1 Null Rod
+1 Shared Summons
+1 Sublime Epiphany
+

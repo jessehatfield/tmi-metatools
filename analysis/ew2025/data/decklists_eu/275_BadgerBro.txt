@@ -1,0 +1,40 @@
+// Player: BadgerBro
+// Place: 275
+
+2 Kaito, Bane of Nightmares
+4 Nethergoyf
+4 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+3 Orcish Bowmasters
+2 Murktide Regent
+1 Brazen Borrower // Petty Theft
+4 Ponder
+3 Thoughtseize
+1 Molten Collapse
+4 Brainstorm
+4 Fatal Push
+4 Force of Will
+3 Daze
+1 Mishra's Bauble
+1 Nihil Spellbomb
+4 Polluted Delta
+4 Wasteland
+3 Underground Sea
+2 Scalding Tarn
+1 Badlands
+1 Bloodstained Mire
+1 Island
+1 Swamp
+1 Undercity Sewers
+1 Volcanic Island
+
+Sideboard
+3 Consign to Memory
+2 Barrowgoyf
+2 Grafdigger's Cage
+2 Meltdown
+2 Pyroblast
+1 Force of Negation
+1 Hydroblast
+1 Price of Progress
+1 Unlicensed Hearse
+

@@ -1,0 +1,32 @@
+// Player: swayjisse
+// Place: 617
+
+4 Eldrazi Linebreaker
+4 Glaring Fleshraker
+4 Thought-Knot Seer
+4 Wastescape Battlemage
+2 Devourer of Destiny
+2 Reality Smasher
+2 Simian Spirit Guide
+4 Kozilek's Command
+4 Chalice of the Void
+4 Lotus Petal
+2 Trinisphere
+4 Ancient Tomb
+4 Cavern of Souls
+4 Eldrazi Temple
+4 Wasteland
+3 Eye of Ugin
+3 Secluded Courtyard
+1 City of Traitors
+1 Wastes
+
+Sideboard
+3 Dismember
+3 Null Rod
+2 Disruptor Flute
+2 Faerie Macabre
+2 Unlicensed Hearse
+2 Warping Wail
+1 Grim Monolith
+

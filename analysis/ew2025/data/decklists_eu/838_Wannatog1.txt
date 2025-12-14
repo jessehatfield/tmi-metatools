@@ -1,0 +1,40 @@
+// Player: Wannatog1
+// Place: 838
+
+4 Atraxa, Grand Unifier
+3 Emrakul, the Aeons Torn
+1 Simian Spirit Guide
+4 Ponder
+4 Show and Tell
+4 Stock Up
+4 Brainstorm
+4 Force of Will
+2 Veil of Summer
+1 Daze
+3 Lotus Petal
+4 Sneak Attack
+2 Omniscience
+4 Scalding Tarn
+3 Ancient Tomb
+2 City of Traitors
+2 Island
+2 Tropical Island
+2 Volcanic Island
+1 Flooded Strand
+1 Mistrise Village
+1 Mountain
+1 Otawara, Soaring City
+1 Thundering Falls
+
+Sideboard
+2 Abrade
+2 Carpet of Flowers
+2 Faerie Macabre
+2 Grafdigger's Cage
+2 Tasha's Hideous Laughter
+1 Flusterstorm
+1 Force of Negation
+1 Hide on the Ceiling
+1 Pyroblast
+1 Veil of Summer
+

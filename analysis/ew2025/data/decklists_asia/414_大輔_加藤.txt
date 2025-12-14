@@ -1,0 +1,39 @@
+// Player: 大輔 加藤
+// Place: 414
+
+4 Dragon's Rage Channeler
+3 Murktide Regent
+2 Tamiyo, Inquisitive Student // Tamiyo, Seasoned Scholar
+1 Brazen Borrower // Petty Theft
+1 Yuffie, Materia Hunter
+4 Ponder
+1 Preordain
+4 Brainstorm
+4 Force of Will
+4 Lightning Bolt
+3 Daze
+1 Force of Negation
+1 Unholy Heat
+4 Cori-Steel Cutter
+4 Mishra's Bauble
+4 Scalding Tarn
+4 Volcanic Island
+4 Wasteland
+3 Misty Rainforest
+1 Flooded Strand
+1 Island
+1 Polluted Delta
+1 Thundering Falls
+
+Sideboard
+3 Pyroblast
+2 Grafdigger's Cage
+2 Hydroblast
+2 Price of Progress
+1 Consign to Memory
+1 Force of Negation
+1 Meltdown
+1 Null Rod
+1 True-Name Nemesis
+1 Unholy Heat
+

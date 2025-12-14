@@ -1,0 +1,36 @@
+// Player: Tomizor
+// Place: 560
+
+4 Karn, the Great Creator
+3 Ugin, Eye of the Storms
+1 Tezzeret, Cruel Captain
+4 Eldrazi Confluence
+4 Kozilek's Command
+4 Grim Monolith
+4 The One Ring
+4 Trinisphere
+3 Manifold Key
+1 Candelabra of Tawnos
+1 Pithing Needle
+4 Leyline of the Void
+4 Urza's Saga
+4 Planar Nexus
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+3 Urza's Workshop
+1 Swamp
+
+Sideboard
+2 Argentum Masticore
+2 Dismember
+2 Disruptor Flute
+2 Summon: Bahamut
+1 Cityscape Leveler
+1 Ensnaring Bridge
+1 Liquimetal Coating
+1 Mycosynth Lattice
+1 Shadowspear
+1 The Stone Brain
+1 Walking Ballista
+
