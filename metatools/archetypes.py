@@ -5,10 +5,13 @@
 from datetime import datetime
 import json
 import os
+import re
 import sys
 
 from metatools.deck import Deck
+from metatools.config import getLogger
 
+logger = getLogger(__name__)
 
 def _load_json(filename):
     try:
@@ -17,6 +20,14 @@ def _load_json(filename):
         return json_data
     except Exception as e:
         print(f'Error reading {filename} (expects well-formed JSON):', e)
+
+split_re = re.compile('^(.*) // (.*)$')
+def _first_name(full_name):
+    match = split_re.match(full_name)
+    if match:
+        return match.group(1)
+    else:
+        return None
 
 
 class ArchetypeParser:
@@ -37,6 +48,9 @@ class ArchetypeParser:
         for filename in os.listdir(f'{dirname}/Archetypes'):
             if filename.lower().endswith('.json'):
                 self.archetypes.append(_load_json(f'{dirname}/Archetypes/{filename}'))
+            else:
+                logger.warn(f"Skipping file {filename} in archetype directory")
+        self.archetypes.sort(key=lambda a: a["Name"])
         for i in range(len(self.metas)):
             meta = self.metas[i]
             dt = datetime.strptime(meta['StartDate'], '%Y-%m-%d')
@@ -48,7 +62,7 @@ class ArchetypeParser:
         matches = set()
         for card_dict in card_dicts:
             for card_name in card_dict:
-              if card_dict[card_name] > 0 and card_name in targets:
+              if card_dict[card_name] > 0 and (card_name in targets or _first_name(card_name) in targets):
                   matches.add(card_name)
                   if len(matches) >= threshold:
                       return True
@@ -82,6 +96,7 @@ class ArchetypeParser:
             if 'Type' not in condition or 'Cards' not in condition:
                 raise Exception(f"Malformed archetype condition for {archetype['Name']}: {condition}")
             if not self.test_condition(condition, maindeck, sideboard):
+                logger.debug(f"{archetype['Name']}: Failed condition {condition}")
                 match = False
                 break
         if match:
@@ -113,6 +128,7 @@ class ArchetypeParser:
 
     def classify(self, deck, min_similarity=0.1, verbose=False, fallback=None):
         default_label = fallback if fallback else ArchetypeParser.unknown
+        exact_match = False
         if not deck.maindeck:
             raise Exception(f"No maindeck loaded for {deck}")
         if deck.count() < 50:
@@ -127,6 +143,7 @@ class ArchetypeParser:
                     if variant_match:
                         break
                 matching_names.add((test_result, variant_match))
+                exact_match = True
         if verbose:
             print(f'Matches archetypes: {matching_names}')
         if len(matching_names) > 1:
@@ -155,7 +172,8 @@ class ArchetypeParser:
             deck.printList()
             print(f"-------- (using '{default_label}')\n")
             matching_names.add((default_label, ''))
-        return list(matching_names)[0]
+        final_name = list(matching_names)[0]
+        return final_name[0], final_name[1], exact_match
 
     def get_meta(self, date):
         index = -1

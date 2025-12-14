@@ -8,10 +8,12 @@ from metatools.insert import *
 import argparse
 import csv
 import datetime
+import itertools
 import json
 import os
 import re
 import sys
+from unidecode import unidecode
 
 
 roundExpr = re.compile(r'Round (\d+)')
@@ -42,8 +44,8 @@ def parseChallengeDecks(filename, in_order=True):
                 archetypeIndex = i
         n = 1
         for row in reader:
-            playerName = row[playerIndex]
-            deckName = row[archetypeIndex]
+            playerName = row[playerIndex].strip()
+            deckName = row[archetypeIndex].strip()
             place = n if in_order else None
             yield (playerName, deckName, place)
             n += 1
@@ -68,7 +70,7 @@ def parseChallengeMatches(filename):
                     f"Expected one of {PLAYER_FIELD_NAMES}; found {header}.")
         nRounds = len(roundIndices)
         for row in reader:
-            p1 = row[playerIndex]
+            p1 = row[playerIndex].strip()
             for r in range(1, nRounds+1):
                 roundIndex = roundIndices[r]
                 p2 = row[roundIndex].strip()
@@ -108,14 +110,27 @@ def insertLDCPTournament(session, filename, nameArg=None, formatArg=None, dateAr
     name_to_indices = {}
     for i in range(len(decklists)):
         place_to_index[decklists[i]['place']] = i
-        player_name = decklists[i]['player']
+        player_name = decklists[i]['player'].strip()
         if player_name in name_to_index:
             if player_name not in name_to_indices:
                 name_to_indices[player_name] = {name_to_index[player_name]}
             name_to_indices[player_name].add(i)
         else:
             name_to_index[player_name] = i
+    decoded_to_index = {}
+    decoded_to_indices = {}
+    for name in name_to_index:
+        decoded = unidecode(name)
+        if decoded != name:
+            decoded_to_index[decoded] = name_to_index[name]
+    for name in name_to_indices:
+        decoded = unidecode(name)
+        if decoded != name:
+            decoded_to_indices[decoded] = name_to_indices[name]
     nDecks = 0
+    nDecklists = 0
+    renamed = []
+    fallbacks_used = {}
     for playerName, deckName, place in parseChallengeDecks(filename):
         deck = DBDeck(
                 place=place,
@@ -126,27 +141,45 @@ def insertLDCPTournament(session, filename, nameArg=None, formatArg=None, dateAr
         deck.original = deckName
         if decklists:
             i1 = place_to_index.get(place)
-            i2 = name_to_index.get(playerName)
-            i2s = name_to_indices.get(playerName, {i2})
+            i2 = name_to_index.get(playerName, decoded_to_index.get(playerName))
+            i2s = name_to_indices.get(playerName)
+            if i2s is None:
+                if i2 is None:
+                    i2s = decoded_to_indices.get(playerName, set())
+                else:
+                    i2s = {i2}
             if i1 not in i2s:
                 raise Exception(f'Error reading decklists: player name {playerName} associated '
                     f'with deck(s) {i2s} but place {place} associated with deck {i1}')
             elif i1 is None:
                 print(f"WARNING: couldn't find decklist for player {playerName} in place {place}", file=sys.stderr)
             decklist_string = decklists[i1].get('decklist')
-            if decklist_string is None or decklist_string.strip() == "":
-                print(f"WARNING: no decklist for player {playerName} in place {place} -- "
-                        + f"originally labeled '{deck.original}', now '{ArchetypeParser.unknown}'", file=sys.stderr)
-                deck.archetype = ArchetypeParser.unknown
-                deck.subarchetype = ''
+            if decklist_string is not None:
+                decklist_string = decklist_string.strip()
+            if decklist_string is None or decklist_string == "":
+                if archetype_parser is None:
+                    print(f"WARNING: no decklist for player {playerName} in place {place} -- "
+                            + f"labeled as '{deck.archetype}'", file=sys.stderr)
+                else:
+                    print(f"WARNING: no decklist for player {playerName} in place {place} -- "
+                            + f"originally labeled '{deck.original}', now '{ArchetypeParser.unknown}'", file=sys.stderr)
+                    deck.archetype = ArchetypeParser.unknown
+                    deck.subarchetype = ''
             else:
                 decklist_lines = [x.strip() for x in decklist_string.splitlines() if x.strip() != '']
                 deck.readLines(decklist_lines)
                 deck.saveContents()
+                nDecklists += 1
                 if archetype_parser is not None:
                     fallback = ArchetypeParser.unknown if ignore_given_archetypes else deck.archetype
                     try:
-                        new_name, new_sub = archetype_parser.classify(deck, fallback=fallback)
+                        new_name, new_sub, exact_match = archetype_parser.classify(deck, fallback=fallback)
+                        if new_name != deck.archetype:
+                            renamed.append((place, playerName, deck.archetype, new_name))
+                        if not exact_match:
+                            if new_name not in fallbacks_used:
+                                fallbacks_used[new_name] = []
+                            fallbacks_used[new_name].append((place, playerName))
                         deck.archetype = new_name
                         deck.subarchetype = new_sub
                     except Exception as e:
@@ -170,7 +203,18 @@ def insertLDCPTournament(session, filename, nameArg=None, formatArg=None, dateAr
             d1[0].points += 3
         nMatches += 1
     session.flush()
+
+    remappings = {key: list(it) for key, it in itertools.groupby(renamed, lambda t: f'{t[2]} -> {t[3]}')}
+    for key in sorted(list(remappings.keys())):
+        remapped_decks = [t[:2] for t in remappings[key]]
+        print(f'Renamed {key} ({len(remapped_decks)} time(s): {remapped_decks})')
+    for key in sorted(list(fallbacks_used.keys()), key=lambda k: (-len(fallbacks_used[k]), k)):
+        cases = fallbacks_used[key]
+        print(f'Fallback {key} used {len(cases)} time(s): {cases}')
+
     print(f"Inserted {tourney.name} with {len(tourney.decks)} decks and {nMatches} matches.")
+    if decklists:
+        print(f"(With {nDecklists} decklists.)")
 
 
 if __name__ == "__main__":
